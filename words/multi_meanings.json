@@ -1,0 +1,2718 @@
+[
+  {
+    "word": "하다",
+    "meanings": [
+      {
+        "english": "to do",
+        "nepali": "गर्नु"
+      },
+      {
+        "english": "to wear or put on (accessories)",
+        "nepali": "लगाउनु"
+      },
+      {
+        "english": "to play (a game)",
+        "nepali": "खेल्नु"
+      },
+      {
+        "english": "to be (with a noun)",
+        "nepali": "हुनु"
+      }
+    ]
+  },
+  {
+    "word": "있다",
+    "meanings": [
+      {
+        "english": "to be, to exist",
+        "nepali": "हुनु, छ"
+      },
+      {
+        "english": "to have",
+        "nepali": "भएको, छ"
+      },
+      {
+        "english": "to stay",
+        "nepali": "बस्नु"
+      }
+    ]
+  },
+  {
+    "word": "되다",
+    "meanings": [
+      {
+        "english": "to become",
+        "nepali": "बन्नु, हुनु"
+      },
+      {
+        "english": "to be okay, to be allowed",
+        "nepali": "हुन्छ, मिल्छ"
+      },
+      {
+        "english": "to work out, to be done",
+        "nepali": "सम्पन्न हुनु"
+      }
+    ]
+  },
+  {
+    "word": "보다",
+    "meanings": [
+      {
+        "english": "to see, to look",
+        "nepali": "हेर्नु"
+      },
+      {
+        "english": "to take (an exam)",
+        "nepali": "परीक्षा दिनु"
+      },
+      {
+        "english": "to meet",
+        "nepali": "भेट्नु"
+      },
+      {
+        "english": "to try (after a verb)",
+        "nepali": "प्रयास गर्नु"
+      }
+    ]
+  },
+  {
+    "word": "먹다",
+    "meanings": [
+      {
+        "english": "to eat",
+        "nepali": "खानु"
+      },
+      {
+        "english": "to take (medicine)",
+        "nepali": "औषधि खानु"
+      },
+      {
+        "english": "to grow older (age)",
+        "nepali": "उमेर बढ्नु"
+      },
+      {
+        "english": "to get scolded or insulted",
+        "nepali": "गाली खानु"
+      }
+    ]
+  },
+  {
+    "word": "가다",
+    "meanings": [
+      {
+        "english": "to go",
+        "nepali": "जानु"
+      },
+      {
+        "english": "to work, to run (a machine)",
+        "nepali": "चल्नु"
+      },
+      {
+        "english": "to pass (time)",
+        "nepali": "समय बित्नु"
+      }
+    ]
+  },
+  {
+    "word": "오다",
+    "meanings": [
+      {
+        "english": "to come, to arrive",
+        "nepali": "आउनु"
+      },
+      {
+        "english": "to fall (rain or snow)",
+        "nepali": "पर्नु (वर्षा, हिउँ)"
+      }
+    ]
+  },
+  {
+    "word": "나다",
+    "meanings": [
+      {
+        "english": "to come out, to appear",
+        "nepali": "निस्कनु"
+      },
+      {
+        "english": "to happen, to occur",
+        "nepali": "हुनु, घट्नु"
+      },
+      {
+        "english": "to get (angry, a fever)",
+        "nepali": "आउनु (रिस, ज्वरो)"
+      },
+      {
+        "english": "to smell",
+        "nepali": "गन्ध आउनु"
+      }
+    ]
+  },
+  {
+    "word": "받다",
+    "meanings": [
+      {
+        "english": "to receive",
+        "nepali": "पाउनु"
+      },
+      {
+        "english": "to accept",
+        "nepali": "स्वीकार गर्नु"
+      },
+      {
+        "english": "to take (a class, a test)",
+        "nepali": "लिनु"
+      },
+      {
+        "english": "to get (a grade, a discount)",
+        "nepali": "पाउनु"
+      }
+    ]
+  },
+  {
+    "word": "말",
+    "meanings": [
+      {
+        "english": "speech, word, language",
+        "nepali": "बोली, शब्द, भाषा"
+      },
+      {
+        "english": "horse",
+        "nepali": "घोडा"
+      },
+      {
+        "english": "end (of a period)",
+        "nepali": "अन्त्य"
+      }
+    ]
+  },
+  {
+    "word": "때",
+    "meanings": [
+      {
+        "english": "time, when",
+        "nepali": "समय"
+      },
+      {
+        "english": "dirt, grime",
+        "nepali": "मैला"
+      }
+    ]
+  },
+  {
+    "word": "일",
+    "meanings": [
+      {
+        "english": "work, task",
+        "nepali": "काम"
+      },
+      {
+        "english": "day (date)",
+        "nepali": "दिन, गते"
+      },
+      {
+        "english": "one (number)",
+        "nepali": "एक"
+      }
+    ]
+  },
+  {
+    "word": "쓰다",
+    "meanings": [
+      {
+        "english": "to write",
+        "nepali": "लेख्नु"
+      },
+      {
+        "english": "to use",
+        "nepali": "प्रयोग गर्नु"
+      },
+      {
+        "english": "to wear (hat, glasses)",
+        "nepali": "लगाउनु (टोपी, चस्मा)"
+      },
+      {
+        "english": "to spend (money, time)",
+        "nepali": "खर्च गर्नु"
+      },
+      {
+        "english": "bitter",
+        "nepali": "तीतो"
+      }
+    ]
+  },
+  {
+    "word": "눈",
+    "meanings": [
+      {
+        "english": "eye",
+        "nepali": "आँखा"
+      },
+      {
+        "english": "snow",
+        "nepali": "हिउँ"
+      }
+    ]
+  },
+  {
+    "word": "배",
+    "meanings": [
+      {
+        "english": "stomach, belly",
+        "nepali": "पेट"
+      },
+      {
+        "english": "pear",
+        "nepali": "नासपाती"
+      },
+      {
+        "english": "ship, boat",
+        "nepali": "डुङ्गा, जहाज"
+      },
+      {
+        "english": "times, double",
+        "nepali": "गुणा"
+      }
+    ]
+  },
+  {
+    "word": "차",
+    "meanings": [
+      {
+        "english": "car",
+        "nepali": "गाडी"
+      },
+      {
+        "english": "tea",
+        "nepali": "चिया"
+      },
+      {
+        "english": "difference",
+        "nepali": "फरक"
+      }
+    ]
+  },
+  {
+    "word": "이",
+    "meanings": [
+      {
+        "english": "tooth",
+        "nepali": "दाँत"
+      },
+      {
+        "english": "this",
+        "nepali": "यो"
+      },
+      {
+        "english": "two (number)",
+        "nepali": "दुई"
+      },
+      {
+        "english": "louse",
+        "nepali": "जुम्रा"
+      }
+    ]
+  },
+  {
+    "word": "네",
+    "meanings": [
+      {
+        "english": "yes",
+        "nepali": "हजुर, हो"
+      },
+      {
+        "english": "your",
+        "nepali": "तिम्रो, तेरो"
+      }
+    ]
+  },
+  {
+    "word": "내",
+    "meanings": [
+      {
+        "english": "my",
+        "nepali": "मेरो"
+      },
+      {
+        "english": "inside, within",
+        "nepali": "भित्र"
+      }
+    ]
+  },
+  {
+    "word": "안",
+    "meanings": [
+      {
+        "english": "inside",
+        "nepali": "भित्र"
+      },
+      {
+        "english": "not (before a verb)",
+        "nepali": "होइन, छैन"
+      }
+    ]
+  },
+  {
+    "word": "못",
+    "meanings": [
+      {
+        "english": "cannot (before a verb)",
+        "nepali": "सक्दैन"
+      },
+      {
+        "english": "nail",
+        "nepali": "काँटी"
+      },
+      {
+        "english": "pond",
+        "nepali": "पोखरी"
+      }
+    ]
+  },
+  {
+    "word": "수",
+    "meanings": [
+      {
+        "english": "way, possibility (as in can)",
+        "nepali": "उपाय, सम्भावना"
+      },
+      {
+        "english": "number",
+        "nepali": "सङ्ख्या"
+      },
+      {
+        "english": "water",
+        "nepali": "पानी"
+      }
+    ]
+  },
+  {
+    "word": "번",
+    "meanings": [
+      {
+        "english": "time, occasion (counter)",
+        "nepali": "पटक"
+      },
+      {
+        "english": "number, turn",
+        "nepali": "नम्बर, पालो"
+      }
+    ]
+  },
+  {
+    "word": "들다",
+    "meanings": [
+      {
+        "english": "to carry, to hold",
+        "nepali": "बोक्नु"
+      },
+      {
+        "english": "to lift",
+        "nepali": "उठाउनु"
+      },
+      {
+        "english": "to cost, to take (money)",
+        "nepali": "लाग्नु, तिर्नु"
+      },
+      {
+        "english": "to like (as in 마음에 들다)",
+        "nepali": "मन पर्नु"
+      },
+      {
+        "english": "to put in, to keep",
+        "nepali": "राख्नु"
+      }
+    ]
+  },
+  {
+    "word": "걸리다",
+    "meanings": [
+      {
+        "english": "to take (time)",
+        "nepali": "समय लाग्नु"
+      },
+      {
+        "english": "to catch (an illness)",
+        "nepali": "रोग लाग्नु"
+      },
+      {
+        "english": "to get caught, to get stuck",
+        "nepali": "अल्झनु"
+      },
+      {
+        "english": "to be hung",
+        "nepali": "झुण्डिनु"
+      }
+    ]
+  },
+  {
+    "word": "타다",
+    "meanings": [
+      {
+        "english": "to ride, to get on",
+        "nepali": "चढ्नु"
+      },
+      {
+        "english": "to burn",
+        "nepali": "जल्नु"
+      },
+      {
+        "english": "to receive (salary, prize)",
+        "nepali": "पाउनु"
+      },
+      {
+        "english": "to mix (coffee, drink)",
+        "nepali": "घोल्नु"
+      }
+    ]
+  },
+  {
+    "word": "내리다",
+    "meanings": [
+      {
+        "english": "to get off, to go down",
+        "nepali": "ओर्लनु"
+      },
+      {
+        "english": "to fall (rain, snow)",
+        "nepali": "पर्नु"
+      },
+      {
+        "english": "to lower, to reduce",
+        "nepali": "घटाउनु"
+      },
+      {
+        "english": "to make (a decision)",
+        "nepali": "निर्णय गर्नु"
+      }
+    ]
+  },
+  {
+    "word": "열",
+    "meanings": [
+      {
+        "english": "ten",
+        "nepali": "दस"
+      },
+      {
+        "english": "fever",
+        "nepali": "ज्वरो"
+      },
+      {
+        "english": "heat",
+        "nepali": "तातो, गर्मी"
+      }
+    ]
+  },
+  {
+    "word": "열다",
+    "meanings": [
+      {
+        "english": "to open",
+        "nepali": "खोल्नु"
+      },
+      {
+        "english": "to hold (an event)",
+        "nepali": "आयोजना गर्नु"
+      }
+    ]
+  },
+  {
+    "word": "풀다",
+    "meanings": [
+      {
+        "english": "to untie, to loosen",
+        "nepali": "फुकाल्नु"
+      },
+      {
+        "english": "to solve",
+        "nepali": "समाधान गर्नु"
+      },
+      {
+        "english": "to relieve (stress)",
+        "nepali": "तनाव हटाउनु"
+      },
+      {
+        "english": "to dissolve",
+        "nepali": "घोल्नु"
+      }
+    ]
+  },
+  {
+    "word": "잡다",
+    "meanings": [
+      {
+        "english": "to catch, to grab",
+        "nepali": "समात्नु"
+      },
+      {
+        "english": "to hold",
+        "nepali": "थाम्नु"
+      },
+      {
+        "english": "to book, to fix (an appointment)",
+        "nepali": "समय तय गर्नु"
+      },
+      {
+        "english": "to hail (a taxi)",
+        "nepali": "रोक्नु (ट्याक्सी)"
+      }
+    ]
+  },
+  {
+    "word": "놓다",
+    "meanings": [
+      {
+        "english": "to put, to place",
+        "nepali": "राख्नु"
+      },
+      {
+        "english": "to let go",
+        "nepali": "छोड्नु"
+      }
+    ]
+  },
+  {
+    "word": "맞다",
+    "meanings": [
+      {
+        "english": "to be correct, to be right",
+        "nepali": "सही हुनु"
+      },
+      {
+        "english": "to fit, to suit",
+        "nepali": "मिल्नु"
+      },
+      {
+        "english": "to get hit",
+        "nepali": "कुटिनु, लाग्नु"
+      },
+      {
+        "english": "to get (an injection)",
+        "nepali": "सुई लगाउनु"
+      }
+    ]
+  },
+  {
+    "word": "치다",
+    "meanings": [
+      {
+        "english": "to hit, to strike",
+        "nepali": "हान्नु"
+      },
+      {
+        "english": "to play (piano, tennis)",
+        "nepali": "बजाउनु, खेल्नु"
+      },
+      {
+        "english": "to take (an exam)",
+        "nepali": "परीक्षा दिनु"
+      },
+      {
+        "english": "to type",
+        "nepali": "टाइप गर्नु"
+      }
+    ]
+  },
+  {
+    "word": "끼다",
+    "meanings": [
+      {
+        "english": "to wear (ring, glasses, gloves)",
+        "nepali": "लगाउनु"
+      },
+      {
+        "english": "to be foggy or cloudy",
+        "nepali": "कुहिरो लाग्नु"
+      },
+      {
+        "english": "to join in, to get mixed in",
+        "nepali": "सामेल हुनु"
+      }
+    ]
+  },
+  {
+    "word": "싸다",
+    "meanings": [
+      {
+        "english": "cheap",
+        "nepali": "सस्तो"
+      },
+      {
+        "english": "to wrap, to pack",
+        "nepali": "बेर्नु"
+      },
+      {
+        "english": "to poop or pee",
+        "nepali": "दिसा गर्नु"
+      }
+    ]
+  },
+  {
+    "word": "짜다",
+    "meanings": [
+      {
+        "english": "salty",
+        "nepali": "नुनिलो"
+      },
+      {
+        "english": "to squeeze",
+        "nepali": "निचोर्नु"
+      },
+      {
+        "english": "to knit, to weave",
+        "nepali": "बुन्नु"
+      },
+      {
+        "english": "to plan, to make (a schedule)",
+        "nepali": "योजना बनाउनु"
+      }
+    ]
+  },
+  {
+    "word": "살다",
+    "meanings": [
+      {
+        "english": "to live, to reside",
+        "nepali": "बस्नु"
+      },
+      {
+        "english": "to be alive",
+        "nepali": "बाँच्नु"
+      }
+    ]
+  },
+  {
+    "word": "크다",
+    "meanings": [
+      {
+        "english": "big",
+        "nepali": "ठूलो"
+      },
+      {
+        "english": "to grow, to grow tall",
+        "nepali": "हुर्कनु, अग्लो हुनु"
+      }
+    ]
+  },
+  {
+    "word": "주다",
+    "meanings": [
+      {
+        "english": "to give",
+        "nepali": "दिनु"
+      },
+      {
+        "english": "to do something for someone (after a verb)",
+        "nepali": "गरिदिनु"
+      }
+    ]
+  },
+  {
+    "word": "알다",
+    "meanings": [
+      {
+        "english": "to know",
+        "nepali": "जान्नु"
+      },
+      {
+        "english": "to understand",
+        "nepali": "बुझ्नु"
+      },
+      {
+        "english": "to recognize",
+        "nepali": "चिन्नु"
+      }
+    ]
+  },
+  {
+    "word": "놀다",
+    "meanings": [
+      {
+        "english": "to play",
+        "nepali": "खेल्नु"
+      },
+      {
+        "english": "to hang out, to have fun",
+        "nepali": "रमाउनु"
+      },
+      {
+        "english": "to be idle, to have no work",
+        "nepali": "खाली बस्नु"
+      }
+    ]
+  },
+  {
+    "word": "다르다",
+    "meanings": [
+      {
+        "english": "to be different",
+        "nepali": "फरक हुनु"
+      }
+    ]
+  },
+  {
+    "word": "틀리다",
+    "meanings": [
+      {
+        "english": "to be wrong",
+        "nepali": "गलत हुनु"
+      },
+      {
+        "english": "to be different (spoken Korean)",
+        "nepali": "फरक हुनु"
+      }
+    ]
+  },
+  {
+    "word": "지내다",
+    "meanings": [
+      {
+        "english": "to live, to spend time",
+        "nepali": "दिन बिताउनु, बस्नु"
+      },
+      {
+        "english": "to get along",
+        "nepali": "मिलेर बस्नु"
+      },
+      {
+        "english": "to hold (a ceremony)",
+        "nepali": "समारोह गर्नु"
+      }
+    ]
+  },
+  {
+    "word": "감다",
+    "meanings": [
+      {
+        "english": "to close (eyes)",
+        "nepali": "आँखा चिम्लनु"
+      },
+      {
+        "english": "to wash (hair)",
+        "nepali": "कपाल धुनु"
+      },
+      {
+        "english": "to wind, to wrap around",
+        "nepali": "बेर्नु"
+      }
+    ]
+  },
+  {
+    "word": "켜다",
+    "meanings": [
+      {
+        "english": "to turn on (light, TV)",
+        "nepali": "बाल्नु, खोल्नु"
+      },
+      {
+        "english": "to play (a string instrument)",
+        "nepali": "बजाउनु"
+      }
+    ]
+  },
+  {
+    "word": "끄다",
+    "meanings": [
+      {
+        "english": "to turn off",
+        "nepali": "बन्द गर्नु"
+      },
+      {
+        "english": "to put out (a fire)",
+        "nepali": "निभाउनु"
+      }
+    ]
+  },
+  {
+    "word": "뛰다",
+    "meanings": [
+      {
+        "english": "to run",
+        "nepali": "दौडनु"
+      },
+      {
+        "english": "to jump",
+        "nepali": "उफ्रनु"
+      },
+      {
+        "english": "to beat (heart)",
+        "nepali": "धड्कनु"
+      }
+    ]
+  },
+  {
+    "word": "깎다",
+    "meanings": [
+      {
+        "english": "to peel, to cut",
+        "nepali": "छिल्नु, काट्नु"
+      },
+      {
+        "english": "to bargain, to get a discount",
+        "nepali": "मोलमोलाइ गरेर घटाउनु"
+      },
+      {
+        "english": "to mow, to shave",
+        "nepali": "खौरिनु, काट्नु"
+      }
+    ]
+  },
+  {
+    "word": "비",
+    "meanings": [
+      {
+        "english": "rain",
+        "nepali": "वर्षा"
+      },
+      {
+        "english": "broom",
+        "nepali": "कुचो"
+      }
+    ]
+  },
+  {
+    "word": "밥",
+    "meanings": [
+      {
+        "english": "cooked rice",
+        "nepali": "भात"
+      },
+      {
+        "english": "meal",
+        "nepali": "खाना"
+      }
+    ]
+  },
+  {
+    "word": "물다",
+    "meanings": [
+      {
+        "english": "to bite",
+        "nepali": "टोक्नु"
+      },
+      {
+        "english": "to pay (a fine)",
+        "nepali": "जरिवाना तिर्नु"
+      }
+    ]
+  },
+  {
+    "word": "불",
+    "meanings": [
+      {
+        "english": "fire",
+        "nepali": "आगो"
+      },
+      {
+        "english": "light",
+        "nepali": "बत्ती"
+      }
+    ]
+  },
+  {
+    "word": "자리",
+    "meanings": [
+      {
+        "english": "seat",
+        "nepali": "सिट"
+      },
+      {
+        "english": "place, spot",
+        "nepali": "ठाउँ"
+      },
+      {
+        "english": "position, job",
+        "nepali": "पद, जागिर"
+      }
+    ]
+  },
+  {
+    "word": "살",
+    "meanings": [
+      {
+        "english": "years old (age counter)",
+        "nepali": "वर्ष (उमेर)"
+      },
+      {
+        "english": "flesh, fat",
+        "nepali": "मासु, चर्बी"
+      }
+    ]
+  },
+  {
+    "word": "위",
+    "meanings": [
+      {
+        "english": "above, top",
+        "nepali": "माथि"
+      },
+      {
+        "english": "stomach",
+        "nepali": "पेट"
+      }
+    ]
+  },
+  {
+    "word": "반",
+    "meanings": [
+      {
+        "english": "half",
+        "nepali": "आधा"
+      },
+      {
+        "english": "class (in school)",
+        "nepali": "कक्षा"
+      },
+      {
+        "english": "group",
+        "nepali": "समूह"
+      }
+    ]
+  },
+  {
+    "word": "전",
+    "meanings": [
+      {
+        "english": "before, ago",
+        "nepali": "अघि"
+      },
+      {
+        "english": "Korean pancake (jeon)",
+        "nepali": "कोरियाली पेनकेक"
+      },
+      {
+        "english": "electricity (in words)",
+        "nepali": "बिजुली"
+      }
+    ]
+  },
+  {
+    "word": "소리",
+    "meanings": [
+      {
+        "english": "sound",
+        "nepali": "आवाज"
+      },
+      {
+        "english": "voice",
+        "nepali": "स्वर"
+      },
+      {
+        "english": "talk, nonsense",
+        "nepali": "कुरा"
+      }
+    ]
+  },
+  {
+    "word": "막",
+    "meanings": [
+      {
+        "english": "just now",
+        "nepali": "भर्खर"
+      },
+      {
+        "english": "carelessly, roughly",
+        "nepali": "जथाभावी"
+      },
+      {
+        "english": "curtain, act (in a play)",
+        "nepali": "पर्दा, अङ्क"
+      }
+    ]
+  },
+  {
+    "word": "그냥",
+    "meanings": [
+      {
+        "english": "just, simply",
+        "nepali": "त्यसै"
+      },
+      {
+        "english": "as it is",
+        "nepali": "जस्ताको तस्तै"
+      }
+    ]
+  },
+  {
+    "word": "시원하다",
+    "meanings": [
+      {
+        "english": "cool, refreshing",
+        "nepali": "चिसो, ताजा"
+      },
+      {
+        "english": "relieved",
+        "nepali": "ढुक्क हुनु"
+      },
+      {
+        "english": "satisfying (warm soup, a good stretch)",
+        "nepali": "मजा लाग्नु"
+      }
+    ]
+  },
+  {
+    "word": "괜찮다",
+    "meanings": [
+      {
+        "english": "fine, okay",
+        "nepali": "ठीक छ"
+      },
+      {
+        "english": "no thanks",
+        "nepali": "पर्दैन"
+      },
+      {
+        "english": "not bad",
+        "nepali": "नराम्रो छैन"
+      }
+    ]
+  },
+  {
+    "word": "편하다",
+    "meanings": [
+      {
+        "english": "comfortable",
+        "nepali": "आरामदायक हुनु"
+      },
+      {
+        "english": "easy, convenient",
+        "nepali": "सजिलो हुनु"
+      }
+    ]
+  },
+  {
+    "word": "힘",
+    "meanings": [
+      {
+        "english": "strength, power",
+        "nepali": "बल"
+      },
+      {
+        "english": "effort",
+        "nepali": "प्रयास"
+      }
+    ]
+  },
+  {
+    "word": "힘들다",
+    "meanings": [
+      {
+        "english": "hard, difficult",
+        "nepali": "गाह्रो हुनु"
+      },
+      {
+        "english": "tiring",
+        "nepali": "थकाइ लाग्नु"
+      }
+    ]
+  },
+  {
+    "word": "늘다",
+    "meanings": [
+      {
+        "english": "to increase",
+        "nepali": "बढ्नु"
+      },
+      {
+        "english": "to improve (a skill)",
+        "nepali": "सुध्रनु"
+      }
+    ]
+  },
+  {
+    "word": "오르다",
+    "meanings": [
+      {
+        "english": "to go up, to rise",
+        "nepali": "बढ्नु"
+      },
+      {
+        "english": "to climb",
+        "nepali": "चढ्नु"
+      }
+    ]
+  },
+  {
+    "word": "서다",
+    "meanings": [
+      {
+        "english": "to stand",
+        "nepali": "उभिनु"
+      },
+      {
+        "english": "to stop",
+        "nepali": "रोकिनु"
+      }
+    ]
+  },
+  {
+    "word": "지다",
+    "meanings": [
+      {
+        "english": "to lose",
+        "nepali": "हार्नु"
+      },
+      {
+        "english": "to carry on the back",
+        "nepali": "बोक्नु"
+      },
+      {
+        "english": "to set (sun)",
+        "nepali": "अस्ताउनु"
+      },
+      {
+        "english": "to fade, to fall (flowers)",
+        "nepali": "झर्नु"
+      }
+    ]
+  },
+  {
+    "word": "찾다",
+    "meanings": [
+      {
+        "english": "to find, to look for",
+        "nepali": "खोज्नु"
+      },
+      {
+        "english": "to withdraw (money)",
+        "nepali": "पैसा निकाल्नु"
+      },
+      {
+        "english": "to pick up (something left)",
+        "nepali": "लिन जानु"
+      }
+    ]
+  },
+  {
+    "word": "따다",
+    "meanings": [
+      {
+        "english": "to pick (fruit, flowers)",
+        "nepali": "टिप्नु"
+      },
+      {
+        "english": "to get (a license, a score)",
+        "nepali": "पाउनु"
+      },
+      {
+        "english": "to open (a can, a bottle)",
+        "nepali": "खोल्नु"
+      }
+    ]
+  },
+  {
+    "word": "달리다",
+    "meanings": [
+      {
+        "english": "to run",
+        "nepali": "दौडनु"
+      },
+      {
+        "english": "to be attached, to hang",
+        "nepali": "झुण्डिनु"
+      },
+      {
+        "english": "to lack (energy)",
+        "nepali": "कम हुनु"
+      }
+    ]
+  },
+  {
+    "word": "그리다",
+    "meanings": [
+      {
+        "english": "to draw, to paint",
+        "nepali": "चित्र बनाउनु"
+      },
+      {
+        "english": "to miss, to long for",
+        "nepali": "सम्झनु"
+      }
+    ]
+  },
+  {
+    "word": "두다",
+    "meanings": [
+      {
+        "english": "to put, to place",
+        "nepali": "राख्नु"
+      },
+      {
+        "english": "to leave, to keep",
+        "nepali": "छोड्नु"
+      }
+    ]
+  },
+  {
+    "word": "달다",
+    "meanings": [
+      {
+        "english": "sweet",
+        "nepali": "गुलियो"
+      },
+      {
+        "english": "to hang, to attach",
+        "nepali": "झुण्ड्याउनु, टाँस्नु"
+      }
+    ]
+  },
+  {
+    "word": "길",
+    "meanings": [
+      {
+        "english": "road, path",
+        "nepali": "बाटो"
+      },
+      {
+        "english": "way, method",
+        "nepali": "तरिका"
+      }
+    ]
+  },
+  {
+    "word": "손",
+    "meanings": [
+      {
+        "english": "hand",
+        "nepali": "हात"
+      },
+      {
+        "english": "guest (in 손님)",
+        "nepali": "पाहुना"
+      }
+    ]
+  },
+  {
+    "word": "머리",
+    "meanings": [
+      {
+        "english": "head",
+        "nepali": "टाउको"
+      },
+      {
+        "english": "hair",
+        "nepali": "कपाल"
+      },
+      {
+        "english": "brain, mind",
+        "nepali": "दिमाग"
+      }
+    ]
+  },
+  {
+    "word": "다리",
+    "meanings": [
+      {
+        "english": "leg",
+        "nepali": "खुट्टा"
+      },
+      {
+        "english": "bridge",
+        "nepali": "पुल"
+      }
+    ]
+  },
+  {
+    "word": "팔",
+    "meanings": [
+      {
+        "english": "arm",
+        "nepali": "पाखुरा"
+      },
+      {
+        "english": "eight",
+        "nepali": "आठ"
+      }
+    ]
+  },
+  {
+    "word": "목",
+    "meanings": [
+      {
+        "english": "neck",
+        "nepali": "घाँटी"
+      },
+      {
+        "english": "throat",
+        "nepali": "गला"
+      }
+    ]
+  },
+  {
+    "word": "밤",
+    "meanings": [
+      {
+        "english": "night",
+        "nepali": "रात"
+      },
+      {
+        "english": "chestnut",
+        "nepali": "चेस्टनट (एक प्रकारको फल)"
+      }
+    ]
+  },
+  {
+    "word": "달",
+    "meanings": [
+      {
+        "english": "moon",
+        "nepali": "चन्द्रमा"
+      },
+      {
+        "english": "month",
+        "nepali": "महिना"
+      }
+    ]
+  },
+  {
+    "word": "해",
+    "meanings": [
+      {
+        "english": "sun",
+        "nepali": "घाम, सूर्य"
+      },
+      {
+        "english": "year",
+        "nepali": "वर्ष"
+      },
+      {
+        "english": "harm",
+        "nepali": "हानि"
+      }
+    ]
+  },
+  {
+    "word": "병",
+    "meanings": [
+      {
+        "english": "sickness, disease",
+        "nepali": "रोग"
+      },
+      {
+        "english": "bottle",
+        "nepali": "बोतल"
+      }
+    ]
+  },
+  {
+    "word": "약",
+    "meanings": [
+      {
+        "english": "medicine",
+        "nepali": "औषधि"
+      },
+      {
+        "english": "about, approximately",
+        "nepali": "लगभग"
+      },
+      {
+        "english": "weak",
+        "nepali": "कमजोर"
+      }
+    ]
+  },
+  {
+    "word": "개",
+    "meanings": [
+      {
+        "english": "dog",
+        "nepali": "कुकुर"
+      },
+      {
+        "english": "counter for items (pieces)",
+        "nepali": "वटा, गोटा"
+      }
+    ]
+  },
+  {
+    "word": "분",
+    "meanings": [
+      {
+        "english": "minute",
+        "nepali": "मिनेट"
+      },
+      {
+        "english": "person (polite)",
+        "nepali": "जना"
+      }
+    ]
+  },
+  {
+    "word": "시",
+    "meanings": [
+      {
+        "english": "o'clock, hour",
+        "nepali": "बजे, घण्टा"
+      },
+      {
+        "english": "poem",
+        "nepali": "कविता"
+      },
+      {
+        "english": "city",
+        "nepali": "सहर"
+      }
+    ]
+  },
+  {
+    "word": "도",
+    "meanings": [
+      {
+        "english": "degree (temperature, angle)",
+        "nepali": "डिग्री"
+      },
+      {
+        "english": "also, too",
+        "nepali": "पनि"
+      },
+      {
+        "english": "province",
+        "nepali": "अञ्चल, प्रदेश"
+      }
+    ]
+  },
+  {
+    "word": "줄",
+    "meanings": [
+      {
+        "english": "rope, string",
+        "nepali": "डोरी, रेटी"
+      },
+      {
+        "english": "line, queue",
+        "nepali": "लाइन"
+      },
+      {
+        "english": "belt",
+        "nepali": "बेल्ट"
+      }
+    ]
+  },
+  {
+    "word": "자",
+    "meanings": [
+      {
+        "english": "ruler",
+        "nepali": "रुलर"
+      },
+      {
+        "english": "let's, go to sleep (command)",
+        "nepali": "सुत"
+      }
+    ]
+  },
+  {
+    "word": "다음",
+    "meanings": [
+      {
+        "english": "next",
+        "nepali": "अर्को"
+      },
+      {
+        "english": "after, later",
+        "nepali": "पछि"
+      },
+      {
+        "english": "below, the following",
+        "nepali": "तल"
+      }
+    ]
+  },
+  {
+    "word": "장",
+    "meanings": [
+      {
+        "english": "sheet (counter for paper, tickets)",
+        "nepali": "पाना, टिकट"
+      },
+      {
+        "english": "chapter",
+        "nepali": "अध्याय"
+      },
+      {
+        "english": "market",
+        "nepali": "बजार"
+      }
+    ]
+  },
+  {
+    "word": "원",
+    "meanings": [
+      {
+        "english": "won (Korean money)",
+        "nepali": "वोन (कोरियाली पैसा)"
+      },
+      {
+        "english": "circle",
+        "nepali": "गोलो"
+      }
+    ]
+  },
+  {
+    "word": "점",
+    "meanings": [
+      {
+        "english": "point, score",
+        "nepali": "अङ्क"
+      },
+      {
+        "english": "dot, spot",
+        "nepali": "थोप्लो"
+      },
+      {
+        "english": "shop, store (in names)",
+        "nepali": "पसल"
+      }
+    ]
+  },
+  {
+    "word": "초",
+    "meanings": [
+      {
+        "english": "second (time)",
+        "nepali": "सेकेन्ड"
+      },
+      {
+        "english": "candle",
+        "nepali": "मैनबत्ती"
+      },
+      {
+        "english": "beginning (of a period)",
+        "nepali": "सुरु"
+      }
+    ]
+  },
+  {
+    "word": "돌",
+    "meanings": [
+      {
+        "english": "stone",
+        "nepali": "ढुङ्गा"
+      },
+      {
+        "english": "first birthday",
+        "nepali": "पहिलो जन्मदिन"
+      }
+    ]
+  },
+  {
+    "word": "상",
+    "meanings": [
+      {
+        "english": "table (for meals)",
+        "nepali": "टेबुल"
+      },
+      {
+        "english": "prize, award",
+        "nepali": "पुरस्कार"
+      }
+    ]
+  },
+  {
+    "word": "고기",
+    "meanings": [
+      {
+        "english": "meat",
+        "nepali": "मासु"
+      },
+      {
+        "english": "fish",
+        "nepali": "माछा"
+      }
+    ]
+  },
+  {
+    "word": "새",
+    "meanings": [
+      {
+        "english": "bird",
+        "nepali": "चरा"
+      },
+      {
+        "english": "new",
+        "nepali": "नयाँ"
+      }
+    ]
+  },
+  {
+    "word": "시장",
+    "meanings": [
+      {
+        "english": "market",
+        "nepali": "बजार"
+      },
+      {
+        "english": "mayor",
+        "nepali": "मेयर"
+      },
+      {
+        "english": "head, chairman",
+        "nepali": "अध्यक्ष"
+      }
+    ]
+  },
+  {
+    "word": "사과",
+    "meanings": [
+      {
+        "english": "apple",
+        "nepali": "स्याउ"
+      },
+      {
+        "english": "apology",
+        "nepali": "माफी"
+      }
+    ]
+  },
+  {
+    "word": "바람",
+    "meanings": [
+      {
+        "english": "wind",
+        "nepali": "हावा"
+      },
+      {
+        "english": "wish, hope",
+        "nepali": "इच्छा, आशा"
+      },
+      {
+        "english": "cheating (in a relationship)",
+        "nepali": "धोका"
+      }
+    ]
+  },
+  {
+    "word": "공",
+    "meanings": [
+      {
+        "english": "zero",
+        "nepali": "सुन्ने"
+      },
+      {
+        "english": "ball",
+        "nepali": "बल"
+      }
+    ]
+  },
+  {
+    "word": "예",
+    "meanings": [
+      {
+        "english": "yes",
+        "nepali": "हजुर, हो"
+      },
+      {
+        "english": "example",
+        "nepali": "उदाहरण"
+      }
+    ]
+  },
+  {
+    "word": "별로",
+    "meanings": [
+      {
+        "english": "not particularly, not very (with a negative)",
+        "nepali": "खासै"
+      },
+      {
+        "english": "according to, by (each)",
+        "nepali": "अनुसार"
+      }
+    ]
+  },
+  {
+    "word": "참",
+    "meanings": [
+      {
+        "english": "really, very",
+        "nepali": "साँच्चै"
+      },
+      {
+        "english": "true, genuine",
+        "nepali": "पक्का, सत्य"
+      }
+    ]
+  },
+  {
+    "word": "사실",
+    "meanings": [
+      {
+        "english": "fact, truth",
+        "nepali": "सत्य-तथ्य"
+      },
+      {
+        "english": "actually, in fact",
+        "nepali": "वास्तवमा"
+      }
+    ]
+  },
+  {
+    "word": "부자",
+    "meanings": [
+      {
+        "english": "rich person",
+        "nepali": "धनी"
+      },
+      {
+        "english": "father and son",
+        "nepali": "बाबु र छोरा"
+      }
+    ]
+  },
+  {
+    "word": "의사",
+    "meanings": [
+      {
+        "english": "doctor",
+        "nepali": "डाक्टर"
+      },
+      {
+        "english": "opinion, intention",
+        "nepali": "विचार, इच्छा"
+      }
+    ]
+  },
+  {
+    "word": "성적",
+    "meanings": [
+      {
+        "english": "grades, result",
+        "nepali": "रिजल्ट"
+      },
+      {
+        "english": "sexual",
+        "nepali": "यौनजन्य"
+      }
+    ]
+  },
+  {
+    "word": "등",
+    "meanings": [
+      {
+        "english": "back (of the body)",
+        "nepali": "ढाड"
+      },
+      {
+        "english": "lamp, light",
+        "nepali": "बत्ती"
+      },
+      {
+        "english": "etc., and so on",
+        "nepali": "आदि"
+      }
+    ]
+  },
+  {
+    "word": "국",
+    "meanings": [
+      {
+        "english": "soup",
+        "nepali": "झोल"
+      },
+      {
+        "english": "country (in names)",
+        "nepali": "देश"
+      }
+    ]
+  },
+  {
+    "word": "수도",
+    "meanings": [
+      {
+        "english": "capital city",
+        "nepali": "राजधानी"
+      },
+      {
+        "english": "tap water, water supply",
+        "nepali": "धारा, खानेपानी"
+      }
+    ]
+  },
+  {
+    "word": "거실",
+    "meanings": [
+      {
+        "english": "living room",
+        "nepali": "बैठक कोठा"
+      }
+    ]
+  },
+  {
+    "word": "감",
+    "meanings": [
+      {
+        "english": "persimmon",
+        "nepali": "ख्योनी जस्तो एक फल (पर्सिमन)"
+      },
+      {
+        "english": "feeling, sense",
+        "nepali": "अनुभूति"
+      }
+    ]
+  },
+  {
+    "word": "차다",
+    "meanings": [
+      {
+        "english": "to kick",
+        "nepali": "लात हान्नु"
+      },
+      {
+        "english": "cold, chilly",
+        "nepali": "चिसो"
+      },
+      {
+        "english": "to wear (a watch)",
+        "nepali": "लगाउनु (घडी)"
+      },
+      {
+        "english": "to be full",
+        "nepali": "भरिनु"
+      }
+    ]
+  },
+  {
+    "word": "쉬다",
+    "meanings": [
+      {
+        "english": "to rest",
+        "nepali": "आराम गर्नु"
+      },
+      {
+        "english": "to breathe",
+        "nepali": "सास फेर्नु"
+      },
+      {
+        "english": "to take a day off",
+        "nepali": "बिदा लिनु"
+      }
+    ]
+  },
+  {
+    "word": "붙다",
+    "meanings": [
+      {
+        "english": "to stick, to be attached",
+        "nepali": "टाँसिनु"
+      },
+      {
+        "english": "to pass (an exam)",
+        "nepali": "पास हुनु"
+      }
+    ]
+  },
+  {
+    "word": "떨어지다",
+    "meanings": [
+      {
+        "english": "to fall, to drop",
+        "nepali": "खस्नु"
+      },
+      {
+        "english": "to run out",
+        "nepali": "सकिनु"
+      },
+      {
+        "english": "to fail (an exam)",
+        "nepali": "फेल हुनु"
+      },
+      {
+        "english": "to be apart, to be far",
+        "nepali": "टाढा हुनु"
+      }
+    ]
+  },
+  {
+    "word": "부르다",
+    "meanings": [
+      {
+        "english": "to call",
+        "nepali": "बोलाउनु"
+      },
+      {
+        "english": "to sing",
+        "nepali": "गाउनु"
+      },
+      {
+        "english": "full (stomach)",
+        "nepali": "पेट भरिनु"
+      }
+    ]
+  },
+  {
+    "word": "빌리다",
+    "meanings": [
+      {
+        "english": "to borrow",
+        "nepali": "सापटी लिनु"
+      },
+      {
+        "english": "to lend",
+        "nepali": "सापटी दिनु"
+      }
+    ]
+  },
+  {
+    "word": "묻다",
+    "meanings": [
+      {
+        "english": "to ask",
+        "nepali": "सोध्नु"
+      },
+      {
+        "english": "to bury",
+        "nepali": "गाड्नु"
+      },
+      {
+        "english": "to get stained",
+        "nepali": "दाग लाग्नु"
+      }
+    ]
+  },
+  {
+    "word": "듣다",
+    "meanings": [
+      {
+        "english": "to listen",
+        "nepali": "सुन्नु"
+      },
+      {
+        "english": "to work, to take effect (medicine)",
+        "nepali": "असर गर्नु"
+      }
+    ]
+  },
+  {
+    "word": "걷다",
+    "meanings": [
+      {
+        "english": "to walk",
+        "nepali": "हिँड्नु"
+      },
+      {
+        "english": "to roll up, to fold up",
+        "nepali": "बेर्नु, पट्याउनु"
+      }
+    ]
+  },
+  {
+    "word": "낫다",
+    "meanings": [
+      {
+        "english": "to get better, to recover",
+        "nepali": "निको हुनु"
+      },
+      {
+        "english": "to be better than",
+        "nepali": "राम्रो हुनु"
+      }
+    ]
+  },
+  {
+    "word": "갈다",
+    "meanings": [
+      {
+        "english": "to change, to replace",
+        "nepali": "फेर्नु"
+      },
+      {
+        "english": "to grind",
+        "nepali": "पिस्नु"
+      },
+      {
+        "english": "to plow",
+        "nepali": "जोत्नु"
+      }
+    ]
+  },
+  {
+    "word": "걸다",
+    "meanings": [
+      {
+        "english": "to hang",
+        "nepali": "झुण्ड्याउनु"
+      },
+      {
+        "english": "to call (dial a phone)",
+        "nepali": "फोन गर्नु, डायल गर्नु"
+      },
+      {
+        "english": "to bet",
+        "nepali": "बाजी राख्नु"
+      }
+    ]
+  },
+  {
+    "word": "맞추다",
+    "meanings": [
+      {
+        "english": "to match, to fit together",
+        "nepali": "मिलाउनु"
+      },
+      {
+        "english": "to adjust, to set",
+        "nepali": "मिलाउनु"
+      },
+      {
+        "english": "to get the answer right",
+        "nepali": "सही जवाफ दिनु"
+      }
+    ]
+  },
+  {
+    "word": "보내다",
+    "meanings": [
+      {
+        "english": "to send",
+        "nepali": "पठाउनु"
+      },
+      {
+        "english": "to spend (time)",
+        "nepali": "बिताउनु"
+      }
+    ]
+  },
+  {
+    "word": "따르다",
+    "meanings": [
+      {
+        "english": "to pour (a drink)",
+        "nepali": "खन्याउनु"
+      },
+      {
+        "english": "to follow",
+        "nepali": "पछ्याउनु, फलो गर्नु"
+      }
+    ]
+  },
+  {
+    "word": "바르다",
+    "meanings": [
+      {
+        "english": "to apply, to spread (cream, paint)",
+        "nepali": "दल्नु"
+      },
+      {
+        "english": "right, correct, proper",
+        "nepali": "मिल्नु, ठीक हुनु"
+      }
+    ]
+  },
+  {
+    "word": "세다",
+    "meanings": [
+      {
+        "english": "to count",
+        "nepali": "गन्नु"
+      },
+      {
+        "english": "strong",
+        "nepali": "बलियो हुनु"
+      }
+    ]
+  },
+  {
+    "word": "적다",
+    "meanings": [
+      {
+        "english": "to write down",
+        "nepali": "लेख्नु"
+      },
+      {
+        "english": "few, little",
+        "nepali": "थोरै हुनु"
+      },
+      {
+        "english": "to fill in (a form)",
+        "nepali": "भर्नु"
+      }
+    ]
+  },
+  {
+    "word": "떨다",
+    "meanings": [
+      {
+        "english": "to shake, to tremble",
+        "nepali": "हल्लाउनु, कामनु"
+      },
+      {
+        "english": "to shiver",
+        "nepali": "टकटकाउनु"
+      }
+    ]
+  },
+  {
+    "word": "붓다",
+    "meanings": [
+      {
+        "english": "to pour",
+        "nepali": "खन्याउनु"
+      },
+      {
+        "english": "to swell",
+        "nepali": "सुन्निनु"
+      }
+    ]
+  },
+  {
+    "word": "부치다",
+    "meanings": [
+      {
+        "english": "to send (mail, parcel)",
+        "nepali": "पठाउनु"
+      },
+      {
+        "english": "to fry (pancake, egg)",
+        "nepali": "तार्नु, पकाउनु"
+      }
+    ]
+  },
+  {
+    "word": "짓다",
+    "meanings": [
+      {
+        "english": "to build",
+        "nepali": "बनाउनु"
+      },
+      {
+        "english": "to cook (rice) or make (medicine)",
+        "nepali": "पकाउनु"
+      },
+      {
+        "english": "to write (a name, a poem)",
+        "nepali": "लेख्नु, राख्नु"
+      }
+    ]
+  },
+  {
+    "word": "고치다",
+    "meanings": [
+      {
+        "english": "to fix, to repair",
+        "nepali": "मर्मत गर्नु"
+      },
+      {
+        "english": "to correct",
+        "nepali": "सच्याउनु"
+      },
+      {
+        "english": "to cure",
+        "nepali": "निको पार्नु"
+      }
+    ]
+  },
+  {
+    "word": "기르다",
+    "meanings": [
+      {
+        "english": "to raise (a pet, a child)",
+        "nepali": "पाल्नु"
+      },
+      {
+        "english": "to grow (hair, a beard)",
+        "nepali": "पाल्नु"
+      }
+    ]
+  },
+  {
+    "word": "맡다",
+    "meanings": [
+      {
+        "english": "to smell",
+        "nepali": "सुँघ्नु"
+      },
+      {
+        "english": "to take charge of",
+        "nepali": "जिम्मा लिनु"
+      },
+      {
+        "english": "to keep (for someone)",
+        "nepali": "राखिदिनु"
+      }
+    ]
+  },
+  {
+    "word": "이르다",
+    "meanings": [
+      {
+        "english": "early",
+        "nepali": "चाँडो"
+      },
+      {
+        "english": "to reach, to arrive at",
+        "nepali": "पुग्नु"
+      },
+      {
+        "english": "to tell",
+        "nepali": "भन्नु"
+      }
+    ]
+  },
+  {
+    "word": "익히다",
+    "meanings": [
+      {
+        "english": "to learn well, to get used to",
+        "nepali": "सिक्नु, बुझ्नु"
+      },
+      {
+        "english": "to cook thoroughly",
+        "nepali": "राम्ररी पकाउनु"
+      }
+    ]
+  },
+  {
+    "word": "펴다",
+    "meanings": [
+      {
+        "english": "to open, to unfold",
+        "nepali": "पल्टाउनु"
+      },
+      {
+        "english": "to spread out",
+        "nepali": "पसार्नु"
+      },
+      {
+        "english": "to straighten",
+        "nepali": "सीधा गर्नु"
+      }
+    ]
+  },
+  {
+    "word": "세우다",
+    "meanings": [
+      {
+        "english": "to stop, to park",
+        "nepali": "रोक्नु, पार्किङ गर्नु"
+      },
+      {
+        "english": "to establish, to set up",
+        "nepali": "स्थापना गर्नु"
+      },
+      {
+        "english": "to make stand up",
+        "nepali": "उभ्याउनु"
+      }
+    ]
+  },
+  {
+    "word": "덜다",
+    "meanings": [
+      {
+        "english": "to reduce, to lessen",
+        "nepali": "कम गर्नु"
+      },
+      {
+        "english": "to take out some, to dish out",
+        "nepali": "झिक्नु, हाल्नु"
+      }
+    ]
+  },
+  {
+    "word": "닮다",
+    "meanings": [
+      {
+        "english": "to resemble, to look like",
+        "nepali": "हेर्दा उस्तै हुनु, समान हुनु"
+      }
+    ]
+  },
+  {
+    "word": "정하다",
+    "meanings": [
+      {
+        "english": "to decide, to fix",
+        "nepali": "निश्चित गर्नु"
+      }
+    ]
+  },
+  {
+    "word": "익숙하다",
+    "meanings": [
+      {
+        "english": "to be familiar, to be used to",
+        "nepali": "बानी हुनु"
+      },
+      {
+        "english": "to be skilled",
+        "nepali": "कुशल हुनु"
+      }
+    ]
+  },
+  {
+    "word": "간",
+    "meanings": [
+      {
+        "english": "liver",
+        "nepali": "कलेजो"
+      },
+      {
+        "english": "saltiness, seasoning",
+        "nepali": "नुन"
+      }
+    ]
+  },
+  {
+    "word": "신",
+    "meanings": [
+      {
+        "english": "god",
+        "nepali": "भगवान"
+      },
+      {
+        "english": "new (prefix)",
+        "nepali": "नयाँ"
+      },
+      {
+        "english": "shoes (in 신발)",
+        "nepali": "जुत्ता"
+      }
+    ]
+  },
+  {
+    "word": "기사",
+    "meanings": [
+      {
+        "english": "news article",
+        "nepali": "समाचार"
+      },
+      {
+        "english": "driver",
+        "nepali": "चालक"
+      }
+    ]
+  },
+  {
+    "word": "이사",
+    "meanings": [
+      {
+        "english": "moving house",
+        "nepali": "घर सार्नु"
+      },
+      {
+        "english": "company director",
+        "nepali": "निर्देशक"
+      }
+    ]
+  },
+  {
+    "word": "사고",
+    "meanings": [
+      {
+        "english": "accident",
+        "nepali": "दुर्घटना"
+      },
+      {
+        "english": "thinking, thought",
+        "nepali": "सोच"
+      }
+    ]
+  },
+  {
+    "word": "동",
+    "meanings": [
+      {
+        "english": "neighborhood, district",
+        "nepali": "टोल"
+      },
+      {
+        "english": "east",
+        "nepali": "पूर्व"
+      },
+      {
+        "english": "copper",
+        "nepali": "तामा"
+      }
+    ]
+  },
+  {
+    "word": "전기",
+    "meanings": [
+      {
+        "english": "electricity",
+        "nepali": "बिजुली"
+      },
+      {
+        "english": "biography",
+        "nepali": "जीवनी"
+      },
+      {
+        "english": "early period",
+        "nepali": "प्रारम्भिक समय"
+      }
+    ]
+  },
+  {
+    "word": "화",
+    "meanings": [
+      {
+        "english": "anger",
+        "nepali": "रिस"
+      },
+      {
+        "english": "fire",
+        "nepali": "आगो"
+      },
+      {
+        "english": "Tuesday (short form)",
+        "nepali": "मङ्गलबार"
+      }
+    ]
+  },
+  {
+    "word": "사이",
+    "meanings": [
+      {
+        "english": "between, gap",
+        "nepali": "बीचमा"
+      },
+      {
+        "english": "relationship",
+        "nepali": "सम्बन्ध"
+      }
+    ]
+  },
+  {
+    "word": "말다",
+    "meanings": [
+      {
+        "english": "to stop, to not do (as in 하지 마)",
+        "nepali": "नगर्नु"
+      },
+      {
+        "english": "to roll up",
+        "nepali": "बेर्नु"
+      },
+      {
+        "english": "to mix into (rice in soup)",
+        "nepali": "मिसाउनु"
+      }
+    ]
+  },
+  {
+    "word": "새다",
+    "meanings": [
+      {
+        "english": "to leak",
+        "nepali": "चुहिनु"
+      },
+      {
+        "english": "to dawn",
+        "nepali": "उज्यालो हुनु"
+      }
+    ]
+  },
+  {
+    "word": "쏘다",
+    "meanings": [
+      {
+        "english": "to shoot",
+        "nepali": "हान्नु"
+      },
+      {
+        "english": "to sting",
+        "nepali": "डस्नु"
+      },
+      {
+        "english": "to treat someone (to a meal, slang)",
+        "nepali": "खुवाउनु"
+      }
+    ]
+  },
+  {
+    "word": "나누다",
+    "meanings": [
+      {
+        "english": "to divide",
+        "nepali": "बाँड्नु"
+      },
+      {
+        "english": "to share",
+        "nepali": "साझा गर्नु"
+      },
+      {
+        "english": "to have (a talk)",
+        "nepali": "कुराकानी गर्नु"
+      }
+    ]
+  },
+  {
+    "word": "풀",
+    "meanings": [
+      {
+        "english": "grass",
+        "nepali": "घाँस"
+      },
+      {
+        "english": "glue, paste",
+        "nepali": "गम"
+      }
+    ]
+  },
+  {
+    "word": "방식",
+    "meanings": [
+      {
+        "english": "method, way",
+        "nepali": "तरिका, पद्धति"
+      },
+      {
+        "english": "process",
+        "nepali": "प्रक्रिया"
+      }
+    ]
+  },
+  {
+    "word": "이동",
+    "meanings": [
+      {
+        "english": "movement, moving",
+        "nepali": "चलायमान, सर्ने काम"
+      },
+      {
+        "english": "transport, travel",
+        "nepali": "यातायात, आवतजावत"
+      }
+    ]
+  },
+  {
+    "word": "극장",
+    "meanings": [
+      {
+        "english": "movie theater",
+        "nepali": "सिनेमा हल"
+      },
+      {
+        "english": "theater (for shows, concerts)",
+        "nepali": "कन्सर्ट हल"
+      }
+    ]
+  },
+  {
+    "word": "기업",
+    "meanings": [
+      {
+        "english": "company, business",
+        "nepali": "व्यापार"
+      },
+      {
+        "english": "enterprise, industry",
+        "nepali": "उद्योग"
+      }
+    ]
+  },
+  {
+    "word": "요청하다",
+    "meanings": [
+      {
+        "english": "to ask for, to request",
+        "nepali": "माग गर्नु"
+      },
+      {
+        "english": "to make a formal request",
+        "nepali": "अनुरोध गर्नु"
+      }
+    ]
+  },
+  {
+    "word": "예절",
+    "meanings": [
+      {
+        "english": "manners, etiquette",
+        "nepali": "शिष्टता"
+      },
+      {
+        "english": "code of conduct",
+        "nepali": "आचारसंहिता"
+      }
+    ]
+  },
+  {
+    "word": "소독",
+    "meanings": [
+      {
+        "english": "disinfection",
+        "nepali": "कीटाणुनाशन"
+      },
+      {
+        "english": "sterilization",
+        "nepali": "सफा गर्ने काम"
+      }
+    ]
+  },
+  {
+    "word": "배정",
+    "meanings": [
+      {
+        "english": "assignment, allocation",
+        "nepali": "जिम्मेवारी"
+      },
+      {
+        "english": "selection",
+        "nepali": "छनोट"
+      }
+    ]
+  },
+  {
+    "word": "거주",
+    "meanings": [
+      {
+        "english": "residence (permanent stay)",
+        "nepali": "आवास (स्थायी बास)"
+      }
+    ]
+  },
+  {
+    "word": "비거주",
+    "meanings": [
+      {
+        "english": "non-resident",
+        "nepali": "गैर निवासी"
+      }
+    ]
+  },
+  {
+    "word": "미만",
+    "meanings": [
+      {
+        "english": "under, less than",
+        "nepali": "भन्दा कम"
+      }
+    ]
+  },
+  {
+    "word": "불길하다",
+    "meanings": [
+      {
+        "english": "ominous, unlucky",
+        "nepali": "अशुभ हुनु"
+      },
+      {
+        "english": "unfortunate",
+        "nepali": "अभागी हुनु"
+      }
+    ]
+  },
+  {
+    "word": "정직하다",
+    "meanings": [
+      {
+        "english": "to be honest",
+        "nepali": "इमान्दार हुनु"
+      },
+      {
+        "english": "to be suspended (from work, as 정직)",
+        "nepali": "निलम्बन हुनु"
+      }
+    ]
+  },
+  {
+    "word": "거듭나다",
+    "meanings": [
+      {
+        "english": "to be reborn, to start a new life",
+        "nepali": "पुनर्जन्म हुनु"
+      }
+    ]
+  }
+]

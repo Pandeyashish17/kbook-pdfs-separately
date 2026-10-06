@@ -1,0 +1,6802 @@
+[
+  {
+    "korean": "가다",
+    "english": "to go",
+    "nepali": "जानु"
+  },
+  {
+    "korean": "가지다",
+    "english": "to have; to hold",
+    "nepali": "छ, हुनु, लिनु"
+  },
+  {
+    "korean": "가져오다",
+    "english": "to bring",
+    "nepali": "ल्याउनु"
+  },
+  {
+    "korean": "가져가다",
+    "english": "to take (something)",
+    "nepali": "लैजानु"
+  },
+  {
+    "korean": "같다",
+    "english": "to be same; to be like",
+    "nepali": "उस्तै हुनु; जस्तो हुनु"
+  },
+  {
+    "korean": "걷다",
+    "english": "to walk",
+    "nepali": "हिँड्नु"
+  },
+  {
+    "korean": "걸리다",
+    "english": "to take (time); to catch (cold); to hang",
+    "nepali": "लाग्नु; लाग्नु (रुघा); झुण्डिनु"
+  },
+  {
+    "korean": "괜찮다",
+    "english": "to be okay; to be fine",
+    "nepali": "ठीक हुनु; हुन्छ"
+  },
+  {
+    "korean": "고맙다",
+    "english": "to be thankful",
+    "nepali": "धन्यवादी हुनु"
+  },
+  {
+    "korean": "감사하다",
+    "english": "to thank",
+    "nepali": "धन्यवाद दिनु"
+  },
+  {
+    "korean": "그렇다",
+    "english": "to be so; to be like that",
+    "nepali": "त्यस्तै हुनु"
+  },
+  {
+    "korean": "기다리다",
+    "english": "to wait",
+    "nepali": "पर्खनु"
+  },
+  {
+    "korean": "기억하다",
+    "english": "to remember",
+    "nepali": "सम्झनु"
+  },
+  {
+    "korean": "기쁘다",
+    "english": "to be glad; to be happy",
+    "nepali": "खुशी हुनु"
+  },
+  {
+    "korean": "길다",
+    "english": "to be long",
+    "nepali": "लामो हुनु"
+  },
+  {
+    "korean": "가깝다",
+    "english": "to be near; to be close",
+    "nepali": "नजिक हुनु"
+  },
+  {
+    "korean": "가능하다",
+    "english": "to be possible",
+    "nepali": "सम्भव हुनु"
+  },
+  {
+    "korean": "걱정하다",
+    "english": "to worry",
+    "nepali": "चिन्ता गर्नु"
+  },
+  {
+    "korean": "계속하다",
+    "english": "to continue",
+    "nepali": "जारी राख्नु"
+  },
+  {
+    "korean": "결정하다",
+    "english": "to decide",
+    "nepali": "निर्णय गर्नु"
+  },
+  {
+    "korean": "고르다",
+    "english": "to choose; to pick",
+    "nepali": "छान्नु"
+  },
+  {
+    "korean": "고치다",
+    "english": "to fix; to repair",
+    "nepali": "मर्मत गर्नु; सुधार्नु"
+  },
+  {
+    "korean": "가르치다",
+    "english": "to teach",
+    "nepali": "सिकाउनु"
+  },
+  {
+    "korean": "가볍다",
+    "english": "to be light (weight)",
+    "nepali": "हल्का हुनु"
+  },
+  {
+    "korean": "구경하다",
+    "english": "to sightsee; to watch",
+    "nepali": "घुम्न जानु; हेर्नु"
+  },
+  {
+    "korean": "구하다",
+    "english": "to find; to save",
+    "nepali": "खोज्नु; बचाउनु"
+  },
+  {
+    "korean": "궁금하다",
+    "english": "to be curious",
+    "nepali": "जिज्ञासु हुनु; जान्न मन लाग्नु"
+  },
+  {
+    "korean": "귀엽다",
+    "english": "to be cute",
+    "nepali": "मायालाग्दो हुनु"
+  },
+  {
+    "korean": "귀찮다",
+    "english": "to be bothersome; to feel lazy",
+    "nepali": "झन्झट लाग्नु; आलस्य लाग्नु"
+  },
+  {
+    "korean": "그리다",
+    "english": "to draw; to paint",
+    "nepali": "चित्र बनाउनु"
+  },
+  {
+    "korean": "그림을 그리다",
+    "english": "to draw a picture",
+    "nepali": "चित्र कोर्नु"
+  },
+  {
+    "korean": "그립다",
+    "english": "to miss; to be longing",
+    "nepali": "याद आउनु"
+  },
+  {
+    "korean": "그만두다",
+    "english": "to quit; to stop doing",
+    "nepali": "छोड्नु"
+  },
+  {
+    "korean": "건강하다",
+    "english": "to be healthy",
+    "nepali": "स्वस्थ हुनु"
+  },
+  {
+    "korean": "계획하다",
+    "english": "to plan",
+    "nepali": "योजना बनाउनु"
+  },
+  {
+    "korean": "결혼하다",
+    "english": "to marry",
+    "nepali": "विवाह गर्नु"
+  },
+  {
+    "korean": "계산하다",
+    "english": "to calculate; to pay",
+    "nepali": "गणना गर्नु; तिर्नु"
+  },
+  {
+    "korean": "건너다",
+    "english": "to cross",
+    "nepali": "पार गर्नु"
+  },
+  {
+    "korean": "걸다",
+    "english": "to hang; to call (phone)",
+    "nepali": "झुण्ड्याउनु; फोन गर्नु"
+  },
+  {
+    "korean": "감기에 걸리다",
+    "english": "to catch a cold",
+    "nepali": "रुघा-खोकी लाग्नु"
+  },
+  {
+    "korean": "갈아입다",
+    "english": "to change clothes",
+    "nepali": "कपडा फेर्नु"
+  },
+  {
+    "korean": "갈아타다",
+    "english": "to transfer; to change vehicles",
+    "nepali": "ट्रान्सफर गर्नु / परिवर्तन गर्नु"
+  },
+  {
+    "korean": "가입하다",
+    "english": "to join; to sign up",
+    "nepali": "सदस्य बन्नु"
+  },
+  {
+    "korean": "가난하다",
+    "english": "to be poor",
+    "nepali": "गरिब हुनु"
+  },
+  {
+    "korean": "간단하다",
+    "english": "to be simple",
+    "nepali": "सजिलो हुनु; सरल हुनु"
+  },
+  {
+    "korean": "거절하다",
+    "english": "to refuse; to decline",
+    "nepali": "अस्वीकार गर्नु"
+  },
+  {
+    "korean": "거짓말하다",
+    "english": "to lie",
+    "nepali": "झूट बोल्नु"
+  },
+  {
+    "korean": "게임하다",
+    "english": "to play a game",
+    "nepali": "गेम खेल्नु"
+  },
+  {
+    "korean": "검색하다",
+    "english": "to search",
+    "nepali": "खोजी गर्नु"
+  },
+  {
+    "korean": "결제하다",
+    "english": "to pay (a bill)",
+    "nepali": "भुक्तानी गर्नु"
+  },
+  {
+    "korean": "경험하다",
+    "english": "to experience",
+    "nepali": "अनुभव गर्नु"
+  },
+  {
+    "korean": "고생하다",
+    "english": "to suffer hardship; to work hard",
+    "nepali": "दुःख गर्नु; मेहनत गर्नु"
+  },
+  {
+    "korean": "고민하다",
+    "english": "to be troubled; to agonize",
+    "nepali": "चिन्तामा पर्नु"
+  },
+  {
+    "korean": "고장나다",
+    "english": "to break down",
+    "nepali": "बिग्रनु"
+  },
+  {
+    "korean": "관심있다",
+    "english": "to be interested",
+    "nepali": "चासो राख्नु"
+  },
+  {
+    "korean": "관광하다",
+    "english": "to go sightseeing",
+    "nepali": "भ्रमण गर्नु"
+  },
+  {
+    "korean": "관리하다",
+    "english": "to manage",
+    "nepali": "व्यवस्थापन गर्नु"
+  },
+  {
+    "korean": "교환하다",
+    "english": "to exchange",
+    "nepali": "साट्नु"
+  },
+  {
+    "korean": "괴롭다",
+    "english": "to be painful; to be distressed",
+    "nepali": "कष्टकर हुनु; पीडा हुनु"
+  },
+  {
+    "korean": "구입하다",
+    "english": "to purchase",
+    "nepali": "खरिद गर्नु"
+  },
+  {
+    "korean": "굽다",
+    "english": "to grill; to bake",
+    "nepali": "पोल्नु; सेक्नु"
+  },
+  {
+    "korean": "굶다",
+    "english": "to starve; to skip meals",
+    "nepali": "भोकै बस्नु"
+  },
+  {
+    "korean": "귀국하다",
+    "english": "to return to one's country",
+    "nepali": "स्वदेश फर्कनु"
+  },
+  {
+    "korean": "근무하다",
+    "english": "to work (at a place)",
+    "nepali": "काम गर्नु"
+  },
+  {
+    "korean": "금지하다",
+    "english": "to ban; to prohibit",
+    "nepali": "निषेध गर्नु"
+  },
+  {
+    "korean": "급하다",
+    "english": "to be urgent; to be in a hurry",
+    "nepali": "हतारो हुनु; जरुरी हुनु"
+  },
+  {
+    "korean": "기대하다",
+    "english": "to expect; to look forward to",
+    "nepali": "आशा गर्नु; प्रतीक्षा गर्नु"
+  },
+  {
+    "korean": "기도하다",
+    "english": "to pray",
+    "nepali": "प्रार्थना गर्नु"
+  },
+  {
+    "korean": "기뻐하다",
+    "english": "to be glad; to rejoice",
+    "nepali": "खुशी हुनु"
+  },
+  {
+    "korean": "기침하다",
+    "english": "to cough",
+    "nepali": "खोक्नु"
+  },
+  {
+    "korean": "기침을 하다",
+    "english": "to cough",
+    "nepali": "खोकी लाग्नु"
+  },
+  {
+    "korean": "기록하다",
+    "english": "to record",
+    "nepali": "रेकर्ड गर्नु"
+  },
+  {
+    "korean": "기르다",
+    "english": "to raise; to grow",
+    "nepali": "हुर्काउनु"
+  },
+  {
+    "korean": "긴장하다",
+    "english": "to be nervous",
+    "nepali": "तनाव हुनु; नर्भस हुनु"
+  },
+  {
+    "korean": "길이 막히다",
+    "english": "to be stuck in traffic",
+    "nepali": "जाममा पर्नु / ट्राफिक जाम हुनु"
+  },
+  {
+    "korean": "깊다",
+    "english": "to be deep",
+    "nepali": "गहिरो हुनु"
+  },
+  {
+    "korean": "가까워지다",
+    "english": "to get closer",
+    "nepali": "नजिक हुनु"
+  },
+  {
+    "korean": "가득하다",
+    "english": "to be full",
+    "nepali": "भरिपूर्ण हुनु"
+  },
+  {
+    "korean": "가렵다",
+    "english": "to be itchy",
+    "nepali": "चिलाउनु"
+  },
+  {
+    "korean": "가리다",
+    "english": "to cover; to block; to choose carefully",
+    "nepali": "छोप्नु; ढाक्नु; छान्नु"
+  },
+  {
+    "korean": "가리키다",
+    "english": "to point at; to indicate",
+    "nepali": "औँल्याउनु; संकेत गर्नु"
+  },
+  {
+    "korean": "가늘다",
+    "english": "to be thin (slim)",
+    "nepali": "सानो र पातलो हुनु"
+  },
+  {
+    "korean": "감다",
+    "english": "to close (eyes); to wash (hair); to wind",
+    "nepali": "(आँखा) चिम्लनु; (कपाल) धुनु; बेर्नु"
+  },
+  {
+    "korean": "갈다",
+    "english": "to grind; to change; to sharpen",
+    "nepali": "पिस्नु; बदल्नु; तिखार्नु"
+  },
+  {
+    "korean": "감사드리다",
+    "english": "to express thanks (polite)",
+    "nepali": "धन्यवाद दिनु"
+  },
+  {
+    "korean": "계시다",
+    "english": "to be (honorific); to stay",
+    "nepali": "हुनुहुन्छ"
+  },
+  {
+    "korean": "건강해지다",
+    "english": "to become healthy",
+    "nepali": "स्वस्थ हुनु"
+  },
+  {
+    "korean": "건물을 짓다",
+    "english": "to construct a building",
+    "nepali": "भवन बनाउनु"
+  },
+  {
+    "korean": "검다",
+    "english": "to be black",
+    "nepali": "कालो हुनु"
+  },
+  {
+    "korean": "게으르다",
+    "english": "to be lazy",
+    "nepali": "अल्छी हुनु"
+  },
+  {
+    "korean": "견디다",
+    "english": "to endure; to bear",
+    "nepali": "सहनु; टिक्नु"
+  },
+  {
+    "korean": "결근하다",
+    "english": "to be absent from work",
+    "nepali": "गयल हुनु"
+  },
+  {
+    "korean": "계약하다",
+    "english": "to make a contract",
+    "nepali": "सम्झौता गर्नु"
+  },
+  {
+    "korean": "고소하다",
+    "english": "to be nutty; to be savory",
+    "nepali": "मिठो बास आउनु"
+  },
+  {
+    "korean": "고용하다",
+    "english": "to hire",
+    "nepali": "काममा लिनु"
+  },
+  {
+    "korean": "고프다",
+    "english": "to be hungry",
+    "nepali": "भोक लाग्नु"
+  },
+  {
+    "korean": "곱하다",
+    "english": "to multiply",
+    "nepali": "गुणा गर्नु"
+  },
+  {
+    "korean": "공유하다",
+    "english": "to share",
+    "nepali": "साझा गर्नु"
+  },
+  {
+    "korean": "공연하다",
+    "english": "to perform",
+    "nepali": "प्रदर्शन गर्नु"
+  },
+  {
+    "korean": "공짜이다",
+    "english": "to be free (of charge)",
+    "nepali": "निःशुल्क हुनु"
+  },
+  {
+    "korean": "과속을 하다",
+    "english": "to speed",
+    "nepali": "तीव्र गतिमा चलाउनु"
+  },
+  {
+    "korean": "관람하다",
+    "english": "to watch (a show, game)",
+    "nepali": "हेर्नु"
+  },
+  {
+    "korean": "교회에 다니다",
+    "english": "to attend church",
+    "nepali": "चर्चमा जानु"
+  },
+  {
+    "korean": "구르다",
+    "english": "to roll",
+    "nepali": "गुडिनु"
+  },
+  {
+    "korean": "구분하다",
+    "english": "to distinguish; to divide",
+    "nepali": "विभाजन गर्नु"
+  },
+  {
+    "korean": "구조하다",
+    "english": "to rescue",
+    "nepali": "उद्धार गर्नु"
+  },
+  {
+    "korean": "굵다",
+    "english": "to be thick (round things)",
+    "nepali": "मोटो हुनु"
+  },
+  {
+    "korean": "귀하다",
+    "english": "to be precious; to be rare",
+    "nepali": "बहुमूल्य हुनु; दुर्लभ हुनु"
+  },
+  {
+    "korean": "규칙적이다",
+    "english": "to be regular",
+    "nepali": "नियमित हुनु"
+  },
+  {
+    "korean": "그치다",
+    "english": "to stop",
+    "nepali": "बन्द हुनु, पानी रोकिनु"
+  },
+  {
+    "korean": "긁다",
+    "english": "to scratch",
+    "nepali": "कोर्नु, खोस्रनु"
+  },
+  {
+    "korean": "기대다",
+    "english": "to lean",
+    "nepali": "अडेस लाग्नु"
+  },
+  {
+    "korean": "기절하다",
+    "english": "to faint",
+    "nepali": "बेहोस हुनु"
+  },
+  {
+    "korean": "깁스하다",
+    "english": "to put on a cast",
+    "nepali": "प्लास्टर गर्नु"
+  },
+  {
+    "korean": "간지럽다",
+    "english": "to be ticklish",
+    "nepali": "गुदगुदी लाग्नु"
+  },
+  {
+    "korean": "간절하다",
+    "english": "to be earnest; to be eager",
+    "nepali": "तीव्र चाहना हुनु"
+  },
+  {
+    "korean": "감상하다",
+    "english": "to appreciate; to enjoy (art, music)",
+    "nepali": "आनन्द लिएर हेर्नु; सुन्नु"
+  },
+  {
+    "korean": "감추다",
+    "english": "to hide; to conceal",
+    "nepali": "लुकाउनु"
+  },
+  {
+    "korean": "강조하다",
+    "english": "to emphasize",
+    "nepali": "बल गर्नु"
+  },
+  {
+    "korean": "강하다",
+    "english": "to be strong",
+    "nepali": "बलियो हुनु"
+  },
+  {
+    "korean": "갖다주다",
+    "english": "to bring for someone",
+    "nepali": "ल्याइदिनु"
+  },
+  {
+    "korean": "갚다",
+    "english": "to pay back",
+    "nepali": "तिर्नु; फिर्ता गर्नु"
+  },
+  {
+    "korean": "개발하다",
+    "english": "to develop",
+    "nepali": "विकास गर्नु"
+  },
+  {
+    "korean": "거대하다",
+    "english": "to be huge",
+    "nepali": "विशाल हुनु"
+  },
+  {
+    "korean": "거두다",
+    "english": "to gather; to collect",
+    "nepali": "जम्मा गर्नु"
+  },
+  {
+    "korean": "거만하다",
+    "english": "to be arrogant",
+    "nepali": "घमण्डी हुनु"
+  },
+  {
+    "korean": "거세다",
+    "english": "to be fierce; to be violent",
+    "nepali": "बलियो हुनु; उग्र हुनु"
+  },
+  {
+    "korean": "거칠다",
+    "english": "to be rough",
+    "nepali": "खस्रो हुनु"
+  },
+  {
+    "korean": "건설하다",
+    "english": "to construct",
+    "nepali": "निर्माण गर्नु"
+  },
+  {
+    "korean": "건조하다",
+    "english": "to be dry",
+    "nepali": "सुख्खा हुनु"
+  },
+  {
+    "korean": "건지다",
+    "english": "to fish out; to pull out",
+    "nepali": "छानेर निकाल्नु"
+  },
+  {
+    "korean": "걸어가다",
+    "english": "to go on foot",
+    "nepali": "हिंडेर जानु"
+  },
+  {
+    "korean": "겁 많다",
+    "english": "to be timid",
+    "nepali": "डराउने हुनु"
+  },
+  {
+    "korean": "게을러지다",
+    "english": "to become lazy",
+    "nepali": "अल्छी हुनु"
+  },
+  {
+    "korean": "격려하다",
+    "english": "to encourage",
+    "nepali": "प्रोत्साहन दिनु"
+  },
+  {
+    "korean": "겪다",
+    "english": "to go through; to experience",
+    "nepali": "भोग्नु; अनुभव गर्नु"
+  },
+  {
+    "korean": "견뎌내다",
+    "english": "to endure to the end",
+    "nepali": "सहेर पार गर्नु"
+  },
+  {
+    "korean": "겸손하다",
+    "english": "to be humble",
+    "nepali": "विनम्र हुनु"
+  },
+  {
+    "korean": "고발하다",
+    "english": "to report; to accuse",
+    "nepali": "उजुरी गर्नु"
+  },
+  {
+    "korean": "고요하다",
+    "english": "to be still; to be calm",
+    "nepali": "शान्त हुनु"
+  },
+  {
+    "korean": "고이다",
+    "english": "to pool; to collect",
+    "nepali": "जम्मा हुनु"
+  },
+  {
+    "korean": "곧다",
+    "english": "to be straight",
+    "nepali": "सिधा हुनु"
+  },
+  {
+    "korean": "곰팡이가 생기다",
+    "english": "to grow mold",
+    "nepali": "ढुसी पर्नु"
+  },
+  {
+    "korean": "공격하다",
+    "english": "to attack",
+    "nepali": "आक्रमण गर्नु"
+  },
+  {
+    "korean": "공사하다",
+    "english": "to construct",
+    "nepali": "निर्माण गर्नु"
+  },
+  {
+    "korean": "공정하다",
+    "english": "to be fair; to be just",
+    "nepali": "निष्पक्ष हुनु"
+  },
+  {
+    "korean": "공지하다",
+    "english": "to announce",
+    "nepali": "विज्ञापन दिनु"
+  },
+  {
+    "korean": "공평하다",
+    "english": "to be fair",
+    "nepali": "न्यायपूर्ण हुनु"
+  },
+  {
+    "korean": "관대하다",
+    "english": "to be generous; to be lenient",
+    "nepali": "उदार हुनु"
+  },
+  {
+    "korean": "관찰하다",
+    "english": "to observe",
+    "nepali": "अवलोकन गर्नु"
+  },
+  {
+    "korean": "괴롭히다",
+    "english": "to bother; to bully",
+    "nepali": "सताउनु"
+  },
+  {
+    "korean": "교대하다",
+    "english": "to change shifts",
+    "nepali": "सिफ्ट चेन्ज गर्नु"
+  },
+  {
+    "korean": "교만하다",
+    "english": "to be arrogant",
+    "nepali": "घमण्डी हुनु"
+  },
+  {
+    "korean": "구두쇠이다",
+    "english": "to be stingy",
+    "nepali": "कन्जुस हुनु"
+  },
+  {
+    "korean": "구리다",
+    "english": "to stink",
+    "nepali": "गनाउनु"
+  },
+  {
+    "korean": "구속하다",
+    "english": "to restrain; to detain",
+    "nepali": "नियन्त्रण गर्नु"
+  },
+  {
+    "korean": "구수하다",
+    "english": "to be hearty; to be savory",
+    "nepali": "मीठो बास हुनु"
+  },
+  {
+    "korean": "굽히다",
+    "english": "to bend",
+    "nepali": "झुकाउनु"
+  },
+  {
+    "korean": "그르다",
+    "english": "to be wrong",
+    "nepali": "गलत हुनु"
+  },
+  {
+    "korean": "그리워하다",
+    "english": "to miss; to long for",
+    "nepali": "याद गर्नु; सम्झिनु"
+  },
+  {
+    "korean": "극복하다",
+    "english": "to overcome",
+    "nepali": "पार गर्नु"
+  },
+  {
+    "korean": "긍정적이다",
+    "english": "to be positive",
+    "nepali": "सकारात्मक हुनु"
+  },
+  {
+    "korean": "기원하다",
+    "english": "to wish",
+    "nepali": "कामना गर्नु"
+  },
+  {
+    "korean": "긴박하다",
+    "english": "to be urgent; to be pressing",
+    "nepali": "चिन्तामा हुनु"
+  },
+  {
+    "korean": "가라앉다",
+    "english": "to sink",
+    "nepali": "डुब्नु"
+  },
+  {
+    "korean": "가엾다",
+    "english": "to be pitiful",
+    "nepali": "दयनीय हुनु"
+  },
+  {
+    "korean": "끝나다",
+    "english": "to end; to be finished",
+    "nepali": "सकिनु"
+  },
+  {
+    "korean": "끝내다",
+    "english": "to finish (something)",
+    "nepali": "सक्नु; सकाउनु"
+  },
+  {
+    "korean": "끄다",
+    "english": "to turn off; to put out",
+    "nepali": "निभाउनु; बन्द गर्नु"
+  },
+  {
+    "korean": "깨끗하다",
+    "english": "to be clean",
+    "nepali": "सफा हुनु"
+  },
+  {
+    "korean": "꺼내다",
+    "english": "to take out; to pull out",
+    "nepali": "निकाल्नु"
+  },
+  {
+    "korean": "꿈꾸다",
+    "english": "to dream",
+    "nepali": "सपना देख्नु"
+  },
+  {
+    "korean": "깜빡하다",
+    "english": "to forget (momentarily)",
+    "nepali": "बिर्सनु"
+  },
+  {
+    "korean": "깨다",
+    "english": "to break; to wake up",
+    "nepali": "फुटाउनु; ब्युँझनु"
+  },
+  {
+    "korean": "깨우다",
+    "english": "to wake (someone) up",
+    "nepali": "ब्युँझाउनु"
+  },
+  {
+    "korean": "끓이다",
+    "english": "to boil",
+    "nepali": "उमाल्नु"
+  },
+  {
+    "korean": "끊다",
+    "english": "to cut off; to quit",
+    "nepali": "काटिनु, चुट्नु"
+  },
+  {
+    "korean": "끼다",
+    "english": "to get stuck; to wear (gloves, ring)",
+    "nepali": "अड्किनु"
+  },
+  {
+    "korean": "꾸미다",
+    "english": "to decorate",
+    "nepali": "सजाउनु"
+  },
+  {
+    "korean": "깎다",
+    "english": "to peel; to shave; to trim",
+    "nepali": "छाल्नु; काट्नु"
+  },
+  {
+    "korean": "끌다",
+    "english": "to drag; to pull",
+    "nepali": "घिसार्नु"
+  },
+  {
+    "korean": "깨지다",
+    "english": "to be broken",
+    "nepali": "फुट्नु"
+  },
+  {
+    "korean": "깜짝하다",
+    "english": "to be startled",
+    "nepali": "अचम्मित हुनु"
+  },
+  {
+    "korean": "깨닫다",
+    "english": "to realize",
+    "nepali": "बोध गर्नु; थाहा पाउनु"
+  },
+  {
+    "korean": "깨어나다",
+    "english": "to wake up; to regain consciousness",
+    "nepali": "ब्युँझनु; होस आउनु"
+  },
+  {
+    "korean": "까맣다",
+    "english": "to be black",
+    "nepali": "कालो हुनु"
+  },
+  {
+    "korean": "꽂다",
+    "english": "to insert; to stick in",
+    "nepali": "घुसार्नु"
+  },
+  {
+    "korean": "까다롭다",
+    "english": "to be picky; to be demanding",
+    "nepali": "नखरा गर्ने हुनु; कठिन हुनु"
+  },
+  {
+    "korean": "꼼꼼하다",
+    "english": "to be careful; to be meticulous",
+    "nepali": "होसियार हुनु; विस्तृत हुनु"
+  },
+  {
+    "korean": "끈적하다",
+    "english": "to be sticky",
+    "nepali": "टाँसिने हुनु"
+  },
+  {
+    "korean": "끓다",
+    "english": "to boil",
+    "nepali": "उम्लिनु"
+  },
+  {
+    "korean": "끔찍하다",
+    "english": "to be terrible; to be awful",
+    "nepali": "भयानक हुनु"
+  },
+  {
+    "korean": "꽉 끼다",
+    "english": "to be tight (clothes)",
+    "nepali": "कस्सिनु; टाइट हुनु"
+  },
+  {
+    "korean": "깨우치다",
+    "english": "to enlighten; to realize",
+    "nepali": "ज्ञान दिनु; बोध गर्नु"
+  },
+  {
+    "korean": "나오다",
+    "english": "to come out; to appear",
+    "nepali": "बाहिर आउनु"
+  },
+  {
+    "korean": "나가다",
+    "english": "to go out",
+    "nepali": "बाहिर जानु"
+  },
+  {
+    "korean": "나다",
+    "english": "to come out; to occur",
+    "nepali": "आउनु / निस्कनु / सञ्चो हुनु"
+  },
+  {
+    "korean": "나쁘다",
+    "english": "to be bad",
+    "nepali": "खराब हुनु"
+  },
+  {
+    "korean": "낮다",
+    "english": "to be low",
+    "nepali": "होचो हुनु; तल हुनु"
+  },
+  {
+    "korean": "높다",
+    "english": "to be high; to be tall",
+    "nepali": "अग्लो हुनु; उच्च हुनु"
+  },
+  {
+    "korean": "넣다",
+    "english": "to put in",
+    "nepali": "भित्र राख्नु; हाल्नु"
+  },
+  {
+    "korean": "놀다",
+    "english": "to play; to hang out",
+    "nepali": "खेल्नु; रमाउनु"
+  },
+  {
+    "korean": "놀라다",
+    "english": "to be surprised",
+    "nepali": "छक्क पर्नु; आश्चर्य हुनु"
+  },
+  {
+    "korean": "늦다",
+    "english": "to be late",
+    "nepali": "ढिलो हुनु"
+  },
+  {
+    "korean": "넓다",
+    "english": "to be wide; to be spacious",
+    "nepali": "फराकिलो हुनु"
+  },
+  {
+    "korean": "내리다",
+    "english": "to get off; to go down; to drop",
+    "nepali": "ओर्लनु; झर्नु"
+  },
+  {
+    "korean": "내다",
+    "english": "to pay; to put out; to hand in",
+    "nepali": "तिर्नु; निकाल्नु; बुझाउनु"
+  },
+  {
+    "korean": "남다",
+    "english": "to remain; to be left",
+    "nepali": "बाँकी रहनु"
+  },
+  {
+    "korean": "낫다",
+    "english": "to get better; to heal",
+    "nepali": "निको हुनु"
+  },
+  {
+    "korean": "노래하다",
+    "english": "to sing",
+    "nepali": "गीत गाउनु"
+  },
+  {
+    "korean": "노래를 부르다",
+    "english": "to sing a song",
+    "nepali": "गीत गाउनु"
+  },
+  {
+    "korean": "노력하다",
+    "english": "to make an effort",
+    "nepali": "प्रयास गर्नु; मेहनत गर्नु"
+  },
+  {
+    "korean": "놓다",
+    "english": "to put; to place; to let go",
+    "nepali": "राख्नु; छोड्नु"
+  },
+  {
+    "korean": "눕다",
+    "english": "to lie down",
+    "nepali": "सुत्नु; पल्टिनु"
+  },
+  {
+    "korean": "느끼다",
+    "english": "to feel",
+    "nepali": "महसुस गर्नु"
+  },
+  {
+    "korean": "늘다",
+    "english": "to increase; to improve",
+    "nepali": "बढ्नु"
+  },
+  {
+    "korean": "느리다",
+    "english": "to be slow",
+    "nepali": "ढिलो हुनु"
+  },
+  {
+    "korean": "나누다",
+    "english": "to share; to divide",
+    "nepali": "बाँड्नु"
+  },
+  {
+    "korean": "나타나다",
+    "english": "to appear; to show up",
+    "nepali": "देखिनु; प्रकट हुनु"
+  },
+  {
+    "korean": "날다",
+    "english": "to fly",
+    "nepali": "उड्नु"
+  },
+  {
+    "korean": "내려가다",
+    "english": "to go down",
+    "nepali": "तल जानु"
+  },
+  {
+    "korean": "내려오다",
+    "english": "to come down",
+    "nepali": "तल आउनु"
+  },
+  {
+    "korean": "넘다",
+    "english": "to exceed; to cross over",
+    "nepali": "नाघ्नु; पार गर्नु"
+  },
+  {
+    "korean": "넘어지다",
+    "english": "to fall down",
+    "nepali": "लड्नु"
+  },
+  {
+    "korean": "넘어가다",
+    "english": "to go over; to cross",
+    "nepali": "पार गर्नु"
+  },
+  {
+    "korean": "냄새나다",
+    "english": "to smell; to stink",
+    "nepali": "गन्ध आउनु"
+  },
+  {
+    "korean": "냄새 맡다",
+    "english": "to smell",
+    "nepali": "सुँघ्नु"
+  },
+  {
+    "korean": "남기다",
+    "english": "to leave behind",
+    "nepali": "छोड्नु; बाँकी राख्नु"
+  },
+  {
+    "korean": "낳다",
+    "english": "to give birth",
+    "nepali": "जन्म दिनु"
+  },
+  {
+    "korean": "낡다",
+    "english": "to be old; to be worn out",
+    "nepali": "पुरानो हुनु; जीर्ण हुनु"
+  },
+  {
+    "korean": "눈이 오다",
+    "english": "to snow",
+    "nepali": "हिउँ पर्नु"
+  },
+  {
+    "korean": "눈 감다",
+    "english": "to close eyes",
+    "nepali": "आँखा चिम्लनु"
+  },
+  {
+    "korean": "눈 뜨다",
+    "english": "to open eyes",
+    "nepali": "आँखा खोल्नु"
+  },
+  {
+    "korean": "누르다",
+    "english": "to press",
+    "nepali": "थिच्नु"
+  },
+  {
+    "korean": "놓치다",
+    "english": "to miss",
+    "nepali": "छुट्नु"
+  },
+  {
+    "korean": "농담하다",
+    "english": "to joke",
+    "nepali": "ठट्टा गर्नु"
+  },
+  {
+    "korean": "늙다",
+    "english": "to get old",
+    "nepali": "बुढो हुनु"
+  },
+  {
+    "korean": "늘리다",
+    "english": "to increase (something)",
+    "nepali": "बढाउनु"
+  },
+  {
+    "korean": "늘어나다",
+    "english": "to increase; to stretch",
+    "nepali": "बढ्नु"
+  },
+  {
+    "korean": "나아지다",
+    "english": "to get better",
+    "nepali": "राम्रो हुनु; सुधार हुनु"
+  },
+  {
+    "korean": "나빠지다",
+    "english": "to get worse",
+    "nepali": "खराब हुनु"
+  },
+  {
+    "korean": "낮아지다",
+    "english": "to become lower",
+    "nepali": "तल हुनु; घट्नु"
+  },
+  {
+    "korean": "높아지다",
+    "english": "to become higher",
+    "nepali": "माथि हुनु; बढ्नु"
+  },
+  {
+    "korean": "느려지다",
+    "english": "to get slower",
+    "nepali": "ढिलो हुनु"
+  },
+  {
+    "korean": "녹다",
+    "english": "to melt",
+    "nepali": "पग्लनु"
+  },
+  {
+    "korean": "녹이다",
+    "english": "to melt (something)",
+    "nepali": "पगाल्नु"
+  },
+  {
+    "korean": "녹음하다",
+    "english": "to record (audio)",
+    "nepali": "रेकर्ड गर्नु"
+  },
+  {
+    "korean": "녹화하다",
+    "english": "to record (video)",
+    "nepali": "भिडियो रेकर्ड गर्नु"
+  },
+  {
+    "korean": "날씬하다",
+    "english": "to be slim",
+    "nepali": "दुब्लो र राम्रो शरीर हुनु"
+  },
+  {
+    "korean": "날아가다",
+    "english": "to fly away",
+    "nepali": "उडेर जानु"
+  },
+  {
+    "korean": "날리다",
+    "english": "to make fly; to blow away",
+    "nepali": "उडाइनु"
+  },
+  {
+    "korean": "낭비하다",
+    "english": "to waste",
+    "nepali": "खेर फाल्नु"
+  },
+  {
+    "korean": "낯설다",
+    "english": "to be unfamiliar; to be strange",
+    "nepali": "अपरिचित हुनु"
+  },
+  {
+    "korean": "낯익다",
+    "english": "to be familiar-looking",
+    "nepali": "चिनेको जस्तो हुनु"
+  },
+  {
+    "korean": "넘기다",
+    "english": "to pass over; to turn (page)",
+    "nepali": "हस्तान्तरण गर्नु; पाना पल्टाउनु"
+  },
+  {
+    "korean": "넘치다",
+    "english": "to overflow",
+    "nepali": "भरिएर पोखिनु"
+  },
+  {
+    "korean": "널다",
+    "english": "to hang out (laundry)",
+    "nepali": "(लुगा) सुकाउन फिँजाउनु"
+  },
+  {
+    "korean": "너그럽다",
+    "english": "to be generous; to be tolerant",
+    "nepali": "उदार हुनु"
+  },
+  {
+    "korean": "넉넉하다",
+    "english": "to be plentiful; to be enough",
+    "nepali": "पर्याप्त हुनु"
+  },
+  {
+    "korean": "노랗다",
+    "english": "to be yellow",
+    "nepali": "पहेँलो हुनु"
+  },
+  {
+    "korean": "놀랍다",
+    "english": "to be amazing; to be surprising",
+    "nepali": "आश्चर्यजनक हुनु"
+  },
+  {
+    "korean": "눈부시다",
+    "english": "to be dazzling",
+    "nepali": "आँखा झिमिक्क पार्ने हुनु"
+  },
+  {
+    "korean": "눈치채다",
+    "english": "to notice; to catch on",
+    "nepali": "भाँप्नु"
+  },
+  {
+    "korean": "눌리다",
+    "english": "to be pressed",
+    "nepali": "निचोर्नु, दबाउनु"
+  },
+  {
+    "korean": "느긋하다",
+    "english": "to be relaxed; to be laid-back",
+    "nepali": "आरामसँग हुनु"
+  },
+  {
+    "korean": "느끼하다",
+    "english": "to be greasy",
+    "nepali": "चिल्लो हुनु"
+  },
+  {
+    "korean": "눅눅하다",
+    "english": "to be damp; to be clammy",
+    "nepali": "ओसिलो हुनु"
+  },
+  {
+    "korean": "늦추다",
+    "english": "to delay; to loosen",
+    "nepali": "ढिलो गर्नु; खुकुलो पार्नु"
+  },
+  {
+    "korean": "난처하다",
+    "english": "to be in an awkward position",
+    "nepali": "अप्ठ्यारोमा पर्नु"
+  },
+  {
+    "korean": "날카롭다",
+    "english": "to be sharp",
+    "nepali": "तिखो हुनु"
+  },
+  {
+    "korean": "나른하다",
+    "english": "to feel drowsy; to feel languid",
+    "nepali": "सुस्त हुनु"
+  },
+  {
+    "korean": "낙천적이다",
+    "english": "to be optimistic",
+    "nepali": "आशावादी हुनु"
+  },
+  {
+    "korean": "냉정하다",
+    "english": "to be cold-hearted",
+    "nepali": "निर्दयी हुनु"
+  },
+  {
+    "korean": "내성적이다",
+    "english": "to be introverted",
+    "nepali": "अन्तर्मुखी हुनु"
+  },
+  {
+    "korean": "논의하다",
+    "english": "to discuss",
+    "nepali": "छलफल गर्नु"
+  },
+  {
+    "korean": "논하다",
+    "english": "to argue; to discuss",
+    "nepali": "विवादमा पर्नु"
+  },
+  {
+    "korean": "농사하다",
+    "english": "to farm",
+    "nepali": "खेती गर्नु"
+  },
+  {
+    "korean": "누다",
+    "english": "to relieve oneself",
+    "nepali": "खाली गर्नु"
+  },
+  {
+    "korean": "되다",
+    "english": "to become; to be OK",
+    "nepali": "बन्नु; हुनु"
+  },
+  {
+    "korean": "두다",
+    "english": "to put; to leave; to keep",
+    "nepali": "राख्नु; छोड्नु"
+  },
+  {
+    "korean": "들다",
+    "english": "to hold; to lift; to carry",
+    "nepali": "समात्नु; उठाउनु"
+  },
+  {
+    "korean": "듣다",
+    "english": "to listen; to hear",
+    "nepali": "सुन्नु"
+  },
+  {
+    "korean": "다니다",
+    "english": "to go regularly; to attend",
+    "nepali": "नियमित जानु; पढ्न जानु"
+  },
+  {
+    "korean": "다녀오다",
+    "english": "to go and come back",
+    "nepali": "गएर आउनु"
+  },
+  {
+    "korean": "닫다",
+    "english": "to close",
+    "nepali": "बन्द गर्नु"
+  },
+  {
+    "korean": "닦다",
+    "english": "to wipe; to polish; to brush",
+    "nepali": "पुछ्नु; माझ्नु"
+  },
+  {
+    "korean": "다르다",
+    "english": "to be different",
+    "nepali": "फरक हुनु"
+  },
+  {
+    "korean": "달다",
+    "english": "to be sweet",
+    "nepali": "गुलियो हुनु"
+  },
+  {
+    "korean": "달리다",
+    "english": "to run",
+    "nepali": "दौडनु"
+  },
+  {
+    "korean": "덥다",
+    "english": "to be hot (weather)",
+    "nepali": "गर्मी हुनु"
+  },
+  {
+    "korean": "돌아가다",
+    "english": "to go back; to return",
+    "nepali": "फर्कनु"
+  },
+  {
+    "korean": "돌아오다",
+    "english": "to come back",
+    "nepali": "फर्केर आउनु"
+  },
+  {
+    "korean": "들어가다",
+    "english": "to go in; to enter",
+    "nepali": "भित्र जानु"
+  },
+  {
+    "korean": "들어오다",
+    "english": "to come in",
+    "nepali": "भित्र आउनु"
+  },
+  {
+    "korean": "도착하다",
+    "english": "to arrive",
+    "nepali": "पुग्नु"
+  },
+  {
+    "korean": "도와주다",
+    "english": "to help",
+    "nepali": "मद्दत गर्नु"
+  },
+  {
+    "korean": "돕다",
+    "english": "to help",
+    "nepali": "सहयोग गर्नु"
+  },
+  {
+    "korean": "드리다",
+    "english": "to give (polite)",
+    "nepali": "दिनु (सम्मानपूर्वक)"
+  },
+  {
+    "korean": "드시다",
+    "english": "to eat (honorific)",
+    "nepali": "खानुहुन्छ"
+  },
+  {
+    "korean": "대답하다",
+    "english": "to answer",
+    "nepali": "जवाफ दिनु"
+  },
+  {
+    "korean": "던지다",
+    "english": "to throw",
+    "nepali": "फाल्नु"
+  },
+  {
+    "korean": "덮다",
+    "english": "to cover",
+    "nepali": "छोप्नु"
+  },
+  {
+    "korean": "다치다",
+    "english": "to get hurt",
+    "nepali": "चोट लाग्नु"
+  },
+  {
+    "korean": "대하다",
+    "english": "to treat; to face",
+    "nepali": "व्यवहार गर्नु; सामना गर्नु"
+  },
+  {
+    "korean": "대화하다",
+    "english": "to have a conversation",
+    "nepali": "संवाद गर्नु"
+  },
+  {
+    "korean": "대화를 나누다",
+    "english": "to have a conversation",
+    "nepali": "कुराकानी गर्नु"
+  },
+  {
+    "korean": "데려가다",
+    "english": "to take (a person) along",
+    "nepali": "लिएर जानु"
+  },
+  {
+    "korean": "데려오다",
+    "english": "to bring (a person)",
+    "nepali": "लिएर आउनु"
+  },
+  {
+    "korean": "도망가다",
+    "english": "to run away",
+    "nepali": "भाग्नु"
+  },
+  {
+    "korean": "돌다",
+    "english": "to turn; to spin",
+    "nepali": "घुम्नु"
+  },
+  {
+    "korean": "돌려주다",
+    "english": "to give back; to return",
+    "nepali": "फिर्ता दिनु"
+  },
+  {
+    "korean": "돌리다",
+    "english": "to turn (something)",
+    "nepali": "घुमाउनु"
+  },
+  {
+    "korean": "돌보다",
+    "english": "to take care of",
+    "nepali": "हेरचाह गर्नु"
+  },
+  {
+    "korean": "돈을 내다",
+    "english": "to pay money",
+    "nepali": "पैसा तिर्नु"
+  },
+  {
+    "korean": "돈을 찾다",
+    "english": "to withdraw cash",
+    "nepali": "नगद निकाल्नु"
+  },
+  {
+    "korean": "돈을 빼다",
+    "english": "to withdraw money",
+    "nepali": "पैसा झिक्नु"
+  },
+  {
+    "korean": "돈이 들다",
+    "english": "to cost money",
+    "nepali": "पैसा खर्च हुनु"
+  },
+  {
+    "korean": "도움이 되다",
+    "english": "to be helpful",
+    "nepali": "सहयोग हुनु"
+  },
+  {
+    "korean": "닮다",
+    "english": "to resemble",
+    "nepali": "दुरुस्तै, मिल्दो जुल्दो हुनु"
+  },
+  {
+    "korean": "다가가다",
+    "english": "to approach",
+    "nepali": "नजिक जानु"
+  },
+  {
+    "korean": "다가오다",
+    "english": "to come closer",
+    "nepali": "नजिक आउनु"
+  },
+  {
+    "korean": "다양하다",
+    "english": "to be diverse",
+    "nepali": "विविध हुनु"
+  },
+  {
+    "korean": "다행이다",
+    "english": "to be lucky; to be a relief",
+    "nepali": "सौभाग्य हुनु; राहत हुनु"
+  },
+  {
+    "korean": "단순하다",
+    "english": "to be simple",
+    "nepali": "साधारण हुनु; सरल हुनु"
+  },
+  {
+    "korean": "닫히다",
+    "english": "to be closed",
+    "nepali": "बन्द हुनु"
+  },
+  {
+    "korean": "답답하다",
+    "english": "to be frustrated; to be stuffy",
+    "nepali": "अप्ठ्यारो लाग्नु; बन्द लाग्नु"
+  },
+  {
+    "korean": "당기다",
+    "english": "to pull",
+    "nepali": "तान्नु"
+  },
+  {
+    "korean": "당황하다",
+    "english": "to be flustered",
+    "nepali": "हडबडाउनु"
+  },
+  {
+    "korean": "대단하다",
+    "english": "to be great; to be amazing",
+    "nepali": "उत्कृष्ट हुनु; ठूलो हुनु"
+  },
+  {
+    "korean": "더럽다",
+    "english": "to be dirty",
+    "nepali": "फोहोर हुनु"
+  },
+  {
+    "korean": "더하다",
+    "english": "to add",
+    "nepali": "जोड्नु; थप्नु"
+  },
+  {
+    "korean": "도전하다",
+    "english": "to challenge; to try",
+    "nepali": "चुनौती दिनु; प्रयास गर्नु"
+  },
+  {
+    "korean": "독서하다",
+    "english": "to read",
+    "nepali": "पढ्नु"
+  },
+  {
+    "korean": "동의하다",
+    "english": "to agree",
+    "nepali": "सहमत हुनु"
+  },
+  {
+    "korean": "두껍다",
+    "english": "to be thick",
+    "nepali": "बाक्लो हुनु; मोटो हुनु"
+  },
+  {
+    "korean": "두렵다",
+    "english": "to be fearful",
+    "nepali": "डर लाग्नु"
+  },
+  {
+    "korean": "두려워하다",
+    "english": "to fear",
+    "nepali": "डर मान्नु"
+  },
+  {
+    "korean": "두드리다",
+    "english": "to knock; to beat",
+    "nepali": "ठकठक गर्नु; ठोक्नु"
+  },
+  {
+    "korean": "둥글다",
+    "english": "to be round",
+    "nepali": "गोलो हुनु"
+  },
+  {
+    "korean": "뒤집다",
+    "english": "to flip over; to turn over",
+    "nepali": "पल्टाउनु"
+  },
+  {
+    "korean": "등록하다",
+    "english": "to register",
+    "nepali": "दर्ता गर्नु"
+  },
+  {
+    "korean": "등산하다",
+    "english": "to hike",
+    "nepali": "पहाड चढ्नु"
+  },
+  {
+    "korean": "데리다",
+    "english": "to take along (person, animal)",
+    "nepali": "लिनु (मानिस, जनावर)"
+  },
+  {
+    "korean": "데우다",
+    "english": "to heat up",
+    "nepali": "तताउनु"
+  },
+  {
+    "korean": "데다",
+    "english": "to get burned",
+    "nepali": "पोल्नु"
+  },
+  {
+    "korean": "도둑을 맞다",
+    "english": "to be robbed",
+    "nepali": "चोर पस्नु"
+  },
+  {
+    "korean": "도장을 찍다",
+    "english": "to stamp a seal",
+    "nepali": "छाप लगाउनु"
+  },
+  {
+    "korean": "도둑질하다",
+    "english": "to steal",
+    "nepali": "चोर्नु"
+  },
+  {
+    "korean": "도망치다",
+    "english": "to flee",
+    "nepali": "भाग्नु"
+  },
+  {
+    "korean": "담그다",
+    "english": "to soak; to make kimchi",
+    "nepali": "भिजाउनु; किमची बनाउनु"
+  },
+  {
+    "korean": "담다",
+    "english": "to put in; to contain",
+    "nepali": "हाल्नु; राख्नु"
+  },
+  {
+    "korean": "담당하다",
+    "english": "to be in charge of",
+    "nepali": "जिम्मा लिनु"
+  },
+  {
+    "korean": "담담하다",
+    "english": "to be calm",
+    "nepali": "शान्त हुनु"
+  },
+  {
+    "korean": "단단하다",
+    "english": "to be firm; to be solid",
+    "nepali": "बलियो हुनु; कडा हुनु"
+  },
+  {
+    "korean": "단정하다",
+    "english": "to be neat; to be tidy",
+    "nepali": "सफा / चिटिक्क हुनु"
+  },
+  {
+    "korean": "단추를 잠그다",
+    "english": "to button up",
+    "nepali": "टाँक लगाउनु"
+  },
+  {
+    "korean": "단추를 풀다",
+    "english": "to unbutton",
+    "nepali": "टाँक खोल्नु"
+  },
+  {
+    "korean": "달콤하다",
+    "english": "to be sweet",
+    "nepali": "गुलियो हुनु; मीठो हुनु"
+  },
+  {
+    "korean": "답변하다",
+    "english": "to reply",
+    "nepali": "जवाफ दिनु"
+  },
+  {
+    "korean": "당당하다",
+    "english": "to be confident; to be dignified",
+    "nepali": "आत्मविश्वासी हुनु"
+  },
+  {
+    "korean": "당하다",
+    "english": "to suffer; to encounter",
+    "nepali": "मुठभेड हुनु"
+  },
+  {
+    "korean": "다운로드하다",
+    "english": "to download",
+    "nepali": "डाउनलोड गर्नु"
+  },
+  {
+    "korean": "다정하다",
+    "english": "to be affectionate",
+    "nepali": "मायालु हुनु"
+  },
+  {
+    "korean": "다투다",
+    "english": "to quarrel",
+    "nepali": "झगडा गर्नु"
+  },
+  {
+    "korean": "다하다",
+    "english": "to exhaust; to finish",
+    "nepali": "सबै गर्नु"
+  },
+  {
+    "korean": "다지다",
+    "english": "to mince",
+    "nepali": "काटेर बारीक पार्नु"
+  },
+  {
+    "korean": "다리가 부러지다",
+    "english": "to break a leg",
+    "nepali": "खुट्टा भाँचिनु"
+  },
+  {
+    "korean": "다리 떨다",
+    "english": "to shake one's leg",
+    "nepali": "खुट्टा हल्लाउनु"
+  },
+  {
+    "korean": "담백하다",
+    "english": "to be light (taste)",
+    "nepali": "हल्का स्वादको हुनु"
+  },
+  {
+    "korean": "담배꽁초를 버리다",
+    "english": "to throw away cigarette butts",
+    "nepali": "चुरोटका ठुटा फाल्नु"
+  },
+  {
+    "korean": "덜다",
+    "english": "to reduce; to take off",
+    "nepali": "घटाउनु; हटाउनु"
+  },
+  {
+    "korean": "덜렁대다",
+    "english": "to be careless",
+    "nepali": "लापरवाह हुनु"
+  },
+  {
+    "korean": "독특하다",
+    "english": "to be unique; to be distinctive",
+    "nepali": "अनौठो हुनु"
+  },
+  {
+    "korean": "돌아가시다",
+    "english": "to pass away (honorific)",
+    "nepali": "स्वर्गवास हुनु"
+  },
+  {
+    "korean": "드러나다",
+    "english": "to be revealed; to show",
+    "nepali": "प्रकट हुनु; देखिनु"
+  },
+  {
+    "korean": "드물다",
+    "english": "to be rare",
+    "nepali": "दुर्लभ हुनु"
+  },
+  {
+    "korean": "든든하다",
+    "english": "to feel reassured; to be solid",
+    "nepali": "ढुक्क हुनु"
+  },
+  {
+    "korean": "들리다",
+    "english": "to be heard",
+    "nepali": "सुनिनु"
+  },
+  {
+    "korean": "뒤집히다",
+    "english": "to be turned over",
+    "nepali": "पल्टिनु"
+  },
+  {
+    "korean": "더워지다",
+    "english": "to get hotter",
+    "nepali": "गर्मी हुनु"
+  },
+  {
+    "korean": "뛰다",
+    "english": "to run; to jump",
+    "nepali": "दौडनु; उफ्रनु"
+  },
+  {
+    "korean": "따라가다",
+    "english": "to follow; to go along",
+    "nepali": "पछ्याउनु"
+  },
+  {
+    "korean": "따라오다",
+    "english": "to follow; to come along",
+    "nepali": "पछ्याउँदै आउनु"
+  },
+  {
+    "korean": "따라 하다",
+    "english": "to imitate; to repeat after",
+    "nepali": "नक्कल गर्नु; पछ्याउनु"
+  },
+  {
+    "korean": "따뜻하다",
+    "english": "to be warm",
+    "nepali": "न्यानो हुनु"
+  },
+  {
+    "korean": "따뜻해지다",
+    "english": "to get warmer",
+    "nepali": "न्यानो हुनु"
+  },
+  {
+    "korean": "떠나다",
+    "english": "to leave",
+    "nepali": "छोड्नु; हिँड्नु"
+  },
+  {
+    "korean": "떨어지다",
+    "english": "to fall; to drop; to fail",
+    "nepali": "खस्नु; झर्नु; फेल हुनु"
+  },
+  {
+    "korean": "떨어뜨리다",
+    "english": "to drop (something)",
+    "nepali": "खसाल्नु"
+  },
+  {
+    "korean": "똑같다",
+    "english": "to be identical",
+    "nepali": "बिलकुलै उस्तै हुनु"
+  },
+  {
+    "korean": "똑똑하다",
+    "english": "to be smart",
+    "nepali": "चलाख हुनु"
+  },
+  {
+    "korean": "뜨겁다",
+    "english": "to be hot (to touch)",
+    "nepali": "तातो हुनु"
+  },
+  {
+    "korean": "때리다",
+    "english": "to hit; to beat",
+    "nepali": "कुट्नु"
+  },
+  {
+    "korean": "떠들다",
+    "english": "to make noise; to chat loudly",
+    "nepali": "हल्ला गर्नु"
+  },
+  {
+    "korean": "따르다",
+    "english": "to follow; to obey",
+    "nepali": "पछ्याउनु; मान्नु"
+  },
+  {
+    "korean": "뜨다",
+    "english": "to float; to rise; to open (eyes)",
+    "nepali": "तैरिनु; उदाउनु; (आँखा) खोल्नु"
+  },
+  {
+    "korean": "뜯다",
+    "english": "to tear open; to pull off",
+    "nepali": "च्यात्नु; उप्काउनु"
+  },
+  {
+    "korean": "떼다",
+    "english": "to remove; to detach",
+    "nepali": "झिक्नु; छुटाउनु"
+  },
+  {
+    "korean": "떠오르다",
+    "english": "to come to mind; to rise up",
+    "nepali": "याद आउनु; माथि उठ्नु"
+  },
+  {
+    "korean": "땀 나다",
+    "english": "to sweat",
+    "nepali": "पसिना आउनु"
+  },
+  {
+    "korean": "따갑다",
+    "english": "to be stinging; to be burning hot",
+    "nepali": "चर्कलो हुनु; पोल्ने हुनु"
+  },
+  {
+    "korean": "따다",
+    "english": "to pick; to pluck; to earn",
+    "nepali": "टिप्नु; पाउनु"
+  },
+  {
+    "korean": "따분하다",
+    "english": "to be dull; to be boring",
+    "nepali": "उराठलाग्दो हुनु"
+  },
+  {
+    "korean": "따지다",
+    "english": "to argue; to question",
+    "nepali": "बहस गर्नु; सोधपुछ गर्नु"
+  },
+  {
+    "korean": "딱딱하다",
+    "english": "to be hard; to be stiff",
+    "nepali": "कडा हुनु"
+  },
+  {
+    "korean": "뚱뚱하다",
+    "english": "to be fat",
+    "nepali": "मोटो हुनु"
+  },
+  {
+    "korean": "똑바르다",
+    "english": "to be straight; to be upright",
+    "nepali": "सिधा हुनु"
+  },
+  {
+    "korean": "뜻하다",
+    "english": "to mean",
+    "nepali": "अर्थ हुनु"
+  },
+  {
+    "korean": "딱하다",
+    "english": "to be pitiful; to be sorry-looking",
+    "nepali": "दयालाग्दो हुनु"
+  },
+  {
+    "korean": "딴짓하다",
+    "english": "to do something else; to mess around",
+    "nepali": "अर्कै काम गर्नु"
+  },
+  {
+    "korean": "땅을 파다",
+    "english": "to dig the ground",
+    "nepali": "जमीन खन्नु"
+  },
+  {
+    "korean": "떨다",
+    "english": "to shiver; to tremble",
+    "nepali": "काम्नु"
+  },
+  {
+    "korean": "떫다",
+    "english": "to be astringent",
+    "nepali": "कस्सिलो हुनु"
+  },
+  {
+    "korean": "뜨끈하다",
+    "english": "to be piping hot",
+    "nepali": "तातो हुनु"
+  },
+  {
+    "korean": "뜨개질하다",
+    "english": "to knit",
+    "nepali": "बुन्नु, सिलाउनु"
+  },
+  {
+    "korean": "로그인하다",
+    "english": "to log in",
+    "nepali": "लगइन गर्नु"
+  },
+  {
+    "korean": "라면이다",
+    "english": "to be ramyeon (instant noodles)",
+    "nepali": "चाउचाउ हो"
+  },
+  {
+    "korean": "레몬이다",
+    "english": "to be a lemon",
+    "nepali": "कागती हो"
+  },
+  {
+    "korean": "레이저이다",
+    "english": "to be a laser",
+    "nepali": "लेजर हो"
+  },
+  {
+    "korean": "롯데월드이다",
+    "english": "to be Lotte World",
+    "nepali": "फनपार्क हो"
+  },
+  {
+    "korean": "레미콘이다",
+    "english": "to be ready-mix concrete",
+    "nepali": "तयारी मिश्रित कङ्क्रिट हो"
+  },
+  {
+    "korean": "료이다",
+    "english": "to be Ryo (Japanese artist)",
+    "nepali": "जापानिज कलाकार हो"
+  },
+  {
+    "korean": "롱노즈플라이어이다",
+    "english": "to be long-nose pliers",
+    "nepali": "लामो चुच्चे पेचकस हो"
+  },
+  {
+    "korean": "먹다",
+    "english": "to eat",
+    "nepali": "खानु"
+  },
+  {
+    "korean": "마시다",
+    "english": "to drink",
+    "nepali": "पिउनु"
+  },
+  {
+    "korean": "만나다",
+    "english": "to meet",
+    "nepali": "भेट्नु"
+  },
+  {
+    "korean": "만들다",
+    "english": "to make; to create",
+    "nepali": "बनाउनु"
+  },
+  {
+    "korean": "말하다",
+    "english": "to speak; to say; to tell",
+    "nepali": "बोल्नु; भन्नु"
+  },
+  {
+    "korean": "많다",
+    "english": "to be many; to be much",
+    "nepali": "धेरै हुनु"
+  },
+  {
+    "korean": "맛있다",
+    "english": "to be delicious",
+    "nepali": "मीठो हुनु; स्वादिष्ट हुनु"
+  },
+  {
+    "korean": "맛없다",
+    "english": "to be not tasty",
+    "nepali": "मीठो नहुनु"
+  },
+  {
+    "korean": "모르다",
+    "english": "to not know",
+    "nepali": "नजान्नु"
+  },
+  {
+    "korean": "멀다",
+    "english": "to be far",
+    "nepali": "टाढा हुनु"
+  },
+  {
+    "korean": "무겁다",
+    "english": "to be heavy",
+    "nepali": "गह्रौं हुनु"
+  },
+  {
+    "korean": "묻다",
+    "english": "to ask",
+    "nepali": "सोध्नु"
+  },
+  {
+    "korean": "물어보다",
+    "english": "to ask; to inquire",
+    "nepali": "सोधी हेर्नु"
+  },
+  {
+    "korean": "믿다",
+    "english": "to believe; to trust",
+    "nepali": "विश्वास गर्नु"
+  },
+  {
+    "korean": "맞다",
+    "english": "to be correct; to fit; to be hit",
+    "nepali": "सही हुनु; मिल्नु; कुटिनु"
+  },
+  {
+    "korean": "멈추다",
+    "english": "to stop",
+    "nepali": "रोकिनु; रोक्नु"
+  },
+  {
+    "korean": "막다",
+    "english": "to block; to stop",
+    "nepali": "रोक्नु"
+  },
+  {
+    "korean": "마치다",
+    "english": "to finish; to end",
+    "nepali": "सक्नु"
+  },
+  {
+    "korean": "모으다",
+    "english": "to collect; to gather",
+    "nepali": "जम्मा गर्नु"
+  },
+  {
+    "korean": "모이다",
+    "english": "to gather; to come together",
+    "nepali": "भेला हुनु"
+  },
+  {
+    "korean": "만지다",
+    "english": "to touch",
+    "nepali": "छुनु"
+  },
+  {
+    "korean": "말다",
+    "english": "to stop; to not do",
+    "nepali": "नगर्नु; छोड्नु"
+  },
+  {
+    "korean": "말리다",
+    "english": "to dry; to stop (someone)",
+    "nepali": "सुकाउनु; रोक्नु"
+  },
+  {
+    "korean": "맡기다",
+    "english": "to entrust; to leave with",
+    "nepali": "जिम्मा दिनु"
+  },
+  {
+    "korean": "맡다",
+    "english": "to take charge of; to smell",
+    "nepali": "जिम्मा लिनु; सुँघ्नु"
+  },
+  {
+    "korean": "맑다",
+    "english": "to be clear; to be clean",
+    "nepali": "सफा हुनु; खुला हुनु"
+  },
+  {
+    "korean": "맵다",
+    "english": "to be spicy",
+    "nepali": "पिरो हुनु"
+  },
+  {
+    "korean": "목욕하다",
+    "english": "to bathe",
+    "nepali": "नुहाउनु"
+  },
+  {
+    "korean": "목마르다",
+    "english": "to be thirsty",
+    "nepali": "तिर्खा लाग्नु"
+  },
+  {
+    "korean": "미안하다",
+    "english": "to be sorry",
+    "nepali": "माफ गर्नुहोस् भन्नु पर्ने हुनु; खेद हुनु"
+  },
+  {
+    "korean": "밀다",
+    "english": "to push",
+    "nepali": "धकेल्नु"
+  },
+  {
+    "korean": "멋있다",
+    "english": "to be cool; to be stylish",
+    "nepali": "राम्रो हुनु; स्टाइलिश हुनु"
+  },
+  {
+    "korean": "멋지다",
+    "english": "to be great; to be wonderful",
+    "nepali": "उत्कृष्ट हुनु; राम्रो हुनु"
+  },
+  {
+    "korean": "못하다",
+    "english": "to be bad at; to be unable",
+    "nepali": "नसक्नु; कमजोर हुनु"
+  },
+  {
+    "korean": "못생기다",
+    "english": "to be ugly",
+    "nepali": "कुरूप हुनु"
+  },
+  {
+    "korean": "마르다",
+    "english": "to dry up; to be thin",
+    "nepali": "सुक्नु; दुब्लो हुनु"
+  },
+  {
+    "korean": "많이",
+    "english": "a lot; much",
+    "nepali": "धेरै"
+  },
+  {
+    "korean": "많아지다",
+    "english": "to increase in number",
+    "nepali": "धेरै हुनु"
+  },
+  {
+    "korean": "멀어지다",
+    "english": "to get far away",
+    "nepali": "टाढा हुनु"
+  },
+  {
+    "korean": "무섭다",
+    "english": "to be scary; to be afraid",
+    "nepali": "डरलाग्दो हुनु"
+  },
+  {
+    "korean": "무시하다",
+    "english": "to ignore; to look down on",
+    "nepali": "बेवास्ता गर्नु; तुच्छ ठान्नु"
+  },
+  {
+    "korean": "문의하다",
+    "english": "to inquire",
+    "nepali": "जानकारी गर्नु"
+  },
+  {
+    "korean": "문제 생기다",
+    "english": "to have a problem",
+    "nepali": "समस्या पर्नु"
+  },
+  {
+    "korean": "미끄럽다",
+    "english": "to be slippery",
+    "nepali": "चिप्लो हुनु"
+  },
+  {
+    "korean": "미끄러지다",
+    "english": "to slip",
+    "nepali": "चिप्लिनु"
+  },
+  {
+    "korean": "미워하다",
+    "english": "to hate",
+    "nepali": "घृणा गर्नु"
+  },
+  {
+    "korean": "밉다",
+    "english": "to be hateful; to be unlikable",
+    "nepali": "घृणित हुनु; मन नपर्नु"
+  },
+  {
+    "korean": "만족하다",
+    "english": "to be satisfied",
+    "nepali": "सन्तुष्ट हुनु"
+  },
+  {
+    "korean": "맞추다",
+    "english": "to adjust; to match; to set",
+    "nepali": "मिलाउनु; मिलाएर राख्नु"
+  },
+  {
+    "korean": "머무르다",
+    "english": "to stay",
+    "nepali": "बस्नु; रोकिनु"
+  },
+  {
+    "korean": "먹이다",
+    "english": "to feed",
+    "nepali": "खुवाउनु"
+  },
+  {
+    "korean": "모시다",
+    "english": "to attend; to serve (elders)",
+    "nepali": "सेवा गर्नु; लिएर जानु"
+  },
+  {
+    "korean": "모자라다",
+    "english": "to be short of; to be lacking",
+    "nepali": "कम पर्नु"
+  },
+  {
+    "korean": "말씀하시다",
+    "english": "to speak (honorific)",
+    "nepali": "भन्नुहुन्छ"
+  },
+  {
+    "korean": "맞이하다",
+    "english": "to welcome; to greet",
+    "nepali": "स्वागत गर्नु; भेट्नु"
+  },
+  {
+    "korean": "맛보다",
+    "english": "to taste",
+    "nepali": "स्वाद चाख्नु"
+  },
+  {
+    "korean": "묶다",
+    "english": "to tie",
+    "nepali": "बाँध्नु"
+  },
+  {
+    "korean": "매다",
+    "english": "to tie",
+    "nepali": "बाँध्नु / कस्नु"
+  },
+  {
+    "korean": "물다",
+    "english": "to bite; to hold in mouth",
+    "nepali": "टोक्नु"
+  },
+  {
+    "korean": "물 주다",
+    "english": "to water",
+    "nepali": "पानी हाल्नु"
+  },
+  {
+    "korean": "무서워하다",
+    "english": "to be afraid",
+    "nepali": "डराउनु"
+  },
+  {
+    "korean": "무너지다",
+    "english": "to collapse",
+    "nepali": "भत्कनु"
+  },
+  {
+    "korean": "무리하다",
+    "english": "to overdo; to overwork",
+    "nepali": "कडा परिश्रम गर्नु"
+  },
+  {
+    "korean": "무난하다",
+    "english": "to be fine; to be acceptable",
+    "nepali": "ठीकठाकै हुनु"
+  },
+  {
+    "korean": "무례하다",
+    "english": "to be rude",
+    "nepali": "असभ्य हुनु"
+  },
+  {
+    "korean": "무료이다",
+    "english": "to be free (no cost)",
+    "nepali": "निःशुल्क हुनु"
+  },
+  {
+    "korean": "무덥다",
+    "english": "to be hot and humid",
+    "nepali": "उमस हुनु"
+  },
+  {
+    "korean": "면접 보다",
+    "english": "to have an interview",
+    "nepali": "अन्तर्वार्ता दिनु"
+  },
+  {
+    "korean": "문자하다",
+    "english": "to text",
+    "nepali": "म्यासेज पठाउनु"
+  },
+  {
+    "korean": "미지근하다",
+    "english": "to be lukewarm",
+    "nepali": "कुनकुने हुनु"
+  },
+  {
+    "korean": "묻히다",
+    "english": "to be buried; to get stained",
+    "nepali": "गाडिनु; दाग लाग्नु"
+  },
+  {
+    "korean": "마주치다",
+    "english": "to run into; to meet face to face",
+    "nepali": "अचानक भेट हुनु"
+  },
+  {
+    "korean": "마땅하다",
+    "english": "to be proper; to be suitable",
+    "nepali": "उचित हुनु"
+  },
+  {
+    "korean": "막막하다",
+    "english": "to be vast; to be hopeless",
+    "nepali": "के गर्ने भन्ने थाहा नहुनु"
+  },
+  {
+    "korean": "만만하다",
+    "english": "to be easy to handle",
+    "nepali": "सजिलो हुनु"
+  },
+  {
+    "korean": "말랑하다",
+    "english": "to be soft and squishy",
+    "nepali": "नरम हुनु"
+  },
+  {
+    "korean": "매끄럽다",
+    "english": "to be smooth",
+    "nepali": "चिल्लो हुनु"
+  },
+  {
+    "korean": "멍하다",
+    "english": "to be dazed",
+    "nepali": "टोलाउनु"
+  },
+  {
+    "korean": "메우다",
+    "english": "to fill in",
+    "nepali": "भर्नु; पुर्नु"
+  },
+  {
+    "korean": "멱살 잡다",
+    "english": "to grab by the collar",
+    "nepali": "कठालो समात्नु"
+  },
+  {
+    "korean": "몰두하다",
+    "english": "to be absorbed in",
+    "nepali": "लीन हुनु"
+  },
+  {
+    "korean": "못되다",
+    "english": "to be mean",
+    "nepali": "खराब स्वभावको हुनु"
+  },
+  {
+    "korean": "무너뜨리다",
+    "english": "to bring down; to destroy",
+    "nepali": "ढालिदिनु; भत्काउनु"
+  },
+  {
+    "korean": "무디다",
+    "english": "to be dull; to be blunt",
+    "nepali": "भोँटे हुनु"
+  },
+  {
+    "korean": "무치다",
+    "english": "to season (vegetables)",
+    "nepali": "मसला हालेर मिसाउनु"
+  },
+  {
+    "korean": "무해하다",
+    "english": "to be harmless",
+    "nepali": "हानिरहित हुनु"
+  },
+  {
+    "korean": "먼지털다",
+    "english": "to dust off",
+    "nepali": "धुलो टक्टकाउनु"
+  },
+  {
+    "korean": "모종을 심다",
+    "english": "to plant seedlings",
+    "nepali": "बिरुवा रोप्नु"
+  },
+  {
+    "korean": "몸을 식히다",
+    "english": "to cool the body",
+    "nepali": "शरीर शीतल बनाउनु"
+  },
+  {
+    "korean": "보다",
+    "english": "to see; to watch; to look",
+    "nepali": "हेर्नु"
+  },
+  {
+    "korean": "받다",
+    "english": "to receive; to get",
+    "nepali": "पाउनु; लिनु"
+  },
+  {
+    "korean": "배우다",
+    "english": "to learn",
+    "nepali": "सिक्नु"
+  },
+  {
+    "korean": "보내다",
+    "english": "to send; to spend (time)",
+    "nepali": "पठाउनु; बिताउनु"
+  },
+  {
+    "korean": "바쁘다",
+    "english": "to be busy",
+    "nepali": "व्यस्त हुनु"
+  },
+  {
+    "korean": "비싸다",
+    "english": "to be expensive",
+    "nepali": "महँगो हुनु"
+  },
+  {
+    "korean": "바꾸다",
+    "english": "to change; to exchange",
+    "nepali": "बदल्नु"
+  },
+  {
+    "korean": "버리다",
+    "english": "to throw away",
+    "nepali": "फाल्नु"
+  },
+  {
+    "korean": "부르다",
+    "english": "to call; to sing",
+    "nepali": "बोलाउनु; गाउनु"
+  },
+  {
+    "korean": "벗다",
+    "english": "to take off (clothes)",
+    "nepali": "फुकाल्नु"
+  },
+  {
+    "korean": "빌리다",
+    "english": "to borrow; to rent",
+    "nepali": "सापटी लिनु; भाडामा लिनु"
+  },
+  {
+    "korean": "빌려주다",
+    "english": "to lend",
+    "nepali": "सापटी दिनु"
+  },
+  {
+    "korean": "배고프다",
+    "english": "to be hungry",
+    "nepali": "भोक लाग्नु"
+  },
+  {
+    "korean": "배부르다",
+    "english": "to be full (stomach)",
+    "nepali": "पेट भरिनु"
+  },
+  {
+    "korean": "보이다",
+    "english": "to be seen; to show",
+    "nepali": "देखिनु; देखाउनु"
+  },
+  {
+    "korean": "보여주다",
+    "english": "to show",
+    "nepali": "देखाउनु"
+  },
+  {
+    "korean": "방문하다",
+    "english": "to visit",
+    "nepali": "भेटघाट गर्नु"
+  },
+  {
+    "korean": "비가 오다",
+    "english": "to rain",
+    "nepali": "पानी पर्नु"
+  },
+  {
+    "korean": "비슷하다",
+    "english": "to be similar",
+    "nepali": "मिल्दोजुल्दो हुनु"
+  },
+  {
+    "korean": "비교하다",
+    "english": "to compare",
+    "nepali": "तुलना गर्नु"
+  },
+  {
+    "korean": "변하다",
+    "english": "to change; to be changed",
+    "nepali": "परिवर्तन हुनु"
+  },
+  {
+    "korean": "보고 싶다",
+    "english": "to miss (someone); to want to see",
+    "nepali": "भेट्न मन लाग्नु"
+  },
+  {
+    "korean": "부탁하다",
+    "english": "to ask a favor; to request",
+    "nepali": "अनुरोध गर्नु"
+  },
+  {
+    "korean": "반갑다",
+    "english": "to be glad to meet",
+    "nepali": "भेट्दा खुशी हुनु"
+  },
+  {
+    "korean": "바라다",
+    "english": "to hope; to wish",
+    "nepali": "आशा गर्नु; चाहनु"
+  },
+  {
+    "korean": "바라보다",
+    "english": "to gaze at",
+    "nepali": "हेर्नु; ताक्नु"
+  },
+  {
+    "korean": "발견하다",
+    "english": "to discover",
+    "nepali": "पत्ता लगाउनु"
+  },
+  {
+    "korean": "발표하다",
+    "english": "to present; to announce",
+    "nepali": "प्रस्तुत गर्नु; घोषणा गर्नु"
+  },
+  {
+    "korean": "밝다",
+    "english": "to be bright",
+    "nepali": "उज्यालो हुनु"
+  },
+  {
+    "korean": "불편하다",
+    "english": "to be uncomfortable; to be inconvenient",
+    "nepali": "असजिलो हुनु; असुविधाजनक हुनु"
+  },
+  {
+    "korean": "복잡하다",
+    "english": "to be complicated; to be crowded",
+    "nepali": "जटिल हुनु; भीड हुनु"
+  },
+  {
+    "korean": "부족하다",
+    "english": "to be lacking; to be insufficient",
+    "nepali": "कम हुनु; अपर्याप्त हुनु"
+  },
+  {
+    "korean": "불다",
+    "english": "to blow",
+    "nepali": "फुक्नु; चल्नु"
+  },
+  {
+    "korean": "비다",
+    "english": "to be empty",
+    "nepali": "खाली हुनु"
+  },
+  {
+    "korean": "비우다",
+    "english": "to empty",
+    "nepali": "खाली गर्नु"
+  },
+  {
+    "korean": "붙이다",
+    "english": "to attach; to stick",
+    "nepali": "टाँस्नु; जोड्नु"
+  },
+  {
+    "korean": "붙다",
+    "english": "to stick; to pass (exam)",
+    "nepali": "टाँसिनु; पास हुनु"
+  },
+  {
+    "korean": "바르다",
+    "english": "to apply; to spread",
+    "nepali": "दल्नु; लगाउनु"
+  },
+  {
+    "korean": "바람이 불다",
+    "english": "to blow (wind)",
+    "nepali": "हावा चल्नु"
+  },
+  {
+    "korean": "바람불다",
+    "english": "for the wind to blow",
+    "nepali": "हावा चल्नु"
+  },
+  {
+    "korean": "반대하다",
+    "english": "to oppose",
+    "nepali": "विरोध गर्नु"
+  },
+  {
+    "korean": "배달하다",
+    "english": "to deliver",
+    "nepali": "डेलिभरी गर्नु"
+  },
+  {
+    "korean": "배송하다",
+    "english": "to ship",
+    "nepali": "ढुवानी गर्नु"
+  },
+  {
+    "korean": "복사하다",
+    "english": "to copy",
+    "nepali": "कपी गर्नु"
+  },
+  {
+    "korean": "보관하다",
+    "english": "to store; to keep",
+    "nepali": "सुरक्षित राख्नु"
+  },
+  {
+    "korean": "보호하다",
+    "english": "to protect",
+    "nepali": "सुरक्षा गर्नु"
+  },
+  {
+    "korean": "부끄럽다",
+    "english": "to be ashamed; to be shy",
+    "nepali": "लाज लाग्नु"
+  },
+  {
+    "korean": "부럽다",
+    "english": "to be envious",
+    "nepali": "ईर्ष्या लाग्नु"
+  },
+  {
+    "korean": "부드럽다",
+    "english": "to be soft; to be smooth",
+    "nepali": "नरम हुनु; चिल्लो हुनु"
+  },
+  {
+    "korean": "불안하다",
+    "english": "to be anxious; to be uneasy",
+    "nepali": "चिन्तित हुनु"
+  },
+  {
+    "korean": "불평하다",
+    "english": "to complain",
+    "nepali": "गुनासो गर्नु"
+  },
+  {
+    "korean": "번역하다",
+    "english": "to translate",
+    "nepali": "अनुवाद गर्नु"
+  },
+  {
+    "korean": "밤새다",
+    "english": "to stay up all night",
+    "nepali": "रात बिताउनु"
+  },
+  {
+    "korean": "방송하다",
+    "english": "to broadcast",
+    "nepali": "प्रसारण गर्नु"
+  },
+  {
+    "korean": "벌다",
+    "english": "to earn",
+    "nepali": "कमाउनु"
+  },
+  {
+    "korean": "변명하다",
+    "english": "to make an excuse; to explain",
+    "nepali": "स्पष्टीकरण दिनु"
+  },
+  {
+    "korean": "불쌍하다",
+    "english": "to be pitiful; to be poor thing",
+    "nepali": "बिचरा हुनु"
+  },
+  {
+    "korean": "불이 나다",
+    "english": "for a fire to break out",
+    "nepali": "आगो लाग्नु"
+  },
+  {
+    "korean": "불친절하다",
+    "english": "to be unkind",
+    "nepali": "अमिलनसार हुनु"
+  },
+  {
+    "korean": "불가능하다",
+    "english": "to be impossible",
+    "nepali": "असम्भव हुनु"
+  },
+  {
+    "korean": "분명하다",
+    "english": "to be clear; to be obvious",
+    "nepali": "स्पष्ट हुनु"
+  },
+  {
+    "korean": "바래다주다",
+    "english": "to see (someone) off",
+    "nepali": "पुर्‍याउन जानु"
+  },
+  {
+    "korean": "바빠지다",
+    "english": "to get busy",
+    "nepali": "व्यस्त हुनु"
+  },
+  {
+    "korean": "반복하다",
+    "english": "to repeat",
+    "nepali": "दोहोर्याउनु"
+  },
+  {
+    "korean": "반성하다",
+    "english": "to reflect on oneself",
+    "nepali": "आत्मचिन्तन गर्नु"
+  },
+  {
+    "korean": "받아들이다",
+    "english": "to accept; to take in",
+    "nepali": "स्वीकार गर्नु"
+  },
+  {
+    "korean": "발생하다",
+    "english": "to occur",
+    "nepali": "देखा पर्नु"
+  },
+  {
+    "korean": "발전하다",
+    "english": "to develop; to progress",
+    "nepali": "विकास हुनु"
+  },
+  {
+    "korean": "밝아지다",
+    "english": "to get bright",
+    "nepali": "उज्यालो हुनु"
+  },
+  {
+    "korean": "밝히다",
+    "english": "to reveal; to light up",
+    "nepali": "खुलाउनु; उज्यालो पार्नु"
+  },
+  {
+    "korean": "밟다",
+    "english": "to step on",
+    "nepali": "कुल्चनु, टेक्नु"
+  },
+  {
+    "korean": "배탈이 나다",
+    "english": "to have a stomach upset",
+    "nepali": "पखाला लाग्नु"
+  },
+  {
+    "korean": "뱉다",
+    "english": "to spit",
+    "nepali": "थुक्नु"
+  },
+  {
+    "korean": "버릇없다",
+    "english": "to be rude; to be ill-mannered",
+    "nepali": "बेतमिजको हुनु"
+  },
+  {
+    "korean": "번거롭다",
+    "english": "to be troublesome",
+    "nepali": "झन्झटिलो हुनु"
+  },
+  {
+    "korean": "벌금 내다",
+    "english": "to pay a fine",
+    "nepali": "जरिवाना तिर्नु"
+  },
+  {
+    "korean": "벗기다",
+    "english": "to peel; to strip",
+    "nepali": "छाला फुकाल्नु"
+  },
+  {
+    "korean": "보살피다",
+    "english": "to look after",
+    "nepali": "हेरचाह गर्नु"
+  },
+  {
+    "korean": "보태다",
+    "english": "to add; to contribute",
+    "nepali": "थप्नु; सहयोग गर्नु"
+  },
+  {
+    "korean": "보통이다",
+    "english": "to be ordinary; to be average",
+    "nepali": "साधारण हुनु"
+  },
+  {
+    "korean": "복습하다",
+    "english": "to review (lessons)",
+    "nepali": "दोहोर्याउनु"
+  },
+  {
+    "korean": "볶다",
+    "english": "to stir-fry",
+    "nepali": "भुट्नु"
+  },
+  {
+    "korean": "봉사하다",
+    "english": "to volunteer",
+    "nepali": "स्वयंसेवा गर्नु"
+  },
+  {
+    "korean": "부딪치다",
+    "english": "to bump into; to crash",
+    "nepali": "ठोक्किनु"
+  },
+  {
+    "korean": "부러워하다",
+    "english": "to envy",
+    "nepali": "ईर्ष्या गर्नु"
+  },
+  {
+    "korean": "부수다",
+    "english": "to break; to smash",
+    "nepali": "भाँच्नु; तोड्नु"
+  },
+  {
+    "korean": "부지런하다",
+    "english": "to be hardworking",
+    "nepali": "मेहनती हुनु"
+  },
+  {
+    "korean": "분류하다",
+    "english": "to classify; to sort",
+    "nepali": "अलग-अलग गर्नु"
+  },
+  {
+    "korean": "분하다",
+    "english": "to be resentful; to be mortified",
+    "nepali": "रिस र दुःख हुनु"
+  },
+  {
+    "korean": "불만이다",
+    "english": "to be dissatisfied",
+    "nepali": "असन्तुष्ट हुनु"
+  },
+  {
+    "korean": "불안해하다",
+    "english": "to feel anxious",
+    "nepali": "चिन्तित हुनु"
+  },
+  {
+    "korean": "불합격하다",
+    "english": "to fail (an exam)",
+    "nepali": "अनुत्तीर्ण हुनु"
+  },
+  {
+    "korean": "붓다",
+    "english": "to pour; to swell",
+    "nepali": "खन्याउनु; सुन्निनु"
+  },
+  {
+    "korean": "붙여넣다",
+    "english": "to paste",
+    "nepali": "पेस्ट गर्नु"
+  },
+  {
+    "korean": "비추다",
+    "english": "to shine on; to reflect",
+    "nepali": "प्रकाश पार्नु; झल्काउनु"
+  },
+  {
+    "korean": "비치다",
+    "english": "to shine; to be reflected",
+    "nepali": "चम्कनु"
+  },
+  {
+    "korean": "비키다",
+    "english": "to step aside; to move out of the way",
+    "nepali": "हट्नु"
+  },
+  {
+    "korean": "빌다",
+    "english": "to beg; to pray; to wish",
+    "nepali": "माग्नु; प्रार्थना गर्नु"
+  },
+  {
+    "korean": "뱀에 물리다",
+    "english": "to be bitten by a snake",
+    "nepali": "सर्पले टोक्नु"
+  },
+  {
+    "korean": "박다",
+    "english": "to hammer; to nail",
+    "nepali": "ठोक्नु"
+  },
+  {
+    "korean": "발명하다",
+    "english": "to invent",
+    "nepali": "आविष्कार गर्नु"
+  },
+  {
+    "korean": "발음하다",
+    "english": "to pronounce",
+    "nepali": "उच्चारण गर्नु"
+  },
+  {
+    "korean": "반죽하다",
+    "english": "to knead",
+    "nepali": "मुछ्नु"
+  },
+  {
+    "korean": "바삭하다",
+    "english": "to be crispy",
+    "nepali": "कुरकुरे हुनु"
+  },
+  {
+    "korean": "번지다",
+    "english": "to spread",
+    "nepali": "फैलिनु"
+  },
+  {
+    "korean": "버티다",
+    "english": "to hold out; to withstand",
+    "nepali": "टिकिरहनु"
+  },
+  {
+    "korean": "부드러워지다",
+    "english": "to become soft",
+    "nepali": "नरम हुनु"
+  },
+  {
+    "korean": "부러지다",
+    "english": "to snap; to break (bone, stick)",
+    "nepali": "भाँचिनु"
+  },
+  {
+    "korean": "부자이다",
+    "english": "to be rich",
+    "nepali": "धनी हुनु"
+  },
+  {
+    "korean": "부정적이다",
+    "english": "to be negative",
+    "nepali": "नकारात्मक हुनु"
+  },
+  {
+    "korean": "불공평하다",
+    "english": "to be unfair",
+    "nepali": "अन्यायपूर्ण हुनु"
+  },
+  {
+    "korean": "불꽃이 튀다",
+    "english": "for sparks to fly",
+    "nepali": "आगोको झिल्को"
+  },
+  {
+    "korean": "불안정하다",
+    "english": "to be unstable",
+    "nepali": "अस्थिर हुनु"
+  },
+  {
+    "korean": "불에 데다",
+    "english": "to get burned by fire",
+    "nepali": "आगोले पोल्नु"
+  },
+  {
+    "korean": "불참석하다",
+    "english": "to not attend",
+    "nepali": "सहभागी नहुनु"
+  },
+  {
+    "korean": "붕대를 감다",
+    "english": "to bandage",
+    "nepali": "ब्याण्डेज गर्नु"
+  },
+  {
+    "korean": "분위기가 좋다",
+    "english": "to have a good atmosphere",
+    "nepali": "वातावरण राम्रो हुनु"
+  },
+  {
+    "korean": "비비다",
+    "english": "to mix; to rub",
+    "nepali": "मिसाउनु"
+  },
+  {
+    "korean": "배웅가다",
+    "english": "to go to see someone off",
+    "nepali": "पाहुना पुर्‍याउन जानु"
+  },
+  {
+    "korean": "바꿔주다",
+    "english": "to exchange for someone",
+    "nepali": "साटिदिनु"
+  },
+  {
+    "korean": "빠르다",
+    "english": "to be fast; to be early",
+    "nepali": "छिटो हुनु; चाँडो हुनु"
+  },
+  {
+    "korean": "빼다",
+    "english": "to take out; to subtract",
+    "nepali": "झिक्नु; घटाउनु"
+  },
+  {
+    "korean": "빨래하다",
+    "english": "to do laundry",
+    "nepali": "लुगा धुनु"
+  },
+  {
+    "korean": "빠지다",
+    "english": "to fall into; to fall out; to drown",
+    "nepali": "खस्नु; डुब्नु; झर्नु"
+  },
+  {
+    "korean": "빨갛다",
+    "english": "to be red",
+    "nepali": "रातो हुनु"
+  },
+  {
+    "korean": "빨다",
+    "english": "to suck; to wash (clothes)",
+    "nepali": "चुस्नु; लुगा धुनु"
+  },
+  {
+    "korean": "빨라지다",
+    "english": "to get faster",
+    "nepali": "छिटो हुनु"
+  },
+  {
+    "korean": "뿌리다",
+    "english": "to sprinkle; to scatter",
+    "nepali": "छर्कनु; छर्नु"
+  },
+  {
+    "korean": "뽑다",
+    "english": "to pull out; to select; to pick",
+    "nepali": "उखेल्नु; छान्नु"
+  },
+  {
+    "korean": "뿌듯하다",
+    "english": "to feel proud; to feel fulfilled",
+    "nepali": "गर्व महसुस हुनु"
+  },
+  {
+    "korean": "뻔하다",
+    "english": "to be obvious",
+    "nepali": "स्पष्ट हुनु"
+  },
+  {
+    "korean": "빼앗다",
+    "english": "to take away; to snatch",
+    "nepali": "खोस्नु"
+  },
+  {
+    "korean": "빠듯하다",
+    "english": "to be tight (money, time)",
+    "nepali": "अपुग हुनु; साँघुरो हुनु"
+  },
+  {
+    "korean": "뾰족하다",
+    "english": "to be pointed; to be sharp-tipped",
+    "nepali": "टुप्पो भएको हुनु"
+  },
+  {
+    "korean": "뻐근하다",
+    "english": "to be stiff; to be sore",
+    "nepali": "कडा हुनु; थकाइले दुख्नु"
+  },
+  {
+    "korean": "사다",
+    "english": "to buy",
+    "nepali": "किन्नु"
+  },
+  {
+    "korean": "살다",
+    "english": "to live",
+    "nepali": "बस्नु; बाँच्नु"
+  },
+  {
+    "korean": "서다",
+    "english": "to stand; to stop",
+    "nepali": "उभिनु; रोकिनु"
+  },
+  {
+    "korean": "쉬다",
+    "english": "to rest; to take a break",
+    "nepali": "आराम गर्नु"
+  },
+  {
+    "korean": "쉽다",
+    "english": "to be easy",
+    "nepali": "सजिलो हुनु"
+  },
+  {
+    "korean": "시작하다",
+    "english": "to start; to begin",
+    "nepali": "सुरु गर्नु"
+  },
+  {
+    "korean": "사용하다",
+    "english": "to use",
+    "nepali": "प्रयोग गर्नु"
+  },
+  {
+    "korean": "생각하다",
+    "english": "to think",
+    "nepali": "सोच्नु"
+  },
+  {
+    "korean": "싫다",
+    "english": "to be disliked; to hate",
+    "nepali": "मन नपर्नु"
+  },
+  {
+    "korean": "싫어하다",
+    "english": "to dislike",
+    "nepali": "मन नपराउनु"
+  },
+  {
+    "korean": "사랑하다",
+    "english": "to love",
+    "nepali": "माया गर्नु"
+  },
+  {
+    "korean": "시원하다",
+    "english": "to be cool; to be refreshing",
+    "nepali": "शीतल हुनु; ताजा हुनु"
+  },
+  {
+    "korean": "슬프다",
+    "english": "to be sad",
+    "nepali": "दुखी हुनु"
+  },
+  {
+    "korean": "신다",
+    "english": "to wear (shoes, socks)",
+    "nepali": "लगाउनु"
+  },
+  {
+    "korean": "식사하다",
+    "english": "to have a meal",
+    "nepali": "खाना खानु"
+  },
+  {
+    "korean": "사진 찍다",
+    "english": "to take a photo",
+    "nepali": "फोटो खिच्नु"
+  },
+  {
+    "korean": "샤워하다",
+    "english": "to shower",
+    "nepali": "नुहाउनु"
+  },
+  {
+    "korean": "설명하다",
+    "english": "to explain",
+    "nepali": "व्याख्या गर्नु; बुझाउनु"
+  },
+  {
+    "korean": "소개하다",
+    "english": "to introduce",
+    "nepali": "परिचय गराउनु"
+  },
+  {
+    "korean": "숙제하다",
+    "english": "to do homework",
+    "nepali": "गृहकार्य गर्नु"
+  },
+  {
+    "korean": "수영하다",
+    "english": "to swim",
+    "nepali": "पौडिनु"
+  },
+  {
+    "korean": "시험 보다",
+    "english": "to take an exam",
+    "nepali": "परीक्षा दिनु"
+  },
+  {
+    "korean": "산책하다",
+    "english": "to take a walk",
+    "nepali": "टहलिनु"
+  },
+  {
+    "korean": "선택하다",
+    "english": "to choose",
+    "nepali": "छान्नु"
+  },
+  {
+    "korean": "성공하다",
+    "english": "to succeed",
+    "nepali": "सफल हुनु"
+  },
+  {
+    "korean": "시끄럽다",
+    "english": "to be noisy",
+    "nepali": "हल्लाखल्ला हुनु"
+  },
+  {
+    "korean": "심심하다",
+    "english": "to be bored",
+    "nepali": "बोर लाग्नु"
+  },
+  {
+    "korean": "신나다",
+    "english": "to be excited; to be thrilled",
+    "nepali": "रमाउनु; उत्साहित हुनु"
+  },
+  {
+    "korean": "신청하다",
+    "english": "to apply",
+    "nepali": "आवेदन दिनु"
+  },
+  {
+    "korean": "신고하다",
+    "english": "to report (to police)",
+    "nepali": "उजुरी गर्नु; जानकारी दिनु"
+  },
+  {
+    "korean": "실수하다",
+    "english": "to make a mistake",
+    "nepali": "गल्ती गर्नु"
+  },
+  {
+    "korean": "실망하다",
+    "english": "to be disappointed",
+    "nepali": "निराश हुनु"
+  },
+  {
+    "korean": "실패하다",
+    "english": "to fail",
+    "nepali": "असफल हुनु"
+  },
+  {
+    "korean": "쇼핑하다",
+    "english": "to shop",
+    "nepali": "किनमेल गर्नु"
+  },
+  {
+    "korean": "세탁하다",
+    "english": "to do laundry",
+    "nepali": "कपडा धुनु"
+  },
+  {
+    "korean": "설거지하다",
+    "english": "to wash dishes",
+    "nepali": "भाँडा माझ्नु"
+  },
+  {
+    "korean": "세수하다",
+    "english": "to wash one's face",
+    "nepali": "मुख धुनु"
+  },
+  {
+    "korean": "새롭다",
+    "english": "to be new",
+    "nepali": "नयाँ हुनु"
+  },
+  {
+    "korean": "생기다",
+    "english": "to appear; to be formed; to happen",
+    "nepali": "देखा पर्नु; बन्नु; हुनु"
+  },
+  {
+    "korean": "생각나다",
+    "english": "to come to mind",
+    "nepali": "सोच्नु"
+  },
+  {
+    "korean": "사과하다",
+    "english": "to apologize",
+    "nepali": "माफी माग्नु"
+  },
+  {
+    "korean": "사귀다",
+    "english": "to date; to make friends",
+    "nepali": "साथी बन्नु; प्रेम सम्बन्धमा हुनु"
+  },
+  {
+    "korean": "사라지다",
+    "english": "to vanish; to disappear",
+    "nepali": "हराउनु"
+  },
+  {
+    "korean": "사고나다",
+    "english": "to have an accident",
+    "nepali": "दुर्घटना हुनु"
+  },
+  {
+    "korean": "상관없다",
+    "english": "to not matter",
+    "nepali": "फरक नपर्नु"
+  },
+  {
+    "korean": "상담하다",
+    "english": "to consult",
+    "nepali": "परामर्श गर्नु"
+  },
+  {
+    "korean": "상상하다",
+    "english": "to imagine",
+    "nepali": "कल्पना गर्नु"
+  },
+  {
+    "korean": "생활하다",
+    "english": "to live; to lead a life",
+    "nepali": "जीवनयापन गर्नु"
+  },
+  {
+    "korean": "서두르다",
+    "english": "to hurry",
+    "nepali": "हतार गर्नु"
+  },
+  {
+    "korean": "선물하다",
+    "english": "to give a gift",
+    "nepali": "उपहार दिनु"
+  },
+  {
+    "korean": "세우다",
+    "english": "to build; to stand up; to stop",
+    "nepali": "खडा गर्नु; उभ्याउनु; रोक्नु"
+  },
+  {
+    "korean": "세다",
+    "english": "to be strong; to count",
+    "nepali": "बलियो हुनु; गन्नु"
+  },
+  {
+    "korean": "소리치다",
+    "english": "to shout",
+    "nepali": "चिच्याउनु"
+  },
+  {
+    "korean": "소리지르다",
+    "english": "to shout",
+    "nepali": "चिच्याउनु"
+  },
+  {
+    "korean": "속상하다",
+    "english": "to be upset",
+    "nepali": "चिन्तित हुनु"
+  },
+  {
+    "korean": "수고하다",
+    "english": "to toil; to take trouble",
+    "nepali": "मेहनत गर्नु"
+  },
+  {
+    "korean": "수리하다",
+    "english": "to repair",
+    "nepali": "मर्मत गर्नु"
+  },
+  {
+    "korean": "숨 쉬다",
+    "english": "to breathe",
+    "nepali": "सास फेर्नु"
+  },
+  {
+    "korean": "숨다",
+    "english": "to hide",
+    "nepali": "लुक्नु"
+  },
+  {
+    "korean": "숨기다",
+    "english": "to hide (something)",
+    "nepali": "लुकाउनु"
+  },
+  {
+    "korean": "시도하다",
+    "english": "to attempt",
+    "nepali": "प्रयास गर्नु"
+  },
+  {
+    "korean": "시키다",
+    "english": "to order; to make (someone) do",
+    "nepali": "लगाउनु; अर्डर गर्नु"
+  },
+  {
+    "korean": "신기하다",
+    "english": "to be amazing; to be curious",
+    "nepali": "अचम्मको हुनु"
+  },
+  {
+    "korean": "심다",
+    "english": "to plant",
+    "nepali": "रोप्नु"
+  },
+  {
+    "korean": "심하다",
+    "english": "to be severe",
+    "nepali": "अति हुनु"
+  },
+  {
+    "korean": "싣다",
+    "english": "to load",
+    "nepali": "लोड गर्नु; चढाउनु"
+  },
+  {
+    "korean": "시다",
+    "english": "to be sour",
+    "nepali": "अमिलो हुनु"
+  },
+  {
+    "korean": "식히다",
+    "english": "to cool down (something)",
+    "nepali": "चिसो पार्नु"
+  },
+  {
+    "korean": "신경 쓰다",
+    "english": "to care about; to pay attention",
+    "nepali": "ध्यान दिनु; ख्याल गर्नु"
+  },
+  {
+    "korean": "삼키다",
+    "english": "to swallow",
+    "nepali": "निल्नु"
+  },
+  {
+    "korean": "살 빠지다",
+    "english": "to lose weight",
+    "nepali": "दुब्लाउनु"
+  },
+  {
+    "korean": "살찌다",
+    "english": "to gain weight",
+    "nepali": "मोटाउनु"
+  },
+  {
+    "korean": "살리다",
+    "english": "to save; to bring to life",
+    "nepali": "बचाउनु"
+  },
+  {
+    "korean": "살펴보다",
+    "english": "to examine; to look over",
+    "nepali": "ध्यान दिएर हेर्नु"
+  },
+  {
+    "korean": "삶다",
+    "english": "to boil (food)",
+    "nepali": "सिजाउनु"
+  },
+  {
+    "korean": "상처가 나다",
+    "english": "to get injured",
+    "nepali": "चोट लाग्नु"
+  },
+  {
+    "korean": "상쾌하다",
+    "english": "to be refreshing",
+    "nepali": "ताजा हुनु; स्फूर्तिलो हुनु"
+  },
+  {
+    "korean": "상하다",
+    "english": "to spoil; to go bad; to be hurt",
+    "nepali": "बिग्रनु; चोट लाग्नु"
+  },
+  {
+    "korean": "새치기하다",
+    "english": "to cut in line",
+    "nepali": "पालो मिच्नु"
+  },
+  {
+    "korean": "생산하다",
+    "english": "to produce",
+    "nepali": "उत्पादन गर्नु"
+  },
+  {
+    "korean": "섞다",
+    "english": "to mix",
+    "nepali": "मिसाउनु"
+  },
+  {
+    "korean": "선선하다",
+    "english": "to be cool (pleasant)",
+    "nepali": "शीतल हुनु"
+  },
+  {
+    "korean": "설치하다",
+    "english": "to install",
+    "nepali": "जडान गर्नु"
+  },
+  {
+    "korean": "설레다",
+    "english": "to be excited; to flutter",
+    "nepali": "उत्साहित हुनु; मुटु ढुकढुक हुनु"
+  },
+  {
+    "korean": "설사하다",
+    "english": "to have diarrhea",
+    "nepali": "पखाला लाग्नु"
+  },
+  {
+    "korean": "설사를 하다",
+    "english": "to have diarrhea",
+    "nepali": "पखाला लाग्नु"
+  },
+  {
+    "korean": "섭섭하다",
+    "english": "to feel sorry; to feel let down",
+    "nepali": "चित्त दुख्नु"
+  },
+  {
+    "korean": "서운하다",
+    "english": "to feel hurt; to be disappointed",
+    "nepali": "चित्त दुख्नु"
+  },
+  {
+    "korean": "서툴다",
+    "english": "to be clumsy; to be unskilled",
+    "nepali": "अनाडी हुनु"
+  },
+  {
+    "korean": "성실하다",
+    "english": "to be diligent; to be sincere",
+    "nepali": "इमानदार हुनु; मेहनती हुनु"
+  },
+  {
+    "korean": "성장하다",
+    "english": "to grow",
+    "nepali": "वृद्धि हुनु"
+  },
+  {
+    "korean": "소중하다",
+    "english": "to be precious",
+    "nepali": "महत्त्वपूर्ण हुनु; प्यारो हुनु"
+  },
+  {
+    "korean": "소용없다",
+    "english": "to be useless",
+    "nepali": "व्यर्थ हुनु"
+  },
+  {
+    "korean": "솔직하다",
+    "english": "to be frank; to be honest",
+    "nepali": "स्पष्टवक्ता हुनु"
+  },
+  {
+    "korean": "송금하다",
+    "english": "to send money",
+    "nepali": "पैसा पठाउनु"
+  },
+  {
+    "korean": "수술하다",
+    "english": "to have surgery",
+    "nepali": "शल्यक्रिया गर्नु"
+  },
+  {
+    "korean": "수입하다",
+    "english": "to import",
+    "nepali": "आयात गर्नु"
+  },
+  {
+    "korean": "수출하다",
+    "english": "to export",
+    "nepali": "निर्यात गर्नु"
+  },
+  {
+    "korean": "술을 따르다",
+    "english": "to pour alcohol",
+    "nepali": "रक्सी हालिदिनु"
+  },
+  {
+    "korean": "슬퍼하다",
+    "english": "to feel sad; to grieve",
+    "nepali": "दुखी हुनु"
+  },
+  {
+    "korean": "습하다",
+    "english": "to be humid",
+    "nepali": "ओसिलो हुनु"
+  },
+  {
+    "korean": "시들다",
+    "english": "to wither",
+    "nepali": "ओइलाउनु"
+  },
+  {
+    "korean": "시원해지다",
+    "english": "to get cooler",
+    "nepali": "शीतल हुनु"
+  },
+  {
+    "korean": "신발 신다",
+    "english": "to wear shoes",
+    "nepali": "जुत्ता लगाउनु"
+  },
+  {
+    "korean": "싱겁다",
+    "english": "to be bland",
+    "nepali": "नुन कम हुनु; फिक्का हुनु"
+  },
+  {
+    "korean": "사망하다",
+    "english": "to die",
+    "nepali": "मृत्यु हुनु"
+  },
+  {
+    "korean": "사기당하다",
+    "english": "to be cheated",
+    "nepali": "ठगिनु"
+  },
+  {
+    "korean": "사랑에 빠지다",
+    "english": "to fall in love",
+    "nepali": "मायामा फस्नु"
+  },
+  {
+    "korean": "사소하다",
+    "english": "to be trivial",
+    "nepali": "सानातिना हुनु"
+  },
+  {
+    "korean": "삭제하다",
+    "english": "to delete",
+    "nepali": "मेटाउनु"
+  },
+  {
+    "korean": "산만하다",
+    "english": "to be distracted",
+    "nepali": "ध्यान नटिक्ने हुनु"
+  },
+  {
+    "korean": "상냥하다",
+    "english": "to be gentle; to be sweet",
+    "nepali": "नम्र हुनु"
+  },
+  {
+    "korean": "상 차리다",
+    "english": "to set the table",
+    "nepali": "टेबुलमा मिलाउनु"
+  },
+  {
+    "korean": "상을 치우다",
+    "english": "to clear the table",
+    "nepali": "टेबल सफा गर्नु"
+  },
+  {
+    "korean": "선명하다",
+    "english": "to be vivid; to be clear",
+    "nepali": "स्पष्ट हुनु; चम्किलो हुनु"
+  },
+  {
+    "korean": "선별하다",
+    "english": "to select; to sort out",
+    "nepali": "छुट्टाउनु"
+  },
+  {
+    "korean": "설계하다",
+    "english": "to design",
+    "nepali": "डिजाइन गर्नु"
+  },
+  {
+    "korean": "세배하다",
+    "english": "to bow on New Year's Day",
+    "nepali": "नयाँ वर्षको ढोग गर्नु"
+  },
+  {
+    "korean": "세차하다",
+    "english": "to wash a car",
+    "nepali": "गाडी धुनु"
+  },
+  {
+    "korean": "소극적이다",
+    "english": "to be passive",
+    "nepali": "निष्क्रिय हुनु"
+  },
+  {
+    "korean": "소독하다",
+    "english": "to disinfect",
+    "nepali": "ड्रेसिङ गर्नु"
+  },
+  {
+    "korean": "소송하다",
+    "english": "to sue; to litigate",
+    "nepali": "मुद्दामामिलामा पर्नु"
+  },
+  {
+    "korean": "소음이 심하다",
+    "english": "to be very noisy",
+    "nepali": "आवाज बढी गर्नु"
+  },
+  {
+    "korean": "속삭이다",
+    "english": "to whisper",
+    "nepali": "कानमा बोल्नु"
+  },
+  {
+    "korean": "속이다",
+    "english": "to deceive; to cheat",
+    "nepali": "धोका दिनु"
+  },
+  {
+    "korean": "속이 안좋다",
+    "english": "to have an upset stomach",
+    "nepali": "पेट खराब हुनु"
+  },
+  {
+    "korean": "숙이다",
+    "english": "to bow; to lower",
+    "nepali": "निहुराउनु"
+  },
+  {
+    "korean": "스치다",
+    "english": "to brush past; to graze",
+    "nepali": "छोएर जानु"
+  },
+  {
+    "korean": "스캔하다",
+    "english": "to scan",
+    "nepali": "स्क्यान गर्नु"
+  },
+  {
+    "korean": "스트레스 받다",
+    "english": "to be stressed",
+    "nepali": "तनावमा हुनु"
+  },
+  {
+    "korean": "스트레스 풀다",
+    "english": "to relieve stress",
+    "nepali": "तनावबाट मुक्त हुनु"
+  },
+  {
+    "korean": "쓰다",
+    "english": "to write; to use; to wear (hat, glasses); to be bitter",
+    "nepali": "लेख्नु; प्रयोग गर्नु; लगाउनु; तीतो हुनु"
+  },
+  {
+    "korean": "싸다",
+    "english": "to wrap; to pack; to be cheap",
+    "nepali": "बेर्नु; प्याक गर्नु; सस्तो हुनु"
+  },
+  {
+    "korean": "싸우다",
+    "english": "to fight; to argue",
+    "nepali": "झगडा गर्नु"
+  },
+  {
+    "korean": "씻다",
+    "english": "to wash",
+    "nepali": "धुनु"
+  },
+  {
+    "korean": "쓰레기를 버리다",
+    "english": "to throw away trash",
+    "nepali": "फोहोर फाल्नु"
+  },
+  {
+    "korean": "쌓다",
+    "english": "to pile up",
+    "nepali": "थुपार्नु"
+  },
+  {
+    "korean": "쓸다",
+    "english": "to sweep",
+    "nepali": "बढार्नु"
+  },
+  {
+    "korean": "쏟다",
+    "english": "to spill; to pour",
+    "nepali": "पोख्नु"
+  },
+  {
+    "korean": "쓰러지다",
+    "english": "to collapse",
+    "nepali": "ढल्नु; बेहोस हुनु"
+  },
+  {
+    "korean": "썩다",
+    "english": "to rot",
+    "nepali": "कुहिनु"
+  },
+  {
+    "korean": "썰다",
+    "english": "to slice; to chop",
+    "nepali": "काट्नु; चिर्नु"
+  },
+  {
+    "korean": "씹다",
+    "english": "to chew",
+    "nepali": "चपाउनु"
+  },
+  {
+    "korean": "쌀쌀하다",
+    "english": "to be chilly",
+    "nepali": "चिसो हुनु"
+  },
+  {
+    "korean": "쌓이다",
+    "english": "to pile up; to accumulate",
+    "nepali": "थुप्रिनु"
+  },
+  {
+    "korean": "쓸쓸하다",
+    "english": "to be lonely; to be desolate",
+    "nepali": "एक्लो हुनु; सुनसान हुनु"
+  },
+  {
+    "korean": "쓰리다",
+    "english": "to sting; to be sore",
+    "nepali": "पोल्नु; चिलाउनु"
+  },
+  {
+    "korean": "쑤시다",
+    "english": "to ache; to throb",
+    "nepali": "दुख्नु; सुरुसुर दुख्नु"
+  },
+  {
+    "korean": "쑥스럽다",
+    "english": "to be shy; to be embarrassed",
+    "nepali": "लाज लाग्नु"
+  },
+  {
+    "korean": "쓰다듬다",
+    "english": "to stroke; to pat",
+    "nepali": "सुम्सुम्याउनु"
+  },
+  {
+    "korean": "쓸데없다",
+    "english": "to be useless",
+    "nepali": "व्यर्थ हुनु"
+  },
+  {
+    "korean": "쌩쌩하다",
+    "english": "to be fresh; to be lively",
+    "nepali": "फुर्तिलो हुनु"
+  },
+  {
+    "korean": "있다",
+    "english": "to be; to exist; to have",
+    "nepali": "हुनु; छ; भएको"
+  },
+  {
+    "korean": "없다",
+    "english": "to not exist; to not have",
+    "nepali": "नहुनु; छैन"
+  },
+  {
+    "korean": "아니다",
+    "english": "to not be",
+    "nepali": "होइन"
+  },
+  {
+    "korean": "오다",
+    "english": "to come",
+    "nepali": "आउनु"
+  },
+  {
+    "korean": "알다",
+    "english": "to know",
+    "nepali": "जान्नु"
+  },
+  {
+    "korean": "읽다",
+    "english": "to read",
+    "nepali": "पढ्नु"
+  },
+  {
+    "korean": "일하다",
+    "english": "to work",
+    "nepali": "काम गर्नु"
+  },
+  {
+    "korean": "입다",
+    "english": "to wear (clothes)",
+    "nepali": "लगाउनु"
+  },
+  {
+    "korean": "앉다",
+    "english": "to sit",
+    "nepali": "बस्नु"
+  },
+  {
+    "korean": "일어나다",
+    "english": "to get up; to happen",
+    "nepali": "उठ्नु; घट्नु"
+  },
+  {
+    "korean": "울다",
+    "english": "to cry",
+    "nepali": "रुनु"
+  },
+  {
+    "korean": "웃다",
+    "english": "to laugh; to smile",
+    "nepali": "हाँस्नु"
+  },
+  {
+    "korean": "운동하다",
+    "english": "to exercise",
+    "nepali": "व्यायाम गर्नु"
+  },
+  {
+    "korean": "운전하다",
+    "english": "to drive",
+    "nepali": "गाडी चलाउनु"
+  },
+  {
+    "korean": "예쁘다",
+    "english": "to be pretty",
+    "nepali": "राम्रो हुनु; सुन्दर हुनु"
+  },
+  {
+    "korean": "어렵다",
+    "english": "to be difficult",
+    "nepali": "गाह्रो हुनु"
+  },
+  {
+    "korean": "아프다",
+    "english": "to be sick; to hurt",
+    "nepali": "बिरामी हुनु; दुख्नु"
+  },
+  {
+    "korean": "연락하다",
+    "english": "to contact",
+    "nepali": "सम्पर्क गर्नु"
+  },
+  {
+    "korean": "여행하다",
+    "english": "to travel",
+    "nepali": "भ्रमण गर्नु"
+  },
+  {
+    "korean": "이해하다",
+    "english": "to understand",
+    "nepali": "बुझ्नु"
+  },
+  {
+    "korean": "이야기하다",
+    "english": "to talk; to tell a story",
+    "nepali": "कुरा गर्नु"
+  },
+  {
+    "korean": "이사하다",
+    "english": "to move house",
+    "nepali": "घर सार्नु"
+  },
+  {
+    "korean": "인사하다",
+    "english": "to greet",
+    "nepali": "अभिवादन गर्नु"
+  },
+  {
+    "korean": "연습하다",
+    "english": "to practice",
+    "nepali": "अभ्यास गर्नु"
+  },
+  {
+    "korean": "열다",
+    "english": "to open",
+    "nepali": "खोल्नु"
+  },
+  {
+    "korean": "오르다",
+    "english": "to climb; to rise",
+    "nepali": "चढ्नु; बढ्नु"
+  },
+  {
+    "korean": "올라가다",
+    "english": "to go up; to climb",
+    "nepali": "माथि जानु"
+  },
+  {
+    "korean": "올리다",
+    "english": "to raise; to put up; to upload",
+    "nepali": "माथि उठाउनु; अपलोड गर्नु"
+  },
+  {
+    "korean": "옮기다",
+    "english": "to move; to relocate",
+    "nepali": "ठाउँ सार्नु"
+  },
+  {
+    "korean": "외우다",
+    "english": "to memorize",
+    "nepali": "कण्ठ गर्नु"
+  },
+  {
+    "korean": "요리하다",
+    "english": "to cook",
+    "nepali": "खाना पकाउनु"
+  },
+  {
+    "korean": "원하다",
+    "english": "to want",
+    "nepali": "चाहनु"
+  },
+  {
+    "korean": "위험하다",
+    "english": "to be dangerous",
+    "nepali": "खतरनाक हुनु"
+  },
+  {
+    "korean": "유명하다",
+    "english": "to be famous",
+    "nepali": "प्रसिद्ध हुनु"
+  },
+  {
+    "korean": "이기다",
+    "english": "to win",
+    "nepali": "जित्नु"
+  },
+  {
+    "korean": "이용하다",
+    "english": "to use; to make use of",
+    "nepali": "प्रयोग गर्नु"
+  },
+  {
+    "korean": "이상하다",
+    "english": "to be strange; to be odd",
+    "nepali": "अनौठो हुनु; अचम्मको हुनु"
+  },
+  {
+    "korean": "약속하다",
+    "english": "to promise; to make an appointment",
+    "nepali": "वाचा गर्नु; समय तोक्नु"
+  },
+  {
+    "korean": "예약하다",
+    "english": "to reserve; to book",
+    "nepali": "बुक गर्नु"
+  },
+  {
+    "korean": "어울리다",
+    "english": "to suit; to get along",
+    "nepali": "सुहाउनु; घुलमिल हुनु"
+  },
+  {
+    "korean": "어지럽다",
+    "english": "to be dizzy; to be messy",
+    "nepali": "रिँगटा लाग्नु; अस्तव्यस्त हुनु"
+  },
+  {
+    "korean": "얻다",
+    "english": "to get; to obtain",
+    "nepali": "पाउनु; प्राप्त गर्नु"
+  },
+  {
+    "korean": "알려주다",
+    "english": "to let know; to tell",
+    "nepali": "जानकारी दिनु"
+  },
+  {
+    "korean": "알리다",
+    "english": "to inform; to let know",
+    "nepali": "जानकारी दिनु"
+  },
+  {
+    "korean": "알아보다",
+    "english": "to find out; to recognize",
+    "nepali": "पत्ता लगाउनु; चिन्नु"
+  },
+  {
+    "korean": "알아듣다",
+    "english": "to understand (what is heard)",
+    "nepali": "सुनेर बुझ्नु"
+  },
+  {
+    "korean": "안전하다",
+    "english": "to be safe",
+    "nepali": "सुरक्षित हुनु"
+  },
+  {
+    "korean": "안내하다",
+    "english": "to guide; to inform",
+    "nepali": "मार्गदर्शन गर्नु; जानकारी दिनु"
+  },
+  {
+    "korean": "아깝다",
+    "english": "to be a waste; to be precious",
+    "nepali": "खेर गएजस्तो लाग्नु; माया लाग्नु"
+  },
+  {
+    "korean": "아끼다",
+    "english": "to save; to cherish",
+    "nepali": "जोगाउनु; माया गर्नु"
+  },
+  {
+    "korean": "아름답다",
+    "english": "to be beautiful",
+    "nepali": "सुन्दर हुनु"
+  },
+  {
+    "korean": "아쉽다",
+    "english": "to be regrettable; to be disappointing",
+    "nepali": "खड्किनु; अपुग लाग्नु"
+  },
+  {
+    "korean": "얇다",
+    "english": "to be thin (object)",
+    "nepali": "पातलो हुनु"
+  },
+  {
+    "korean": "약하다",
+    "english": "to be weak",
+    "nepali": "कमजोर हुनु"
+  },
+  {
+    "korean": "어둡다",
+    "english": "to be dark",
+    "nepali": "अँध्यारो हुनु"
+  },
+  {
+    "korean": "열심히 하다",
+    "english": "to do one's best; to work hard",
+    "nepali": "मेहनत गर्नु"
+  },
+  {
+    "korean": "열이 나다",
+    "english": "to have a fever",
+    "nepali": "ज्वरो आउनु"
+  },
+  {
+    "korean": "없애다",
+    "english": "to get rid of; to remove",
+    "nepali": "हटाउनु; नष्ट गर्नु"
+  },
+  {
+    "korean": "없어지다",
+    "english": "to disappear; to be gone",
+    "nepali": "हराउनु; सकिनु"
+  },
+  {
+    "korean": "열리다",
+    "english": "to be opened; to open",
+    "nepali": "खुल्नु"
+  },
+  {
+    "korean": "연결하다",
+    "english": "to connect",
+    "nepali": "जोड्नु"
+  },
+  {
+    "korean": "연구하다",
+    "english": "to research",
+    "nepali": "अनुसन्धान गर्नु"
+  },
+  {
+    "korean": "오래되다",
+    "english": "to be old; to be long-standing",
+    "nepali": "पुरानो हुनु"
+  },
+  {
+    "korean": "올라오다",
+    "english": "to come up",
+    "nepali": "माथि आउनु"
+  },
+  {
+    "korean": "올려놓다",
+    "english": "to put on top",
+    "nepali": "माथि राख्नु"
+  },
+  {
+    "korean": "옳다",
+    "english": "to be right",
+    "nepali": "सही हुनु"
+  },
+  {
+    "korean": "옷을 말리다",
+    "english": "to dry clothes",
+    "nepali": "कपडा सुकाउनु"
+  },
+  {
+    "korean": "외출하다",
+    "english": "to go out",
+    "nepali": "बाहिर जानु"
+  },
+  {
+    "korean": "요구하다",
+    "english": "to demand",
+    "nepali": "माग गर्नु"
+  },
+  {
+    "korean": "요청하다",
+    "english": "to request",
+    "nepali": "अनुरोध गर्नु"
+  },
+  {
+    "korean": "욕을 하다",
+    "english": "to swear; to curse",
+    "nepali": "गाली गर्नु"
+  },
+  {
+    "korean": "용서하다",
+    "english": "to forgive",
+    "nepali": "माफ गर्नु"
+  },
+  {
+    "korean": "우승하다",
+    "english": "to win a championship",
+    "nepali": "विजयी हुनु"
+  },
+  {
+    "korean": "우울하다",
+    "english": "to be depressed",
+    "nepali": "दिक्क मान्नु"
+  },
+  {
+    "korean": "운영하다",
+    "english": "to operate; to run",
+    "nepali": "सञ्चालन गर्नु"
+  },
+  {
+    "korean": "운반하다",
+    "english": "to carry; to transport",
+    "nepali": "सामान ओसार्नु"
+  },
+  {
+    "korean": "울리다",
+    "english": "to ring; to make cry",
+    "nepali": "बज्नु; रुवाउनु"
+  },
+  {
+    "korean": "움직이다",
+    "english": "to move",
+    "nepali": "हल्लिनु; चल्नु"
+  },
+  {
+    "korean": "웃기다",
+    "english": "to make laugh; to be funny",
+    "nepali": "हँसाउनु"
+  },
+  {
+    "korean": "월급 받다",
+    "english": "to receive a salary",
+    "nepali": "तलब पाउनु"
+  },
+  {
+    "korean": "위로하다",
+    "english": "to comfort",
+    "nepali": "सान्त्वना दिनु"
+  },
+  {
+    "korean": "유용하다",
+    "english": "to be useful",
+    "nepali": "उपयोगी हुनु"
+  },
+  {
+    "korean": "의심하다",
+    "english": "to doubt; to suspect",
+    "nepali": "शंका गर्नु"
+  },
+  {
+    "korean": "이동하다",
+    "english": "to move; to travel",
+    "nepali": "परिवहन गर्नु"
+  },
+  {
+    "korean": "이르다",
+    "english": "to be early",
+    "nepali": "चाँडो हुनु"
+  },
+  {
+    "korean": "이렇다",
+    "english": "to be like this",
+    "nepali": "यस्तै हुनु"
+  },
+  {
+    "korean": "이루다",
+    "english": "to achieve; to accomplish",
+    "nepali": "हासिल गर्नु; पूरा गर्नु"
+  },
+  {
+    "korean": "이혼하다",
+    "english": "to divorce",
+    "nepali": "सम्बन्धविच्छेद गर्नु"
+  },
+  {
+    "korean": "익숙하다",
+    "english": "to be familiar",
+    "nepali": "परिचित हुनु; बानी परेको हुनु"
+  },
+  {
+    "korean": "익숙해지다",
+    "english": "to get used to",
+    "nepali": "बानी पर्नु"
+  },
+  {
+    "korean": "인기 있다",
+    "english": "to be popular",
+    "nepali": "लोकप्रिय हुनु"
+  },
+  {
+    "korean": "인기가 많다",
+    "english": "to be popular",
+    "nepali": "लोकप्रिय हुनु"
+  },
+  {
+    "korean": "인정하다",
+    "english": "to acknowledge",
+    "nepali": "स्विकार्नु"
+  },
+  {
+    "korean": "인쇄하다",
+    "english": "to print",
+    "nepali": "छाप्नु"
+  },
+  {
+    "korean": "일정하다",
+    "english": "to be constant; to be regular",
+    "nepali": "निश्चित हुनु; समान हुनु"
+  },
+  {
+    "korean": "잃다",
+    "english": "to lose",
+    "nepali": "गुमाउनु"
+  },
+  {
+    "korean": "잃어버리다",
+    "english": "to lose (something)",
+    "nepali": "हराउनु"
+  },
+  {
+    "korean": "임신하다",
+    "english": "to be pregnant",
+    "nepali": "गर्भवती हुनु"
+  },
+  {
+    "korean": "입금하다",
+    "english": "to deposit money",
+    "nepali": "पैसा जम्मा गर्नु"
+  },
+  {
+    "korean": "입력하다",
+    "english": "to input; to type",
+    "nepali": "टाइप गर्नु; प्रविष्ट गर्नु"
+  },
+  {
+    "korean": "입원하다",
+    "english": "to be hospitalized",
+    "nepali": "अस्पताल भर्ना हुनु"
+  },
+  {
+    "korean": "입학하다",
+    "english": "to enter school",
+    "nepali": "भर्ना हुनु"
+  },
+  {
+    "korean": "잊다",
+    "english": "to forget",
+    "nepali": "बिर्सनु"
+  },
+  {
+    "korean": "잇다",
+    "english": "to connect; to continue",
+    "nepali": "जोड्नु; जारी राख्नु"
+  },
+  {
+    "korean": "약 먹다",
+    "english": "to take medicine",
+    "nepali": "औषधि खानु"
+  },
+  {
+    "korean": "안심하다",
+    "english": "to be relieved",
+    "nepali": "ढुक्क हुनु"
+  },
+  {
+    "korean": "안정되다",
+    "english": "to be stable",
+    "nepali": "स्थिर हुनु"
+  },
+  {
+    "korean": "알맞다",
+    "english": "to be suitable",
+    "nepali": "उपयुक्त हुनु"
+  },
+  {
+    "korean": "알아차리다",
+    "english": "to notice",
+    "nepali": "थाहा पाउनु; ध्यान दिनु"
+  },
+  {
+    "korean": "앓다",
+    "english": "to be seriously ill",
+    "nepali": "सिकिस्त हुनु"
+  },
+  {
+    "korean": "야단을 맞다",
+    "english": "to be scolded",
+    "nepali": "गाली खानु"
+  },
+  {
+    "korean": "야근하다",
+    "english": "to work night shift",
+    "nepali": "रात्रिको काम गर्नु"
+  },
+  {
+    "korean": "어떻다",
+    "english": "to be how; to be like what",
+    "nepali": "कस्तो हुनु"
+  },
+  {
+    "korean": "어리다",
+    "english": "to be young (child)",
+    "nepali": "सानो हुनु; बच्चा हुनु"
+  },
+  {
+    "korean": "어색하다",
+    "english": "to be awkward",
+    "nepali": "अप्ठ्यारो हुनु"
+  },
+  {
+    "korean": "어두워지다",
+    "english": "to get dark",
+    "nepali": "अँध्यारो हुनु"
+  },
+  {
+    "korean": "억울하다",
+    "english": "to feel wronged; to be unfair",
+    "nepali": "अन्याय भएको महसुस हुनु"
+  },
+  {
+    "korean": "얼다",
+    "english": "to freeze",
+    "nepali": "जम्नु"
+  },
+  {
+    "korean": "얼리다",
+    "english": "to freeze (something)",
+    "nepali": "जमाउनु"
+  },
+  {
+    "korean": "엄격하다",
+    "english": "to be strict",
+    "nepali": "कडा हुनु"
+  },
+  {
+    "korean": "엄청나다",
+    "english": "to be huge; to be tremendous",
+    "nepali": "निकै ठूलो हुनु"
+  },
+  {
+    "korean": "업로드하다",
+    "english": "to upload",
+    "nepali": "अपलोड गर्नु"
+  },
+  {
+    "korean": "엉망이다",
+    "english": "to be a mess",
+    "nepali": "लथालिङ्ग हुनु"
+  },
+  {
+    "korean": "엎드리다",
+    "english": "to lie face down",
+    "nepali": "घोप्टो पर्नु"
+  },
+  {
+    "korean": "연기하다",
+    "english": "to act; to postpone",
+    "nepali": "अभिनय गर्नु; स्थगित गर्नु"
+  },
+  {
+    "korean": "연장하다",
+    "english": "to extend",
+    "nepali": "थप काम गर्नु"
+  },
+  {
+    "korean": "연주하다",
+    "english": "to play (an instrument)",
+    "nepali": "बजाउनु"
+  },
+  {
+    "korean": "연하다",
+    "english": "to be tender; to be light (color)",
+    "nepali": "नरम हुनु; फिक्का हुनु"
+  },
+  {
+    "korean": "영원하다",
+    "english": "to be eternal",
+    "nepali": "अनन्त हुनु"
+  },
+  {
+    "korean": "예뻐지다",
+    "english": "to become pretty",
+    "nepali": "राम्रो देखिनु"
+  },
+  {
+    "korean": "예상하다",
+    "english": "to predict; to expect",
+    "nepali": "अनुमान गर्नु"
+  },
+  {
+    "korean": "예습하다",
+    "english": "to preview (lessons)",
+    "nepali": "पहिले नै पढ्नु"
+  },
+  {
+    "korean": "예방하다",
+    "english": "to prevent",
+    "nepali": "रोकथाम गर्नु"
+  },
+  {
+    "korean": "예의 바르다",
+    "english": "to be polite",
+    "nepali": "शिष्ट हुनु"
+  },
+  {
+    "korean": "예측하다",
+    "english": "to predict",
+    "nepali": "भविष्यवाणी गर्नु"
+  },
+  {
+    "korean": "완벽하다",
+    "english": "to be perfect",
+    "nepali": "पूर्ण हुनु"
+  },
+  {
+    "korean": "외롭다",
+    "english": "to be lonely",
+    "nepali": "एक्लो हुनु"
+  },
+  {
+    "korean": "외로워하다",
+    "english": "to feel lonely",
+    "nepali": "एक्लो महसुस गर्नु"
+  },
+  {
+    "korean": "외치다",
+    "english": "to shout; to cry out",
+    "nepali": "चिच्याउनु"
+  },
+  {
+    "korean": "용감하다",
+    "english": "to be brave",
+    "nepali": "साहसी हुनु"
+  },
+  {
+    "korean": "우습다",
+    "english": "to be funny; to be ridiculous",
+    "nepali": "हास्यास्पद हुनु"
+  },
+  {
+    "korean": "위대하다",
+    "english": "to be great",
+    "nepali": "महान हुनु"
+  },
+  {
+    "korean": "유명해지다",
+    "english": "to become famous",
+    "nepali": "प्रसिद्ध हुनु"
+  },
+  {
+    "korean": "유지하다",
+    "english": "to maintain; to keep",
+    "nepali": "कायम राख्नु"
+  },
+  {
+    "korean": "응원하다",
+    "english": "to cheer for; to support",
+    "nepali": "हौसला दिनु"
+  },
+  {
+    "korean": "이끌다",
+    "english": "to lead; to guide",
+    "nepali": "नेतृत्व गर्नु; डोर्‍याउनु"
+  },
+  {
+    "korean": "이어지다",
+    "english": "to be connected; to continue",
+    "nepali": "जोडिनु; चलिरहनु"
+  },
+  {
+    "korean": "이겨내다",
+    "english": "to overcome",
+    "nepali": "पार गर्नु; जित्नु"
+  },
+  {
+    "korean": "일어서다",
+    "english": "to stand up",
+    "nepali": "उठेर उभिनु"
+  },
+  {
+    "korean": "일으키다",
+    "english": "to cause; to raise up",
+    "nepali": "उठाउनु; निम्त्याउनु"
+  },
+  {
+    "korean": "입히다",
+    "english": "to dress (someone)",
+    "nepali": "लगाइदिनु"
+  },
+  {
+    "korean": "익히다",
+    "english": "to master; to cook thoroughly",
+    "nepali": "सिक्नु; पकाउनु"
+  },
+  {
+    "korean": "악수하다",
+    "english": "to shake hands",
+    "nepali": "हात मिलाउनु"
+  },
+  {
+    "korean": "악하다",
+    "english": "to be evil",
+    "nepali": "दुष्ट हुनु"
+  },
+  {
+    "korean": "악화되다",
+    "english": "to get worse",
+    "nepali": "बिग्रनु"
+  },
+  {
+    "korean": "안내받다",
+    "english": "to receive guidance",
+    "nepali": "जानकारी पाउनु"
+  },
+  {
+    "korean": "안다",
+    "english": "to hug; to hold",
+    "nepali": "अँगालो हाल्नु"
+  },
+  {
+    "korean": "안에",
+    "english": "inside",
+    "nepali": "भित्र"
+  },
+  {
+    "korean": "앞서다",
+    "english": "to be ahead; to go first",
+    "nepali": "अगाडि हुनु; पहिले जानु"
+  },
+  {
+    "korean": "애매하다",
+    "english": "to be vague",
+    "nepali": "अस्पष्ट हुनु"
+  },
+  {
+    "korean": "애쓰다",
+    "english": "to try hard",
+    "nepali": "प्रयास गर्नु"
+  },
+  {
+    "korean": "야단치다",
+    "english": "to scold",
+    "nepali": "हप्काउनु"
+  },
+  {
+    "korean": "야하다",
+    "english": "to be flashy; to be gaudy",
+    "nepali": "भडकिलो हुनु"
+  },
+  {
+    "korean": "약을 짓다",
+    "english": "to prepare medicine",
+    "nepali": "औषधी बनाउनु"
+  },
+  {
+    "korean": "얄밉다",
+    "english": "to be annoyingly smug",
+    "nepali": "रिस उठाउने हुनु"
+  },
+  {
+    "korean": "얌전하다",
+    "english": "to be well-behaved; to be quiet",
+    "nepali": "शान्त हुनु; सुशील हुनु"
+  },
+  {
+    "korean": "얕다",
+    "english": "to be shallow",
+    "nepali": "उथलो हुनु"
+  },
+  {
+    "korean": "어기다",
+    "english": "to violate; to break (a rule)",
+    "nepali": "पालना नगर्नु"
+  },
+  {
+    "korean": "어둑하다",
+    "english": "to be dim; to be gloomy",
+    "nepali": "धमिलो अँध्यारो हुनु"
+  },
+  {
+    "korean": "어리석다",
+    "english": "to be foolish",
+    "nepali": "मूर्ख हुनु"
+  },
+  {
+    "korean": "어쩔 수 없다",
+    "english": "to have no choice",
+    "nepali": "चाहेर पनि केही गर्न नसक्नु"
+  },
+  {
+    "korean": "업다",
+    "english": "to carry on one's back",
+    "nepali": "ढाडमा बोक्नु"
+  },
+  {
+    "korean": "연결되다",
+    "english": "to be connected",
+    "nepali": "जोडिनु"
+  },
+  {
+    "korean": "연속극을 보다",
+    "english": "to watch a TV drama",
+    "nepali": "सिरियल हेर्नु"
+  },
+  {
+    "korean": "연속하다",
+    "english": "to continue; to be continuous",
+    "nepali": "निरन्तर"
+  },
+  {
+    "korean": "연수하다",
+    "english": "to undergo training",
+    "nepali": "प्रशिक्षण"
+  },
+  {
+    "korean": "염소",
+    "english": "goat",
+    "nepali": "बाख्रा"
+  },
+  {
+    "korean": "엿보다",
+    "english": "to peek",
+    "nepali": "चियाउनु"
+  },
+  {
+    "korean": "영리하다",
+    "english": "to be clever",
+    "nepali": "चलाख हुनु"
+  },
+  {
+    "korean": "예매하다",
+    "english": "to buy tickets in advance",
+    "nepali": "बुकिङ गर्नु"
+  },
+  {
+    "korean": "예민하다",
+    "english": "to be sensitive",
+    "nepali": "संवेदनशील हुनु"
+  },
+  {
+    "korean": "예배를 드리다",
+    "english": "to attend a worship service",
+    "nepali": "चर्चमा प्रार्थना गर्नु"
+  },
+  {
+    "korean": "예불을 드리다",
+    "english": "to offer Buddhist worship",
+    "nepali": "बुद्धलाई ढोग्नु"
+  },
+  {
+    "korean": "오염이 되다",
+    "english": "to be polluted",
+    "nepali": "प्रदूषित हुनु"
+  },
+  {
+    "korean": "오해풀다",
+    "english": "to clear up a misunderstanding",
+    "nepali": "समझदारी गर्नु"
+  },
+  {
+    "korean": "오해하다",
+    "english": "to misunderstand",
+    "nepali": "गलत बुझ्नु"
+  },
+  {
+    "korean": "옷이 찢어지다",
+    "english": "for clothes to tear",
+    "nepali": "कपडा च्यातिनु"
+  },
+  {
+    "korean": "외풍이 심하다",
+    "english": "to be drafty",
+    "nepali": "हावा जोडले चल्नु"
+  },
+  {
+    "korean": "외향적이다",
+    "english": "to be extroverted",
+    "nepali": "बहिर्मुखी हुनु"
+  },
+  {
+    "korean": "요란하다",
+    "english": "to be loud; to be noisy",
+    "nepali": "होहल्ला हुनु"
+  },
+  {
+    "korean": "욕심 많다",
+    "english": "to be greedy",
+    "nepali": "लोभी हुनु"
+  },
+  {
+    "korean": "우유",
+    "english": "milk",
+    "nepali": "दूध"
+  },
+  {
+    "korean": "유익하다",
+    "english": "to be beneficial",
+    "nepali": "लाभदायक हुनु"
+  },
+  {
+    "korean": "유일하다",
+    "english": "to be unique; to be the only",
+    "nepali": "एक मात्र हुनु"
+  },
+  {
+    "korean": "유치하다",
+    "english": "to be childish",
+    "nepali": "केटाकेटी जस्तो हुनु"
+  },
+  {
+    "korean": "응시하다",
+    "english": "to take (a test); to gaze",
+    "nepali": "परीक्षा दिनु; एकटक हेर्नु"
+  },
+  {
+    "korean": "의식을 잃다",
+    "english": "to lose consciousness",
+    "nepali": "होस हराउनु"
+  },
+  {
+    "korean": "의식주이다",
+    "english": "to be food, clothing and shelter",
+    "nepali": "गास-बास-कपास हुनु"
+  },
+  {
+    "korean": "의지하다",
+    "english": "to depend on; to rely on",
+    "nepali": "भर पर्नु"
+  },
+  {
+    "korean": "이롭다",
+    "english": "to be beneficial",
+    "nepali": "फाइदाजनक हुनु"
+  },
+  {
+    "korean": "이불을 빨다",
+    "english": "to wash a blanket",
+    "nepali": "सिरक धुनु"
+  },
+  {
+    "korean": "인상하다",
+    "english": "to raise (price, wage)",
+    "nepali": "वृद्धि हुनु"
+  },
+  {
+    "korean": "인색하다",
+    "english": "to be stingy",
+    "nepali": "कन्जुस हुनु"
+  },
+  {
+    "korean": "인하하다",
+    "english": "to lower (price, rate)",
+    "nepali": "घट्नु"
+  },
+  {
+    "korean": "인화하다",
+    "english": "to print (photos)",
+    "nepali": "छाप्नु / प्रिन्ट गर्नु"
+  },
+  {
+    "korean": "일성하다",
+    "english": "to accompany; to come along",
+    "nepali": "सँगै आउनु"
+  },
+  {
+    "korean": "여우",
+    "english": "fox",
+    "nepali": "फ्याउरो"
+  },
+  {
+    "korean": "자다",
+    "english": "to sleep",
+    "nepali": "सुत्नु"
+  },
+  {
+    "korean": "주다",
+    "english": "to give",
+    "nepali": "दिनु"
+  },
+  {
+    "korean": "좋다",
+    "english": "to be good; to be nice",
+    "nepali": "राम्रो हुनु; मन पर्नु"
+  },
+  {
+    "korean": "좋아하다",
+    "english": "to like",
+    "nepali": "मनपराउनु"
+  },
+  {
+    "korean": "작다",
+    "english": "to be small",
+    "nepali": "सानो हुनु"
+  },
+  {
+    "korean": "적다",
+    "english": "to be few; to be little",
+    "nepali": "थोरै हुनु"
+  },
+  {
+    "korean": "조금",
+    "english": "a little",
+    "nepali": "थोरै"
+  },
+  {
+    "korean": "잡다",
+    "english": "to catch; to grab",
+    "nepali": "समात्नु"
+  },
+  {
+    "korean": "죽다",
+    "english": "to die",
+    "nepali": "मर्नु"
+  },
+  {
+    "korean": "준비하다",
+    "english": "to prepare",
+    "nepali": "तयारी गर्नु"
+  },
+  {
+    "korean": "전화하다",
+    "english": "to call (phone)",
+    "nepali": "फोन गर्नु"
+  },
+  {
+    "korean": "전화 받다",
+    "english": "to answer the phone",
+    "nepali": "फोन उठाउनु"
+  },
+  {
+    "korean": "재미있다",
+    "english": "to be fun; to be interesting",
+    "nepali": "रमाइलो हुनु"
+  },
+  {
+    "korean": "재미없다",
+    "english": "to be boring; to be not fun",
+    "nepali": "नरमाइलो हुनु"
+  },
+  {
+    "korean": "조용하다",
+    "english": "to be quiet",
+    "nepali": "शान्त हुनु"
+  },
+  {
+    "korean": "조심하다",
+    "english": "to be careful",
+    "nepali": "सावधान हुनु"
+  },
+  {
+    "korean": "졸업하다",
+    "english": "to graduate",
+    "nepali": "स्नातक हुनु"
+  },
+  {
+    "korean": "졸리다",
+    "english": "to be sleepy",
+    "nepali": "निन्द्रा लाग्नु"
+  },
+  {
+    "korean": "주문하다",
+    "english": "to order",
+    "nepali": "अर्डर गर्नु"
+  },
+  {
+    "korean": "중요하다",
+    "english": "to be important",
+    "nepali": "महत्त्वपूर्ण हुनु"
+  },
+  {
+    "korean": "즐겁다",
+    "english": "to be enjoyable; to be cheerful",
+    "nepali": "रमाइलो हुनु; आनन्ददायी हुनु"
+  },
+  {
+    "korean": "지나가다",
+    "english": "to pass by",
+    "nepali": "हिँडेर जानु"
+  },
+  {
+    "korean": "지내다",
+    "english": "to spend time; to get along",
+    "nepali": "बस्नु; दिन बिताउनु"
+  },
+  {
+    "korean": "지키다",
+    "english": "to keep; to protect",
+    "nepali": "पालना गर्नु; रक्षा गर्नु"
+  },
+  {
+    "korean": "질문하다",
+    "english": "to ask a question",
+    "nepali": "प्रश्न सोध्नु"
+  },
+  {
+    "korean": "짓다",
+    "english": "to build; to make (rice, name)",
+    "nepali": "बनाउनु; पकाउनु"
+  },
+  {
+    "korean": "자르다",
+    "english": "to cut",
+    "nepali": "काट्नु"
+  },
+  {
+    "korean": "자라다",
+    "english": "to grow up; to grow",
+    "nepali": "हुर्कनु; बढ्नु"
+  },
+  {
+    "korean": "잘하다",
+    "english": "to be good at; to do well",
+    "nepali": "राम्रो गर्नु; दक्ष हुनु"
+  },
+  {
+    "korean": "잘못하다",
+    "english": "to make a mistake",
+    "nepali": "गल्ती गर्नु"
+  },
+  {
+    "korean": "잠들다",
+    "english": "to fall asleep",
+    "nepali": "निदाउनु"
+  },
+  {
+    "korean": "정리하다",
+    "english": "to organize; to tidy up",
+    "nepali": "मिलाउनु; व्यवस्थित गर्नु"
+  },
+  {
+    "korean": "저축하다",
+    "english": "to save (money)",
+    "nepali": "बचत गर्नु"
+  },
+  {
+    "korean": "정확하다",
+    "english": "to be accurate",
+    "nepali": "ठीक हुनु; सही हुनु"
+  },
+  {
+    "korean": "젊다",
+    "english": "to be young",
+    "nepali": "जवान हुनु"
+  },
+  {
+    "korean": "좁다",
+    "english": "to be narrow; to be cramped",
+    "nepali": "साँघुरो हुनु"
+  },
+  {
+    "korean": "죄송하다",
+    "english": "to be sorry (polite)",
+    "nepali": "क्षमा चाहनु"
+  },
+  {
+    "korean": "주차하다",
+    "english": "to park",
+    "nepali": "पार्क गर्नु"
+  },
+  {
+    "korean": "줄 서다",
+    "english": "to line up",
+    "nepali": "लाइनमा बस्नु"
+  },
+  {
+    "korean": "줄이다",
+    "english": "to reduce",
+    "nepali": "घटाउनु"
+  },
+  {
+    "korean": "줄다",
+    "english": "to decrease; to shrink",
+    "nepali": "घट्नु"
+  },
+  {
+    "korean": "줍다",
+    "english": "to pick up",
+    "nepali": "टिप्नु"
+  },
+  {
+    "korean": "즐기다",
+    "english": "to enjoy",
+    "nepali": "आनन्द लिनु"
+  },
+  {
+    "korean": "지다",
+    "english": "to lose; to carry on back",
+    "nepali": "हार्नु; बोक्नु"
+  },
+  {
+    "korean": "지각하다",
+    "english": "to be late",
+    "nepali": "ढिलो हुनु"
+  },
+  {
+    "korean": "지루하다",
+    "english": "to be boring",
+    "nepali": "बोर लाग्नु; उराठलाग्दो हुनु"
+  },
+  {
+    "korean": "지우다",
+    "english": "to erase; to delete",
+    "nepali": "मेट्नु"
+  },
+  {
+    "korean": "지원하다",
+    "english": "to apply; to support",
+    "nepali": "आवेदन दिनु; सहयोग गर्नु"
+  },
+  {
+    "korean": "집중하다",
+    "english": "to concentrate",
+    "nepali": "ध्यान केन्द्रित गर्नु"
+  },
+  {
+    "korean": "제출하다",
+    "english": "to submit",
+    "nepali": "पेश गर्नु"
+  },
+  {
+    "korean": "조사하다",
+    "english": "to investigate; to survey",
+    "nepali": "अनुसन्धान गर्नु"
+  },
+  {
+    "korean": "존경하다",
+    "english": "to respect",
+    "nepali": "सम्मान गर्नु"
+  },
+  {
+    "korean": "장 보다",
+    "english": "to go grocery shopping",
+    "nepali": "किनमेल गर्नु"
+  },
+  {
+    "korean": "저장하다",
+    "english": "to save",
+    "nepali": "सेभ गर्नु"
+  },
+  {
+    "korean": "접속하다",
+    "english": "to connect (online)",
+    "nepali": "जडान गर्नु; लगइन गर्नु"
+  },
+  {
+    "korean": "전달하다",
+    "english": "to pass on; to deliver",
+    "nepali": "पुर्‍याउनु"
+  },
+  {
+    "korean": "전하다",
+    "english": "to deliver; to convey",
+    "nepali": "पुर्‍याउनु; भन्नु"
+  },
+  {
+    "korean": "적당하다",
+    "english": "to be suitable; to be moderate",
+    "nepali": "उपयुक्त हुनु; मध्यम हुनु"
+  },
+  {
+    "korean": "적응하다",
+    "english": "to adapt",
+    "nepali": "अभ्यस्त हुनु"
+  },
+  {
+    "korean": "접다",
+    "english": "to fold",
+    "nepali": "पट्याउनु"
+  },
+  {
+    "korean": "정하다",
+    "english": "to decide; to set",
+    "nepali": "तोक्नु"
+  },
+  {
+    "korean": "제공하다",
+    "english": "to provide",
+    "nepali": "उपलब्ध गराउनु"
+  },
+  {
+    "korean": "자랑스럽다",
+    "english": "to be proud",
+    "nepali": "गर्व लाग्नु"
+  },
+  {
+    "korean": "자랑하다",
+    "english": "to boast; to show off",
+    "nepali": "घमण्ड गर्नु; गर्व गर्नु"
+  },
+  {
+    "korean": "자세하다",
+    "english": "to be detailed",
+    "nepali": "विस्तृत हुनु"
+  },
+  {
+    "korean": "자연스럽다",
+    "english": "to be natural",
+    "nepali": "स्वाभाविक हुनु"
+  },
+  {
+    "korean": "자유롭다",
+    "english": "to be free",
+    "nepali": "स्वतन्त्र हुनु"
+  },
+  {
+    "korean": "잡담하다",
+    "english": "to chat",
+    "nepali": "गफगाफ गर्नु"
+  },
+  {
+    "korean": "잡히다",
+    "english": "to be caught",
+    "nepali": "समातिनु"
+  },
+  {
+    "korean": "재생하다",
+    "english": "to play (media)",
+    "nepali": "बजाउनु; प्ले गर्नु"
+  },
+  {
+    "korean": "재우다",
+    "english": "to put to sleep",
+    "nepali": "सुताउनु"
+  },
+  {
+    "korean": "재채기하다",
+    "english": "to sneeze",
+    "nepali": "हाच्छिउँ गर्नु"
+  },
+  {
+    "korean": "저렴하다",
+    "english": "to be cheap; to be affordable",
+    "nepali": "सस्तो हुनु"
+  },
+  {
+    "korean": "저리다",
+    "english": "to be numb; to tingle",
+    "nepali": "झमझम हुनु"
+  },
+  {
+    "korean": "저지르다",
+    "english": "to commit (a mistake or crime)",
+    "nepali": "गल्ती गर्नु; अपराध गर्नु"
+  },
+  {
+    "korean": "적극적이다",
+    "english": "to be active; to be proactive",
+    "nepali": "सक्रिय हुनु"
+  },
+  {
+    "korean": "적시다",
+    "english": "to wet",
+    "nepali": "भिजाउनु"
+  },
+  {
+    "korean": "적어지다",
+    "english": "to decrease in number",
+    "nepali": "कम हुनु"
+  },
+  {
+    "korean": "절하다",
+    "english": "to bow",
+    "nepali": "ढोग्नु"
+  },
+  {
+    "korean": "점검하다",
+    "english": "to inspect; to check",
+    "nepali": "चेकजाँच गर्नु"
+  },
+  {
+    "korean": "정상이다",
+    "english": "to be normal",
+    "nepali": "सामान्य हुनु"
+  },
+  {
+    "korean": "정신없다",
+    "english": "to be hectic; to be out of one's mind",
+    "nepali": "हडबड हुनु"
+  },
+  {
+    "korean": "정직하다",
+    "english": "to be honest",
+    "nepali": "इमानदार हुनु"
+  },
+  {
+    "korean": "젖다",
+    "english": "to get wet",
+    "nepali": "भिज्नु"
+  },
+  {
+    "korean": "제한하다",
+    "english": "to limit",
+    "nepali": "निर्धारण गर्नु"
+  },
+  {
+    "korean": "조급하다",
+    "english": "to be impatient",
+    "nepali": "अधीर हुनु"
+  },
+  {
+    "korean": "조립하다",
+    "english": "to assemble",
+    "nepali": "जोड्नु"
+  },
+  {
+    "korean": "조심스럽다",
+    "english": "to be careful; to be cautious",
+    "nepali": "होसियार हुनु"
+  },
+  {
+    "korean": "조이다",
+    "english": "to tighten",
+    "nepali": "कस्सिनु"
+  },
+  {
+    "korean": "조퇴하다",
+    "english": "to leave work early",
+    "nepali": "काम बीचमा छोड्नु"
+  },
+  {
+    "korean": "좋아지다",
+    "english": "to get better",
+    "nepali": "राम्रो हुनु"
+  },
+  {
+    "korean": "졸다",
+    "english": "to doze; to be sleepy",
+    "nepali": "ऊँघ्नु"
+  },
+  {
+    "korean": "주무시다",
+    "english": "to sleep (honorific)",
+    "nepali": "सुत्नुहुन्छ"
+  },
+  {
+    "korean": "주의하다",
+    "english": "to be cautious",
+    "nepali": "होसियार हुनु"
+  },
+  {
+    "korean": "줄어들다",
+    "english": "to decrease; to shrink",
+    "nepali": "घट्नु"
+  },
+  {
+    "korean": "중얼거리다",
+    "english": "to mutter",
+    "nepali": "गुनगुनाउनु"
+  },
+  {
+    "korean": "지나다",
+    "english": "to pass; to go by",
+    "nepali": "बित्नु; पार गर्नु"
+  },
+  {
+    "korean": "지저분하다",
+    "english": "to be messy",
+    "nepali": "फोहोर हुनु; अस्तव्यस्त हुनु"
+  },
+  {
+    "korean": "지켜보다",
+    "english": "to watch over",
+    "nepali": "नजर राख्नु"
+  },
+  {
+    "korean": "진찰하다",
+    "english": "to examine (a patient)",
+    "nepali": "जाँच गर्नु"
+  },
+  {
+    "korean": "진하다",
+    "english": "to be dark; to be strong; to be thick",
+    "nepali": "गाढा हुनु; कडा हुनु"
+  },
+  {
+    "korean": "짐작하다",
+    "english": "to guess",
+    "nepali": "अनुमान गर्नु"
+  },
+  {
+    "korean": "작아지다",
+    "english": "to become smaller",
+    "nepali": "सानो हुनु"
+  },
+  {
+    "korean": "작용하다",
+    "english": "to act; to function",
+    "nepali": "प्रयोग गर्नु"
+  },
+  {
+    "korean": "잔소리하다",
+    "english": "to nag",
+    "nepali": "कचकच गर्नु"
+  },
+  {
+    "korean": "잘나가다",
+    "english": "to be doing well; to sell well",
+    "nepali": "राम्ररी बेच्नु"
+  },
+  {
+    "korean": "잘못걸다",
+    "english": "to dial the wrong number",
+    "nepali": "गलत डायल गर्नु"
+  },
+  {
+    "korean": "잘생기다",
+    "english": "to be handsome",
+    "nepali": "राम्रो देखिनु; सुन्दर हुनु"
+  },
+  {
+    "korean": "자리 비우다",
+    "english": "to vacate a seat",
+    "nepali": "सिट खाली गर्नु"
+  },
+  {
+    "korean": "자신 없다",
+    "english": "to be unconfident",
+    "nepali": "आत्मविश्वास नहुनु"
+  },
+  {
+    "korean": "자신 있다",
+    "english": "to be confident",
+    "nepali": "आत्मविश्वास हुनु"
+  },
+  {
+    "korean": "장식하다",
+    "english": "to decorate",
+    "nepali": "सजाउनु"
+  },
+  {
+    "korean": "주사 맞다",
+    "english": "to get an injection",
+    "nepali": "सुई लगाउनु"
+  },
+  {
+    "korean": "주사 놓다",
+    "english": "to give an injection",
+    "nepali": "सुई लगाउनु"
+  },
+  {
+    "korean": "주먹질을 하다",
+    "english": "to punch; to fight with fists",
+    "nepali": "मुक्कामुक्की गर्नु"
+  },
+  {
+    "korean": "지혈하다",
+    "english": "to stop bleeding",
+    "nepali": "रगत बग्न रोक्नु"
+  },
+  {
+    "korean": "진정하다",
+    "english": "to be sincere; to calm down",
+    "nepali": "सत्यतथ्य हुनु"
+  },
+  {
+    "korean": "질투하다",
+    "english": "to be jealous",
+    "nepali": "डाहा गर्नु"
+  },
+  {
+    "korean": "징계받다",
+    "english": "to be punished",
+    "nepali": "सजाय पाउनु"
+  },
+  {
+    "korean": "징계되다",
+    "english": "to be disciplined",
+    "nepali": "सजाय हुनु"
+  },
+  {
+    "korean": "징계하다",
+    "english": "to discipline",
+    "nepali": "अनुशासित हुनु"
+  },
+  {
+    "korean": "짖다",
+    "english": "to bark; to shout loudly",
+    "nepali": "ठूलो आवाज निकाल्नु"
+  },
+  {
+    "korean": "짙다",
+    "english": "to be deep; to be dense",
+    "nepali": "गाढा हुनु"
+  },
+  {
+    "korean": "짧다",
+    "english": "to be short (length)",
+    "nepali": "छोटो हुनु"
+  },
+  {
+    "korean": "찍다",
+    "english": "to take (a photo); to stamp; to dip",
+    "nepali": "तस्बिर खिच्नु; छाप लगाउनु; चोब्नु"
+  },
+  {
+    "korean": "짜다",
+    "english": "to be salty; to be stingy",
+    "nepali": "नुनिलो हुनु; कन्जुस हुनु"
+  },
+  {
+    "korean": "찌다",
+    "english": "to steam; to gain weight",
+    "nepali": "बाफमा पकाउनु; मोटो हुनु"
+  },
+  {
+    "korean": "짜증 나다",
+    "english": "to be annoyed",
+    "nepali": "झर्को लाग्नु"
+  },
+  {
+    "korean": "짜증내다",
+    "english": "to be irritated",
+    "nepali": "रिस पोख्नु"
+  },
+  {
+    "korean": "쫓다",
+    "english": "to chase",
+    "nepali": "धपाउनु; पछ्याउनु"
+  },
+  {
+    "korean": "쫓아가다",
+    "english": "to chase after",
+    "nepali": "पछ्याउँदै जानु"
+  },
+  {
+    "korean": "찢다",
+    "english": "to tear",
+    "nepali": "च्यात्नु"
+  },
+  {
+    "korean": "쫄깃하다",
+    "english": "to be chewy",
+    "nepali": "चपाउन गाह्रो हुनु"
+  },
+  {
+    "korean": "짜릿하다",
+    "english": "to be thrilling; to tingle",
+    "nepali": "रोमाञ्चक हुनु; झन्नन हुनु"
+  },
+  {
+    "korean": "째려보다",
+    "english": "to glare",
+    "nepali": "छड्के हेर्नु"
+  },
+  {
+    "korean": "찌그러지다",
+    "english": "to be crushed; to be dented",
+    "nepali": "कुचिनु"
+  },
+  {
+    "korean": "찾다",
+    "english": "to find; to look for",
+    "nepali": "खोज्नु; भेट्टाउनु"
+  },
+  {
+    "korean": "춥다",
+    "english": "to be cold (weather)",
+    "nepali": "जाडो हुनु"
+  },
+  {
+    "korean": "출근하다",
+    "english": "to go to work",
+    "nepali": "काममा जानु"
+  },
+  {
+    "korean": "청소하다",
+    "english": "to clean",
+    "nepali": "सफा गर्नु"
+  },
+  {
+    "korean": "차갑다",
+    "english": "to be cold (to touch)",
+    "nepali": "चिसो हुनु"
+  },
+  {
+    "korean": "친절하다",
+    "english": "to be kind; to be friendly",
+    "nepali": "दयालु हुनु; मिलनसार हुनु"
+  },
+  {
+    "korean": "친하다",
+    "english": "to be close (friends)",
+    "nepali": "नजिक हुनु; घनिष्ठ हुनु"
+  },
+  {
+    "korean": "참다",
+    "english": "to endure; to hold back",
+    "nepali": "सहनु; थाम्नु"
+  },
+  {
+    "korean": "참석하다",
+    "english": "to attend",
+    "nepali": "उपस्थित हुनु"
+  },
+  {
+    "korean": "취직하다",
+    "english": "to get a job",
+    "nepali": "जागिर पाउनु"
+  },
+  {
+    "korean": "치다",
+    "english": "to hit; to play (piano, tennis)",
+    "nepali": "हान्नु; बजाउनु; खेल्नु"
+  },
+  {
+    "korean": "치우다",
+    "english": "to clean up; to put away",
+    "nepali": "सरसफाइ गर्नु; हटाउनु"
+  },
+  {
+    "korean": "치료하다",
+    "english": "to treat (medically)",
+    "nepali": "उपचार गर्नु"
+  },
+  {
+    "korean": "출발하다",
+    "english": "to depart",
+    "nepali": "प्रस्थान गर्नु"
+  },
+  {
+    "korean": "추천하다",
+    "english": "to recommend",
+    "nepali": "सिफारिस गर्नु"
+  },
+  {
+    "korean": "축하하다",
+    "english": "to congratulate",
+    "nepali": "बधाई दिनु"
+  },
+  {
+    "korean": "칭찬하다",
+    "english": "to praise",
+    "nepali": "प्रशंसा गर्नु"
+  },
+  {
+    "korean": "초대하다",
+    "english": "to invite",
+    "nepali": "निम्तो दिनु"
+  },
+  {
+    "korean": "취소하다",
+    "english": "to cancel",
+    "nepali": "रद्द गर्नु"
+  },
+  {
+    "korean": "찾아가다",
+    "english": "to visit; to go to see",
+    "nepali": "भेट्न जानु"
+  },
+  {
+    "korean": "찾아보다",
+    "english": "to look up; to look for",
+    "nepali": "खोजेर हेर्नु"
+  },
+  {
+    "korean": "찾아오다",
+    "english": "to come to visit",
+    "nepali": "भेट्न आउनु"
+  },
+  {
+    "korean": "채우다",
+    "english": "to fill",
+    "nepali": "भर्नु"
+  },
+  {
+    "korean": "챙기다",
+    "english": "to pack; to look after; to take along",
+    "nepali": "मिलाएर राख्नु; ख्याल राख्नु"
+  },
+  {
+    "korean": "충분하다",
+    "english": "to be sufficient",
+    "nepali": "पर्याप्त हुनु"
+  },
+  {
+    "korean": "추가하다",
+    "english": "to add; to append",
+    "nepali": "थप्नु"
+  },
+  {
+    "korean": "출장 가다",
+    "english": "to go on a business trip",
+    "nepali": "व्यापारिक यात्रामा जानु"
+  },
+  {
+    "korean": "춤을 추다",
+    "english": "to dance",
+    "nepali": "नाच्नु"
+  },
+  {
+    "korean": "쳐다보다",
+    "english": "to stare at; to look at",
+    "nepali": "हेर्नु; एकटक हेर्नु"
+  },
+  {
+    "korean": "차다",
+    "english": "to kick; to wear (watch); to be full",
+    "nepali": "लात्ती हान्नु; लगाउनु; भरिनु"
+  },
+  {
+    "korean": "차리다",
+    "english": "to set (a table); to prepare",
+    "nepali": "(टेबल) सजाउनु; तयार गर्नु"
+  },
+  {
+    "korean": "착하다",
+    "english": "to be kind; to be good-natured",
+    "nepali": "असल हुनु; दयालु हुनु"
+  },
+  {
+    "korean": "창피하다",
+    "english": "to be embarrassed",
+    "nepali": "लाज लाग्नु"
+  },
+  {
+    "korean": "찬성하다",
+    "english": "to approve; to be in favor",
+    "nepali": "समर्थन गर्नु"
+  },
+  {
+    "korean": "참가하다",
+    "english": "to participate",
+    "nepali": "भाग लिनु"
+  },
+  {
+    "korean": "책임지다",
+    "english": "to take responsibility",
+    "nepali": "जिम्मेवारी लिनु"
+  },
+  {
+    "korean": "촬영하다",
+    "english": "to film; to take a photo",
+    "nepali": "तस्बिर खिच्नु; सुटिङ गर्नु"
+  },
+  {
+    "korean": "최고이다",
+    "english": "to be the best",
+    "nepali": "उत्कृष्ट हुनु"
+  },
+  {
+    "korean": "충전하다",
+    "english": "to charge; to top up",
+    "nepali": "चार्ज गर्नु; रिचार्ज गर्नु"
+  },
+  {
+    "korean": "친해지다",
+    "english": "to become close",
+    "nepali": "घनिष्ट हुनु"
+  },
+  {
+    "korean": "칠하다",
+    "english": "to paint",
+    "nepali": "रङ लगाउनु"
+  },
+  {
+    "korean": "추워지다",
+    "english": "to get colder",
+    "nepali": "चिसो हुनु"
+  },
+  {
+    "korean": "출국하다",
+    "english": "to leave the country",
+    "nepali": "बहिरगमन हुनु"
+  },
+  {
+    "korean": "출금하다",
+    "english": "to withdraw money",
+    "nepali": "पैसा झिक्नु"
+  },
+  {
+    "korean": "출력하다",
+    "english": "to print; to output",
+    "nepali": "प्रिन्ट गर्नु"
+  },
+  {
+    "korean": "취업하다",
+    "english": "to get employed",
+    "nepali": "रोजगारी हुनु"
+  },
+  {
+    "korean": "취하다",
+    "english": "to get drunk; to take",
+    "nepali": "मात्नु; लिनु"
+  },
+  {
+    "korean": "체험하다",
+    "english": "to experience firsthand",
+    "nepali": "प्रत्यक्ष अनुभव गर्नु"
+  },
+  {
+    "korean": "채팅하다",
+    "english": "to chat online",
+    "nepali": "च्याट गर्नु"
+  },
+  {
+    "korean": "착각하다",
+    "english": "to be mistaken",
+    "nepali": "गल्ती हुनु"
+  },
+  {
+    "korean": "추측하다",
+    "english": "to guess; to assume",
+    "nepali": "अनुमान गर्नु"
+  },
+  {
+    "korean": "축축하다",
+    "english": "to be damp",
+    "nepali": "ओसिलो हुनु"
+  },
+  {
+    "korean": "촉촉하다",
+    "english": "to be moist",
+    "nepali": "ओसिलो हुनु; चिसो हुनु"
+  },
+  {
+    "korean": "충돌하다",
+    "english": "to collide",
+    "nepali": "ठोक्किनु"
+  },
+  {
+    "korean": "출연하다",
+    "english": "to appear (on screen)",
+    "nepali": "देखा पर्नु; अभिनय गर्नु"
+  },
+  {
+    "korean": "출동하다",
+    "english": "to be dispatched",
+    "nepali": "बाहिर निस्कासन गर्नु"
+  },
+  {
+    "korean": "차분하다",
+    "english": "to be calm",
+    "nepali": "शान्त हुनु"
+  },
+  {
+    "korean": "창백하다",
+    "english": "to be pale",
+    "nepali": "पहेँलो पर्नु; फिक्का हुनु"
+  },
+  {
+    "korean": "철없다",
+    "english": "to be immature",
+    "nepali": "अपरिपक्व हुनु"
+  },
+  {
+    "korean": "촌스럽다",
+    "english": "to be old-fashioned; to be tacky",
+    "nepali": "पुरानो फेसनको हुनु"
+  },
+  {
+    "korean": "촘촘하다",
+    "english": "to be dense; to be tight",
+    "nepali": "घना हुनु"
+  },
+  {
+    "korean": "초록색이다",
+    "english": "to be green",
+    "nepali": "हरियो हुनु"
+  },
+  {
+    "korean": "체포하다",
+    "english": "to arrest",
+    "nepali": "पक्राउ गर्नु"
+  },
+  {
+    "korean": "치사하다",
+    "english": "to be petty; to be mean",
+    "nepali": "तुच्छ हुनु"
+  },
+  {
+    "korean": "침을 뱉다",
+    "english": "to spit",
+    "nepali": "थुक थुक्नु"
+  },
+  {
+    "korean": "차례를 지내다",
+    "english": "to hold an ancestral memorial ceremony",
+    "nepali": "श्राद्ध गर्नु"
+  },
+  {
+    "korean": "추락하다",
+    "english": "to fall; to crash",
+    "nepali": "खस्नु"
+  },
+  {
+    "korean": "추방되다",
+    "english": "to be expelled",
+    "nepali": "देश निकाला हुनु"
+  },
+  {
+    "korean": "크다",
+    "english": "to be big; to be large",
+    "nepali": "ठूलो हुनु"
+  },
+  {
+    "korean": "키우다",
+    "english": "to raise; to grow (plants, pets)",
+    "nepali": "हुर्काउनु; पाल्नु"
+  },
+  {
+    "korean": "켜다",
+    "english": "to turn on",
+    "nepali": "बाल्नु; खोल्नु"
+  },
+  {
+    "korean": "커지다",
+    "english": "to become bigger",
+    "nepali": "ठूलो हुनु"
+  },
+  {
+    "korean": "키가 크다",
+    "english": "to be tall",
+    "nepali": "अग्लो हुनु"
+  },
+  {
+    "korean": "키가 작다",
+    "english": "to be short (height)",
+    "nepali": "होचो हुनु"
+  },
+  {
+    "korean": "클릭하다",
+    "english": "to click",
+    "nepali": "क्लिक गर्नु"
+  },
+  {
+    "korean": "캐다",
+    "english": "to dig up",
+    "nepali": "खन्नु"
+  },
+  {
+    "korean": "커 가다",
+    "english": "to be growing",
+    "nepali": "बढ्दै जानु"
+  },
+  {
+    "korean": "키스하다",
+    "english": "to kiss",
+    "nepali": "चुम्बन गर्नु"
+  },
+  {
+    "korean": "쾌적하다",
+    "english": "to be pleasant; to be comfortable",
+    "nepali": "आरामदायी हुनु; सुखद हुनु"
+  },
+  {
+    "korean": "캄캄하다",
+    "english": "to be pitch dark",
+    "nepali": "घुम्मिएको अँध्यारो हुनु"
+  },
+  {
+    "korean": "칼에 베이다",
+    "english": "to be cut by a knife",
+    "nepali": "चक्कुले काटिनु"
+  },
+  {
+    "korean": "타다",
+    "english": "to ride; to take (bus, train); to burn",
+    "nepali": "चढ्नु; जल्नु"
+  },
+  {
+    "korean": "태어나다",
+    "english": "to be born",
+    "nepali": "जन्मनु"
+  },
+  {
+    "korean": "통화하다",
+    "english": "to talk on the phone",
+    "nepali": "फोनमा बोल्नु"
+  },
+  {
+    "korean": "퇴근하다",
+    "english": "to leave work",
+    "nepali": "काम सकेर फर्कनु"
+  },
+  {
+    "korean": "특별하다",
+    "english": "to be special",
+    "nepali": "विशेष हुनु"
+  },
+  {
+    "korean": "튼튼하다",
+    "english": "to be sturdy",
+    "nepali": "बलियो हुनु"
+  },
+  {
+    "korean": "틀리다",
+    "english": "to be wrong",
+    "nepali": "गलत हुनु"
+  },
+  {
+    "korean": "틀다",
+    "english": "to turn on; to twist",
+    "nepali": "चलाउनु; बाङ्गो पार्नु"
+  },
+  {
+    "korean": "토론하다",
+    "english": "to discuss; to debate",
+    "nepali": "छलफल गर्नु"
+  },
+  {
+    "korean": "통과하다",
+    "english": "to pass through",
+    "nepali": "पार गर्नु"
+  },
+  {
+    "korean": "통역하다",
+    "english": "to interpret",
+    "nepali": "दोभाषे गर्नु"
+  },
+  {
+    "korean": "퇴원하다",
+    "english": "to be discharged",
+    "nepali": "अस्पतालबाट डिस्चार्ज हुनु"
+  },
+  {
+    "korean": "태우다",
+    "english": "to burn; to give a ride",
+    "nepali": "जलाउनु; चढाउनु"
+  },
+  {
+    "korean": "태워주다",
+    "english": "to give a ride",
+    "nepali": "चढाइदिनु"
+  },
+  {
+    "korean": "통하다",
+    "english": "to go through; to be understood",
+    "nepali": "जोडिनु; बुझिनु"
+  },
+  {
+    "korean": "토하다",
+    "english": "to vomit",
+    "nepali": "बान्ता गर्नु"
+  },
+  {
+    "korean": "퇴사하다",
+    "english": "to quit a company",
+    "nepali": "जागिर छोड्नु"
+  },
+  {
+    "korean": "특이하다",
+    "english": "to be unusual; to be unique",
+    "nepali": "विशेष हुनु"
+  },
+  {
+    "korean": "투덜대다",
+    "english": "to grumble",
+    "nepali": "गनगन गर्नु"
+  },
+  {
+    "korean": "통통하다",
+    "english": "to be plump",
+    "nepali": "मोटो हुनु"
+  },
+  {
+    "korean": "튀기다",
+    "english": "to deep-fry",
+    "nepali": "तल्नु"
+  },
+  {
+    "korean": "터득하다",
+    "english": "to master; to figure out",
+    "nepali": "सिक्नु; बुझ्नु"
+  },
+  {
+    "korean": "퇴보하다",
+    "english": "to regress",
+    "nepali": "पछाडि पर्नु"
+  },
+  {
+    "korean": "필요하다",
+    "english": "to need; to be necessary",
+    "nepali": "आवश्यक हुनु"
+  },
+  {
+    "korean": "팔다",
+    "english": "to sell",
+    "nepali": "बेच्नु"
+  },
+  {
+    "korean": "편하다",
+    "english": "to be comfortable; to be easy",
+    "nepali": "आरामदायी हुनु; सजिलो हुनु"
+  },
+  {
+    "korean": "피곤하다",
+    "english": "to be tired",
+    "nepali": "थाकेको हुनु"
+  },
+  {
+    "korean": "편리하다",
+    "english": "to be convenient",
+    "nepali": "सुविधाजनक हुनु"
+  },
+  {
+    "korean": "피우다",
+    "english": "to smoke; to light; to make bloom",
+    "nepali": "धुम्रपान गर्नु; फुलाउनु"
+  },
+  {
+    "korean": "피하다",
+    "english": "to avoid; to dodge",
+    "nepali": "बेवास्ता गर्नु; बच्नु"
+  },
+  {
+    "korean": "풀다",
+    "english": "to untie; to solve",
+    "nepali": "फुकाल्नु; समाधान गर्नु"
+  },
+  {
+    "korean": "파랗다",
+    "english": "to be blue",
+    "nepali": "निलो हुनु"
+  },
+  {
+    "korean": "판매하다",
+    "english": "to sell",
+    "nepali": "बेच्नु"
+  },
+  {
+    "korean": "편안하다",
+    "english": "to be comfortable; to be at ease",
+    "nepali": "आरामदायी हुनु"
+  },
+  {
+    "korean": "포장하다",
+    "english": "to pack; to wrap",
+    "nepali": "प्याक गर्नु"
+  },
+  {
+    "korean": "포함하다",
+    "english": "to include",
+    "nepali": "समावेश गर्नु"
+  },
+  {
+    "korean": "포기하다",
+    "english": "to give up",
+    "nepali": "हार मान्नु; छोड्नु"
+  },
+  {
+    "korean": "평가하다",
+    "english": "to evaluate",
+    "nepali": "मूल्याङ्कन गर्नु"
+  },
+  {
+    "korean": "표시하다",
+    "english": "to mark; to indicate",
+    "nepali": "सङ्केत गर्नु"
+  },
+  {
+    "korean": "피다",
+    "english": "to bloom",
+    "nepali": "फुल्नु"
+  },
+  {
+    "korean": "피가 나다",
+    "english": "to bleed",
+    "nepali": "रगत बग्नु"
+  },
+  {
+    "korean": "필요 없다",
+    "english": "to be unnecessary",
+    "nepali": "आवश्यक नहुनु"
+  },
+  {
+    "korean": "펴다",
+    "english": "to spread; to unfold",
+    "nepali": "फिँजाउनु; खोल्नु"
+  },
+  {
+    "korean": "풀리다",
+    "english": "to come loose; to be solved",
+    "nepali": "फुक्नु; समाधान हुनु"
+  },
+  {
+    "korean": "퍼지다",
+    "english": "to spread",
+    "nepali": "फैलिनु"
+  },
+  {
+    "korean": "파다",
+    "english": "to dig",
+    "nepali": "खन्नु"
+  },
+  {
+    "korean": "편찮다",
+    "english": "to be unwell",
+    "nepali": "अस्वस्थ हुनु"
+  },
+  {
+    "korean": "편찮으시다",
+    "english": "to be ill (honorific)",
+    "nepali": "बिरामी हुनुहुन्छ"
+  },
+  {
+    "korean": "펼치다",
+    "english": "to spread out",
+    "nepali": "फैलाउनु"
+  },
+  {
+    "korean": "평범하다",
+    "english": "to be common; to be ordinary",
+    "nepali": "साधारण हुनु"
+  },
+  {
+    "korean": "평화롭다",
+    "english": "to be peaceful",
+    "nepali": "शान्त हुनु"
+  },
+  {
+    "korean": "판단하다",
+    "english": "to judge",
+    "nepali": "न्याय गर्नु; निर्णय गर्नु"
+  },
+  {
+    "korean": "파악하다",
+    "english": "to grasp; to figure out",
+    "nepali": "बुझ्नु; थाहा पाउनु"
+  },
+  {
+    "korean": "피곤해지다",
+    "english": "to get tired",
+    "nepali": "थाक्नु"
+  },
+  {
+    "korean": "포근하다",
+    "english": "to be cozy; to be mild",
+    "nepali": "न्यानो र आरामदायी हुनु"
+  },
+  {
+    "korean": "푸르다",
+    "english": "to be blue; to be green",
+    "nepali": "निलो हुनु; हरियो हुनु"
+  },
+  {
+    "korean": "푸짐하다",
+    "english": "to be generous (portions)",
+    "nepali": "प्रशस्त हुनु; धेरै हुनु"
+  },
+  {
+    "korean": "푹신하다",
+    "english": "to be soft and cushy",
+    "nepali": "मुलायम हुनु"
+  },
+  {
+    "korean": "파손되다",
+    "english": "to be damaged; to break",
+    "nepali": "फुट्नु"
+  },
+  {
+    "korean": "포옹하다",
+    "english": "to hug",
+    "nepali": "अँगालो मार्नु"
+  },
+  {
+    "korean": "폐업하다",
+    "english": "to close a business",
+    "nepali": "कम्पनी बन्द हुनु"
+  },
+  {
+    "korean": "폭언하다",
+    "english": "to use abusive language",
+    "nepali": "अश्लील गाली गर्नु"
+  },
+  {
+    "korean": "폭행하다",
+    "english": "to assault",
+    "nepali": "पिटाइ खानु"
+  },
+  {
+    "korean": "하다",
+    "english": "to do; to make",
+    "nepali": "गर्नु"
+  },
+  {
+    "korean": "할 수 있다",
+    "english": "to be able to",
+    "nepali": "गर्न सक्नु"
+  },
+  {
+    "korean": "할 수 없다",
+    "english": "to be unable to",
+    "nepali": "गर्न नसक्नु"
+  },
+  {
+    "korean": "힘들다",
+    "english": "to be hard; to be tiring",
+    "nepali": "गाह्रो हुनु; थकाइलाग्दो हुनु"
+  },
+  {
+    "korean": "행복하다",
+    "english": "to be happy",
+    "nepali": "सुखी हुनु"
+  },
+  {
+    "korean": "확인하다",
+    "english": "to check; to confirm",
+    "nepali": "जाँच गर्नु; पुष्टि गर्नु"
+  },
+  {
+    "korean": "헤어지다",
+    "english": "to part; to break up",
+    "nepali": "छुट्टिनु"
+  },
+  {
+    "korean": "화나다",
+    "english": "to be angry",
+    "nepali": "रिस उठ्नु"
+  },
+  {
+    "korean": "화내다",
+    "english": "to get angry",
+    "nepali": "रिस गर्नु"
+  },
+  {
+    "korean": "하얗다",
+    "english": "to be white",
+    "nepali": "सेतो हुनु"
+  },
+  {
+    "korean": "한가하다",
+    "english": "to be free; to be idle",
+    "nepali": "फुर्सदमा हुनु"
+  },
+  {
+    "korean": "합격하다",
+    "english": "to pass (an exam)",
+    "nepali": "उत्तीर्ण हुनु"
+  },
+  {
+    "korean": "해결하다",
+    "english": "to solve",
+    "nepali": "समाधान गर्नु"
+  },
+  {
+    "korean": "해주다",
+    "english": "to do for someone",
+    "nepali": "गरिदिनु"
+  },
+  {
+    "korean": "환전하다",
+    "english": "to exchange currency",
+    "nepali": "सटही गर्नु"
+  },
+  {
+    "korean": "환불하다",
+    "english": "to refund",
+    "nepali": "रकम फिर्ता गर्नु"
+  },
+  {
+    "korean": "허락하다",
+    "english": "to allow; to permit",
+    "nepali": "अनुमति दिनु"
+  },
+  {
+    "korean": "환영하다",
+    "english": "to welcome",
+    "nepali": "स्वागत गर्नु"
+  },
+  {
+    "korean": "후회하다",
+    "english": "to regret",
+    "nepali": "पछुताउनु"
+  },
+  {
+    "korean": "흐리다",
+    "english": "to be cloudy; to be murky",
+    "nepali": "बादल लागेको हुनु"
+  },
+  {
+    "korean": "흔들다",
+    "english": "to shake; to wave",
+    "nepali": "हल्लाउनु"
+  },
+  {
+    "korean": "흘리다",
+    "english": "to spill",
+    "nepali": "पोखिनु"
+  },
+  {
+    "korean": "흐르다",
+    "english": "to flow",
+    "nepali": "बग्नु"
+  },
+  {
+    "korean": "훔치다",
+    "english": "to steal",
+    "nepali": "चोर्नु"
+  },
+  {
+    "korean": "회복하다",
+    "english": "to recover",
+    "nepali": "निको हुनु; पुनः प्राप्त गर्नु"
+  },
+  {
+    "korean": "훈련하다",
+    "english": "to train",
+    "nepali": "तालिम गर्नु"
+  },
+  {
+    "korean": "활용하다",
+    "english": "to utilize",
+    "nepali": "उपयोग गर्नु"
+  },
+  {
+    "korean": "화해하다",
+    "english": "to make up; to reconcile",
+    "nepali": "मेलमिलाप गर्नु"
+  },
+  {
+    "korean": "하품하다",
+    "english": "to yawn",
+    "nepali": "जँगाइ लिनु"
+  },
+  {
+    "korean": "한턱 내다",
+    "english": "to treat someone (to a meal)",
+    "nepali": "पार्टी दिनु"
+  },
+  {
+    "korean": "합치다",
+    "english": "to combine",
+    "nepali": "जोड्नु; मिलाउनु"
+  },
+  {
+    "korean": "항의하다",
+    "english": "to protest; to complain",
+    "nepali": "विरोध गर्नु; गुनासो गर्नु"
+  },
+  {
+    "korean": "해내다",
+    "english": "to accomplish",
+    "nepali": "सम्पन्न गर्नु"
+  },
+  {
+    "korean": "해지하다",
+    "english": "to cancel; to terminate",
+    "nepali": "रद्द गर्नु"
+  },
+  {
+    "korean": "향하다",
+    "english": "to head toward; to face",
+    "nepali": "तर्फ लाग्नु"
+  },
+  {
+    "korean": "활발하다",
+    "english": "to be lively; to be active",
+    "nepali": "सक्रिय हुनु; फुर्तिलो हुनु"
+  },
+  {
+    "korean": "훌륭하다",
+    "english": "to be excellent",
+    "nepali": "उत्कृष्ट हुनु"
+  },
+  {
+    "korean": "흔하다",
+    "english": "to be common",
+    "nepali": "सामान्य हुनु; धेरै पाइने हुनु"
+  },
+  {
+    "korean": "힘내다",
+    "english": "to cheer up; to do one's best",
+    "nepali": "हिम्मत गर्नु"
+  },
+  {
+    "korean": "힘세다",
+    "english": "to be strong",
+    "nepali": "बलियो हुनु"
+  },
+  {
+    "korean": "힘쓰다",
+    "english": "to strive; to exert oneself",
+    "nepali": "प्रयास गर्नु"
+  },
+  {
+    "korean": "힘 없다",
+    "english": "to be weak; to have no strength",
+    "nepali": "कमजोर हुनु"
+  },
+  {
+    "korean": "희망하다",
+    "english": "to hope",
+    "nepali": "आशा गर्नु"
+  },
+  {
+    "korean": "흥분하다",
+    "english": "to be excited",
+    "nepali": "उत्तेजित हुनु"
+  },
+  {
+    "korean": "환하다",
+    "english": "to be bright; to be clear",
+    "nepali": "उज्यालो हुनु"
+  },
+  {
+    "korean": "화려하다",
+    "english": "to be fancy; to be splendid",
+    "nepali": "भव्य हुनु; चम्किलो हुनु"
+  },
+  {
+    "korean": "현명하다",
+    "english": "to be wise",
+    "nepali": "बुद्धिमान हुनु"
+  },
+  {
+    "korean": "확실하다",
+    "english": "to be certain; to be sure",
+    "nepali": "निश्चित हुनु"
+  },
+  {
+    "korean": "환기를 시키다",
+    "english": "to ventilate",
+    "nepali": "हावा पास गराउनु"
+  },
+  {
+    "korean": "화상을 입다",
+    "english": "to get burned",
+    "nepali": "आगोले पोल्नु"
+  },
+  {
+    "korean": "화재가 나다",
+    "english": "for a fire to break out",
+    "nepali": "आगलागी हुनु"
+  },
+  {
+    "korean": "해고를 당하다",
+    "english": "to be fired",
+    "nepali": "निष्कासित हुनु"
+  },
+  {
+    "korean": "혼내다",
+    "english": "to scold",
+    "nepali": "गाली गर्नु; हप्काउनु"
+  },
+  {
+    "korean": "헤매다",
+    "english": "to wander; to be lost",
+    "nepali": "भौँतारिनु"
+  },
+  {
+    "korean": "헐렁하다",
+    "english": "to be loose (clothes)",
+    "nepali": "खुकुलो हुनु"
+  },
+  {
+    "korean": "허전하다",
+    "english": "to feel empty",
+    "nepali": "खाली-खाली लाग्नु"
+  },
+  {
+    "korean": "한심하다",
+    "english": "to be pathetic",
+    "nepali": "दयनीय हुनु"
+  },
+  {
+    "korean": "하찮다",
+    "english": "to be trivial; to be insignificant",
+    "nepali": "तुच्छ हुनु"
+  },
+  {
+    "korean": "해롭다",
+    "english": "to be harmful",
+    "nepali": "हानिकारक हुनु"
+  },
+  {
+    "korean": "향기롭다",
+    "english": "to be fragrant",
+    "nepali": "सुगन्धित हुनु"
+  },
+  {
+    "korean": "향상되다",
+    "english": "to improve",
+    "nepali": "सुधार हुनु"
+  },
+  {
+    "korean": "허물다",
+    "english": "to demolish",
+    "nepali": "भत्काउनु"
+  },
+  {
+    "korean": "합류하다",
+    "english": "to join (a group)",
+    "nepali": "जोडिनु; सामेल हुनु"
+  },
+  {
+    "korean": "환상적이다",
+    "english": "to be fantastic",
+    "nepali": "अद्भुत हुनु"
+  },
+  {
+    "korean": "회의하다",
+    "english": "to have a meeting",
+    "nepali": "बैठक गर्नु"
+  },
+  {
+    "korean": "후덥지근하다",
+    "english": "to be muggy",
+    "nepali": "उमस हुनु"
+  },
+  {
+    "korean": "후련하다",
+    "english": "to feel relieved",
+    "nepali": "हल्का महसुस हुनु"
+  },
+  {
+    "korean": "흐뭇하다",
+    "english": "to be pleased; to be satisfied",
+    "nepali": "खुशी हुनु; सन्तुष्ट हुनु"
+  },
+  {
+    "korean": "흔들리다",
+    "english": "to shake; to be shaken",
+    "nepali": "हल्लिनु"
+  },
+  {
+    "korean": "희미하다",
+    "english": "to be faint; to be dim",
+    "nepali": "धमिलो हुनु"
+  },
+  {
+    "korean": "힘차다",
+    "english": "to be energetic; to be vigorous",
+    "nepali": "जोसिलो हुनु"
+  },
+  {
+    "korean": "홀가분하다",
+    "english": "to feel light; to be free of burden",
+    "nepali": "हल्का महसुस हुनु"
+  },
+  {
+    "korean": "학생회관이다",
+    "english": "to be the student hall",
+    "nepali": "यो विद्यार्थीको हल हो"
+  },
+  {
+    "korean": "핥다",
+    "english": "to lick",
+    "nepali": "चाट्नु"
+  }
+]
