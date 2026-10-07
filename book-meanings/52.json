@@ -1,0 +1,2468 @@
+[
+  {
+    "id": 1,
+    "korean": "문법",
+    "english": "grammar",
+    "nepali": "व्याकरण"
+  },
+  {
+    "id": 2,
+    "korean": "어휘",
+    "english": "vocabulary",
+    "nepali": "शब्दावली"
+  },
+  {
+    "id": 3,
+    "korean": "문화",
+    "english": "culture",
+    "nepali": "संस्कृति"
+  },
+  {
+    "id": 4,
+    "korean": "정보",
+    "english": "information",
+    "nepali": "जानकारी"
+  },
+  {
+    "id": 5,
+    "korean": "학습",
+    "english": "study, learning",
+    "nepali": "अध्ययन"
+  },
+  {
+    "id": 6,
+    "korean": "목표",
+    "english": "goal, objective",
+    "nepali": "लक्ष्य"
+  },
+  {
+    "id": 7,
+    "korean": "한국",
+    "english": "Korea",
+    "nepali": "कोरिया"
+  },
+  {
+    "id": 8,
+    "korean": "관련",
+    "english": "related",
+    "nepali": "सम्बन्धित"
+  },
+  {
+    "id": 9,
+    "korean": "묻다",
+    "english": "to ask",
+    "nepali": "सोध्नु"
+  },
+  {
+    "id": 10,
+    "korean": "대답하다",
+    "english": "to answer",
+    "nepali": "जवाफ दिनु"
+  },
+  {
+    "id": 11,
+    "korean": "말하다",
+    "english": "to speak, to say",
+    "nepali": "भन्नु"
+  },
+  {
+    "id": 12,
+    "korean": "알맞다",
+    "english": "to be suitable",
+    "nepali": "उपयुक्त हुनु"
+  },
+  {
+    "id": 13,
+    "korean": "고르다",
+    "english": "to choose",
+    "nepali": "छान्नु"
+  },
+  {
+    "id": 14,
+    "korean": "완성하다",
+    "english": "to complete",
+    "nepali": "पूरा गर्नु"
+  },
+  {
+    "id": 15,
+    "korean": "보기",
+    "english": "example",
+    "nepali": "उदाहरण"
+  },
+  {
+    "id": 16,
+    "korean": "대화",
+    "english": "conversation",
+    "nepali": "कुराकानी"
+  },
+  {
+    "id": 17,
+    "korean": "문장",
+    "english": "sentence",
+    "nepali": "वाक्य"
+  },
+  {
+    "id": 18,
+    "korean": "그림",
+    "english": "picture",
+    "nepali": "चित्र"
+  },
+  {
+    "id": 19,
+    "korean": "관계있다",
+    "english": "to be related",
+    "nepali": "सम्बन्धित हुनु"
+  },
+  {
+    "id": 20,
+    "korean": "빈칸",
+    "english": "blank",
+    "nepali": "खाली ठाउँ"
+  },
+  {
+    "id": 21,
+    "korean": "들어가다",
+    "english": "to go in, to fit in",
+    "nepali": "भित्र जानु / अट्नु"
+  },
+  {
+    "id": 22,
+    "korean": "설명",
+    "english": "explanation",
+    "nepali": "व्याख्या"
+  },
+  {
+    "id": 23,
+    "korean": "맞다",
+    "english": "to be correct",
+    "nepali": "सही हुनु"
+  },
+  {
+    "id": 24,
+    "korean": "듣다",
+    "english": "to listen",
+    "nepali": "सुन्नु"
+  },
+  {
+    "id": 25,
+    "korean": "내용",
+    "english": "content",
+    "nepali": "विषयवस्तु"
+  },
+  {
+    "id": 26,
+    "korean": "이어지다",
+    "english": "to continue, to follow",
+    "nepali": "जारी रहनु"
+  },
+  {
+    "id": 27,
+    "korean": "가장",
+    "english": "most",
+    "nepali": "सबैभन्दा"
+  },
+  {
+    "id": 28,
+    "korean": "하다",
+    "english": "to do",
+    "nepali": "गर्नु"
+  },
+  {
+    "id": 29,
+    "korean": "되다",
+    "english": "to become",
+    "nepali": "हुनु"
+  },
+  {
+    "id": 30,
+    "korean": "가다",
+    "english": "to go",
+    "nepali": "जानु"
+  },
+  {
+    "id": 31,
+    "korean": "다음",
+    "english": "next, following",
+    "nepali": "अर्को, निम्न"
+  },
+  {
+    "id": 32,
+    "korean": "씨",
+    "english": "Mr./Ms.",
+    "nepali": "श्री / सुश्री"
+  },
+  {
+    "id": 33,
+    "korean": "그리고",
+    "english": "and",
+    "nepali": "र"
+  },
+  {
+    "id": 34,
+    "korean": "음식",
+    "english": "food",
+    "nepali": "खाना"
+  },
+  {
+    "id": 35,
+    "korean": "조리",
+    "english": "cooking, food preparation",
+    "nepali": "खाना पकाउने काम"
+  },
+  {
+    "id": 36,
+    "korean": "식재료",
+    "english": "food ingredient",
+    "nepali": "खाद्य सामग्री"
+  },
+  {
+    "id": 37,
+    "korean": "관리",
+    "english": "management",
+    "nepali": "व्यवस्थापन"
+  },
+  {
+    "id": 38,
+    "korean": "방법",
+    "english": "method",
+    "nepali": "तरिका"
+  },
+  {
+    "id": 39,
+    "korean": "안전하다",
+    "english": "to be safe",
+    "nepali": "सुरक्षित हुनु"
+  },
+  {
+    "id": 40,
+    "korean": "보관하다",
+    "english": "to store",
+    "nepali": "सुरक्षित राख्नु"
+  },
+  {
+    "id": 41,
+    "korean": "설명하다",
+    "english": "to explain",
+    "nepali": "व्याख्या गर्नु"
+  },
+  {
+    "id": 42,
+    "korean": "고기",
+    "english": "meat",
+    "nepali": "मासु"
+  },
+  {
+    "id": 43,
+    "korean": "해동하다",
+    "english": "to defrost",
+    "nepali": "बरफ पगाल्नु"
+  },
+  {
+    "id": 44,
+    "korean": "지",
+    "english": "since (time passed)",
+    "nepali": "(समय बितेको सङ्केत)"
+  },
+  {
+    "id": 45,
+    "korean": "얼마나",
+    "english": "how long, how much",
+    "nepali": "कति"
+  },
+  {
+    "id": 46,
+    "korean": "세",
+    "english": "three (counter)",
+    "nepali": "तीन"
+  },
+  {
+    "id": 47,
+    "korean": "시간",
+    "english": "hour, time",
+    "nepali": "घण्टा, समय"
+  },
+  {
+    "id": 48,
+    "korean": "식재료 관리",
+    "english": "ingredient management",
+    "nepali": "खाद्य सामग्री व्यवस्थापन"
+  },
+  {
+    "id": 49,
+    "korean": "안전",
+    "english": "safety",
+    "nepali": "सुरक्षा"
+  },
+  {
+    "id": 50,
+    "korean": "산업",
+    "english": "industry",
+    "nepali": "उद्योग"
+  },
+  {
+    "id": 51,
+    "korean": "냉장 보관",
+    "english": "refrigeration",
+    "nepali": "फ्रिजमा राख्ने"
+  },
+  {
+    "id": 52,
+    "korean": "냉동 보관",
+    "english": "freezing",
+    "nepali": "फ्रिजरमा राख्ने"
+  },
+  {
+    "id": 53,
+    "korean": "소비 기한",
+    "english": "expiration date",
+    "nepali": "उपभोग गर्नुपर्ने अन्तिम मिति"
+  },
+  {
+    "id": 54,
+    "korean": "개봉하다",
+    "english": "to open (a package)",
+    "nepali": "खोल्नु (प्याकेट)"
+  },
+  {
+    "id": 55,
+    "korean": "소스",
+    "english": "sauce",
+    "nepali": "सस"
+  },
+  {
+    "id": 56,
+    "korean": "통조림",
+    "english": "canned food",
+    "nepali": "टिनमा राखिएको खाना"
+  },
+  {
+    "id": 57,
+    "korean": "대용량",
+    "english": "bulk, large quantity",
+    "nepali": "ठूलो मात्रा"
+  },
+  {
+    "id": 58,
+    "korean": "소분하다",
+    "english": "to divide into small portions",
+    "nepali": "साना भागमा बाँड्नु"
+  },
+  {
+    "id": 59,
+    "korean": "나누다",
+    "english": "to divide",
+    "nepali": "बाँड्नु"
+  },
+  {
+    "id": 60,
+    "korean": "밀폐용기",
+    "english": "airtight container",
+    "nepali": "हावा नछिर्ने भाँडो"
+  },
+  {
+    "id": 61,
+    "korean": "식자재",
+    "english": "food ingredients",
+    "nepali": "खाद्य सामग्री"
+  },
+  {
+    "id": 62,
+    "korean": "검수하다",
+    "english": "to inspect (goods)",
+    "nepali": "सामान जाँच गरी बुझ्नु"
+  },
+  {
+    "id": 63,
+    "korean": "주문서",
+    "english": "order form",
+    "nepali": "अर्डर फारम"
+  },
+  {
+    "id": 64,
+    "korean": "확인하다",
+    "english": "to check",
+    "nepali": "जाँच्नु"
+  },
+  {
+    "id": 65,
+    "korean": "주방용품",
+    "english": "kitchen supplies",
+    "nepali": "भान्साको सामान"
+  },
+  {
+    "id": 66,
+    "korean": "키친타월",
+    "english": "paper towel",
+    "nepali": "किचन पेपर"
+  },
+  {
+    "id": 67,
+    "korean": "지퍼백",
+    "english": "zipper bag",
+    "nepali": "जिपर झोला"
+  },
+  {
+    "id": 68,
+    "korean": "비닐랩",
+    "english": "plastic wrap",
+    "nepali": "प्लास्टिक र्‍याप"
+  },
+  {
+    "id": 69,
+    "korean": "위생백",
+    "english": "sanitary bag",
+    "nepali": "सफा प्लास्टिक झोला"
+  },
+  {
+    "id": 70,
+    "korean": "망",
+    "english": "net",
+    "nepali": "जाली"
+  },
+  {
+    "id": 71,
+    "korean": "쿠킹호일",
+    "english": "aluminum foil",
+    "nepali": "एल्युमिनियम फोइल"
+  },
+  {
+    "id": 72,
+    "korean": "썩다",
+    "english": "to rot",
+    "nepali": "कुहिनु"
+  },
+  {
+    "id": 73,
+    "korean": "시들다",
+    "english": "to wilt",
+    "nepali": "ओइलाउनु"
+  },
+  {
+    "id": 74,
+    "korean": "녹다",
+    "english": "to melt",
+    "nepali": "पग्लनु"
+  },
+  {
+    "id": 75,
+    "korean": "싹이 나다",
+    "english": "to sprout",
+    "nepali": "अङ्कुर आउनु"
+  },
+  {
+    "id": 76,
+    "korean": "신문지",
+    "english": "newspaper",
+    "nepali": "पत्रिकाको कागज"
+  },
+  {
+    "id": 77,
+    "korean": "파",
+    "english": "green onion",
+    "nepali": "हरियो प्याज (साँप्रो)"
+  },
+  {
+    "id": 78,
+    "korean": "냉장",
+    "english": "refrigeration",
+    "nepali": "फ्रिजमा राख्ने"
+  },
+  {
+    "id": 79,
+    "korean": "넣다",
+    "english": "to put in",
+    "nepali": "हाल्नु"
+  },
+  {
+    "id": 80,
+    "korean": "배추",
+    "english": "cabbage",
+    "nepali": "बन्दाकोबी (चिनियाँ)"
+  },
+  {
+    "id": 81,
+    "korean": "씻다",
+    "english": "to wash",
+    "nepali": "धुनु"
+  },
+  {
+    "id": 82,
+    "korean": "싸다",
+    "english": "to wrap",
+    "nepali": "बेर्नु"
+  },
+  {
+    "id": 83,
+    "korean": "두다",
+    "english": "to leave, to put",
+    "nepali": "राख्नु"
+  },
+  {
+    "id": 84,
+    "korean": "쌈 채소",
+    "english": "leafy wraps",
+    "nepali": "खाना बेर्ने पातका साग"
+  },
+  {
+    "id": 85,
+    "korean": "양파",
+    "english": "onion",
+    "nepali": "प्याज"
+  },
+  {
+    "id": 86,
+    "korean": "서늘하다",
+    "english": "to be cool",
+    "nepali": "चिसो हुनु"
+  },
+  {
+    "id": 87,
+    "korean": "곳",
+    "english": "place",
+    "nepali": "ठाउँ"
+  },
+  {
+    "id": 88,
+    "korean": "후회",
+    "english": "regret",
+    "nepali": "पछुतो"
+  },
+  {
+    "id": 89,
+    "korean": "만족하다",
+    "english": "to be satisfied",
+    "nepali": "सन्तुष्ट हुनु"
+  },
+  {
+    "id": 90,
+    "korean": "아쉬움",
+    "english": "disappointment, regret",
+    "nepali": "अफसोस"
+  },
+  {
+    "id": 91,
+    "korean": "나타내다",
+    "english": "to express",
+    "nepali": "देखाउनु"
+  },
+  {
+    "id": 92,
+    "korean": "동사",
+    "english": "verb",
+    "nepali": "क्रिया"
+  },
+  {
+    "id": 93,
+    "korean": "형용사",
+    "english": "adjective",
+    "nepali": "विशेषण"
+  },
+  {
+    "id": 94,
+    "korean": "마시다",
+    "english": "to drink",
+    "nepali": "पिउनु"
+  },
+  {
+    "id": 95,
+    "korean": "청소하다",
+    "english": "to clean",
+    "nepali": "सफा गर्नु"
+  },
+  {
+    "id": 96,
+    "korean": "모임",
+    "english": "gathering",
+    "nepali": "भेला"
+  },
+  {
+    "id": 97,
+    "korean": "몸",
+    "english": "body",
+    "nepali": "शरीर"
+  },
+  {
+    "id": 98,
+    "korean": "좋다",
+    "english": "to be good",
+    "nepali": "राम्रो हुनु"
+  },
+  {
+    "id": 99,
+    "korean": "못",
+    "english": "cannot",
+    "nepali": "नसक्नु"
+  },
+  {
+    "id": 100,
+    "korean": "부모님",
+    "english": "parents",
+    "nepali": "आमाबुबा"
+  },
+  {
+    "id": 101,
+    "korean": "같이",
+    "english": "together",
+    "nepali": "सँगै"
+  },
+  {
+    "id": 102,
+    "korean": "많이",
+    "english": "a lot",
+    "nepali": "धेरै"
+  },
+  {
+    "id": 103,
+    "korean": "가지다",
+    "english": "to have",
+    "nepali": "लिनु, राख्नु"
+  },
+  {
+    "id": 104,
+    "korean": "그러지 못하다",
+    "english": "to be unable to do so",
+    "nepali": "त्यसो गर्न नसक्नु"
+  },
+  {
+    "id": 105,
+    "korean": "식당",
+    "english": "restaurant",
+    "nepali": "रेस्टुरेन्ट"
+  },
+  {
+    "id": 106,
+    "korean": "예약하다",
+    "english": "to reserve",
+    "nepali": "बुक गर्नु"
+  },
+  {
+    "id": 107,
+    "korean": "아직",
+    "english": "not yet",
+    "nepali": "अझै"
+  },
+  {
+    "id": 108,
+    "korean": "미안하다",
+    "english": "to be sorry",
+    "nepali": "माफ गर्नु"
+  },
+  {
+    "id": 109,
+    "korean": "미리",
+    "english": "in advance",
+    "nepali": "पहिले नै"
+  },
+  {
+    "id": 110,
+    "korean": "선반",
+    "english": "shelf",
+    "nepali": "ताखा"
+  },
+  {
+    "id": 111,
+    "korean": "얼룩",
+    "english": "stain",
+    "nepali": "दाग"
+  },
+  {
+    "id": 112,
+    "korean": "닦다",
+    "english": "to wipe",
+    "nepali": "पुछ्नु"
+  },
+  {
+    "id": 113,
+    "korean": "죄송하다",
+    "english": "to be sorry",
+    "nepali": "माफ गर्नुहोस्"
+  },
+  {
+    "id": 114,
+    "korean": "시간이 없다",
+    "english": "to have no time",
+    "nepali": "समय नहुनु"
+  },
+  {
+    "id": 115,
+    "korean": "배달되다",
+    "english": "to be delivered",
+    "nepali": "पुर्‍याइनु"
+  },
+  {
+    "id": 116,
+    "korean": "채소",
+    "english": "vegetable",
+    "nepali": "तरिकारी"
+  },
+  {
+    "id": 117,
+    "korean": "꼼꼼히",
+    "english": "thoroughly",
+    "nepali": "ध्यानपूर्वक"
+  },
+  {
+    "id": 118,
+    "korean": "날짜",
+    "english": "date",
+    "nepali": "मिति"
+  },
+  {
+    "id": 119,
+    "korean": "쓰다",
+    "english": "to write",
+    "nepali": "लेख्नु"
+  },
+  {
+    "id": 120,
+    "korean": "잊어버리다",
+    "english": "to forget",
+    "nepali": "बिर्सनु"
+  },
+  {
+    "id": 121,
+    "korean": "깜빡하다",
+    "english": "to forget for a moment",
+    "nepali": "पलभर बिर्सनु"
+  },
+  {
+    "id": 122,
+    "korean": "도착하다",
+    "english": "to arrive",
+    "nepali": "पुग्नु"
+  },
+  {
+    "id": 123,
+    "korean": "주문하다",
+    "english": "to order",
+    "nepali": "अर्डर गर्नु"
+  },
+  {
+    "id": 124,
+    "korean": "불편하다",
+    "english": "to be inconvenient",
+    "nepali": "असुविधाजनक हुनु"
+  },
+  {
+    "id": 125,
+    "korean": "보관",
+    "english": "storage",
+    "nepali": "भण्डारण"
+  },
+  {
+    "id": 126,
+    "korean": "창고",
+    "english": "warehouse",
+    "nepali": "गोदाम"
+  },
+  {
+    "id": 127,
+    "korean": "지나다",
+    "english": "to pass",
+    "nepali": "बित्नु"
+  },
+  {
+    "id": 128,
+    "korean": "마늘",
+    "english": "garlic",
+    "nepali": "लसुन"
+  },
+  {
+    "id": 129,
+    "korean": "사용하다",
+    "english": "to use",
+    "nepali": "प्रयोग गर्नु"
+  },
+  {
+    "id": 130,
+    "korean": "바람",
+    "english": "wind, air",
+    "nepali": "हावा"
+  },
+  {
+    "id": 131,
+    "korean": "통하다",
+    "english": "to flow through",
+    "nepali": "आरपार हुनु"
+  },
+  {
+    "id": 132,
+    "korean": "토마토",
+    "english": "tomato",
+    "nepali": "गोलभेडा"
+  },
+  {
+    "id": 133,
+    "korean": "당근",
+    "english": "carrot",
+    "nepali": "गाजर"
+  },
+  {
+    "id": 134,
+    "korean": "덮다",
+    "english": "to cover",
+    "nepali": "छोप्नु"
+  },
+  {
+    "id": 135,
+    "korean": "나머지",
+    "english": "the rest",
+    "nepali": "बाँकी"
+  },
+  {
+    "id": 136,
+    "korean": "랩",
+    "english": "plastic wrap",
+    "nepali": "र्‍याप"
+  },
+  {
+    "id": 137,
+    "korean": "냉장고",
+    "english": "refrigerator",
+    "nepali": "फ्रिज"
+  },
+  {
+    "id": 138,
+    "korean": "정리하다",
+    "english": "to organize",
+    "nepali": "मिलाएर राख्नु"
+  },
+  {
+    "id": 139,
+    "korean": "잠깐만요",
+    "english": "just a moment",
+    "nepali": "एकछिन"
+  },
+  {
+    "id": 140,
+    "korean": "재료",
+    "english": "ingredient",
+    "nepali": "सामग्री"
+  },
+  {
+    "id": 141,
+    "korean": "버리다",
+    "english": "to throw away",
+    "nepali": "फाल्नु"
+  },
+  {
+    "id": 142,
+    "korean": "찾아보다",
+    "english": "to look for",
+    "nepali": "खोजेर हेर्नु"
+  },
+  {
+    "id": 143,
+    "korean": "바로",
+    "english": "right away",
+    "nepali": "तुरुन्तै"
+  },
+  {
+    "id": 144,
+    "korean": "기한",
+    "english": "deadline, time limit",
+    "nepali": "म्याद"
+  },
+  {
+    "id": 145,
+    "korean": "앞쪽",
+    "english": "front side",
+    "nepali": "अगाडिको तर्फ"
+  },
+  {
+    "id": 146,
+    "korean": "뒷쪽",
+    "english": "back side",
+    "nepali": "पछाडिको तर्फ"
+  },
+  {
+    "id": 147,
+    "korean": "남다",
+    "english": "to remain",
+    "nepali": "बाँकी रहनु"
+  },
+  {
+    "id": 148,
+    "korean": "어떻게",
+    "english": "how",
+    "nepali": "कसरी"
+  },
+  {
+    "id": 149,
+    "korean": "감자",
+    "english": "potato",
+    "nepali": "आलु"
+  },
+  {
+    "id": 150,
+    "korean": "싹",
+    "english": "sprout",
+    "nepali": "अङ्कुर"
+  },
+  {
+    "id": 151,
+    "korean": "배달",
+    "english": "delivery",
+    "nepali": "ढुवानी"
+  },
+  {
+    "id": 152,
+    "korean": "어둡다",
+    "english": "to be dark",
+    "nepali": "अँध्यारो हुनु"
+  },
+  {
+    "id": 153,
+    "korean": "큰일",
+    "english": "serious matter",
+    "nepali": "ठूलो समस्या"
+  },
+  {
+    "id": 154,
+    "korean": "냉동고",
+    "english": "freezer",
+    "nepali": "फ्रिजर"
+  },
+  {
+    "id": 155,
+    "korean": "고장나다",
+    "english": "to break down",
+    "nepali": "बिग्रनु"
+  },
+  {
+    "id": 156,
+    "korean": "수리하다",
+    "english": "to repair",
+    "nepali": "मर्मत गर्नु"
+  },
+  {
+    "id": 157,
+    "korean": "냉동식품",
+    "english": "frozen food",
+    "nepali": "जमाइएको खाना"
+  },
+  {
+    "id": 158,
+    "korean": "점검하다",
+    "english": "to inspect",
+    "nepali": "जाँच गर्नु"
+  },
+  {
+    "id": 159,
+    "korean": "받침",
+    "english": "final consonant",
+    "nepali": "शब्दको अन्तिम व्यञ्जन"
+  },
+  {
+    "id": 160,
+    "korean": "조사",
+    "english": "particle (grammar)",
+    "nepali": "कारक चिह्न (पार्टिकल)"
+  },
+  {
+    "id": 161,
+    "korean": "접미사",
+    "english": "suffix",
+    "nepali": "प्रत्यय"
+  },
+  {
+    "id": 162,
+    "korean": "모음",
+    "english": "vowel",
+    "nepali": "स्वर"
+  },
+  {
+    "id": 163,
+    "korean": "결합되다",
+    "english": "to be combined",
+    "nepali": "जोडिनु"
+  },
+  {
+    "id": 164,
+    "korean": "바꾸다",
+    "english": "to change",
+    "nepali": "बदल्नु"
+  },
+  {
+    "id": 165,
+    "korean": "음절",
+    "english": "syllable",
+    "nepali": "अक्षर"
+  },
+  {
+    "id": 166,
+    "korean": "첫소리",
+    "english": "initial sound",
+    "nepali": "पहिलो ध्वनि"
+  },
+  {
+    "id": 167,
+    "korean": "옮기다",
+    "english": "to move",
+    "nepali": "सार्नु"
+  },
+  {
+    "id": 168,
+    "korean": "발음하다",
+    "english": "to pronounce",
+    "nepali": "उच्चारण गर्नु"
+  },
+  {
+    "id": 169,
+    "korean": "맏이",
+    "english": "eldest child",
+    "nepali": "जेठो सन्तान"
+  },
+  {
+    "id": 170,
+    "korean": "굳이",
+    "english": "insist on, necessarily",
+    "nepali": "जबर्जस्ती"
+  },
+  {
+    "id": 171,
+    "korean": "미닫이",
+    "english": "sliding door",
+    "nepali": "सार्ने ढोका"
+  },
+  {
+    "id": 172,
+    "korean": "밭",
+    "english": "field",
+    "nepali": "खेत"
+  },
+  {
+    "id": 173,
+    "korean": "곡류",
+    "english": "grains",
+    "nepali": "अन्न"
+  },
+  {
+    "id": 174,
+    "korean": "해산물",
+    "english": "seafood",
+    "nepali": "समुद्री खाना"
+  },
+  {
+    "id": 175,
+    "korean": "육류",
+    "english": "meats",
+    "nepali": "मासु"
+  },
+  {
+    "id": 176,
+    "korean": "유제품",
+    "english": "dairy products",
+    "nepali": "दुग्ध पदार्थ"
+  },
+  {
+    "id": 177,
+    "korean": "실온",
+    "english": "room temperature",
+    "nepali": "कोठाको तापक्रम"
+  },
+  {
+    "id": 178,
+    "korean": "부패하다",
+    "english": "to rot",
+    "nepali": "कुहिनु"
+  },
+  {
+    "id": 179,
+    "korean": "상하다",
+    "english": "to spoil",
+    "nepali": "बिग्रनु"
+  },
+  {
+    "id": 180,
+    "korean": "핏물",
+    "english": "blood (from meat)",
+    "nepali": "मासुको रगत"
+  },
+  {
+    "id": 181,
+    "korean": "생기다",
+    "english": "to form",
+    "nepali": "बन्नु"
+  },
+  {
+    "id": 182,
+    "korean": "냄새",
+    "english": "smell",
+    "nepali": "गन्ध"
+  },
+  {
+    "id": 183,
+    "korean": "나다",
+    "english": "to come out",
+    "nepali": "आउनु"
+  },
+  {
+    "id": 184,
+    "korean": "벌레",
+    "english": "bug",
+    "nepali": "किरा"
+  },
+  {
+    "id": 185,
+    "korean": "곰팡이",
+    "english": "mold",
+    "nepali": "ढुसी"
+  },
+  {
+    "id": 186,
+    "korean": "피다",
+    "english": "to bloom, to grow (mold)",
+    "nepali": "फुल्नु, उम्रनु"
+  },
+  {
+    "id": 187,
+    "korean": "세균",
+    "english": "bacteria",
+    "nepali": "ब्याक्टेरिया"
+  },
+  {
+    "id": 188,
+    "korean": "번식하다",
+    "english": "to multiply",
+    "nepali": "बढ्नु, पैदा हुनु"
+  },
+  {
+    "id": 189,
+    "korean": "식중독",
+    "english": "food poisoning",
+    "nepali": "खानाबाट विषाक्तता"
+  },
+  {
+    "id": 190,
+    "korean": "걸리다",
+    "english": "to catch (illness)",
+    "nepali": "लाग्नु"
+  },
+  {
+    "id": 191,
+    "korean": "주방 도구",
+    "english": "kitchen utensils",
+    "nepali": "भान्साका औजार"
+  },
+  {
+    "id": 192,
+    "korean": "식칼",
+    "english": "kitchen knife",
+    "nepali": "चक्कु"
+  },
+  {
+    "id": 193,
+    "korean": "도마",
+    "english": "cutting board",
+    "nepali": "काट्ने पाटा"
+  },
+  {
+    "id": 194,
+    "korean": "국자",
+    "english": "ladle",
+    "nepali": "कलछुल"
+  },
+  {
+    "id": 195,
+    "korean": "강판",
+    "english": "grater",
+    "nepali": "किस्ने औजार"
+  },
+  {
+    "id": 196,
+    "korean": "깎기",
+    "english": "peeler",
+    "nepali": "छाला छोडाउने औजार"
+  },
+  {
+    "id": 197,
+    "korean": "필러",
+    "english": "peeler",
+    "nepali": "पिलर"
+  },
+  {
+    "id": 198,
+    "korean": "뒤집개",
+    "english": "spatula",
+    "nepali": "पल्टाउने चम्चा"
+  },
+  {
+    "id": 199,
+    "korean": "주걱",
+    "english": "rice scoop",
+    "nepali": "भात पस्किने चम्चा"
+  },
+  {
+    "id": 200,
+    "korean": "개월",
+    "english": "month(s)",
+    "nepali": "महिना"
+  },
+  {
+    "id": 201,
+    "korean": "쌀",
+    "english": "rice",
+    "nepali": "चामल"
+  },
+  {
+    "id": 202,
+    "korean": "조개",
+    "english": "clam",
+    "nepali": "सिपी"
+  },
+  {
+    "id": 203,
+    "korean": "치즈",
+    "english": "cheese",
+    "nepali": "चिज"
+  },
+  {
+    "id": 204,
+    "korean": "손질하다",
+    "english": "to trim, to prepare",
+    "nepali": "तयार पार्नु, छाँट्नु"
+  },
+  {
+    "id": 205,
+    "korean": "녹이다",
+    "english": "to melt",
+    "nepali": "पगाल्नु"
+  },
+  {
+    "id": 206,
+    "korean": "맞는",
+    "english": "matching, suitable",
+    "nepali": "उपयुक्त"
+  },
+  {
+    "id": 207,
+    "korean": "찾다",
+    "english": "to find",
+    "nepali": "खोज्नु"
+  },
+  {
+    "id": 208,
+    "korean": "연결하다",
+    "english": "to connect",
+    "nepali": "जोड्नु"
+  },
+  {
+    "id": 209,
+    "korean": "문",
+    "english": "door",
+    "nepali": "ढोका"
+  },
+  {
+    "id": 210,
+    "korean": "쪽",
+    "english": "side",
+    "nepali": "तर्फ"
+  },
+  {
+    "id": 211,
+    "korean": "온도",
+    "english": "temperature",
+    "nepali": "तापक्रम"
+  },
+  {
+    "id": 212,
+    "korean": "높다",
+    "english": "to be high",
+    "nepali": "उच्च हुनु"
+  },
+  {
+    "id": 213,
+    "korean": "우유",
+    "english": "milk",
+    "nepali": "दूध"
+  },
+  {
+    "id": 214,
+    "korean": "냉장실",
+    "english": "refrigerator compartment",
+    "nepali": "फ्रिजको चिसो भाग"
+  },
+  {
+    "id": 215,
+    "korean": "안쪽",
+    "english": "inner side",
+    "nepali": "भित्री भाग"
+  },
+  {
+    "id": 216,
+    "korean": "실온에 두다",
+    "english": "to leave at room temperature",
+    "nepali": "कोठाको तापक्रममा राख्नु"
+  },
+  {
+    "id": 217,
+    "korean": "소고기",
+    "english": "beef",
+    "nepali": "गाईको मासु"
+  },
+  {
+    "id": 218,
+    "korean": "닭고기",
+    "english": "chicken meat",
+    "nepali": "कुखुराको मासु"
+  },
+  {
+    "id": 219,
+    "korean": "삶다",
+    "english": "to boil",
+    "nepali": "उमाल्नु"
+  },
+  {
+    "id": 220,
+    "korean": "냉동실",
+    "english": "freezer compartment",
+    "nepali": "फ्रिजरको भाग"
+  },
+  {
+    "id": 221,
+    "korean": "소금물",
+    "english": "salt water",
+    "nepali": "नुनपानी"
+  },
+  {
+    "id": 222,
+    "korean": "담다",
+    "english": "to put into",
+    "nepali": "हाल्नु"
+  },
+  {
+    "id": 223,
+    "korean": "행위",
+    "english": "action",
+    "nepali": "कार्य"
+  },
+  {
+    "id": 224,
+    "korean": "경과되다",
+    "english": "to elapse",
+    "nepali": "बित्नु"
+  },
+  {
+    "id": 225,
+    "korean": "기준",
+    "english": "standard",
+    "nepali": "मापदण्ड"
+  },
+  {
+    "id": 226,
+    "korean": "시점",
+    "english": "point in time",
+    "nepali": "समयको बिन्दु"
+  },
+  {
+    "id": 227,
+    "korean": "점심",
+    "english": "lunch",
+    "nepali": "दिउँसोको खाना"
+  },
+  {
+    "id": 228,
+    "korean": "먹다",
+    "english": "to eat",
+    "nepali": "खानु"
+  },
+  {
+    "id": 229,
+    "korean": "오다",
+    "english": "to come",
+    "nepali": "आउनु"
+  },
+  {
+    "id": 230,
+    "korean": "달",
+    "english": "month",
+    "nepali": "महिना"
+  },
+  {
+    "id": 231,
+    "korean": "부산",
+    "english": "Busan",
+    "nepali": "बुसान"
+  },
+  {
+    "id": 232,
+    "korean": "살다",
+    "english": "to live",
+    "nepali": "बस्नु"
+  },
+  {
+    "id": 233,
+    "korean": "넘다",
+    "english": "to exceed",
+    "nepali": "नाघ्नु"
+  },
+  {
+    "id": 234,
+    "korean": "소독하다",
+    "english": "to disinfect",
+    "nepali": "कीटाणुरहित बनाउनु"
+  },
+  {
+    "id": 235,
+    "korean": "분",
+    "english": "minute",
+    "nepali": "मिनेट"
+  },
+  {
+    "id": 236,
+    "korean": "칼",
+    "english": "knife",
+    "nepali": "चक्कु"
+  },
+  {
+    "id": 237,
+    "korean": "입원하다",
+    "english": "to be hospitalized",
+    "nepali": "अस्पताल भर्ना हुनु"
+  },
+  {
+    "id": 238,
+    "korean": "이틀",
+    "english": "two days",
+    "nepali": "दुई दिन"
+  },
+  {
+    "id": 239,
+    "korean": "병원",
+    "english": "hospital",
+    "nepali": "अस्पताल"
+  },
+  {
+    "id": 240,
+    "korean": "만들다",
+    "english": "to make",
+    "nepali": "बनाउनु"
+  },
+  {
+    "id": 241,
+    "korean": "떡",
+    "english": "rice cake",
+    "nepali": "चामलको केक"
+  },
+  {
+    "id": 242,
+    "korean": "구입하다",
+    "english": "to purchase",
+    "nepali": "खरिद गर्नु"
+  },
+  {
+    "id": 243,
+    "korean": "6개월",
+    "english": "six months",
+    "nepali": "छ महिना"
+  },
+  {
+    "id": 244,
+    "korean": "우유도",
+    "english": "milk too",
+    "nepali": "दूध पनि"
+  },
+  {
+    "id": 245,
+    "korean": "벌레가 생기다",
+    "english": "to get bugs",
+    "nepali": "किरा लाग्नु"
+  },
+  {
+    "id": 246,
+    "korean": "꺼내다",
+    "english": "to take out",
+    "nepali": "निकाल्नु"
+  },
+  {
+    "id": 247,
+    "korean": "냉장 창고",
+    "english": "cold storage",
+    "nepali": "चिस्यान राखिएको गोदाम"
+  },
+  {
+    "id": 248,
+    "korean": "큰일이네요",
+    "english": "that's a problem",
+    "nepali": "ठूलो समस्या भयो"
+  },
+  {
+    "id": 249,
+    "korean": "빵",
+    "english": "bread",
+    "nepali": "पाउरोटी"
+  },
+  {
+    "id": 250,
+    "korean": "일주일",
+    "english": "one week",
+    "nepali": "एक हप्ता"
+  },
+  {
+    "id": 251,
+    "korean": "5일",
+    "english": "five days",
+    "nepali": "पाँच दिन"
+  },
+  {
+    "id": 252,
+    "korean": "핏물을 빼다",
+    "english": "to drain the blood",
+    "nepali": "रगत निकाल्नु"
+  },
+  {
+    "id": 253,
+    "korean": "1시간",
+    "english": "one hour",
+    "nepali": "एक घण्टा"
+  },
+  {
+    "id": 254,
+    "korean": "방금",
+    "english": "just now",
+    "nepali": "भर्खरै"
+  },
+  {
+    "id": 255,
+    "korean": "해산물을",
+    "english": "seafood (obj.)",
+    "nepali": "समुद्री खाना"
+  },
+  {
+    "id": 256,
+    "korean": "모두",
+    "english": "all",
+    "nepali": "सबै"
+  },
+  {
+    "id": 257,
+    "korean": "되어 있다",
+    "english": "to be done",
+    "nepali": "भइसकेको हुनु"
+  },
+  {
+    "id": 258,
+    "korean": "오후",
+    "english": "afternoon",
+    "nepali": "दिउँसो"
+  },
+  {
+    "id": 259,
+    "korean": "찬물",
+    "english": "cold water",
+    "nepali": "चिसो पानी"
+  },
+  {
+    "id": 260,
+    "korean": "꺼내 주다",
+    "english": "to take out for someone",
+    "nepali": "निकालिदिनु"
+  },
+  {
+    "id": 261,
+    "korean": "덜",
+    "english": "less",
+    "nepali": "कम"
+  },
+  {
+    "id": 262,
+    "korean": "녹은 것",
+    "english": "thawed thing",
+    "nepali": "पग्लिएको चीज"
+  },
+  {
+    "id": 263,
+    "korean": "몇",
+    "english": "how many",
+    "nepali": "कति"
+  },
+  {
+    "id": 264,
+    "korean": "오전",
+    "english": "morning",
+    "nepali": "बिहान"
+  },
+  {
+    "id": 265,
+    "korean": "냉장실로",
+    "english": "to the fridge compartment",
+    "nepali": "फ्रिजको भागमा"
+  },
+  {
+    "id": 266,
+    "korean": "옮겨 두다",
+    "english": "to move and leave",
+    "nepali": "सारेर राख्नु"
+  },
+  {
+    "id": 267,
+    "korean": "빨리",
+    "english": "quickly",
+    "nepali": "चाँडो"
+  },
+  {
+    "id": 268,
+    "korean": "밖",
+    "english": "outside",
+    "nepali": "बाहिर"
+  },
+  {
+    "id": 269,
+    "korean": "아니요",
+    "english": "no",
+    "nepali": "होइन"
+  },
+  {
+    "id": 270,
+    "korean": "천천히",
+    "english": "slowly",
+    "nepali": "बिस्तारै"
+  },
+  {
+    "id": 271,
+    "korean": "막다",
+    "english": "to prevent",
+    "nepali": "रोक्नु"
+  },
+  {
+    "id": 272,
+    "korean": "예방",
+    "english": "prevention",
+    "nepali": "रोकथाम"
+  },
+  {
+    "id": 273,
+    "korean": "언제",
+    "english": "when",
+    "nepali": "कहिले"
+  },
+  {
+    "id": 274,
+    "korean": "실온에",
+    "english": "at room temperature",
+    "nepali": "कोठाको तापक्रममा"
+  },
+  {
+    "id": 275,
+    "korean": "별로",
+    "english": "not particularly",
+    "nepali": "खासै"
+  },
+  {
+    "id": 276,
+    "korean": "시원하다",
+    "english": "to be cool",
+    "nepali": "चिसो हुनु"
+  },
+  {
+    "id": 277,
+    "korean": "손 보다",
+    "english": "to fix, to repair",
+    "nepali": "मर्मत गर्नु"
+  },
+  {
+    "id": 278,
+    "korean": "에어컨",
+    "english": "air conditioner",
+    "nepali": "एयर कन्डिसनर"
+  },
+  {
+    "id": 279,
+    "korean": "켜다",
+    "english": "to turn on",
+    "nepali": "बाल्नु"
+  },
+  {
+    "id": 280,
+    "korean": "세계인",
+    "english": "people of the world",
+    "nepali": "विश्वका मानिस"
+  },
+  {
+    "id": 281,
+    "korean": "관심",
+    "english": "interest",
+    "nepali": "चासो"
+  },
+  {
+    "id": 282,
+    "korean": "높아지다",
+    "english": "to rise",
+    "nepali": "बढ्नु"
+  },
+  {
+    "id": 283,
+    "korean": "최근 들어",
+    "english": "recently",
+    "nepali": "हालै"
+  },
+  {
+    "id": 284,
+    "korean": "식품",
+    "english": "food products",
+    "nepali": "खाद्य पदार्थ"
+  },
+  {
+    "id": 285,
+    "korean": "성장하다",
+    "english": "to grow",
+    "nepali": "वृद्धि हुनु"
+  },
+  {
+    "id": 286,
+    "korean": "크게",
+    "english": "greatly",
+    "nepali": "ठूलो रूपमा"
+  },
+  {
+    "id": 287,
+    "korean": "김치",
+    "english": "kimchi",
+    "nepali": "किमची"
+  },
+  {
+    "id": 288,
+    "korean": "불고기",
+    "english": "bulgogi",
+    "nepali": "बुल्गोगी"
+  },
+  {
+    "id": 289,
+    "korean": "비빔밥",
+    "english": "bibimbap",
+    "nepali": "बिबिमबाप"
+  },
+  {
+    "id": 290,
+    "korean": "떡볶이",
+    "english": "tteokbokki",
+    "nepali": "तेओक्बोक्की"
+  },
+  {
+    "id": 291,
+    "korean": "라면",
+    "english": "ramen",
+    "nepali": "रामेन (नुडल्स)"
+  },
+  {
+    "id": 292,
+    "korean": "만두",
+    "english": "dumpling",
+    "nepali": "मम"
+  },
+  {
+    "id": 293,
+    "korean": "김",
+    "english": "dried seaweed (gim)",
+    "nepali": "सुकेको समुद्री झार (किम)"
+  },
+  {
+    "id": 294,
+    "korean": "수출",
+    "english": "export",
+    "nepali": "निर्यात"
+  },
+  {
+    "id": 295,
+    "korean": "꾸준히",
+    "english": "steadily",
+    "nepali": "निरन्तर"
+  },
+  {
+    "id": 296,
+    "korean": "증가하다",
+    "english": "to increase",
+    "nepali": "बढ्नु"
+  },
+  {
+    "id": 297,
+    "korean": "주목",
+    "english": "attention",
+    "nepali": "ध्यान"
+  },
+  {
+    "id": 298,
+    "korean": "현지인",
+    "english": "local people",
+    "nepali": "स्थानीय मानिस"
+  },
+  {
+    "id": 299,
+    "korean": "입맛",
+    "english": "taste, appetite",
+    "nepali": "स्वाद"
+  },
+  {
+    "id": 300,
+    "korean": "다양하다",
+    "english": "to be diverse",
+    "nepali": "विविध हुनु"
+  },
+  {
+    "id": 301,
+    "korean": "맛",
+    "english": "flavor",
+    "nepali": "स्वाद"
+  },
+  {
+    "id": 302,
+    "korean": "종류",
+    "english": "type",
+    "nepali": "प्रकार"
+  },
+  {
+    "id": 303,
+    "korean": "글로벌",
+    "english": "global",
+    "nepali": "विश्वव्यापी"
+  },
+  {
+    "id": 304,
+    "korean": "인지도",
+    "english": "recognition",
+    "nepali": "चिनारी, लोकप्रियता"
+  },
+  {
+    "id": 305,
+    "korean": "수출액",
+    "english": "export value",
+    "nepali": "निर्यातको रकम"
+  },
+  {
+    "id": 306,
+    "korean": "처음",
+    "english": "first time",
+    "nepali": "पहिलो पटक"
+  },
+  {
+    "id": 307,
+    "korean": "억",
+    "english": "hundred million",
+    "nepali": "करोड (१० करोड)"
+  },
+  {
+    "id": 308,
+    "korean": "달러",
+    "english": "dollar",
+    "nepali": "डलर"
+  },
+  {
+    "id": 309,
+    "korean": "돌파하다",
+    "english": "to surpass",
+    "nepali": "नाघ्नु"
+  },
+  {
+    "id": 310,
+    "korean": "영화",
+    "english": "movie",
+    "nepali": "चलचित्र"
+  },
+  {
+    "id": 311,
+    "korean": "나오다",
+    "english": "to appear",
+    "nepali": "देखिनु, आउनु"
+  },
+  {
+    "id": 312,
+    "korean": "상품",
+    "english": "product",
+    "nepali": "वस्तु"
+  },
+  {
+    "id": 313,
+    "korean": "출시되다",
+    "english": "to be released",
+    "nepali": "बजारमा आउनु"
+  },
+  {
+    "id": 314,
+    "korean": "시리즈",
+    "english": "series",
+    "nepali": "शृङ्खला"
+  },
+  {
+    "id": 315,
+    "korean": "확산",
+    "english": "spread",
+    "nepali": "फैलावट"
+  },
+  {
+    "id": 316,
+    "korean": "힘입다",
+    "english": "to be helped by",
+    "nepali": "सहयोग पाउनु"
+  },
+  {
+    "id": 317,
+    "korean": "해외",
+    "english": "overseas",
+    "nepali": "विदेश"
+  },
+  {
+    "id": 318,
+    "korean": "시장",
+    "english": "market",
+    "nepali": "बजार"
+  },
+  {
+    "id": 319,
+    "korean": "입지",
+    "english": "position",
+    "nepali": "स्थान, हैसियत"
+  },
+  {
+    "id": 320,
+    "korean": "굳히다",
+    "english": "to solidify",
+    "nepali": "बलियो बनाउनु"
+  },
+  {
+    "id": 321,
+    "korean": "한편",
+    "english": "meanwhile",
+    "nepali": "अर्कोतर्फ"
+  },
+  {
+    "id": 322,
+    "korean": "조",
+    "english": "trillion",
+    "nepali": "खर्ब (लाखौं करोड)"
+  },
+  {
+    "id": 323,
+    "korean": "원",
+    "english": "won (currency)",
+    "nepali": "वन (कोरियाली पैसा)"
+  },
+  {
+    "id": 324,
+    "korean": "단일",
+    "english": "single",
+    "nepali": "एकल"
+  },
+  {
+    "id": 325,
+    "korean": "수산식품",
+    "english": "marine food products",
+    "nepali": "समुद्री खाद्य उत्पादन"
+  },
+  {
+    "id": 326,
+    "korean": "역대",
+    "english": "of all time",
+    "nepali": "आजसम्मको"
+  },
+  {
+    "id": 327,
+    "korean": "최대",
+    "english": "largest",
+    "nepali": "सबैभन्दा ठूलो"
+  },
+  {
+    "id": 328,
+    "korean": "성과",
+    "english": "achievement",
+    "nepali": "उपलब्धि"
+  },
+  {
+    "id": 329,
+    "korean": "거두다",
+    "english": "to achieve",
+    "nepali": "हासिल गर्नु"
+  },
+  {
+    "id": 330,
+    "korean": "얇다",
+    "english": "to be thin",
+    "nepali": "पातलो हुनु"
+  },
+  {
+    "id": 331,
+    "korean": "바삭하다",
+    "english": "to be crispy",
+    "nepali": "कुरकुरे हुनु"
+  },
+  {
+    "id": 332,
+    "korean": "식감",
+    "english": "texture",
+    "nepali": "खानाको बनावट (दाँतमा लाग्ने अनुभव)"
+  },
+  {
+    "id": 333,
+    "korean": "건강식",
+    "english": "health food",
+    "nepali": "स्वास्थ्यवर्धक खाना"
+  },
+  {
+    "id": 334,
+    "korean": "인식되다",
+    "english": "to be recognized",
+    "nepali": "ठानिनु"
+  },
+  {
+    "id": 335,
+    "korean": "미국",
+    "english": "USA",
+    "nepali": "अमेरिका"
+  },
+  {
+    "id": 336,
+    "korean": "중국",
+    "english": "China",
+    "nepali": "चीन"
+  },
+  {
+    "id": 337,
+    "korean": "일본",
+    "english": "Japan",
+    "nepali": "जापान"
+  },
+  {
+    "id": 338,
+    "korean": "중동",
+    "english": "Middle East",
+    "nepali": "मध्यपूर्व"
+  },
+  {
+    "id": 339,
+    "korean": "남미",
+    "english": "South America",
+    "nepali": "दक्षिण अमेरिका"
+  },
+  {
+    "id": 340,
+    "korean": "수출되다",
+    "english": "to be exported",
+    "nepali": "निर्यात हुनु"
+  },
+  {
+    "id": 341,
+    "korean": "레토르트 식품",
+    "english": "retort food",
+    "nepali": "तयारी खाना (प्याकेटमा पकाइएको)"
+  },
+  {
+    "id": 342,
+    "korean": "조리되다",
+    "english": "to be cooked",
+    "nepali": "पकाइनु"
+  },
+  {
+    "id": 343,
+    "korean": "오래",
+    "english": "for a long time",
+    "nepali": "लामो समय"
+  },
+  {
+    "id": 344,
+    "korean": "금방",
+    "english": "soon",
+    "nepali": "छिट्टै"
+  },
+  {
+    "id": 345,
+    "korean": "데우다",
+    "english": "to heat up",
+    "nepali": "तताउनु"
+  },
+  {
+    "id": 346,
+    "korean": "조리 시간",
+    "english": "cooking time",
+    "nepali": "खाना पकाउने समय"
+  },
+  {
+    "id": 347,
+    "korean": "절약하다",
+    "english": "to save",
+    "nepali": "बचत गर्नु"
+  },
+  {
+    "id": 348,
+    "korean": "삼계탕",
+    "english": "samgyetang",
+    "nepali": "सम्ग्येतङ"
+  },
+  {
+    "id": 349,
+    "korean": "갈비탕",
+    "english": "galbitang (beef rib soup)",
+    "nepali": "गाल्बिताङ"
+  },
+  {
+    "id": 350,
+    "korean": "찌개",
+    "english": "stew",
+    "nepali": "झोल परिकार (चिगे)"
+  },
+  {
+    "id": 351,
+    "korean": "간편하다",
+    "english": "to be simple, convenient",
+    "nepali": "सजिलो हुनु"
+  },
+  {
+    "id": 352,
+    "korean": "맛보다",
+    "english": "to taste",
+    "nepali": "स्वाद लिनु"
+  },
+  {
+    "id": 353,
+    "korean": "점점",
+    "english": "gradually",
+    "nepali": "क्रमशः"
+  },
+  {
+    "id": 354,
+    "korean": "인기",
+    "english": "popularity",
+    "nepali": "लोकप्रियता"
+  },
+  {
+    "id": 355,
+    "korean": "주의 사항",
+    "english": "precautions",
+    "nepali": "सावधानीका कुरा"
+  },
+  {
+    "id": 356,
+    "korean": "때",
+    "english": "time, when",
+    "nepali": "बेला"
+  },
+  {
+    "id": 357,
+    "korean": "갈다",
+    "english": "to grate, to grind",
+    "nepali": "किस्नु, पिस्नु"
+  },
+  {
+    "id": 358,
+    "korean": "국물",
+    "english": "broth",
+    "nepali": "झोल"
+  },
+  {
+    "id": 359,
+    "korean": "계약서",
+    "english": "contract",
+    "nepali": "सम्झौतापत्र"
+  },
+  {
+    "id": 360,
+    "korean": "일하다",
+    "english": "to work",
+    "nepali": "काम गर्नु"
+  },
+  {
+    "id": 361,
+    "korean": "작업 지시",
+    "english": "work instruction",
+    "nepali": "काम गर्ने निर्देशन"
+  },
+  {
+    "id": 362,
+    "korean": "꺼내 놓다",
+    "english": "to take out and leave",
+    "nepali": "निकालेर राख्नु"
+  },
+  {
+    "id": 363,
+    "korean": "무엇이든",
+    "english": "anything",
+    "nepali": "जे पनि"
+  },
+  {
+    "id": 364,
+    "korean": "버터",
+    "english": "butter",
+    "nepali": "मक्खन"
+  },
+  {
+    "id": 365,
+    "korean": "매일",
+    "english": "every day",
+    "nepali": "हरेक दिन"
+  },
+  {
+    "id": 366,
+    "korean": "함께",
+    "english": "together",
+    "nepali": "सँगै"
+  },
+  {
+    "id": 367,
+    "korean": "구매하다",
+    "english": "to buy",
+    "nepali": "किन्नु"
+  },
+  {
+    "id": 368,
+    "korean": "생선",
+    "english": "fish",
+    "nepali": "माछा"
+  },
+  {
+    "id": 369,
+    "korean": "오랫동안",
+    "english": "for a long time",
+    "nepali": "लामो समयसम्म"
+  },
+  {
+    "id": 370,
+    "korean": "신선하다",
+    "english": "to be fresh",
+    "nepali": "ताजा हुनु"
+  },
+  {
+    "id": 371,
+    "korean": "이하",
+    "english": "below",
+    "nepali": "तल/भन्दा कम"
+  },
+  {
+    "id": 372,
+    "korean": "실온 보관",
+    "english": "room temperature storage",
+    "nepali": "कोठाको तापक्रममा राख्ने"
+  },
+  {
+    "id": 373,
+    "korean": "상온 보관",
+    "english": "ambient temperature storage",
+    "nepali": "सामान्य तापक्रममा राख्ने"
+  },
+  {
+    "id": 374,
+    "korean": "변화시키다",
+    "english": "to change (something)",
+    "nepali": "परिवर्तन गर्नु"
+  },
+  {
+    "id": 375,
+    "korean": "얻다",
+    "english": "to gain",
+    "nepali": "पाउनु"
+  },
+  {
+    "id": 376,
+    "korean": "팔리다",
+    "english": "to be sold",
+    "nepali": "बिक्री हुनु"
+  },
+  {
+    "id": 377,
+    "korean": "판매되다",
+    "english": "to be sold",
+    "nepali": "बेचिनु"
+  },
+  {
+    "id": 378,
+    "korean": "잘",
+    "english": "well",
+    "nepali": "राम्रोसँग"
+  },
+  {
+    "id": 379,
+    "korean": "같다",
+    "english": "to be the same",
+    "nepali": "उस्तै हुनु"
+  },
+  {
+    "id": 380,
+    "korean": "넘기다",
+    "english": "to exceed",
+    "nepali": "नाघ्नु"
+  },
+  {
+    "id": 381,
+    "korean": "못하다",
+    "english": "to be unable",
+    "nepali": "गर्न नसक्नु"
+  },
+  {
+    "id": 382,
+    "korean": "전",
+    "english": "before",
+    "nepali": "अघि"
+  },
+  {
+    "id": 383,
+    "korean": "다듬다",
+    "english": "to trim, to clean (vegetables)",
+    "nepali": "छाँट्नु, सफा पार्नु"
+  },
+  {
+    "id": 384,
+    "korean": "열 장",
+    "english": "ten sheets",
+    "nepali": "दश वटा (पाता)"
+  },
+  {
+    "id": 385,
+    "korean": "정도",
+    "english": "about",
+    "nepali": "लगभग"
+  },
+  {
+    "id": 386,
+    "korean": "큰",
+    "english": "big",
+    "nepali": "ठूलो"
+  },
+  {
+    "id": 387,
+    "korean": "며칠 전",
+    "english": "a few days ago",
+    "nepali": "केही दिनअघि"
+  },
+  {
+    "id": 388,
+    "korean": "벌써",
+    "english": "already",
+    "nepali": "पहिल्यै"
+  },
+  {
+    "id": 389,
+    "korean": "곰팡이가 피다",
+    "english": "to grow mold",
+    "nepali": "ढुसी लाग्नु"
+  },
+  {
+    "id": 390,
+    "korean": "오래 두다",
+    "english": "to leave for long",
+    "nepali": "लामो समय राख्नु"
+  },
+  {
+    "id": 391,
+    "korean": "밀봉하다",
+    "english": "to seal",
+    "nepali": "सिल गर्नु"
+  },
+  {
+    "id": 392,
+    "korean": "손질",
+    "english": "preparation, trimming",
+    "nepali": "तयार पार्ने काम"
+  },
+  {
+    "id": 393,
+    "korean": "썰다",
+    "english": "to slice, to chop",
+    "nepali": "काट्नु (टुक्रा पार्नु)"
+  },
+  {
+    "id": 394,
+    "korean": "보관 순서",
+    "english": "storage order",
+    "nepali": "राख्ने क्रम"
+  },
+  {
+    "id": 395,
+    "korean": "보관 종류",
+    "english": "type of storage",
+    "nepali": "राख्ने प्रकार"
+  },
+  {
+    "id": 396,
+    "korean": "보관 방법",
+    "english": "storage method",
+    "nepali": "राख्ने तरिका"
+  },
+  {
+    "id": 397,
+    "korean": "보관 날짜",
+    "english": "storage date",
+    "nepali": "राखेको मिति"
+  },
+  {
+    "id": 398,
+    "korean": "힘들다",
+    "english": "to be hard",
+    "nepali": "गाह्रो हुनु"
+  },
+  {
+    "id": 399,
+    "korean": "도와주다",
+    "english": "to help",
+    "nepali": "सहयोग गर्नु"
+  },
+  {
+    "id": 400,
+    "korean": "다른",
+    "english": "other",
+    "nepali": "अरू"
+  },
+  {
+    "id": 401,
+    "korean": "바쁘다",
+    "english": "to be busy",
+    "nepali": "व्यस्त हुनु"
+  },
+  {
+    "id": 402,
+    "korean": "지적하다",
+    "english": "to point out",
+    "nepali": "औंल्याउनु"
+  },
+  {
+    "id": 403,
+    "korean": "잘못되다",
+    "english": "to be wrong",
+    "nepali": "गलत हुनु"
+  },
+  {
+    "id": 404,
+    "korean": "행동",
+    "english": "action",
+    "nepali": "व्यवहार"
+  },
+  {
+    "id": 405,
+    "korean": "상추",
+    "english": "lettuce",
+    "nepali": "लेटस"
+  },
+  {
+    "id": 406,
+    "korean": "잘못",
+    "english": "mistake, wrongly",
+    "nepali": "गल्ती, गलत तरिकाले"
+  },
+  {
+    "id": 407,
+    "korean": "배송하다",
+    "english": "to deliver",
+    "nepali": "ढुवानी गर्नु"
+  },
+  {
+    "id": 408,
+    "korean": "바구니",
+    "english": "basket",
+    "nepali": "डोको, टोकरी"
+  },
+  {
+    "id": 409,
+    "korean": "몰랐다",
+    "english": "didn't know",
+    "nepali": "थाहा थिएन"
+  },
+  {
+    "id": 410,
+    "korean": "다음부터",
+    "english": "from next time",
+    "nepali": "अबदेखि"
+  },
+  {
+    "id": 411,
+    "korean": "주의하다",
+    "english": "to be careful",
+    "nepali": "ध्यान दिनु"
+  }
+]

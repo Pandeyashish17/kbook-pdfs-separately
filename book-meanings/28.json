@@ -1,0 +1,1604 @@
+[
+  {
+    "id": 1,
+    "korean": "한국",
+    "english": "Korea",
+    "nepali": "कोरिया"
+  },
+  {
+    "id": 2,
+    "korean": "명절",
+    "english": "traditional holiday",
+    "nepali": "परम्परागत चाडपर्व"
+  },
+  {
+    "id": 3,
+    "korean": "설날",
+    "english": "Lunar New Year",
+    "nepali": "चन्द्र नयाँ वर्ष (सोलनाल)"
+  },
+  {
+    "id": 4,
+    "korean": "뭐",
+    "english": "what",
+    "nepali": "के"
+  },
+  {
+    "id": 5,
+    "korean": "하다",
+    "english": "to do",
+    "nepali": "गर्नु"
+  },
+  {
+    "id": 6,
+    "korean": "세배",
+    "english": "New Year's bow",
+    "nepali": "नयाँ वर्षको ढोग"
+  },
+  {
+    "id": 7,
+    "korean": "윷놀이",
+    "english": "Yunnori (traditional board game)",
+    "nepali": "युनोरी (परम्परागत खेल)"
+  },
+  {
+    "id": 8,
+    "korean": "문법",
+    "english": "grammar",
+    "nepali": "व्याकरण"
+  },
+  {
+    "id": 9,
+    "korean": "어휘",
+    "english": "vocabulary",
+    "nepali": "शब्दावली"
+  },
+  {
+    "id": 10,
+    "korean": "문화",
+    "english": "culture",
+    "nepali": "संस्कृति"
+  },
+  {
+    "id": 11,
+    "korean": "정보",
+    "english": "information",
+    "nepali": "जानकारी"
+  },
+  {
+    "id": 12,
+    "korean": "-고 나서",
+    "english": "after doing (an action)",
+    "nepali": "गरिसकेपछि"
+  },
+  {
+    "id": 13,
+    "korean": "-(으)ㄹ 줄 알다",
+    "english": "to know how to do",
+    "nepali": "गर्न जान्नु"
+  },
+  {
+    "id": 14,
+    "korean": "-(으)ㄹ 줄 모르다",
+    "english": "to not know how to do",
+    "nepali": "गर्न नजान्नु"
+  },
+  {
+    "id": 15,
+    "korean": "관련",
+    "english": "related",
+    "nepali": "सम्बन्धित"
+  },
+  {
+    "id": 16,
+    "korean": "추석",
+    "english": "Chuseok (harvest festival)",
+    "nepali": "छुसोक (फसल चाड)"
+  },
+  {
+    "id": 17,
+    "korean": "학습",
+    "english": "learning",
+    "nepali": "सिकाइ"
+  },
+  {
+    "id": 18,
+    "korean": "목표",
+    "english": "goal, objective",
+    "nepali": "लक्ष्य"
+  },
+  {
+    "id": 19,
+    "korean": "말하다",
+    "english": "to speak, to talk",
+    "nepali": "बोल्नु"
+  },
+  {
+    "id": 20,
+    "korean": "일",
+    "english": "work, task, thing",
+    "nepali": "काम"
+  },
+  {
+    "id": 21,
+    "korean": "어떤",
+    "english": "some, which kind of",
+    "nepali": "कुनै / कस्तो"
+  },
+  {
+    "id": 22,
+    "korean": "방법",
+    "english": "method, way",
+    "nepali": "तरिका"
+  },
+  {
+    "id": 23,
+    "korean": "알다",
+    "english": "to know",
+    "nepali": "जान्नु"
+  },
+  {
+    "id": 24,
+    "korean": "묻다",
+    "english": "to ask",
+    "nepali": "सोध्नु"
+  },
+  {
+    "id": 25,
+    "korean": "대답하다",
+    "english": "to answer",
+    "nepali": "जवाफ दिनु"
+  },
+  {
+    "id": 26,
+    "korean": "한복",
+    "english": "hanbok (traditional Korean clothing)",
+    "nepali": "हानबोक (परम्परागत कोरियन पोशाक)"
+  },
+  {
+    "id": 27,
+    "korean": "입다",
+    "english": "to wear (clothes)",
+    "nepali": "लगाउनु (लुगा)"
+  },
+  {
+    "id": 28,
+    "korean": "세배하다",
+    "english": "to do the New Year's bow",
+    "nepali": "नयाँ वर्षको ढोग गर्नु"
+  },
+  {
+    "id": 29,
+    "korean": "차례",
+    "english": "memorial service for ancestors",
+    "nepali": "पितृ पूजा / पूर्वजको स्मरण समारोह"
+  },
+  {
+    "id": 30,
+    "korean": "지내다",
+    "english": "to hold (a ceremony), to spend time",
+    "nepali": "मनाउनु / बिताउनु"
+  },
+  {
+    "id": 31,
+    "korean": "떡국",
+    "english": "tteokguk (rice cake soup)",
+    "nepali": "तोकगुक (चामलको केकको सुप)"
+  },
+  {
+    "id": 32,
+    "korean": "먹다",
+    "english": "to eat",
+    "nepali": "खानु"
+  },
+  {
+    "id": 33,
+    "korean": "절하다",
+    "english": "to bow",
+    "nepali": "निहुरेर ढोग्नु"
+  },
+  {
+    "id": 34,
+    "korean": "덕담",
+    "english": "well-wishing remarks",
+    "nepali": "शुभकामना वचन"
+  },
+  {
+    "id": 35,
+    "korean": "듣다",
+    "english": "to listen, to hear",
+    "nepali": "सुन्नु"
+  },
+  {
+    "id": 36,
+    "korean": "세뱃돈",
+    "english": "New Year's cash gift",
+    "nepali": "नयाँ वर्षमा दिइने पैसा"
+  },
+  {
+    "id": 37,
+    "korean": "주다",
+    "english": "to give",
+    "nepali": "दिनु"
+  },
+  {
+    "id": 38,
+    "korean": "받다",
+    "english": "to receive",
+    "nepali": "पाउनु / लिनु"
+  },
+  {
+    "id": 39,
+    "korean": "놀이",
+    "english": "game, play",
+    "nepali": "खेल"
+  },
+  {
+    "id": 40,
+    "korean": "제기차기",
+    "english": "Jegichagi (shuttlecock kicking game)",
+    "nepali": "जेगिचागी (सटलकक लात्ताले खेल्ने खेल)"
+  },
+  {
+    "id": 41,
+    "korean": "연날리기",
+    "english": "kite flying",
+    "nepali": "घुरी उडाउने"
+  },
+  {
+    "id": 42,
+    "korean": "전통",
+    "english": "tradition",
+    "nepali": "परम्परा"
+  },
+  {
+    "id": 43,
+    "korean": "연휴",
+    "english": "long holiday",
+    "nepali": "लामो बिदा"
+  },
+  {
+    "id": 44,
+    "korean": "그림",
+    "english": "picture",
+    "nepali": "चित्र"
+  },
+  {
+    "id": 45,
+    "korean": "보다",
+    "english": "to see, to watch",
+    "nepali": "हेर्नु"
+  },
+  {
+    "id": 46,
+    "korean": "대화",
+    "english": "conversation",
+    "nepali": "कुराकानी"
+  },
+  {
+    "id": 47,
+    "korean": "완성하다",
+    "english": "to complete",
+    "nepali": "पूरा गर्नु"
+  },
+  {
+    "id": 48,
+    "korean": "사람",
+    "english": "person",
+    "nepali": "मान्छे"
+  },
+  {
+    "id": 49,
+    "korean": "옷",
+    "english": "clothes",
+    "nepali": "लुगा"
+  },
+  {
+    "id": 50,
+    "korean": "이름",
+    "english": "name",
+    "nepali": "नाम"
+  },
+  {
+    "id": 51,
+    "korean": "무엇",
+    "english": "what",
+    "nepali": "के"
+  },
+  {
+    "id": 52,
+    "korean": "가족",
+    "english": "family",
+    "nepali": "परिवार"
+  },
+  {
+    "id": 53,
+    "korean": "같이",
+    "english": "together",
+    "nepali": "सँगै"
+  },
+  {
+    "id": 54,
+    "korean": "-하고",
+    "english": "and, with",
+    "nepali": "र / सँग"
+  },
+  {
+    "id": 55,
+    "korean": "문장",
+    "english": "sentence",
+    "nepali": "वाक्य"
+  },
+  {
+    "id": 56,
+    "korean": "쓰다",
+    "english": "to write",
+    "nepali": "लेख्नु"
+  },
+  {
+    "id": 57,
+    "korean": "보기",
+    "english": "example",
+    "nepali": "उदाहरण"
+  },
+  {
+    "id": 58,
+    "korean": "동사",
+    "english": "verb",
+    "nepali": "क्रिया"
+  },
+  {
+    "id": 59,
+    "korean": "붙다",
+    "english": "to attach, to stick",
+    "nepali": "टाँसिनु / जोडिनु"
+  },
+  {
+    "id": 60,
+    "korean": "행위",
+    "english": "action",
+    "nepali": "कार्य"
+  },
+  {
+    "id": 61,
+    "korean": "끝내다",
+    "english": "to finish",
+    "nepali": "सकाउनु"
+  },
+  {
+    "id": 62,
+    "korean": "다음",
+    "english": "next, after",
+    "nepali": "अर्को / पछि"
+  },
+  {
+    "id": 63,
+    "korean": "나타내다",
+    "english": "to indicate, to show",
+    "nepali": "देखाउनु"
+  },
+  {
+    "id": 64,
+    "korean": "배드민턴",
+    "english": "badminton",
+    "nepali": "ब्याडमिन्टन"
+  },
+  {
+    "id": 65,
+    "korean": "치다",
+    "english": "to hit, to play (racket sport, guitar)",
+    "nepali": "हान्नु / खेल्नु"
+  },
+  {
+    "id": 66,
+    "korean": "샤워하다",
+    "english": "to take a shower",
+    "nepali": "नुहाउनु"
+  },
+  {
+    "id": 67,
+    "korean": "퇴근하다",
+    "english": "to leave work",
+    "nepali": "काम सकेर फर्कनु"
+  },
+  {
+    "id": 68,
+    "korean": "산책하다",
+    "english": "to take a walk",
+    "nepali": "टहलिनु"
+  },
+  {
+    "id": 69,
+    "korean": "가다",
+    "english": "to go",
+    "nepali": "जानु"
+  },
+  {
+    "id": 70,
+    "korean": "집",
+    "english": "house, home",
+    "nepali": "घर"
+  },
+  {
+    "id": 71,
+    "korean": "도착하다",
+    "english": "to arrive",
+    "nepali": "पुग्नु"
+  },
+  {
+    "id": 72,
+    "korean": "전화하다",
+    "english": "to make a phone call",
+    "nepali": "फोन गर्नु"
+  },
+  {
+    "id": 73,
+    "korean": "영화",
+    "english": "movie",
+    "nepali": "चलचित्र"
+  },
+  {
+    "id": 74,
+    "korean": "쇼핑하다",
+    "english": "to shop",
+    "nepali": "किनमेल गर्नु"
+  },
+  {
+    "id": 75,
+    "korean": "밥",
+    "english": "rice, meal",
+    "nepali": "भात / खाना"
+  },
+  {
+    "id": 76,
+    "korean": "설거지",
+    "english": "washing dishes",
+    "nepali": "भाँडा माझ्ने काम"
+  },
+  {
+    "id": 77,
+    "korean": "운동하다",
+    "english": "to exercise",
+    "nepali": "व्यायाम गर्नु"
+  },
+  {
+    "id": 78,
+    "korean": "주말",
+    "english": "weekend",
+    "nepali": "सप्ताहान्त"
+  },
+  {
+    "id": 79,
+    "korean": "하루",
+    "english": "one day",
+    "nepali": "एक दिन"
+  },
+  {
+    "id": 80,
+    "korean": "일과",
+    "english": "daily routine",
+    "nepali": "दैनिक कार्यक्रम"
+  },
+  {
+    "id": 81,
+    "korean": "이야기하다",
+    "english": "to talk, to tell a story",
+    "nepali": "कुरा गर्नु"
+  },
+  {
+    "id": 82,
+    "korean": "아침",
+    "english": "morning, breakfast",
+    "nepali": "बिहान / बिहानको खाना"
+  },
+  {
+    "id": 83,
+    "korean": "공부하다",
+    "english": "to study",
+    "nepali": "पढ्नु"
+  },
+  {
+    "id": 84,
+    "korean": "점심",
+    "english": "lunch",
+    "nepali": "दिउँसोको खाना"
+  },
+  {
+    "id": 85,
+    "korean": "만나다",
+    "english": "to meet",
+    "nepali": "भेट्नु"
+  },
+  {
+    "id": 86,
+    "korean": "장을 보다",
+    "english": "to go grocery shopping",
+    "nepali": "बजार गर्नु"
+  },
+  {
+    "id": 87,
+    "korean": "저녁",
+    "english": "evening, dinner",
+    "nepali": "बेलुका / बेलुकाको खाना"
+  },
+  {
+    "id": 88,
+    "korean": "텔레비전",
+    "english": "television",
+    "nepali": "टेलिभिजन"
+  },
+  {
+    "id": 89,
+    "korean": "자다",
+    "english": "to sleep",
+    "nepali": "सुत्नु"
+  },
+  {
+    "id": 90,
+    "korean": "씨",
+    "english": "Mr./Ms. (polite title)",
+    "nepali": "श्रीमान् / श्रीमती (आदरार्थी)"
+  },
+  {
+    "id": 91,
+    "korean": "때",
+    "english": "time, when",
+    "nepali": "बेला"
+  },
+  {
+    "id": 92,
+    "korean": "고향",
+    "english": "hometown",
+    "nepali": "जन्मस्थान / गाउँघर"
+  },
+  {
+    "id": 93,
+    "korean": "친구",
+    "english": "friend",
+    "nepali": "साथी"
+  },
+  {
+    "id": 94,
+    "korean": "음식",
+    "english": "food",
+    "nepali": "खाना"
+  },
+  {
+    "id": 95,
+    "korean": "만들다",
+    "english": "to make",
+    "nepali": "बनाउनु"
+  },
+  {
+    "id": 96,
+    "korean": "저",
+    "english": "I (humble)",
+    "nepali": "म (विनम्र)"
+  },
+  {
+    "id": 97,
+    "korean": "할아버지",
+    "english": "grandfather",
+    "nepali": "हजुरबुबा"
+  },
+  {
+    "id": 98,
+    "korean": "댁",
+    "english": "house (honorific)",
+    "nepali": "घर (आदरार्थी)"
+  },
+  {
+    "id": 99,
+    "korean": "안",
+    "english": "not (negation)",
+    "nepali": "होइन / नगर्ने (निषेध)"
+  },
+  {
+    "id": 100,
+    "korean": "우리",
+    "english": "we, our",
+    "nepali": "हामी / हाम्रो"
+  },
+  {
+    "id": 101,
+    "korean": "받침",
+    "english": "final consonant (batchim)",
+    "nepali": "अन्तिम व्यञ्जन (बत्चिम)"
+  },
+  {
+    "id": 102,
+    "korean": "발음",
+    "english": "pronunciation",
+    "nepali": "उच्चारण"
+  },
+  {
+    "id": 103,
+    "korean": "앞",
+    "english": "front, before",
+    "nepali": "अगाडि"
+  },
+  {
+    "id": 104,
+    "korean": "막내",
+    "english": "youngest child",
+    "nepali": "कान्छो सन्तान"
+  },
+  {
+    "id": 105,
+    "korean": "국물",
+    "english": "broth",
+    "nepali": "झोल"
+  },
+  {
+    "id": 106,
+    "korean": "학년",
+    "english": "school year, grade",
+    "nepali": "कक्षा / वर्ष"
+  },
+  {
+    "id": 107,
+    "korean": "깎다",
+    "english": "to peel, to cut",
+    "nepali": "छोल्नु / काट्नु"
+  },
+  {
+    "id": 108,
+    "korean": "창밖",
+    "english": "outside the window",
+    "nepali": "झ्यालबाहिर"
+  },
+  {
+    "id": 109,
+    "korean": "부모님",
+    "english": "parents",
+    "nepali": "आमाबुवा"
+  },
+  {
+    "id": 110,
+    "korean": "-께",
+    "english": "to (honorific particle)",
+    "nepali": "लाई (आदरार्थी)"
+  },
+  {
+    "id": 111,
+    "korean": "내려가다",
+    "english": "to go down (to one's hometown)",
+    "nepali": "तल जानु (गाउँतिर)"
+  },
+  {
+    "id": 112,
+    "korean": "찾아뵙다",
+    "english": "to visit (honorific)",
+    "nepali": "भेट्न जानु (आदरार्थी)"
+  },
+  {
+    "id": 113,
+    "korean": "친척",
+    "english": "relative",
+    "nepali": "नातेदार"
+  },
+  {
+    "id": 114,
+    "korean": "성묘하다",
+    "english": "to visit ancestral graves",
+    "nepali": "पितृको चिहानमा जानु"
+  },
+  {
+    "id": 115,
+    "korean": "장만하다",
+    "english": "to prepare, to get ready",
+    "nepali": "तयार पार्नु"
+  },
+  {
+    "id": 116,
+    "korean": "송편",
+    "english": "songpyeon (half-moon rice cake)",
+    "nepali": "सोङ्प्योन (अर्धचन्द्राकार चामलको केक)"
+  },
+  {
+    "id": 117,
+    "korean": "차례상",
+    "english": "memorial table",
+    "nepali": "पितृ पूजाको टेबल"
+  },
+  {
+    "id": 118,
+    "korean": "차리다",
+    "english": "to set up (a table), to prepare",
+    "nepali": "सजाउनु / पस्कनु"
+  },
+  {
+    "id": 119,
+    "korean": "줄다리기",
+    "english": "tug-of-war",
+    "nepali": "डोरी तान्ने खेल"
+  },
+  {
+    "id": 120,
+    "korean": "강강술래",
+    "english": "Ganggangsullae (circle dance game)",
+    "nepali": "कङकङसुल्लाे (गोलो नाच खेल)"
+  },
+  {
+    "id": 121,
+    "korean": "보름달",
+    "english": "full moon",
+    "nepali": "पूर्णिमाको चन्द्रमा"
+  },
+  {
+    "id": 122,
+    "korean": "소원",
+    "english": "wish",
+    "nepali": "इच्छा / मनोकामना"
+  },
+  {
+    "id": 123,
+    "korean": "빌다",
+    "english": "to wish, to pray",
+    "nepali": "प्रार्थना गर्नु"
+  },
+  {
+    "id": 124,
+    "korean": "전날",
+    "english": "the day before",
+    "nepali": "अघिल्लो दिन"
+  },
+  {
+    "id": 125,
+    "korean": "모이다",
+    "english": "to gather",
+    "nepali": "भेला हुनु"
+  },
+  {
+    "id": 126,
+    "korean": "뵙다",
+    "english": "to see, to meet (honorific)",
+    "nepali": "भेट्नु (आदरार्थी)"
+  },
+  {
+    "id": 127,
+    "korean": "추석날",
+    "english": "Chuseok day",
+    "nepali": "छुसोकको दिन"
+  },
+  {
+    "id": 128,
+    "korean": "내일",
+    "english": "tomorrow",
+    "nepali": "भोलि"
+  },
+  {
+    "id": 129,
+    "korean": "오전",
+    "english": "morning (AM)",
+    "nepali": "बिहानको समय"
+  },
+  {
+    "id": 130,
+    "korean": "-아야/어야 되다",
+    "english": "must, have to",
+    "nepali": "गर्नै पर्ने"
+  },
+  {
+    "id": 131,
+    "korean": "모르다",
+    "english": "to not know",
+    "nepali": "नजान्नु"
+  },
+  {
+    "id": 132,
+    "korean": "타다",
+    "english": "to ride, to take",
+    "nepali": "चढ्नु"
+  },
+  {
+    "id": 133,
+    "korean": "스케이트",
+    "english": "skates, skating",
+    "nepali": "स्केट"
+  },
+  {
+    "id": 134,
+    "korean": "떡볶이",
+    "english": "tteokbokki (spicy rice cake)",
+    "nepali": "तोकबोक्की (पिरो चामलको केक)"
+  },
+  {
+    "id": 135,
+    "korean": "아니요",
+    "english": "no",
+    "nepali": "होइन"
+  },
+  {
+    "id": 136,
+    "korean": "영어",
+    "english": "English",
+    "nepali": "अंग्रेजी भाषा"
+  },
+  {
+    "id": 137,
+    "korean": "한국어",
+    "english": "Korean language",
+    "nepali": "कोरियन भाषा"
+  },
+  {
+    "id": 138,
+    "korean": "끓이다",
+    "english": "to boil, to cook (soup)",
+    "nepali": "उमाल्नु / पकाउनु"
+  },
+  {
+    "id": 139,
+    "korean": "외국어",
+    "english": "foreign language",
+    "nepali": "विदेशी भाषा"
+  },
+  {
+    "id": 140,
+    "korean": "운동",
+    "english": "exercise, sport",
+    "nepali": "व्यायाम / खेलकुद"
+  },
+  {
+    "id": 141,
+    "korean": "요리",
+    "english": "cooking, dish",
+    "nepali": "खाना पकाउने काम"
+  },
+  {
+    "id": 142,
+    "korean": "무슨",
+    "english": "what kind of, which",
+    "nepali": "कस्तो / के"
+  },
+  {
+    "id": 143,
+    "korean": "이번",
+    "english": "this time",
+    "nepali": "यो पटक"
+  },
+  {
+    "id": 144,
+    "korean": "할머니",
+    "english": "grandmother",
+    "nepali": "हजुरआमा"
+  },
+  {
+    "id": 145,
+    "korean": "좋다",
+    "english": "to be good",
+    "nepali": "राम्रो हुनु"
+  },
+  {
+    "id": 146,
+    "korean": "그런데",
+    "english": "but, by the way",
+    "nepali": "तर / अनि"
+  },
+  {
+    "id": 147,
+    "korean": "어머니",
+    "english": "mother",
+    "nepali": "आमा"
+  },
+  {
+    "id": 148,
+    "korean": "대리님",
+    "english": "assistant manager (title)",
+    "nepali": "सहायक व्यवस्थापक (पद)"
+  },
+  {
+    "id": 149,
+    "korean": "별일 없다",
+    "english": "nothing special, everything is fine",
+    "nepali": "कुनै खास समस्या छैन"
+  },
+  {
+    "id": 150,
+    "korean": "생산",
+    "english": "production",
+    "nepali": "उत्पादन"
+  },
+  {
+    "id": 151,
+    "korean": "팀",
+    "english": "team",
+    "nepali": "टोली"
+  },
+  {
+    "id": 152,
+    "korean": "잘되다",
+    "english": "to go well",
+    "nepali": "राम्रोसँग हुनु"
+  },
+  {
+    "id": 153,
+    "korean": "다",
+    "english": "all",
+    "nepali": "सबै"
+  },
+  {
+    "id": 154,
+    "korean": "네",
+    "english": "yes",
+    "nepali": "हुन्छ / हो"
+  },
+  {
+    "id": 155,
+    "korean": "대표적",
+    "english": "representative",
+    "nepali": "प्रतिनिधिमूलक"
+  },
+  {
+    "id": 156,
+    "korean": "정월대보름",
+    "english": "Daeboreum (first full moon of the year)",
+    "nepali": "देबोरेउम (वर्षको पहिलो पूर्णिमा)"
+  },
+  {
+    "id": 157,
+    "korean": "가장",
+    "english": "most",
+    "nepali": "सबैभन्दा"
+  },
+  {
+    "id": 158,
+    "korean": "크다",
+    "english": "to be big",
+    "nepali": "ठूलो हुनु"
+  },
+  {
+    "id": 159,
+    "korean": "따로",
+    "english": "separately",
+    "nepali": "छुट्टै"
+  },
+  {
+    "id": 160,
+    "korean": "살다",
+    "english": "to live",
+    "nepali": "बस्नु / बाँच्नु"
+  },
+  {
+    "id": 161,
+    "korean": "조상",
+    "english": "ancestors",
+    "nepali": "पूर्वज"
+  },
+  {
+    "id": 162,
+    "korean": "어른",
+    "english": "elder, adult",
+    "nepali": "ठूलो मान्छे / वयस्क"
+  },
+  {
+    "id": 163,
+    "korean": "나누다",
+    "english": "to share, to divide",
+    "nepali": "बाँड्नु"
+  },
+  {
+    "id": 164,
+    "korean": "즐겁다",
+    "english": "to be enjoyable",
+    "nepali": "रमाइलो हुनु"
+  },
+  {
+    "id": 165,
+    "korean": "시간",
+    "english": "time",
+    "nepali": "समय"
+  },
+  {
+    "id": 166,
+    "korean": "보내다",
+    "english": "to spend (time), to send",
+    "nepali": "बिताउनु / पठाउनु"
+  },
+  {
+    "id": 167,
+    "korean": "행복하다",
+    "english": "to be happy",
+    "nepali": "खुसी हुनु"
+  },
+  {
+    "id": 168,
+    "korean": "건강하다",
+    "english": "to be healthy",
+    "nepali": "स्वस्थ हुनु"
+  },
+  {
+    "id": 169,
+    "korean": "바라다",
+    "english": "to hope, to wish",
+    "nepali": "आशा गर्नु"
+  },
+  {
+    "id": 170,
+    "korean": "마음",
+    "english": "heart, mind",
+    "nepali": "मन"
+  },
+  {
+    "id": 171,
+    "korean": "친하다",
+    "english": "to be close (friends)",
+    "nepali": "नजिकको हुनु"
+  },
+  {
+    "id": 172,
+    "korean": "새해",
+    "english": "new year",
+    "nepali": "नयाँ वर्ष"
+  },
+  {
+    "id": 173,
+    "korean": "복",
+    "english": "blessings, good fortune",
+    "nepali": "भाग्य / आशीर्वाद"
+  },
+  {
+    "id": 174,
+    "korean": "많이",
+    "english": "a lot, much",
+    "nepali": "धेरै"
+  },
+  {
+    "id": 175,
+    "korean": "인사",
+    "english": "greeting",
+    "nepali": "अभिवादन"
+  },
+  {
+    "id": 176,
+    "korean": "주고받다",
+    "english": "to exchange",
+    "nepali": "आदानप्रदान गर्नु"
+  },
+  {
+    "id": 177,
+    "korean": "음력",
+    "english": "lunar calendar",
+    "nepali": "चन्द्र पात्रो"
+  },
+  {
+    "id": 178,
+    "korean": "월",
+    "english": "month",
+    "nepali": "महिना"
+  },
+  {
+    "id": 179,
+    "korean": "뜨다",
+    "english": "to rise (sun, moon)",
+    "nepali": "उदाउनु"
+  },
+  {
+    "id": 180,
+    "korean": "날",
+    "english": "day",
+    "nepali": "दिन"
+  },
+  {
+    "id": 181,
+    "korean": "곡식",
+    "english": "grain",
+    "nepali": "अन्न"
+  },
+  {
+    "id": 182,
+    "korean": "오곡밥",
+    "english": "five-grain rice",
+    "nepali": "पाँच प्रकारको अन्नको भात"
+  },
+  {
+    "id": 183,
+    "korean": "갖가지",
+    "english": "various, all kinds of",
+    "nepali": "विभिन्न प्रकारका"
+  },
+  {
+    "id": 184,
+    "korean": "말리다",
+    "english": "to dry",
+    "nepali": "सुकाउनु"
+  },
+  {
+    "id": 185,
+    "korean": "나물",
+    "english": "seasoned vegetables",
+    "nepali": "मसलादार तरकारी"
+  },
+  {
+    "id": 186,
+    "korean": "땅콩",
+    "english": "peanut",
+    "nepali": "बदाम"
+  },
+  {
+    "id": 187,
+    "korean": "호두",
+    "english": "walnut",
+    "nepali": "ओखर"
+  },
+  {
+    "id": 188,
+    "korean": "껍질",
+    "english": "shell, peel",
+    "nepali": "बोक्रा"
+  },
+  {
+    "id": 189,
+    "korean": "딱딱하다",
+    "english": "to be hard",
+    "nepali": "कडा हुनु"
+  },
+  {
+    "id": 190,
+    "korean": "견과류",
+    "english": "nuts",
+    "nepali": "सुकेका फलफूल (नट्स)"
+  },
+  {
+    "id": 191,
+    "korean": "부럼",
+    "english": "bureom (nuts eaten on Daeboreum)",
+    "nepali": "बुरोम (देबोरेउममा खाइने नट्स)"
+  },
+  {
+    "id": 192,
+    "korean": "깨물다",
+    "english": "to bite, to crack with teeth",
+    "nepali": "टोक्नु / दाँतले फुटाउनु"
+  },
+  {
+    "id": 193,
+    "korean": "피부병",
+    "english": "skin disease",
+    "nepali": "छालाको रोग"
+  },
+  {
+    "id": 194,
+    "korean": "생기다",
+    "english": "to occur, to form",
+    "nepali": "लाग्नु / उत्पन्न हुनु"
+  },
+  {
+    "id": 195,
+    "korean": "이야기",
+    "english": "story, talk",
+    "nepali": "कथा / कुरा"
+  },
+  {
+    "id": 196,
+    "korean": "한가위",
+    "english": "Hangawi (another name for Chuseok)",
+    "nepali": "हान्गावी (छुसोकको अर्को नाम)"
+  },
+  {
+    "id": 197,
+    "korean": "햅쌀",
+    "english": "newly harvested rice",
+    "nepali": "नयाँ फलेको चामल"
+  },
+  {
+    "id": 198,
+    "korean": "짓다",
+    "english": "to cook (rice), to build",
+    "nepali": "भात पकाउनु / बनाउनु"
+  },
+  {
+    "id": 199,
+    "korean": "밤",
+    "english": "night",
+    "nepali": "रात"
+  },
+  {
+    "id": 200,
+    "korean": "예전",
+    "english": "the past, long ago",
+    "nepali": "पहिले / पुरानो समय"
+  },
+  {
+    "id": 201,
+    "korean": "여성",
+    "english": "woman",
+    "nepali": "महिला"
+  },
+  {
+    "id": 202,
+    "korean": "밝다",
+    "english": "to be bright",
+    "nepali": "उज्यालो हुनु"
+  },
+  {
+    "id": 203,
+    "korean": "달빛",
+    "english": "moonlight",
+    "nepali": "जून"
+  },
+  {
+    "id": 204,
+    "korean": "아래",
+    "english": "under, below",
+    "nepali": "तल"
+  },
+  {
+    "id": 205,
+    "korean": "손",
+    "english": "hand",
+    "nepali": "हात"
+  },
+  {
+    "id": 206,
+    "korean": "잡다",
+    "english": "to hold, to catch",
+    "nepali": "समात्नु"
+  },
+  {
+    "id": 207,
+    "korean": "노래",
+    "english": "song",
+    "nepali": "गीत"
+  },
+  {
+    "id": 208,
+    "korean": "부르다",
+    "english": "to sing, to call",
+    "nepali": "गाउनु / बोलाउनु"
+  },
+  {
+    "id": 209,
+    "korean": "동그랗다",
+    "english": "to be round",
+    "nepali": "गोलो हुनु"
+  },
+  {
+    "id": 210,
+    "korean": "빙글빙글",
+    "english": "round and round",
+    "nepali": "गोल गोल"
+  },
+  {
+    "id": 211,
+    "korean": "돌다",
+    "english": "to turn, to spin",
+    "nepali": "घुम्नु"
+  },
+  {
+    "id": 212,
+    "korean": "끝나다",
+    "english": "to end, to be over",
+    "nepali": "सकिनु"
+  },
+  {
+    "id": 213,
+    "korean": "뒤",
+    "english": "after, behind",
+    "nepali": "पछि / पछाडि"
+  },
+  {
+    "id": 214,
+    "korean": "이어서",
+    "english": "continuing, following on",
+    "nepali": "निरन्तर / त्यसपछि"
+  },
+  {
+    "id": 215,
+    "korean": "행동",
+    "english": "behavior, action",
+    "nepali": "व्यवहार / कार्य"
+  },
+  {
+    "id": 216,
+    "korean": "표현하다",
+    "english": "to express",
+    "nepali": "व्यक्त गर्नु"
+  },
+  {
+    "id": 217,
+    "korean": "수 있다",
+    "english": "can, to be able to",
+    "nepali": "सक्नु"
+  },
+  {
+    "id": 218,
+    "korean": "확인",
+    "english": "checking, confirmation",
+    "nepali": "जाँच / पुष्टि"
+  },
+  {
+    "id": 219,
+    "korean": "불고기",
+    "english": "bulgogi (marinated grilled beef)",
+    "nepali": "बुल्गोगी (मसलादार पकाइएको मासु)"
+  },
+  {
+    "id": 220,
+    "korean": "팔다",
+    "english": "to sell",
+    "nepali": "बेच्नु"
+  },
+  {
+    "id": 221,
+    "korean": "읽다",
+    "english": "to read",
+    "nepali": "पढ्नु"
+  },
+  {
+    "id": 222,
+    "korean": "초대하다",
+    "english": "to invite",
+    "nepali": "निम्तो दिनु"
+  },
+  {
+    "id": 223,
+    "korean": "회사",
+    "english": "company",
+    "nepali": "कम्पनी"
+  },
+  {
+    "id": 224,
+    "korean": "직접",
+    "english": "directly, in person",
+    "nepali": "आफैँ / प्रत्यक्ष"
+  },
+  {
+    "id": 225,
+    "korean": "해",
+    "english": "year",
+    "nepali": "वर्ष"
+  },
+  {
+    "id": 226,
+    "korean": "새로",
+    "english": "newly",
+    "nepali": "नयाँ रूपमा"
+  },
+  {
+    "id": 227,
+    "korean": "수확하다",
+    "english": "to harvest",
+    "nepali": "बाली भित्र्याउनु"
+  },
+  {
+    "id": 228,
+    "korean": "쌀",
+    "english": "uncooked rice",
+    "nepali": "चामल"
+  },
+  {
+    "id": 229,
+    "korean": "달",
+    "english": "moon, month",
+    "nepali": "चन्द्रमा / महिना"
+  },
+  {
+    "id": 230,
+    "korean": "맞다",
+    "english": "to be correct",
+    "nepali": "सही हुनु"
+  },
+  {
+    "id": 231,
+    "korean": "밑줄",
+    "english": "underline",
+    "nepali": "रेखांकन"
+  },
+  {
+    "id": 232,
+    "korean": "고르다",
+    "english": "to choose",
+    "nepali": "छान्नु"
+  },
+  {
+    "id": 233,
+    "korean": "빈칸",
+    "english": "blank space",
+    "nepali": "खाली ठाउँ"
+  },
+  {
+    "id": 234,
+    "korean": "알맞다",
+    "english": "to be appropriate",
+    "nepali": "उपयुक्त हुनु"
+  },
+  {
+    "id": 235,
+    "korean": "들어가다",
+    "english": "to go in, to enter",
+    "nepali": "भित्र जानु"
+  },
+  {
+    "id": 236,
+    "korean": "내용",
+    "english": "content",
+    "nepali": "विषयवस्तु"
+  },
+  {
+    "id": 237,
+    "korean": "같다",
+    "english": "to be the same",
+    "nepali": "उस्तै हुनु"
+  },
+  {
+    "id": 238,
+    "korean": "듣기",
+    "english": "listening",
+    "nepali": "सुनाइ"
+  },
+  {
+    "id": 239,
+    "korean": "읽기",
+    "english": "reading",
+    "nepali": "पढाइ"
+  },
+  {
+    "id": 240,
+    "korean": "관계있다",
+    "english": "to be related",
+    "nepali": "सम्बन्ध हुनु"
+  },
+  {
+    "id": 241,
+    "korean": "두",
+    "english": "two (modifier)",
+    "nepali": "दुई"
+  },
+  {
+    "id": 242,
+    "korean": "이어지다",
+    "english": "to continue, to follow",
+    "nepali": "जोडिनु / निरन्तर हुनु"
+  },
+  {
+    "id": 243,
+    "korean": "말",
+    "english": "word, speech",
+    "nepali": "शब्द / भाषा"
+  },
+  {
+    "id": 244,
+    "korean": "맛있다",
+    "english": "to be delicious",
+    "nepali": "मीठो हुनु"
+  },
+  {
+    "id": 245,
+    "korean": "정말",
+    "english": "really",
+    "nepali": "साँच्चै"
+  },
+  {
+    "id": 246,
+    "korean": "좋아하다",
+    "english": "to like",
+    "nepali": "मन पराउनु"
+  },
+  {
+    "id": 247,
+    "korean": "너무",
+    "english": "too, very",
+    "nepali": "धेरै / अति"
+  },
+  {
+    "id": 248,
+    "korean": "여자",
+    "english": "woman",
+    "nepali": "महिला"
+  },
+  {
+    "id": 249,
+    "korean": "남자",
+    "english": "man",
+    "nepali": "पुरुष"
+  },
+  {
+    "id": 250,
+    "korean": "혼자",
+    "english": "alone",
+    "nepali": "एक्लै"
+  },
+  {
+    "id": 251,
+    "korean": "맛",
+    "english": "taste",
+    "nepali": "स्वाद"
+  },
+  {
+    "id": 252,
+    "korean": "없다",
+    "english": "to not exist, to not have",
+    "nepali": "नहुनु"
+  },
+  {
+    "id": 253,
+    "korean": "왜",
+    "english": "why",
+    "nepali": "किन"
+  },
+  {
+    "id": 254,
+    "korean": "찾아가다",
+    "english": "to go and visit",
+    "nepali": "भेट्न जानु"
+  },
+  {
+    "id": 255,
+    "korean": "소개하다",
+    "english": "to introduce",
+    "nepali": "परिचय गराउनु"
+  },
+  {
+    "id": 256,
+    "korean": "물어보다",
+    "english": "to ask",
+    "nepali": "सोध्नु"
+  },
+  {
+    "id": 257,
+    "korean": "법",
+    "english": "way, method, law",
+    "nepali": "तरिका / कानुन"
+  },
+  {
+    "id": 258,
+    "korean": "한번",
+    "english": "once, a try",
+    "nepali": "एकपटक"
+  },
+  {
+    "id": 259,
+    "korean": "고맙다",
+    "english": "to be thankful",
+    "nepali": "धन्यवाद हुनु"
+  },
+  {
+    "id": 260,
+    "korean": "가끔",
+    "english": "sometimes",
+    "nepali": "कहिलेकाहीँ"
+  },
+  {
+    "id": 261,
+    "korean": "아니다",
+    "english": "to not be",
+    "nepali": "होइन"
+  },
+  {
+    "id": 262,
+    "korean": "사장님",
+    "english": "company president, boss",
+    "nepali": "साहुजी / अध्यक्ष"
+  },
+  {
+    "id": 263,
+    "korean": "안녕하세요",
+    "english": "hello",
+    "nepali": "नमस्कार"
+  },
+  {
+    "id": 264,
+    "korean": "기숙사",
+    "english": "dormitory",
+    "nepali": "छात्रावास"
+  },
+  {
+    "id": 265,
+    "korean": "지문",
+    "english": "script, passage",
+    "nepali": "पाठ / स्क्रिप्ट"
+  },
+  {
+    "id": 266,
+    "korean": "이거",
+    "english": "this (thing)",
+    "nepali": "यो"
+  },
+  {
+    "id": 267,
+    "korean": "제",
+    "english": "my",
+    "nepali": "मेरो"
+  }
+]

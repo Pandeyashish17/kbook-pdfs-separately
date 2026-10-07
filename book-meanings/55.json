@@ -1,0 +1,2198 @@
+[
+  {
+    "id": 1,
+    "korean": "산업",
+    "english": "industry",
+    "nepali": "उद्योग"
+  },
+  {
+    "id": 2,
+    "korean": "안전",
+    "english": "safety",
+    "nepali": "सुरक्षा"
+  },
+  {
+    "id": 3,
+    "korean": "위생",
+    "english": "hygiene",
+    "nepali": "सरसफाइ / स्वच्छता"
+  },
+  {
+    "id": 4,
+    "korean": "장비",
+    "english": "equipment",
+    "nepali": "उपकरण"
+  },
+  {
+    "id": 5,
+    "korean": "교육받다",
+    "english": "to receive training",
+    "nepali": "तालिम पाउनु"
+  },
+  {
+    "id": 6,
+    "korean": "-는/(으)ㄴ 대로",
+    "english": "as, just as",
+    "nepali": "... अनुसार / जस्तै"
+  },
+  {
+    "id": 7,
+    "korean": "안전대",
+    "english": "safety harness",
+    "nepali": "सुरक्षा बेल्ट"
+  },
+  {
+    "id": 8,
+    "korean": "착용하다",
+    "english": "to wear",
+    "nepali": "लगाउनु"
+  },
+  {
+    "id": 9,
+    "korean": "귀덮개",
+    "english": "earmuffs",
+    "nepali": "कान ढाक्ने सामग्री"
+  },
+  {
+    "id": 10,
+    "korean": "문법",
+    "english": "grammar",
+    "nepali": "व्याकरण"
+  },
+  {
+    "id": 11,
+    "korean": "-(으)ㄹ 테니까",
+    "english": "since I will / because it will",
+    "nepali": "... गर्छु / हुन्छ त्यसैले"
+  },
+  {
+    "id": 12,
+    "korean": "어휘",
+    "english": "vocabulary",
+    "nepali": "शब्दावली"
+  },
+  {
+    "id": 13,
+    "korean": "문화와 정보",
+    "english": "culture and information",
+    "nepali": "संस्कृति र जानकारी"
+  },
+  {
+    "id": 14,
+    "korean": "지시 표지",
+    "english": "directive sign",
+    "nepali": "निर्देशन चिन्ह"
+  },
+  {
+    "id": 15,
+    "korean": "강제행동 표지",
+    "english": "mandatory action sign",
+    "nepali": "अनिवार्य कार्य चिन्ह"
+  },
+  {
+    "id": 16,
+    "korean": "학습 목표",
+    "english": "learning objectives",
+    "nepali": "सिकाइ लक्ष्य"
+  },
+  {
+    "id": 17,
+    "korean": "보호구",
+    "english": "protective gear",
+    "nepali": "सुरक्षा उपकरण"
+  },
+  {
+    "id": 18,
+    "korean": "종류",
+    "english": "type, kind",
+    "nepali": "प्रकार"
+  },
+  {
+    "id": 19,
+    "korean": "기능",
+    "english": "function",
+    "nepali": "काम / कार्य"
+  },
+  {
+    "id": 20,
+    "korean": "말하다",
+    "english": "to speak, to explain",
+    "nepali": "बोल्नु"
+  },
+  {
+    "id": 21,
+    "korean": "작업",
+    "english": "work, task",
+    "nepali": "काम"
+  },
+  {
+    "id": 22,
+    "korean": "필요하다",
+    "english": "to be needed",
+    "nepali": "आवश्यक हुनु"
+  },
+  {
+    "id": 23,
+    "korean": "보호 장비",
+    "english": "protective equipment",
+    "nepali": "सुरक्षा उपकरण"
+  },
+  {
+    "id": 24,
+    "korean": "묻다",
+    "english": "to ask",
+    "nepali": "सोध्नु"
+  },
+  {
+    "id": 25,
+    "korean": "대답하다",
+    "english": "to answer",
+    "nepali": "जवाफ दिनु"
+  },
+  {
+    "id": 26,
+    "korean": "공통 안전 장비",
+    "english": "general safety equipment",
+    "nepali": "सामान्य सुरक्षा उपकरण"
+  },
+  {
+    "id": 27,
+    "korean": "안전모",
+    "english": "safety helmet",
+    "nepali": "सुरक्षा हेलमेट"
+  },
+  {
+    "id": 28,
+    "korean": "안전장갑",
+    "english": "safety gloves",
+    "nepali": "सुरक्षा पन्जा"
+  },
+  {
+    "id": 29,
+    "korean": "작업복",
+    "english": "work clothes",
+    "nepali": "काम गर्ने लुगा"
+  },
+  {
+    "id": 30,
+    "korean": "안전화",
+    "english": "safety shoes",
+    "nepali": "सुरक्षा जुत्ता"
+  },
+  {
+    "id": 31,
+    "korean": "특화 안전 장비",
+    "english": "specialized safety equipment",
+    "nepali": "विशेष सुरक्षा उपकरण"
+  },
+  {
+    "id": 32,
+    "korean": "농약 방제복",
+    "english": "pesticide protection suit",
+    "nepali": "कीटनाशक सुरक्षा पोशाक"
+  },
+  {
+    "id": 33,
+    "korean": "농약",
+    "english": "pesticide",
+    "nepali": "कीटनाशक"
+  },
+  {
+    "id": 34,
+    "korean": "축산 작업복",
+    "english": "livestock work clothes",
+    "nepali": "पशुपालन काम गर्ने लुगा"
+  },
+  {
+    "id": 35,
+    "korean": "안면 보호구",
+    "english": "face protection equipment",
+    "nepali": "अनुहार सुरक्षा उपकरण"
+  },
+  {
+    "id": 36,
+    "korean": "용접면",
+    "english": "welding face shield",
+    "nepali": "वेल्डिङ मास्क"
+  },
+  {
+    "id": 37,
+    "korean": "보안경",
+    "english": "safety goggles",
+    "nepali": "सुरक्षा चश्मा"
+  },
+  {
+    "id": 38,
+    "korean": "방진 마스크",
+    "english": "dust mask",
+    "nepali": "धुलो रोक्ने मास्क"
+  },
+  {
+    "id": 39,
+    "korean": "방독 마스크",
+    "english": "gas mask",
+    "nepali": "ग्यास मास्क"
+  },
+  {
+    "id": 40,
+    "korean": "송기 마스크",
+    "english": "air supply mask",
+    "nepali": "हावा आपूर्ति मास्क"
+  },
+  {
+    "id": 41,
+    "korean": "귀마개",
+    "english": "earplugs",
+    "nepali": "कान बन्द गर्ने सामग्री"
+  },
+  {
+    "id": 42,
+    "korean": "진행하다",
+    "english": "to proceed",
+    "nepali": "अगाडि बढाउनु"
+  },
+  {
+    "id": 43,
+    "korean": "그림",
+    "english": "picture",
+    "nepali": "चित्र"
+  },
+  {
+    "id": 44,
+    "korean": "보다",
+    "english": "to look",
+    "nepali": "हेर्नु"
+  },
+  {
+    "id": 45,
+    "korean": "대화",
+    "english": "conversation",
+    "nepali": "कुराकानी"
+  },
+  {
+    "id": 46,
+    "korean": "완성하다",
+    "english": "to complete",
+    "nepali": "पूरा गर्नु"
+  },
+  {
+    "id": 47,
+    "korean": "쓰다",
+    "english": "to wear (hat), to use",
+    "nepali": "लगाउनु / प्रयोग गर्नु"
+  },
+  {
+    "id": 48,
+    "korean": "지금",
+    "english": "now",
+    "nepali": "अहिले"
+  },
+  {
+    "id": 49,
+    "korean": "모두",
+    "english": "all",
+    "nepali": "सबै"
+  },
+  {
+    "id": 50,
+    "korean": "신다",
+    "english": "to wear (shoes)",
+    "nepali": "जुत्ता लगाउनु"
+  },
+  {
+    "id": 51,
+    "korean": "-면 되다",
+    "english": "it is enough if ...",
+    "nepali": "... भए पुग्छ"
+  },
+  {
+    "id": 52,
+    "korean": "알겠습니다",
+    "english": "I understand",
+    "nepali": "बुझें"
+  },
+  {
+    "id": 53,
+    "korean": "동사",
+    "english": "verb",
+    "nepali": "क्रिया"
+  },
+  {
+    "id": 54,
+    "korean": "형용사",
+    "english": "adjective",
+    "nepali": "विशेषण"
+  },
+  {
+    "id": 55,
+    "korean": "붙다",
+    "english": "to be attached",
+    "nepali": "जोडिनु"
+  },
+  {
+    "id": 56,
+    "korean": "어떤",
+    "english": "some, a certain",
+    "nepali": "कुनै"
+  },
+  {
+    "id": 57,
+    "korean": "행위",
+    "english": "act, action",
+    "nepali": "कार्य"
+  },
+  {
+    "id": 58,
+    "korean": "상태",
+    "english": "state",
+    "nepali": "अवस्था"
+  },
+  {
+    "id": 59,
+    "korean": "동일하다",
+    "english": "to be the same",
+    "nepali": "एउटै हुनु"
+  },
+  {
+    "id": 60,
+    "korean": "의미",
+    "english": "meaning",
+    "nepali": "अर्थ"
+  },
+  {
+    "id": 61,
+    "korean": "나타내다",
+    "english": "to show",
+    "nepali": "देखाउनु"
+  },
+  {
+    "id": 62,
+    "korean": "현재",
+    "english": "present",
+    "nepali": "वर्तमान"
+  },
+  {
+    "id": 63,
+    "korean": "과거",
+    "english": "past",
+    "nepali": "भूत"
+  },
+  {
+    "id": 64,
+    "korean": "있다",
+    "english": "to exist, to have",
+    "nepali": "हुनु"
+  },
+  {
+    "id": 65,
+    "korean": "없다",
+    "english": "not to exist, not to have",
+    "nepali": "नहुनु"
+  },
+  {
+    "id": 66,
+    "korean": "받침",
+    "english": "final consonant (batchim)",
+    "nepali": "अन्तिम व्यञ्जन"
+  },
+  {
+    "id": 67,
+    "korean": "읽다",
+    "english": "to read",
+    "nepali": "पढ्नु"
+  },
+  {
+    "id": 68,
+    "korean": "배우다",
+    "english": "to learn",
+    "nepali": "सिक्नु"
+  },
+  {
+    "id": 69,
+    "korean": "좁다",
+    "english": "to be narrow",
+    "nepali": "साँघुरो हुनु"
+  },
+  {
+    "id": 70,
+    "korean": "비싸다",
+    "english": "to be expensive",
+    "nepali": "महँगो हुनु"
+  },
+  {
+    "id": 71,
+    "korean": "반장님",
+    "english": "team leader",
+    "nepali": "टोली प्रमुख"
+  },
+  {
+    "id": 72,
+    "korean": "따라 하다",
+    "english": "to follow, to imitate",
+    "nepali": "पछ्याउनु / नक्कल गर्नु"
+  },
+  {
+    "id": 73,
+    "korean": "안전 교육",
+    "english": "safety education",
+    "nepali": "सुरक्षा तालिम"
+  },
+  {
+    "id": 74,
+    "korean": "시간",
+    "english": "time",
+    "nepali": "समय"
+  },
+  {
+    "id": 75,
+    "korean": "아침",
+    "english": "morning",
+    "nepali": "बिहान"
+  },
+  {
+    "id": 76,
+    "korean": "회의",
+    "english": "meeting",
+    "nepali": "बैठक"
+  },
+  {
+    "id": 77,
+    "korean": "듣다",
+    "english": "to listen, to hear",
+    "nepali": "सुन्नु"
+  },
+  {
+    "id": 78,
+    "korean": "오늘",
+    "english": "today",
+    "nepali": "आज"
+  },
+  {
+    "id": 79,
+    "korean": "작업할 게 많다",
+    "english": "there is a lot of work to do",
+    "nepali": "धेरै काम छ"
+  },
+  {
+    "id": 80,
+    "korean": "명사",
+    "english": "noun",
+    "nepali": "नाम"
+  },
+  {
+    "id": 81,
+    "korean": "설명서",
+    "english": "manual, instructions",
+    "nepali": "निर्देशिका"
+  },
+  {
+    "id": 82,
+    "korean": "만들다",
+    "english": "to make",
+    "nepali": "बनाउनु"
+  },
+  {
+    "id": 83,
+    "korean": "알맞다",
+    "english": "to be suitable",
+    "nepali": "उपयुक्त हुनु"
+  },
+  {
+    "id": 84,
+    "korean": "고르다",
+    "english": "to choose",
+    "nepali": "छान्नु"
+  },
+  {
+    "id": 85,
+    "korean": "문장",
+    "english": "sentence",
+    "nepali": "वाक्य"
+  },
+  {
+    "id": 86,
+    "korean": "팀장님",
+    "english": "team leader (manager)",
+    "nepali": "टोली नेता"
+  },
+  {
+    "id": 87,
+    "korean": "고객",
+    "english": "customer",
+    "nepali": "ग्राहक"
+  },
+  {
+    "id": 88,
+    "korean": "요구하다",
+    "english": "to demand, to request",
+    "nepali": "माग गर्नु"
+  },
+  {
+    "id": 89,
+    "korean": "제품",
+    "english": "product",
+    "nepali": "उत्पादन"
+  },
+  {
+    "id": 90,
+    "korean": "작업 지시서",
+    "english": "work order",
+    "nepali": "काम निर्देशन पत्र"
+  },
+  {
+    "id": 91,
+    "korean": "지시하다",
+    "english": "to instruct",
+    "nepali": "निर्देशन दिनु"
+  },
+  {
+    "id": 92,
+    "korean": "나와 있다",
+    "english": "to be written, to be shown",
+    "nepali": "लेखिएको हुनु"
+  },
+  {
+    "id": 93,
+    "korean": "끝나다",
+    "english": "to end",
+    "nepali": "सकिनु"
+  },
+  {
+    "id": 94,
+    "korean": "안전 교육 자료",
+    "english": "safety training material",
+    "nepali": "सुरक्षा तालिम सामग्री"
+  },
+  {
+    "id": 95,
+    "korean": "자료",
+    "english": "material, data",
+    "nepali": "सामग्री"
+  },
+  {
+    "id": 96,
+    "korean": "정리하다",
+    "english": "to organize",
+    "nepali": "मिलाउनु"
+  },
+  {
+    "id": 97,
+    "korean": "안전 장비",
+    "english": "safety equipment",
+    "nepali": "सुरक्षा उपकरण"
+  },
+  {
+    "id": 98,
+    "korean": "작업 계획서",
+    "english": "work plan",
+    "nepali": "काम योजना पत्र"
+  },
+  {
+    "id": 99,
+    "korean": "작업을 하다",
+    "english": "to do work",
+    "nepali": "काम गर्नु"
+  },
+  {
+    "id": 100,
+    "korean": "기계",
+    "english": "machine",
+    "nepali": "मेसिन"
+  },
+  {
+    "id": 101,
+    "korean": "작동시키다",
+    "english": "to start (a machine)",
+    "nepali": "चलाउनु"
+  },
+  {
+    "id": 102,
+    "korean": "어제",
+    "english": "yesterday",
+    "nepali": "हिजो"
+  },
+  {
+    "id": 103,
+    "korean": "필요한",
+    "english": "necessary",
+    "nepali": "आवश्यक"
+  },
+  {
+    "id": 104,
+    "korean": "정확히",
+    "english": "exactly, accurately",
+    "nepali": "ठ्याक्कै"
+  },
+  {
+    "id": 105,
+    "korean": "용접",
+    "english": "welding",
+    "nepali": "वेल्डिङ"
+  },
+  {
+    "id": 106,
+    "korean": "뭐",
+    "english": "what",
+    "nepali": "के"
+  },
+  {
+    "id": 107,
+    "korean": "용접 작업",
+    "english": "welding work",
+    "nepali": "वेल्डिङ काम"
+  },
+  {
+    "id": 108,
+    "korean": "맞아요",
+    "english": "that's right",
+    "nepali": "ठीक हो"
+  },
+  {
+    "id": 109,
+    "korean": "그리고",
+    "english": "and, also",
+    "nepali": "र / अनि"
+  },
+  {
+    "id": 110,
+    "korean": "호흡용 보호구",
+    "english": "respiratory protection equipment",
+    "nepali": "सास फेर्ने सुरक्षा उपकरण"
+  },
+  {
+    "id": 111,
+    "korean": "꼭",
+    "english": "without fail",
+    "nepali": "अवश्य"
+  },
+  {
+    "id": 112,
+    "korean": "전",
+    "english": "before",
+    "nepali": "अघि"
+  },
+  {
+    "id": 113,
+    "korean": "항상",
+    "english": "always",
+    "nepali": "सधैँ"
+  },
+  {
+    "id": 114,
+    "korean": "확인하다",
+    "english": "to check",
+    "nepali": "जाँच गर्नु"
+  },
+  {
+    "id": 115,
+    "korean": "받은 대로",
+    "english": "as received",
+    "nepali": "पाए अनुसार"
+  },
+  {
+    "id": 116,
+    "korean": "-만 하면",
+    "english": "if only you do",
+    "nepali": "... मात्र गरे"
+  },
+  {
+    "id": 117,
+    "korean": "사고",
+    "english": "accident",
+    "nepali": "दुर्घटना"
+  },
+  {
+    "id": 118,
+    "korean": "예방하다",
+    "english": "to prevent",
+    "nepali": "रोकथाम गर्नु"
+  },
+  {
+    "id": 119,
+    "korean": "무엇",
+    "english": "what",
+    "nepali": "के"
+  },
+  {
+    "id": 120,
+    "korean": "말씀하시다",
+    "english": "to say (honorific)",
+    "nepali": "भन्नुहुनु"
+  },
+  {
+    "id": 121,
+    "korean": "소음",
+    "english": "noise",
+    "nepali": "आवाज"
+  },
+  {
+    "id": 122,
+    "korean": "심하다",
+    "english": "to be severe",
+    "nepali": "गम्भीर हुनु"
+  },
+  {
+    "id": 123,
+    "korean": "먼지",
+    "english": "dust",
+    "nepali": "धुलो"
+  },
+  {
+    "id": 124,
+    "korean": "많다",
+    "english": "to be many/much",
+    "nepali": "धेरै हुनु"
+  },
+  {
+    "id": 125,
+    "korean": "마스크",
+    "english": "mask",
+    "nepali": "मास्क"
+  },
+  {
+    "id": 126,
+    "korean": "발음",
+    "english": "pronunciation",
+    "nepali": "उच्चारण"
+  },
+  {
+    "id": 127,
+    "korean": "합성어",
+    "english": "compound word",
+    "nepali": "संयुक्त शब्द"
+  },
+  {
+    "id": 128,
+    "korean": "파생어",
+    "english": "derived word",
+    "nepali": "व्युत्पन्न शब्द"
+  },
+  {
+    "id": 129,
+    "korean": "낱말",
+    "english": "word",
+    "nepali": "शब्द"
+  },
+  {
+    "id": 130,
+    "korean": "접두사",
+    "english": "prefix",
+    "nepali": "उपसर्ग"
+  },
+  {
+    "id": 131,
+    "korean": "끝",
+    "english": "end",
+    "nepali": "अन्त"
+  },
+  {
+    "id": 132,
+    "korean": "장애음",
+    "english": "obstruent",
+    "nepali": "अवरोधक ध्वनि"
+  },
+  {
+    "id": 133,
+    "korean": "첫음절",
+    "english": "first syllable",
+    "nepali": "पहिलो अक्षर"
+  },
+  {
+    "id": 134,
+    "korean": "접미사",
+    "english": "suffix",
+    "nepali": "प्रत्यय"
+  },
+  {
+    "id": 135,
+    "korean": "소리",
+    "english": "sound",
+    "nepali": "आवाज"
+  },
+  {
+    "id": 136,
+    "korean": "첨가하다",
+    "english": "to add",
+    "nepali": "थप्नु"
+  },
+  {
+    "id": 137,
+    "korean": "발음하다",
+    "english": "to pronounce",
+    "nepali": "उच्चारण गर्नु"
+  },
+  {
+    "id": 138,
+    "korean": "앞 음절",
+    "english": "preceding syllable",
+    "nepali": "अघिल्लो अक्षर"
+  },
+  {
+    "id": 139,
+    "korean": "자음",
+    "english": "consonant",
+    "nepali": "व्यञ्जन"
+  },
+  {
+    "id": 140,
+    "korean": "같다",
+    "english": "to be the same",
+    "nepali": "उस्तै हुनु"
+  },
+  {
+    "id": 141,
+    "korean": "위치",
+    "english": "position",
+    "nepali": "स्थान"
+  },
+  {
+    "id": 142,
+    "korean": "비음",
+    "english": "nasal sound",
+    "nepali": "नासिक्य ध्वनि"
+  },
+  {
+    "id": 143,
+    "korean": "깻잎",
+    "english": "sesame leaf",
+    "nepali": "तिलको पात"
+  },
+  {
+    "id": 144,
+    "korean": "막일",
+    "english": "manual labor",
+    "nepali": "ज्यामी काम"
+  },
+  {
+    "id": 145,
+    "korean": "꽃잎",
+    "english": "petal",
+    "nepali": "फूलको पत्ता"
+  },
+  {
+    "id": 146,
+    "korean": "소독약",
+    "english": "disinfectant",
+    "nepali": "कीटाणुनाशक औषधि"
+  },
+  {
+    "id": 147,
+    "korean": "색연필",
+    "english": "colored pencil",
+    "nepali": "रङ्गीन पेन्सिल"
+  },
+  {
+    "id": 148,
+    "korean": "내복약",
+    "english": "oral medicine",
+    "nepali": "खाने औषधि"
+  },
+  {
+    "id": 149,
+    "korean": "무릎보호대",
+    "english": "knee pad",
+    "nepali": "घुँडा सुरक्षा पट्टी"
+  },
+  {
+    "id": 150,
+    "korean": "무릎",
+    "english": "knee",
+    "nepali": "घुँडा"
+  },
+  {
+    "id": 151,
+    "korean": "구명조끼",
+    "english": "life jacket",
+    "nepali": "जीवन रक्षक ज्याकेट"
+  },
+  {
+    "id": 152,
+    "korean": "오븐 장갑",
+    "english": "oven mitts",
+    "nepali": "ओभन पन्जा"
+  },
+  {
+    "id": 153,
+    "korean": "절단방지 장갑",
+    "english": "cut-resistant gloves",
+    "nepali": "काट्न नसक्ने पन्जा"
+  },
+  {
+    "id": 154,
+    "korean": "방수 앞치마",
+    "english": "waterproof apron",
+    "nepali": "पानी नछिर्ने एप्रोन"
+  },
+  {
+    "id": 155,
+    "korean": "LED 램프",
+    "english": "LED lamp",
+    "nepali": "एलईडी बत्ती"
+  },
+  {
+    "id": 156,
+    "korean": "절연용 보호구",
+    "english": "insulating protective gear",
+    "nepali": "इन्सुलेटेड सुरक्षा उपकरण"
+  },
+  {
+    "id": 157,
+    "korean": "절연",
+    "english": "insulation",
+    "nepali": "विद्युत् रोधन"
+  },
+  {
+    "id": 158,
+    "korean": "전기",
+    "english": "electricity",
+    "nepali": "बिजुली"
+  },
+  {
+    "id": 159,
+    "korean": "몸",
+    "english": "body",
+    "nepali": "शरीर"
+  },
+  {
+    "id": 160,
+    "korean": "흐르다",
+    "english": "to flow",
+    "nepali": "बग्नु"
+  },
+  {
+    "id": 161,
+    "korean": "막다",
+    "english": "to block, to prevent",
+    "nepali": "रोक्नु"
+  },
+  {
+    "id": 162,
+    "korean": "주다",
+    "english": "to give",
+    "nepali": "दिनु"
+  },
+  {
+    "id": 163,
+    "korean": "절연 안전모",
+    "english": "insulating helmet",
+    "nepali": "इन्सुलेटेड हेलमेट"
+  },
+  {
+    "id": 164,
+    "korean": "절연 장화",
+    "english": "insulating boots",
+    "nepali": "इन्सुलेटेड बुट"
+  },
+  {
+    "id": 165,
+    "korean": "절연 장갑",
+    "english": "insulating gloves",
+    "nepali": "इन्सुलेटेड पन्जा"
+  },
+  {
+    "id": 166,
+    "korean": "방열 보호구",
+    "english": "heat-resistant protective equipment",
+    "nepali": "ताप रोक्ने सुरक्षा उपकरण"
+  },
+  {
+    "id": 167,
+    "korean": "뜨거운 열",
+    "english": "extreme heat",
+    "nepali": "तातो ताप"
+  },
+  {
+    "id": 168,
+    "korean": "보호하다",
+    "english": "to protect",
+    "nepali": "सुरक्षा गर्नु"
+  },
+  {
+    "id": 169,
+    "korean": "방열두건",
+    "english": "heat-resistant hood",
+    "nepali": "ताप रोक्ने हुड"
+  },
+  {
+    "id": 170,
+    "korean": "방열상의",
+    "english": "heat-resistant jacket",
+    "nepali": "ताप रोक्ने माथिल्लो लुगा"
+  },
+  {
+    "id": 171,
+    "korean": "방열하의",
+    "english": "heat-resistant pants",
+    "nepali": "ताप रोक्ने तल्लो लुगा"
+  },
+  {
+    "id": 172,
+    "korean": "방열장갑",
+    "english": "heat-resistant gloves",
+    "nepali": "ताप रोक्ने पन्जा"
+  },
+  {
+    "id": 173,
+    "korean": "방열장화",
+    "english": "heat-resistant boots",
+    "nepali": "ताप रोक्ने बुट"
+  },
+  {
+    "id": 174,
+    "korean": "위생 보호구",
+    "english": "hygiene protective equipment",
+    "nepali": "सरसफाइ सुरक्षा उपकरण"
+  },
+  {
+    "id": 175,
+    "korean": "나쁜 것",
+    "english": "bad thing, contaminant",
+    "nepali": "हानिकारक कुरा"
+  },
+  {
+    "id": 176,
+    "korean": "작업자",
+    "english": "worker",
+    "nepali": "कामदार"
+  },
+  {
+    "id": 177,
+    "korean": "닿다",
+    "english": "to touch, to reach",
+    "nepali": "छुनु"
+  },
+  {
+    "id": 178,
+    "korean": "작업물",
+    "english": "work product",
+    "nepali": "काम गरिएको वस्तु"
+  },
+  {
+    "id": 179,
+    "korean": "깨끗하다",
+    "english": "to be clean",
+    "nepali": "सफा हुनु"
+  },
+  {
+    "id": 180,
+    "korean": "유지되다",
+    "english": "to be maintained",
+    "nepali": "कायम रहनु"
+  },
+  {
+    "id": 181,
+    "korean": "위생복",
+    "english": "sanitary clothing",
+    "nepali": "स्वच्छ पोशाक"
+  },
+  {
+    "id": 182,
+    "korean": "위생장갑",
+    "english": "sanitary gloves",
+    "nepali": "स्वच्छ पन्जा"
+  },
+  {
+    "id": 183,
+    "korean": "위생장화",
+    "english": "sanitary boots",
+    "nepali": "स्वच्छ बुट"
+  },
+  {
+    "id": 184,
+    "korean": "위생모",
+    "english": "sanitary hat",
+    "nepali": "स्वच्छ टोपी"
+  },
+  {
+    "id": 185,
+    "korean": "위생마스크",
+    "english": "sanitary mask",
+    "nepali": "स्वच्छ मास्क"
+  },
+  {
+    "id": 186,
+    "korean": "열처리 작업",
+    "english": "heat treatment work",
+    "nepali": "ताप उपचार काम"
+  },
+  {
+    "id": 187,
+    "korean": "열처리",
+    "english": "heat treatment",
+    "nepali": "ताप उपचार"
+  },
+  {
+    "id": 188,
+    "korean": "화상을 입다",
+    "english": "to get burned",
+    "nepali": "पोल्नु / डढ्नु"
+  },
+  {
+    "id": 189,
+    "korean": "화상",
+    "english": "burn",
+    "nepali": "जलन"
+  },
+  {
+    "id": 190,
+    "korean": "입다",
+    "english": "to wear (clothes), to suffer",
+    "nepali": "लगाउनु / भोग्नु"
+  },
+  {
+    "id": 191,
+    "korean": "평소",
+    "english": "usual",
+    "nepali": "सामान्यतया"
+  },
+  {
+    "id": 192,
+    "korean": "전기 작업",
+    "english": "electrical work",
+    "nepali": "बिजुलीको काम"
+  },
+  {
+    "id": 193,
+    "korean": "신어야 하다",
+    "english": "must wear (shoes)",
+    "nepali": "जुत्ता लगाउनुपर्छ"
+  },
+  {
+    "id": 194,
+    "korean": "작업장",
+    "english": "workplace",
+    "nepali": "कार्यस्थल"
+  },
+  {
+    "id": 195,
+    "korean": "들어가다",
+    "english": "to go in",
+    "nepali": "भित्र पस्नु"
+  },
+  {
+    "id": 196,
+    "korean": "-ㄹ 테니까",
+    "english": "because I will",
+    "nepali": "... गर्ने भएकाले"
+  },
+  {
+    "id": 197,
+    "korean": "주어",
+    "english": "subject",
+    "nepali": "कर्ता"
+  },
+  {
+    "id": 198,
+    "korean": "인칭",
+    "english": "person (grammar)",
+    "nepali": "पुरुष (व्याकरण)"
+  },
+  {
+    "id": 199,
+    "korean": "의지",
+    "english": "will, intention",
+    "nepali": "इच्छा / संकल्प"
+  },
+  {
+    "id": 200,
+    "korean": "듣는 사람",
+    "english": "listener",
+    "nepali": "सुन्ने व्यक्ति"
+  },
+  {
+    "id": 201,
+    "korean": "뒤의 내용",
+    "english": "following content",
+    "nepali": "पछिको विषय"
+  },
+  {
+    "id": 202,
+    "korean": "요청하다",
+    "english": "to request",
+    "nepali": "अनुरोध गर्नु"
+  },
+  {
+    "id": 203,
+    "korean": "사용하다",
+    "english": "to use",
+    "nepali": "प्रयोग गर्नु"
+  },
+  {
+    "id": 204,
+    "korean": "도착하다",
+    "english": "to arrive",
+    "nepali": "पुग्नु"
+  },
+  {
+    "id": 205,
+    "korean": "연락하다",
+    "english": "to contact",
+    "nepali": "सम्पर्क गर्नु"
+  },
+  {
+    "id": 206,
+    "korean": "작업 준비",
+    "english": "work preparation",
+    "nepali": "काम तयारी"
+  },
+  {
+    "id": 207,
+    "korean": "작업 도구",
+    "english": "work tools",
+    "nepali": "काम गर्ने औजार"
+  },
+  {
+    "id": 208,
+    "korean": "청소하다",
+    "english": "to clean",
+    "nepali": "सफा गर्नु"
+  },
+  {
+    "id": 209,
+    "korean": "오후",
+    "english": "afternoon",
+    "nepali": "दिउँसो"
+  },
+  {
+    "id": 210,
+    "korean": "재고",
+    "english": "stock",
+    "nepali": "मौज्दात"
+  },
+  {
+    "id": 211,
+    "korean": "파악하다",
+    "english": "to figure out, to grasp",
+    "nepali": "बुझ्नु / थाहा पाउनु"
+  },
+  {
+    "id": 212,
+    "korean": "창고",
+    "english": "warehouse",
+    "nepali": "गोदाम"
+  },
+  {
+    "id": 213,
+    "korean": "추측",
+    "english": "guess, assumption",
+    "nepali": "अनुमान"
+  },
+  {
+    "id": 214,
+    "korean": "비",
+    "english": "rain",
+    "nepali": "पानी / वर्षा"
+  },
+  {
+    "id": 215,
+    "korean": "우산",
+    "english": "umbrella",
+    "nepali": "छाता"
+  },
+  {
+    "id": 216,
+    "korean": "가지고 가다",
+    "english": "to take",
+    "nepali": "लिएर जानु"
+  },
+  {
+    "id": 217,
+    "korean": "연결하다",
+    "english": "to connect",
+    "nepali": "जोड्नु"
+  },
+  {
+    "id": 218,
+    "korean": "주문하다",
+    "english": "to order",
+    "nepali": "अर्डर गर्नु"
+  },
+  {
+    "id": 219,
+    "korean": "물건",
+    "english": "thing, goods",
+    "nepali": "सामान"
+  },
+  {
+    "id": 220,
+    "korean": "곧",
+    "english": "soon",
+    "nepali": "चाँडै"
+  },
+  {
+    "id": 221,
+    "korean": "작업 순서",
+    "english": "work order",
+    "nepali": "काम गर्ने क्रम"
+  },
+  {
+    "id": 222,
+    "korean": "설명하다",
+    "english": "to explain",
+    "nepali": "व्याख्या गर्नु"
+  },
+  {
+    "id": 223,
+    "korean": "남은 일",
+    "english": "remaining work",
+    "nepali": "बाँकी काम"
+  },
+  {
+    "id": 224,
+    "korean": "마무리하다",
+    "english": "to finish up",
+    "nepali": "टुङ्ग्याउनु"
+  },
+  {
+    "id": 225,
+    "korean": "보호구 상태",
+    "english": "condition of protective gear",
+    "nepali": "सुरक्षा उपकरणको अवस्था"
+  },
+  {
+    "id": 226,
+    "korean": "퇴근하다",
+    "english": "to leave work",
+    "nepali": "काम सकेर घर जानु"
+  },
+  {
+    "id": 227,
+    "korean": "확인한 후에",
+    "english": "after checking",
+    "nepali": "जाँच गरेपछि"
+  },
+  {
+    "id": 228,
+    "korean": "들은 대로",
+    "english": "as heard",
+    "nepali": "सुनेअनुसार"
+  },
+  {
+    "id": 229,
+    "korean": "일을 진행하다",
+    "english": "to carry on work",
+    "nepali": "काम अगाडि बढाउनु"
+  },
+  {
+    "id": 230,
+    "korean": "점검하다",
+    "english": "to inspect",
+    "nepali": "जाँच गर्नु"
+  },
+  {
+    "id": 231,
+    "korean": "가져오다",
+    "english": "to bring",
+    "nepali": "ल्याउनु"
+  },
+  {
+    "id": 232,
+    "korean": "도와주다",
+    "english": "to help",
+    "nepali": "सहयोग गर्नु"
+  },
+  {
+    "id": 233,
+    "korean": "무겁다",
+    "english": "to be heavy",
+    "nepali": "गह्रौं हुनु"
+  },
+  {
+    "id": 234,
+    "korean": "옮기다",
+    "english": "to move",
+    "nepali": "सार्नु"
+  },
+  {
+    "id": 235,
+    "korean": "모르다",
+    "english": "not to know",
+    "nepali": "नजान्नु"
+  },
+  {
+    "id": 236,
+    "korean": "포장하다",
+    "english": "to pack",
+    "nepali": "प्याक गर्नु"
+  },
+  {
+    "id": 237,
+    "korean": "자재",
+    "english": "material",
+    "nepali": "सामग्री"
+  },
+  {
+    "id": 238,
+    "korean": "얼마",
+    "english": "how much, a little",
+    "nepali": "कति"
+  },
+  {
+    "id": 239,
+    "korean": "준비되다",
+    "english": "to be prepared",
+    "nepali": "तयार हुनु"
+  },
+  {
+    "id": 240,
+    "korean": "걱정하다",
+    "english": "to worry",
+    "nepali": "चिन्ता गर्नु"
+  },
+  {
+    "id": 241,
+    "korean": "내일",
+    "english": "tomorrow",
+    "nepali": "भोलि"
+  },
+  {
+    "id": 242,
+    "korean": "갑자기",
+    "english": "suddenly",
+    "nepali": "अचानक"
+  },
+  {
+    "id": 243,
+    "korean": "멈추다",
+    "english": "to stop",
+    "nepali": "रोकिनु"
+  },
+  {
+    "id": 244,
+    "korean": "방열복",
+    "english": "heat-resistant suit",
+    "nepali": "ताप रोक्ने पोशाक"
+  },
+  {
+    "id": 245,
+    "korean": "온도",
+    "english": "temperature",
+    "nepali": "तापक्रम"
+  },
+  {
+    "id": 246,
+    "korean": "높다",
+    "english": "to be high",
+    "nepali": "उच्च हुनु"
+  },
+  {
+    "id": 247,
+    "korean": "조심하다",
+    "english": "to be careful",
+    "nepali": "सावधान हुनु"
+  },
+  {
+    "id": 248,
+    "korean": "물론",
+    "english": "of course",
+    "nepali": "अवश्य"
+  },
+  {
+    "id": 249,
+    "korean": "중요하다",
+    "english": "to be important",
+    "nepali": "महत्त्वपूर्ण हुनु"
+  },
+  {
+    "id": 250,
+    "korean": "알려 주다",
+    "english": "to let know",
+    "nepali": "जानकारी दिनु"
+  },
+  {
+    "id": 251,
+    "korean": "얼굴",
+    "english": "face",
+    "nepali": "अनुहार"
+  },
+  {
+    "id": 252,
+    "korean": "목",
+    "english": "neck",
+    "nepali": "घाँटी"
+  },
+  {
+    "id": 253,
+    "korean": "부분",
+    "english": "part",
+    "nepali": "भाग"
+  },
+  {
+    "id": 254,
+    "korean": "-ㄹ 수도 있다",
+    "english": "might",
+    "nepali": "हुन पनि सक्छ"
+  },
+  {
+    "id": 255,
+    "korean": "잠시만",
+    "english": "just a moment",
+    "nepali": "एक छिन"
+  },
+  {
+    "id": 256,
+    "korean": "기다리다",
+    "english": "to wait",
+    "nepali": "पर्खनु"
+  },
+  {
+    "id": 257,
+    "korean": "식품 포장 작업",
+    "english": "food packing work",
+    "nepali": "खाद्य प्याकिङ काम"
+  },
+  {
+    "id": 258,
+    "korean": "식품",
+    "english": "food product",
+    "nepali": "खाद्य वस्तु"
+  },
+  {
+    "id": 259,
+    "korean": "보이다",
+    "english": "to be seen",
+    "nepali": "देखिनु"
+  },
+  {
+    "id": 260,
+    "korean": "어디",
+    "english": "where",
+    "nepali": "कहाँ"
+  },
+  {
+    "id": 261,
+    "korean": "바람을 쐬다",
+    "english": "to get some fresh air",
+    "nepali": "ताजा हावा खानु"
+  },
+  {
+    "id": 262,
+    "korean": "머리가 아프다",
+    "english": "to have a headache",
+    "nepali": "टाउको दुख्नु"
+  },
+  {
+    "id": 263,
+    "korean": "유용한 표현",
+    "english": "useful expression",
+    "nepali": "उपयोगी वाक्यांश"
+  },
+  {
+    "id": 264,
+    "korean": "일반적인",
+    "english": "general",
+    "nepali": "सामान्य"
+  },
+  {
+    "id": 265,
+    "korean": "강제 행동 표지",
+    "english": "mandatory action sign",
+    "nepali": "अनिवार्य कार्य चिन्ह"
+  },
+  {
+    "id": 266,
+    "korean": "특정",
+    "english": "specific",
+    "nepali": "विशेष"
+  },
+  {
+    "id": 267,
+    "korean": "행동",
+    "english": "action",
+    "nepali": "कार्य"
+  },
+  {
+    "id": 268,
+    "korean": "알리다",
+    "english": "to inform",
+    "nepali": "जानकारी दिनु"
+  },
+  {
+    "id": 269,
+    "korean": "사용설명서",
+    "english": "user manual",
+    "nepali": "प्रयोग निर्देशिका"
+  },
+  {
+    "id": 270,
+    "korean": "책자",
+    "english": "booklet",
+    "nepali": "पुस्तिका"
+  },
+  {
+    "id": 271,
+    "korean": "참조하다",
+    "english": "to refer to",
+    "nepali": "हेर्नु / सन्दर्भ लिनु"
+  },
+  {
+    "id": 272,
+    "korean": "청각 보호기",
+    "english": "hearing protection",
+    "nepali": "सुन्ने क्षमता सुरक्षा"
+  },
+  {
+    "id": 273,
+    "korean": "눈 보호기",
+    "english": "eye protection",
+    "nepali": "आँखा सुरक्षा"
+  },
+  {
+    "id": 274,
+    "korean": "전기 플러그",
+    "english": "electrical plug",
+    "nepali": "बिजुलीको प्लग"
+  },
+  {
+    "id": 275,
+    "korean": "콘센트",
+    "english": "outlet",
+    "nepali": "सकेट"
+  },
+  {
+    "id": 276,
+    "korean": "분리하다",
+    "english": "to separate, to unplug",
+    "nepali": "अलग गर्नु"
+  },
+  {
+    "id": 277,
+    "korean": "빼다",
+    "english": "to pull out",
+    "nepali": "निकाल्नु"
+  },
+  {
+    "id": 278,
+    "korean": "불투명",
+    "english": "opaque",
+    "nepali": "अपारदर्शी"
+  },
+  {
+    "id": 279,
+    "korean": "보안대",
+    "english": "protective eye gear",
+    "nepali": "आँखा सुरक्षा पट्टी"
+  },
+  {
+    "id": 280,
+    "korean": "고글",
+    "english": "goggles",
+    "nepali": "गगल्स"
+  },
+  {
+    "id": 281,
+    "korean": "안경",
+    "english": "glasses",
+    "nepali": "चश्मा"
+  },
+  {
+    "id": 282,
+    "korean": "방호복",
+    "english": "protective clothing",
+    "nepali": "सुरक्षा पोशाक"
+  },
+  {
+    "id": 283,
+    "korean": "보호 장갑",
+    "english": "protective gloves",
+    "nepali": "सुरक्षा पन्जा"
+  },
+  {
+    "id": 284,
+    "korean": "손을 씻다",
+    "english": "to wash hands",
+    "nepali": "हात धुनु"
+  },
+  {
+    "id": 285,
+    "korean": "손잡이",
+    "english": "handrail, handle",
+    "nepali": "समात्ने ठाउँ"
+  },
+  {
+    "id": 286,
+    "korean": "얼굴 보호구",
+    "english": "face protection",
+    "nepali": "अनुहार सुरक्षा उपकरण"
+  },
+  {
+    "id": 287,
+    "korean": "가시성",
+    "english": "visibility",
+    "nepali": "देखिने क्षमता"
+  },
+  {
+    "id": 288,
+    "korean": "반사 조끼",
+    "english": "reflective vest",
+    "nepali": "प्रतिबिम्बित जिलेट"
+  },
+  {
+    "id": 289,
+    "korean": "머리 보호구",
+    "english": "head protection",
+    "nepali": "टाउको सुरक्षा उपकरण"
+  },
+  {
+    "id": 290,
+    "korean": "호흡기 보호 장치",
+    "english": "respiratory protection device",
+    "nepali": "सास फेर्ने सुरक्षा उपकरण"
+  },
+  {
+    "id": 291,
+    "korean": "안전띠",
+    "english": "safety belt",
+    "nepali": "सुरक्षा पेटी"
+  },
+  {
+    "id": 292,
+    "korean": "용접 마스크",
+    "english": "welding mask",
+    "nepali": "वेल्डिङ मास्क"
+  },
+  {
+    "id": 293,
+    "korean": "멀리서",
+    "english": "from far away",
+    "nepali": "टाढाबाट"
+  },
+  {
+    "id": 294,
+    "korean": "안전벨트",
+    "english": "seat belt, safety belt",
+    "nepali": "सुरक्षा बेल्ट"
+  },
+  {
+    "id": 295,
+    "korean": "보호용 앞치마",
+    "english": "protective apron",
+    "nepali": "सुरक्षा एप्रोन"
+  },
+  {
+    "id": 296,
+    "korean": "이 통로를 이용하다",
+    "english": "to use this passage",
+    "nepali": "यो बाटो प्रयोग गर्नु"
+  },
+  {
+    "id": 297,
+    "korean": "이용하다",
+    "english": "to use",
+    "nepali": "प्रयोग गर्नु"
+  },
+  {
+    "id": 298,
+    "korean": "통로",
+    "english": "passage",
+    "nepali": "बाटो"
+  },
+  {
+    "id": 299,
+    "korean": "잠그다",
+    "english": "to lock",
+    "nepali": "ताला लगाउनु"
+  },
+  {
+    "id": 300,
+    "korean": "경적",
+    "english": "horn",
+    "nepali": "हर्न"
+  },
+  {
+    "id": 301,
+    "korean": "울리다",
+    "english": "to sound, to ring",
+    "nepali": "बजाउनु"
+  },
+  {
+    "id": 302,
+    "korean": "쓰레기통",
+    "english": "trash can",
+    "nepali": "फोहोर फाल्ने डस्टबिन"
+  },
+  {
+    "id": 303,
+    "korean": "이 길",
+    "english": "this road",
+    "nepali": "यो बाटो"
+  },
+  {
+    "id": 304,
+    "korean": "다니다",
+    "english": "to go around",
+    "nepali": "आउजाउ गर्नु"
+  },
+  {
+    "id": 305,
+    "korean": "주의",
+    "english": "caution",
+    "nepali": "सावधानी"
+  },
+  {
+    "id": 306,
+    "korean": "신호",
+    "english": "signal",
+    "nepali": "संकेत"
+  },
+  {
+    "id": 307,
+    "korean": "경고음",
+    "english": "warning sound",
+    "nepali": "चेतावनी आवाज"
+  },
+  {
+    "id": 308,
+    "korean": "내다",
+    "english": "to make (a sound), to put out",
+    "nepali": "निकाल्नु"
+  },
+  {
+    "id": 309,
+    "korean": "산업표준심의회",
+    "english": "Industrial Standards Council",
+    "nepali": "औद्योगिक मापदण्ड परिषद्"
+  },
+  {
+    "id": 310,
+    "korean": "익히다",
+    "english": "to learn, to master",
+    "nepali": "सिक्नु / अभ्यस्त हुनु"
+  },
+  {
+    "id": 311,
+    "korean": "활용하다",
+    "english": "to use, to utilize",
+    "nepali": "प्रयोग गर्नु"
+  },
+  {
+    "id": 312,
+    "korean": "의도",
+    "english": "intention",
+    "nepali": "उद्देश्य"
+  },
+  {
+    "id": 313,
+    "korean": "계획",
+    "english": "plan",
+    "nepali": "योजना"
+  },
+  {
+    "id": 314,
+    "korean": "표현하다",
+    "english": "to express",
+    "nepali": "व्यक्त गर्नु"
+  },
+  {
+    "id": 315,
+    "korean": "상대방",
+    "english": "the other person",
+    "nepali": "अर्को व्यक्ति"
+  },
+  {
+    "id": 316,
+    "korean": "제안하다",
+    "english": "to suggest",
+    "nepali": "प्रस्ताव राख्नु"
+  },
+  {
+    "id": 317,
+    "korean": "읽기",
+    "english": "reading",
+    "nepali": "पढाइ"
+  },
+  {
+    "id": 318,
+    "korean": "듣기",
+    "english": "listening",
+    "nepali": "सुनाइ"
+  },
+  {
+    "id": 319,
+    "korean": "다음",
+    "english": "next, following",
+    "nepali": "अर्को"
+  },
+  {
+    "id": 320,
+    "korean": "내용",
+    "english": "content",
+    "nepali": "विषय"
+  },
+  {
+    "id": 321,
+    "korean": "관계있다",
+    "english": "to be related",
+    "nepali": "सम्बन्धित हुनु"
+  },
+  {
+    "id": 322,
+    "korean": "높은 곳",
+    "english": "high place",
+    "nepali": "अग्लो ठाउँ"
+  },
+  {
+    "id": 323,
+    "korean": "날카롭다",
+    "english": "to be sharp",
+    "nepali": "तेज हुनु"
+  },
+  {
+    "id": 324,
+    "korean": "만지다",
+    "english": "to touch",
+    "nepali": "छुनु"
+  },
+  {
+    "id": 325,
+    "korean": "공기",
+    "english": "air",
+    "nepali": "हावा"
+  },
+  {
+    "id": 326,
+    "korean": "좋다",
+    "english": "to be good",
+    "nepali": "राम्रो हुनु"
+  },
+  {
+    "id": 327,
+    "korean": "지키다",
+    "english": "to keep, to protect",
+    "nepali": "पालना / रक्षा गर्नु"
+  },
+  {
+    "id": 328,
+    "korean": "끼우다",
+    "english": "to put on, to insert",
+    "nepali": "लगाउनु / घुसाउनु"
+  },
+  {
+    "id": 329,
+    "korean": "닦다",
+    "english": "to wipe, to polish",
+    "nepali": "पुछ्नु"
+  },
+  {
+    "id": 330,
+    "korean": "받다",
+    "english": "to receive",
+    "nepali": "पाउनु"
+  },
+  {
+    "id": 331,
+    "korean": "잡다",
+    "english": "to hold, to catch",
+    "nepali": "समात्नु"
+  },
+  {
+    "id": 332,
+    "korean": "빈칸",
+    "english": "blank space",
+    "nepali": "खाली ठाउँ"
+  },
+  {
+    "id": 333,
+    "korean": "표현",
+    "english": "expression",
+    "nepali": "अभिव्यक्ति"
+  },
+  {
+    "id": 334,
+    "korean": "기계 작업",
+    "english": "machine work",
+    "nepali": "मेसिन काम"
+  },
+  {
+    "id": 335,
+    "korean": "가까이",
+    "english": "close",
+    "nepali": "नजिक"
+  },
+  {
+    "id": 336,
+    "korean": "가다",
+    "english": "to go",
+    "nepali": "जानु"
+  },
+  {
+    "id": 337,
+    "korean": "주의하다",
+    "english": "to be careful",
+    "nepali": "सावधानी अपनाउनु"
+  },
+  {
+    "id": 338,
+    "korean": "작동 중",
+    "english": "in operation",
+    "nepali": "चलिरहेको"
+  },
+  {
+    "id": 339,
+    "korean": "전원을 끄다",
+    "english": "to turn off the power",
+    "nepali": "पावर बन्द गर्नु"
+  },
+  {
+    "id": 340,
+    "korean": "설치되다",
+    "english": "to be installed",
+    "nepali": "जडान हुनु"
+  },
+  {
+    "id": 341,
+    "korean": "작동하다",
+    "english": "to operate",
+    "nepali": "चल्नु"
+  },
+  {
+    "id": 342,
+    "korean": "생명",
+    "english": "life",
+    "nepali": "जीवन"
+  },
+  {
+    "id": 343,
+    "korean": "건강",
+    "english": "health",
+    "nepali": "स्वास्थ्य"
+  },
+  {
+    "id": 344,
+    "korean": "반드시",
+    "english": "without fail",
+    "nepali": "अवश्य"
+  },
+  {
+    "id": 345,
+    "korean": "환경",
+    "english": "environment",
+    "nepali": "वातावरण"
+  },
+  {
+    "id": 346,
+    "korean": "청력",
+    "english": "hearing",
+    "nepali": "सुन्ने शक्ति"
+  },
+  {
+    "id": 347,
+    "korean": "화학 물질",
+    "english": "chemical substance",
+    "nepali": "रासायनिक पदार्थ"
+  },
+  {
+    "id": 348,
+    "korean": "고온",
+    "english": "high temperature",
+    "nepali": "उच्च तापक्रम"
+  },
+  {
+    "id": 349,
+    "korean": "선택 사항",
+    "english": "optional item",
+    "nepali": "ऐच्छिक विषय"
+  },
+  {
+    "id": 350,
+    "korean": "다섯 번",
+    "english": "five times",
+    "nepali": "पाँच पटक"
+  },
+  {
+    "id": 351,
+    "korean": "열 시",
+    "english": "ten o'clock",
+    "nepali": "दस बजे"
+  },
+  {
+    "id": 352,
+    "korean": "실외",
+    "english": "outdoors",
+    "nepali": "बाहिर"
+  },
+  {
+    "id": 353,
+    "korean": "작업 수칙",
+    "english": "work rules",
+    "nepali": "काम गर्ने नियम"
+  },
+  {
+    "id": 354,
+    "korean": "작업 시간",
+    "english": "work time",
+    "nepali": "काम गर्ने समय"
+  },
+  {
+    "id": 355,
+    "korean": "작업 장소",
+    "english": "work place",
+    "nepali": "काम गर्ने ठाउँ"
+  },
+  {
+    "id": 356,
+    "korean": "이어지다",
+    "english": "to continue",
+    "nepali": "जारी रहनु"
+  },
+  {
+    "id": 357,
+    "korean": "착용법",
+    "english": "how to wear",
+    "nepali": "लगाउने तरिका"
+  },
+  {
+    "id": 358,
+    "korean": "여기",
+    "english": "here",
+    "nepali": "यहाँ"
+  },
+  {
+    "id": 359,
+    "korean": "일하다",
+    "english": "to work",
+    "nepali": "काम गर्नु"
+  },
+  {
+    "id": 360,
+    "korean": "준비하다",
+    "english": "to prepare",
+    "nepali": "तयार गर्नु"
+  },
+  {
+    "id": 361,
+    "korean": "챙기다",
+    "english": "to pack, to take along",
+    "nepali": "बोक्नु / तयार पार्नु"
+  },
+  {
+    "id": 362,
+    "korean": "먼지가 발생하다",
+    "english": "dust is generated",
+    "nepali": "धुलो उत्पन्न हुन्छ"
+  },
+  {
+    "id": 363,
+    "korean": "전원을 차단하다",
+    "english": "to cut off power",
+    "nepali": "पावर बन्द गर्नु"
+  },
+  {
+    "id": 364,
+    "korean": "절연화",
+    "english": "insulating shoes",
+    "nepali": "इन्सुलेटेड जुत्ता"
+  },
+  {
+    "id": 365,
+    "korean": "몇 시",
+    "english": "what time",
+    "nepali": "कति बजे"
+  },
+  {
+    "id": 366,
+    "korean": "잊다",
+    "english": "to forget",
+    "nepali": "बिर्सनु"
+  }
+]

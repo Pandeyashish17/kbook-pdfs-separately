@@ -1,0 +1,1814 @@
+[
+  {
+    "id": 1,
+    "korean": "문법",
+    "english": "grammar",
+    "nepali": "व्याकरण"
+  },
+  {
+    "id": 2,
+    "korean": "어휘",
+    "english": "vocabulary",
+    "nepali": "शब्दावली"
+  },
+  {
+    "id": 3,
+    "korean": "문화",
+    "english": "culture",
+    "nepali": "संस्कृति"
+  },
+  {
+    "id": 4,
+    "korean": "정보",
+    "english": "information",
+    "nepali": "जानकारी"
+  },
+  {
+    "id": 5,
+    "korean": "학습",
+    "english": "study, learning",
+    "nepali": "अध्ययन"
+  },
+  {
+    "id": 6,
+    "korean": "목표",
+    "english": "goal, objective",
+    "nepali": "लक्ष्य"
+  },
+  {
+    "id": 7,
+    "korean": "한국",
+    "english": "Korea",
+    "nepali": "कोरिया"
+  },
+  {
+    "id": 8,
+    "korean": "관련",
+    "english": "related",
+    "nepali": "सम्बन्धित"
+  },
+  {
+    "id": 9,
+    "korean": "묻다",
+    "english": "to ask",
+    "nepali": "सोध्नु"
+  },
+  {
+    "id": 10,
+    "korean": "대답하다",
+    "english": "to answer",
+    "nepali": "जवाफ दिनु"
+  },
+  {
+    "id": 11,
+    "korean": "말하다",
+    "english": "to speak, to say",
+    "nepali": "भन्नु"
+  },
+  {
+    "id": 12,
+    "korean": "알맞다",
+    "english": "to be suitable",
+    "nepali": "उपयुक्त हुनु"
+  },
+  {
+    "id": 13,
+    "korean": "고르다",
+    "english": "to choose",
+    "nepali": "छान्नु"
+  },
+  {
+    "id": 14,
+    "korean": "완성하다",
+    "english": "to complete",
+    "nepali": "पूरा गर्नु"
+  },
+  {
+    "id": 15,
+    "korean": "보기",
+    "english": "example",
+    "nepali": "उदाहरण"
+  },
+  {
+    "id": 16,
+    "korean": "대화",
+    "english": "conversation",
+    "nepali": "कुराकानी"
+  },
+  {
+    "id": 17,
+    "korean": "문장",
+    "english": "sentence",
+    "nepali": "वाक्य"
+  },
+  {
+    "id": 18,
+    "korean": "그림",
+    "english": "picture",
+    "nepali": "चित्र"
+  },
+  {
+    "id": 19,
+    "korean": "관계있다",
+    "english": "to be related",
+    "nepali": "सम्बन्धित हुनु"
+  },
+  {
+    "id": 20,
+    "korean": "빈칸",
+    "english": "blank",
+    "nepali": "खाली ठाउँ"
+  },
+  {
+    "id": 21,
+    "korean": "들어가다",
+    "english": "to go in, to fit in",
+    "nepali": "भित्र जानु / अट्नु"
+  },
+  {
+    "id": 22,
+    "korean": "설명",
+    "english": "explanation",
+    "nepali": "व्याख्या"
+  },
+  {
+    "id": 23,
+    "korean": "맞다",
+    "english": "to be correct",
+    "nepali": "सही हुनु"
+  },
+  {
+    "id": 24,
+    "korean": "듣다",
+    "english": "to listen",
+    "nepali": "सुन्नु"
+  },
+  {
+    "id": 25,
+    "korean": "내용",
+    "english": "content",
+    "nepali": "विषयवस्तु"
+  },
+  {
+    "id": 26,
+    "korean": "이어지다",
+    "english": "to continue, to follow",
+    "nepali": "जारी रहनु"
+  },
+  {
+    "id": 27,
+    "korean": "가장",
+    "english": "most",
+    "nepali": "सबैभन्दा"
+  },
+  {
+    "id": 28,
+    "korean": "하다",
+    "english": "to do",
+    "nepali": "गर्नु"
+  },
+  {
+    "id": 29,
+    "korean": "되다",
+    "english": "to become",
+    "nepali": "हुनु"
+  },
+  {
+    "id": 30,
+    "korean": "가다",
+    "english": "to go",
+    "nepali": "जानु"
+  },
+  {
+    "id": 31,
+    "korean": "오늘",
+    "english": "today",
+    "nepali": "आज"
+  },
+  {
+    "id": 32,
+    "korean": "다음",
+    "english": "next, following",
+    "nepali": "अर्को, निम्न"
+  },
+  {
+    "id": 33,
+    "korean": "씨",
+    "english": "Mr./Ms.",
+    "nepali": "श्री / सुश्री"
+  },
+  {
+    "id": 34,
+    "korean": "그리고",
+    "english": "and",
+    "nepali": "र"
+  },
+  {
+    "id": 35,
+    "korean": "선체",
+    "english": "hull",
+    "nepali": "जहाजको मुख्य ढाँचा"
+  },
+  {
+    "id": 36,
+    "korean": "건조",
+    "english": "ship construction",
+    "nepali": "जहाज निर्माण"
+  },
+  {
+    "id": 37,
+    "korean": "도장",
+    "english": "painting, coating",
+    "nepali": "रङ लगाउने काम"
+  },
+  {
+    "id": 38,
+    "korean": "끝내다",
+    "english": "to finish",
+    "nepali": "सक्नु"
+  },
+  {
+    "id": 39,
+    "korean": "열심히",
+    "english": "diligently",
+    "nepali": "मेहनतसाथ"
+  },
+  {
+    "id": 40,
+    "korean": "덕분",
+    "english": "thanks to",
+    "nepali": "को कारणले (सकारात्मक)"
+  },
+  {
+    "id": 41,
+    "korean": "예상",
+    "english": "expectation",
+    "nepali": "अनुमान"
+  },
+  {
+    "id": 42,
+    "korean": "마치다",
+    "english": "to finish",
+    "nepali": "सिध्याउनु"
+  },
+  {
+    "id": 43,
+    "korean": "선박",
+    "english": "ship, vessel",
+    "nepali": "जहाज"
+  },
+  {
+    "id": 44,
+    "korean": "강관",
+    "english": "steel pipe",
+    "nepali": "फलामे पाइप"
+  },
+  {
+    "id": 45,
+    "korean": "비계",
+    "english": "scaffold",
+    "nepali": "मचान (निर्माणमा प्रयोग हुने)"
+  },
+  {
+    "id": 46,
+    "korean": "구조",
+    "english": "structure",
+    "nepali": "संरचना"
+  },
+  {
+    "id": 47,
+    "korean": "조선업",
+    "english": "shipbuilding industry",
+    "nepali": "जहाज निर्माण उद्योग"
+  },
+  {
+    "id": 48,
+    "korean": "조타실",
+    "english": "wheelhouse",
+    "nepali": "जहाज चलाउने कोठा"
+  },
+  {
+    "id": 49,
+    "korean": "선원실",
+    "english": "crew's quarters",
+    "nepali": "कर्मचारीको कोठा (जहाजमा)"
+  },
+  {
+    "id": 50,
+    "korean": "갑판",
+    "english": "deck",
+    "nepali": "जहाजको डेक"
+  },
+  {
+    "id": 51,
+    "korean": "프로펠러",
+    "english": "propeller",
+    "nepali": "प्रोपेलर (जहाजको पङ्खा)"
+  },
+  {
+    "id": 52,
+    "korean": "선미부",
+    "english": "stern section",
+    "nepali": "जहाजको पछिल्लो भाग"
+  },
+  {
+    "id": 53,
+    "korean": "중앙부",
+    "english": "midsection",
+    "nepali": "बीचको भाग"
+  },
+  {
+    "id": 54,
+    "korean": "선수부",
+    "english": "bow section",
+    "nepali": "जहाजको अगाडिको भाग"
+  },
+  {
+    "id": 55,
+    "korean": "변색",
+    "english": "discoloration",
+    "nepali": "रङ फेरिनु"
+  },
+  {
+    "id": 56,
+    "korean": "분사하다",
+    "english": "to spray",
+    "nepali": "स्प्रे गर्नु"
+  },
+  {
+    "id": 57,
+    "korean": "균열",
+    "english": "crack",
+    "nepali": "दरार"
+  },
+  {
+    "id": 58,
+    "korean": "녹",
+    "english": "rust",
+    "nepali": "खिया"
+  },
+  {
+    "id": 59,
+    "korean": "에어 스프레이 건",
+    "english": "air spray gun",
+    "nepali": "एयर स्प्रे गन"
+  },
+  {
+    "id": 60,
+    "korean": "에어리스 스프레이 건",
+    "english": "airless spray gun",
+    "nepali": "एयरलेस स्प्रे गन"
+  },
+  {
+    "id": 61,
+    "korean": "페인트",
+    "english": "paint",
+    "nepali": "रङ (पेन्ट)"
+  },
+  {
+    "id": 62,
+    "korean": "도료 호스",
+    "english": "paint hose",
+    "nepali": "रङ बग्ने पाइप"
+  },
+  {
+    "id": 63,
+    "korean": "에어리스 스프레이 펌프",
+    "english": "airless spray pump",
+    "nepali": "एयरलेस स्प्रे पम्प"
+  },
+  {
+    "id": 64,
+    "korean": "물기",
+    "english": "moisture",
+    "nepali": "चिस्यान"
+  },
+  {
+    "id": 65,
+    "korean": "부식",
+    "english": "corrosion",
+    "nepali": "क्षय, खिया लाग्ने प्रक्रिया"
+  },
+  {
+    "id": 66,
+    "korean": "면적",
+    "english": "area",
+    "nepali": "क्षेत्रफल"
+  },
+  {
+    "id": 67,
+    "korean": "매끄럽다",
+    "english": "to be smooth",
+    "nepali": "चिल्लो हुनु"
+  },
+  {
+    "id": 68,
+    "korean": "마무리하다",
+    "english": "to finish up",
+    "nepali": "अन्तिम रूप दिनु"
+  },
+  {
+    "id": 69,
+    "korean": "골고루",
+    "english": "evenly",
+    "nepali": "समान रूपमा"
+  },
+  {
+    "id": 70,
+    "korean": "금이 가다",
+    "english": "to get cracked",
+    "nepali": "चर्किनु"
+  },
+  {
+    "id": 71,
+    "korean": "미끄러지다",
+    "english": "to slip",
+    "nepali": "चिप्लिनु"
+  },
+  {
+    "id": 72,
+    "korean": "바닥",
+    "english": "floor, bottom",
+    "nepali": "भुइँ, तल्लो भाग"
+  },
+  {
+    "id": 73,
+    "korean": "조심하다",
+    "english": "to be careful",
+    "nepali": "होसियार हुनु"
+  },
+  {
+    "id": 74,
+    "korean": "붓",
+    "english": "brush",
+    "nepali": "ब्रश"
+  },
+  {
+    "id": 75,
+    "korean": "빨리",
+    "english": "quickly",
+    "nepali": "चाँडो"
+  },
+  {
+    "id": 76,
+    "korean": "칠하다",
+    "english": "to paint",
+    "nepali": "रङ्गाउनु"
+  },
+  {
+    "id": 77,
+    "korean": "생기다",
+    "english": "to form, to appear",
+    "nepali": "बन्नु, हुनु"
+  },
+  {
+    "id": 78,
+    "korean": "부식이 일어나다",
+    "english": "to corrode",
+    "nepali": "क्षय हुनु"
+  },
+  {
+    "id": 79,
+    "korean": "일어나다",
+    "english": "to occur, to get up",
+    "nepali": "हुनु, उठ्नु"
+  },
+  {
+    "id": 80,
+    "korean": "형용사",
+    "english": "adjective",
+    "nepali": "विशेषण"
+  },
+  {
+    "id": 81,
+    "korean": "상태",
+    "english": "state, condition",
+    "nepali": "अवस्था"
+  },
+  {
+    "id": 82,
+    "korean": "조금씩",
+    "english": "little by little",
+    "nepali": "बिस्तारै बिस्तारै"
+  },
+  {
+    "id": 83,
+    "korean": "변화되다",
+    "english": "to be changed",
+    "nepali": "परिवर्तन हुनु"
+  },
+  {
+    "id": 84,
+    "korean": "동사",
+    "english": "verb",
+    "nepali": "क्रिया"
+  },
+  {
+    "id": 85,
+    "korean": "저절로",
+    "english": "by itself",
+    "nepali": "आफैँ"
+  },
+  {
+    "id": 86,
+    "korean": "외부",
+    "english": "outside, external",
+    "nepali": "बाहिरी"
+  },
+  {
+    "id": 87,
+    "korean": "요인",
+    "english": "factor",
+    "nepali": "कारण, तत्त्व"
+  },
+  {
+    "id": 88,
+    "korean": "기름",
+    "english": "oil",
+    "nepali": "तेल"
+  },
+  {
+    "id": 89,
+    "korean": "얼룩",
+    "english": "stain",
+    "nepali": "दाग"
+  },
+  {
+    "id": 90,
+    "korean": "지워지다",
+    "english": "to be erased",
+    "nepali": "मेटिनु"
+  },
+  {
+    "id": 91,
+    "korean": "선반",
+    "english": "lathe",
+    "nepali": "खराद मेसिन"
+  },
+  {
+    "id": 92,
+    "korean": "주문",
+    "english": "order",
+    "nepali": "अर्डर"
+  },
+  {
+    "id": 93,
+    "korean": "늘다",
+    "english": "to increase",
+    "nepali": "बढ्नु"
+  },
+  {
+    "id": 94,
+    "korean": "야간작업",
+    "english": "night work",
+    "nepali": "रातको काम"
+  },
+  {
+    "id": 95,
+    "korean": "제품",
+    "english": "product",
+    "nepali": "उत्पादन"
+  },
+  {
+    "id": 96,
+    "korean": "출고",
+    "english": "shipment (from factory)",
+    "nepali": "कारखानाबाट बाहिर पठाउने काम"
+  },
+  {
+    "id": 97,
+    "korean": "시기",
+    "english": "time, period",
+    "nepali": "समय"
+  },
+  {
+    "id": 98,
+    "korean": "바쁘다",
+    "english": "to be busy",
+    "nepali": "व्यस्त हुनु"
+  },
+  {
+    "id": 99,
+    "korean": "익숙하다",
+    "english": "to be familiar",
+    "nepali": "बानी पर्नु, परिचित हुनु"
+  },
+  {
+    "id": 100,
+    "korean": "생활",
+    "english": "life",
+    "nepali": "जीवन"
+  },
+  {
+    "id": 101,
+    "korean": "새",
+    "english": "new",
+    "nepali": "नयाँ"
+  },
+  {
+    "id": 102,
+    "korean": "기계",
+    "english": "machine",
+    "nepali": "मेसिन"
+  },
+  {
+    "id": 103,
+    "korean": "들어오다",
+    "english": "to come in",
+    "nepali": "भित्र आउनु"
+  },
+  {
+    "id": 104,
+    "korean": "속도",
+    "english": "speed",
+    "nepali": "गति"
+  },
+  {
+    "id": 105,
+    "korean": "빠르다",
+    "english": "to be fast",
+    "nepali": "छिटो हुनु"
+  },
+  {
+    "id": 106,
+    "korean": "약하다",
+    "english": "to be weak",
+    "nepali": "कमजोर हुनु"
+  },
+  {
+    "id": 107,
+    "korean": "제거하다",
+    "english": "to remove",
+    "nepali": "हटाउनु"
+  },
+  {
+    "id": 108,
+    "korean": "표면",
+    "english": "surface",
+    "nepali": "सतह"
+  },
+  {
+    "id": 109,
+    "korean": "나쁘다",
+    "english": "to be bad",
+    "nepali": "खराब हुनु"
+  },
+  {
+    "id": 110,
+    "korean": "공기",
+    "english": "air",
+    "nepali": "हावा"
+  },
+  {
+    "id": 111,
+    "korean": "오래",
+    "english": "for a long time",
+    "nepali": "लामो समय"
+  },
+  {
+    "id": 112,
+    "korean": "벌써",
+    "english": "already",
+    "nepali": "पहिल्यै"
+  },
+  {
+    "id": 113,
+    "korean": "고향",
+    "english": "hometown",
+    "nepali": "जन्मघर, गाउँ"
+  },
+  {
+    "id": 114,
+    "korean": "철판",
+    "english": "steel plate",
+    "nepali": "फलामको पाता"
+  },
+  {
+    "id": 115,
+    "korean": "강하다",
+    "english": "to be strong",
+    "nepali": "बलियो हुनु"
+  },
+  {
+    "id": 116,
+    "korean": "기다리다",
+    "english": "to wait",
+    "nepali": "पर्खनु"
+  },
+  {
+    "id": 117,
+    "korean": "옮기다",
+    "english": "to move",
+    "nepali": "सार्नु"
+  },
+  {
+    "id": 118,
+    "korean": "만들다",
+    "english": "to make",
+    "nepali": "बनाउनु"
+  },
+  {
+    "id": 119,
+    "korean": "긍정적",
+    "english": "positive",
+    "nepali": "सकारात्मक"
+  },
+  {
+    "id": 120,
+    "korean": "결과",
+    "english": "result",
+    "nepali": "नतिजा"
+  },
+  {
+    "id": 121,
+    "korean": "이유",
+    "english": "reason",
+    "nepali": "कारण"
+  },
+  {
+    "id": 122,
+    "korean": "원인",
+    "english": "cause",
+    "nepali": "कारण"
+  },
+  {
+    "id": 123,
+    "korean": "잘하다",
+    "english": "to do well",
+    "nepali": "राम्रो गर्नु"
+  },
+  {
+    "id": 124,
+    "korean": "편하다",
+    "english": "to be comfortable",
+    "nepali": "सजिलो हुनु"
+  },
+  {
+    "id": 125,
+    "korean": "튼튼하다",
+    "english": "to be sturdy",
+    "nepali": "बलियो हुनु"
+  },
+  {
+    "id": 126,
+    "korean": "수평",
+    "english": "horizontal",
+    "nepali": "तेर्सो, समतल"
+  },
+  {
+    "id": 127,
+    "korean": "맞추다",
+    "english": "to adjust, to fit",
+    "nepali": "मिलाउनु"
+  },
+  {
+    "id": 128,
+    "korean": "발판",
+    "english": "footboard, platform",
+    "nepali": "टेक्ने फलक"
+  },
+  {
+    "id": 129,
+    "korean": "경험",
+    "english": "experience",
+    "nepali": "अनुभव"
+  },
+  {
+    "id": 130,
+    "korean": "안전 로프",
+    "english": "safety rope",
+    "nepali": "सुरक्षा डोरी"
+  },
+  {
+    "id": 131,
+    "korean": "품질 관리",
+    "english": "quality control",
+    "nepali": "गुणस्तर नियन्त्रण"
+  },
+  {
+    "id": 132,
+    "korean": "최신",
+    "english": "latest",
+    "nepali": "अत्याधुनिक"
+  },
+  {
+    "id": 133,
+    "korean": "장비",
+    "english": "equipment",
+    "nepali": "उपकरण"
+  },
+  {
+    "id": 134,
+    "korean": "클램프",
+    "english": "clamp",
+    "nepali": "क्ल्याम्प (जोड्ने औजार)"
+  },
+  {
+    "id": 135,
+    "korean": "고객",
+    "english": "customer",
+    "nepali": "ग्राहक"
+  },
+  {
+    "id": 136,
+    "korean": "만족도",
+    "english": "satisfaction level",
+    "nepali": "सन्तुष्टिको स्तर"
+  },
+  {
+    "id": 137,
+    "korean": "사고",
+    "english": "accident",
+    "nepali": "दुर्घटना"
+  },
+  {
+    "id": 138,
+    "korean": "예방하다",
+    "english": "to prevent",
+    "nepali": "रोक्नु"
+  },
+  {
+    "id": 139,
+    "korean": "오르다",
+    "english": "to rise",
+    "nepali": "बढ्नु"
+  },
+  {
+    "id": 140,
+    "korean": "능률",
+    "english": "efficiency",
+    "nepali": "कार्यक्षमता"
+  },
+  {
+    "id": 141,
+    "korean": "점검하다",
+    "english": "to inspect",
+    "nepali": "जाँच गर्नु"
+  },
+  {
+    "id": 142,
+    "korean": "고장",
+    "english": "malfunction",
+    "nepali": "बिग्रिनु (मेसिन)"
+  },
+  {
+    "id": 143,
+    "korean": "줄다",
+    "english": "to decrease",
+    "nepali": "घट्नु"
+  },
+  {
+    "id": 144,
+    "korean": "가르치다",
+    "english": "to teach",
+    "nepali": "सिकाउनु"
+  },
+  {
+    "id": 145,
+    "korean": "실수",
+    "english": "mistake",
+    "nepali": "गल्ती"
+  },
+  {
+    "id": 146,
+    "korean": "소장님",
+    "english": "site manager",
+    "nepali": "साइट म्यानेजर"
+  },
+  {
+    "id": 147,
+    "korean": "현장",
+    "english": "site",
+    "nepali": "कार्यस्थल"
+  },
+  {
+    "id": 148,
+    "korean": "관리하다",
+    "english": "to manage",
+    "nepali": "व्यवस्थापन गर्नु"
+  },
+  {
+    "id": 149,
+    "korean": "공사",
+    "english": "construction work",
+    "nepali": "निर्माण कार्य"
+  },
+  {
+    "id": 150,
+    "korean": "장선",
+    "english": "joist",
+    "nepali": "जोइस्ट (तेर्सो टेवा)"
+  },
+  {
+    "id": 151,
+    "korean": "띠장",
+    "english": "wale",
+    "nepali": "वेल (तेर्सो पाइप)"
+  },
+  {
+    "id": 152,
+    "korean": "밑받침 철물",
+    "english": "base metal fitting",
+    "nepali": "आधार धातुको जोड"
+  },
+  {
+    "id": 153,
+    "korean": "밑둥잡이",
+    "english": "base stabilizer",
+    "nepali": "तल्लो भागलाई स्थिर राख्ने पाइप"
+  },
+  {
+    "id": 154,
+    "korean": "비계기둥",
+    "english": "scaffold pole",
+    "nepali": "मचानको खम्बा"
+  },
+  {
+    "id": 155,
+    "korean": "깔판",
+    "english": "floorboard",
+    "nepali": "तलको फलक"
+  },
+  {
+    "id": 156,
+    "korean": "가새",
+    "english": "brace",
+    "nepali": "तिरछो टेवा पाइप"
+  },
+  {
+    "id": 157,
+    "korean": "작업발판",
+    "english": "work platform",
+    "nepali": "काम गर्ने फलक"
+  },
+  {
+    "id": 158,
+    "korean": "안전난간",
+    "english": "safety railing",
+    "nepali": "सुरक्षा रेलिङ"
+  },
+  {
+    "id": 159,
+    "korean": "수직",
+    "english": "vertical",
+    "nepali": "ठाडो"
+  },
+  {
+    "id": 160,
+    "korean": "대각선",
+    "english": "diagonal",
+    "nepali": "तिरछो रेखा"
+  },
+  {
+    "id": 161,
+    "korean": "안정성",
+    "english": "stability",
+    "nepali": "स्थिरता"
+  },
+  {
+    "id": 162,
+    "korean": "지지대",
+    "english": "support",
+    "nepali": "टेवा"
+  },
+  {
+    "id": 163,
+    "korean": "세우다",
+    "english": "to set up",
+    "nepali": "खडा गर्नु"
+  },
+  {
+    "id": 164,
+    "korean": "임시로",
+    "english": "temporarily",
+    "nepali": "अस्थायी रूपमा"
+  },
+  {
+    "id": 165,
+    "korean": "구조물",
+    "english": "structure (temporary)",
+    "nepali": "संरचना"
+  },
+  {
+    "id": 166,
+    "korean": "정기적",
+    "english": "regular",
+    "nepali": "नियमित"
+  },
+  {
+    "id": 167,
+    "korean": "파이프",
+    "english": "pipe",
+    "nepali": "पाइप"
+  },
+  {
+    "id": 168,
+    "korean": "서다",
+    "english": "to stand",
+    "nepali": "उभिनु"
+  },
+  {
+    "id": 169,
+    "korean": "일하다",
+    "english": "to work",
+    "nepali": "काम गर्नु"
+  },
+  {
+    "id": 170,
+    "korean": "높다",
+    "english": "to be high",
+    "nepali": "अग्लो हुनु"
+  },
+  {
+    "id": 171,
+    "korean": "아랫부분",
+    "english": "lower part",
+    "nepali": "तल्लो भाग"
+  },
+  {
+    "id": 172,
+    "korean": "흔들리다",
+    "english": "to be shaken",
+    "nepali": "हल्लिनु"
+  },
+  {
+    "id": 173,
+    "korean": "설치하다",
+    "english": "to install",
+    "nepali": "जडान गर्नु"
+  },
+  {
+    "id": 174,
+    "korean": "안전하게",
+    "english": "safely",
+    "nepali": "सुरक्षित रूपमा"
+  },
+  {
+    "id": 175,
+    "korean": "준비",
+    "english": "preparation",
+    "nepali": "तयारी"
+  },
+  {
+    "id": 176,
+    "korean": "물 분사기",
+    "english": "water sprayer",
+    "nepali": "पानी स्प्रे गर्ने उपकरण"
+  },
+  {
+    "id": 177,
+    "korean": "완전히",
+    "english": "completely",
+    "nepali": "पूर्ण रूपमा"
+  },
+  {
+    "id": 178,
+    "korean": "어디",
+    "english": "where",
+    "nepali": "कहाँ"
+  },
+  {
+    "id": 179,
+    "korean": "바로",
+    "english": "right away",
+    "nepali": "तुरुन्तै"
+  },
+  {
+    "id": 180,
+    "korean": "깨끗해지다",
+    "english": "to become clean",
+    "nepali": "सफा हुनु"
+  },
+  {
+    "id": 181,
+    "korean": "말고",
+    "english": "instead of",
+    "nepali": "को सट्टा"
+  },
+  {
+    "id": 182,
+    "korean": "짧다",
+    "english": "to be short",
+    "nepali": "छोटो हुनु"
+  },
+  {
+    "id": 183,
+    "korean": "넓다",
+    "english": "to be wide",
+    "nepali": "फराकिलो हुनु"
+  },
+  {
+    "id": 184,
+    "korean": "잊다",
+    "english": "to forget",
+    "nepali": "बिर्सनु"
+  },
+  {
+    "id": 185,
+    "korean": "분사 작업",
+    "english": "spraying work",
+    "nepali": "स्प्रे गर्ने काम"
+  },
+  {
+    "id": 186,
+    "korean": "스크래퍼",
+    "english": "scraper",
+    "nepali": "खुर्कने औजार"
+  },
+  {
+    "id": 187,
+    "korean": "물청소",
+    "english": "washing with water",
+    "nepali": "पानीले सफा गर्ने काम"
+  },
+  {
+    "id": 188,
+    "korean": "없애다",
+    "english": "to get rid of",
+    "nepali": "हटाउनु"
+  },
+  {
+    "id": 189,
+    "korean": "강해지다",
+    "english": "to become strong",
+    "nepali": "बलियो हुनु"
+  },
+  {
+    "id": 190,
+    "korean": "놓다",
+    "english": "to put",
+    "nepali": "राख्नु"
+  },
+  {
+    "id": 191,
+    "korean": "좋다",
+    "english": "to be good",
+    "nepali": "राम्रो हुनु"
+  },
+  {
+    "id": 192,
+    "korean": "쌓다",
+    "english": "to pile up",
+    "nepali": "थुपार्नु"
+  },
+  {
+    "id": 193,
+    "korean": "많다",
+    "english": "to be many",
+    "nepali": "धेरै हुनु"
+  },
+  {
+    "id": 194,
+    "korean": "않다",
+    "english": "to not (do)",
+    "nepali": "नगर्नु"
+  },
+  {
+    "id": 195,
+    "korean": "닳다",
+    "english": "to wear out",
+    "nepali": "खिइनु"
+  },
+  {
+    "id": 196,
+    "korean": "어미",
+    "english": "ending (grammar)",
+    "nepali": "क्रियाको प्रत्यय"
+  },
+  {
+    "id": 197,
+    "korean": "연결되다",
+    "english": "to be connected",
+    "nepali": "जोडिनु"
+  },
+  {
+    "id": 198,
+    "korean": "결합되다",
+    "english": "to be combined",
+    "nepali": "जोडिनु"
+  },
+  {
+    "id": 199,
+    "korean": "발음되다",
+    "english": "to be pronounced",
+    "nepali": "उच्चारण हुनु"
+  },
+  {
+    "id": 200,
+    "korean": "각각",
+    "english": "each",
+    "nepali": "प्रत्येक"
+  },
+  {
+    "id": 201,
+    "korean": "자음",
+    "english": "consonant",
+    "nepali": "व्यञ्जन"
+  },
+  {
+    "id": 202,
+    "korean": "구역",
+    "english": "area",
+    "nepali": "क्षेत्र"
+  },
+  {
+    "id": 203,
+    "korean": "쪽",
+    "english": "side, direction",
+    "nepali": "तर्फ"
+  },
+  {
+    "id": 204,
+    "korean": "거의",
+    "english": "almost",
+    "nepali": "लगभग"
+  },
+  {
+    "id": 205,
+    "korean": "붙이다",
+    "english": "to attach",
+    "nepali": "टाँस्नु"
+  },
+  {
+    "id": 206,
+    "korean": "생각보다",
+    "english": "than I thought",
+    "nepali": "सोचेभन्दा"
+  },
+  {
+    "id": 207,
+    "korean": "진행하다",
+    "english": "to proceed",
+    "nepali": "अघि बढाउनु"
+  },
+  {
+    "id": 208,
+    "korean": "확인하다",
+    "english": "to check",
+    "nepali": "जाँच्नु"
+  },
+  {
+    "id": 209,
+    "korean": "서두르다",
+    "english": "to hurry",
+    "nepali": "हतार गर्नु"
+  },
+  {
+    "id": 210,
+    "korean": "함께",
+    "english": "together",
+    "nepali": "सँगै"
+  },
+  {
+    "id": 211,
+    "korean": "수고하다",
+    "english": "to work hard, to make an effort",
+    "nepali": "मेहनत गर्नु"
+  },
+  {
+    "id": 212,
+    "korean": "높은 곳",
+    "english": "high place",
+    "nepali": "अग्लो ठाउँ"
+  },
+  {
+    "id": 213,
+    "korean": "용접",
+    "english": "welding",
+    "nepali": "वेल्डिङ"
+  },
+  {
+    "id": 214,
+    "korean": "배관",
+    "english": "piping",
+    "nepali": "पाइप जडान"
+  },
+  {
+    "id": 215,
+    "korean": "승진",
+    "english": "promotion",
+    "nepali": "पदोन्नति"
+  },
+  {
+    "id": 216,
+    "korean": "축하하다",
+    "english": "to congratulate",
+    "nepali": "बधाई दिनु"
+  },
+  {
+    "id": 217,
+    "korean": "한턱내다",
+    "english": "to treat (someone)",
+    "nepali": "खुवाइदिनु"
+  },
+  {
+    "id": 218,
+    "korean": "세계적",
+    "english": "worldwide",
+    "nepali": "विश्वव्यापी"
+  },
+  {
+    "id": 219,
+    "korean": "유명하다",
+    "english": "to be famous",
+    "nepali": "प्रसिद्ध हुनु"
+  },
+  {
+    "id": 220,
+    "korean": "국가",
+    "english": "country",
+    "nepali": "देश"
+  },
+  {
+    "id": 221,
+    "korean": "대형",
+    "english": "large-sized",
+    "nepali": "ठूलो आकारको"
+  },
+  {
+    "id": 222,
+    "korean": "특수",
+    "english": "special",
+    "nepali": "विशेष"
+  },
+  {
+    "id": 223,
+    "korean": "건조하다",
+    "english": "to build (a ship)",
+    "nepali": "(जहाज) निर्माण गर्नु"
+  },
+  {
+    "id": 224,
+    "korean": "기술력",
+    "english": "technological ability",
+    "nepali": "प्राविधिक क्षमता"
+  },
+  {
+    "id": 225,
+    "korean": "갖추다",
+    "english": "to be equipped with",
+    "nepali": "तयार राख्नु"
+  },
+  {
+    "id": 226,
+    "korean": "정부",
+    "english": "government",
+    "nepali": "सरकार"
+  },
+  {
+    "id": 227,
+    "korean": "주도",
+    "english": "leading, initiative",
+    "nepali": "नेतृत्व"
+  },
+  {
+    "id": 228,
+    "korean": "핵심 산업",
+    "english": "key industry",
+    "nepali": "मुख्य उद्योग"
+  },
+  {
+    "id": 229,
+    "korean": "경쟁력",
+    "english": "competitiveness",
+    "nepali": "प्रतिस्पर्धात्मक क्षमता"
+  },
+  {
+    "id": 230,
+    "korean": "업체",
+    "english": "company, business",
+    "nepali": "कम्पनी"
+  },
+  {
+    "id": 231,
+    "korean": "시장 점유율",
+    "english": "market share",
+    "nepali": "बजार हिस्सा"
+  },
+  {
+    "id": 232,
+    "korean": "차지하다",
+    "english": "to occupy, to take up",
+    "nepali": "हिस्सा लिनु"
+  },
+  {
+    "id": 233,
+    "korean": "생산성",
+    "english": "productivity",
+    "nepali": "उत्पादकत्व"
+  },
+  {
+    "id": 234,
+    "korean": "가격",
+    "english": "price",
+    "nepali": "मूल्य"
+  },
+  {
+    "id": 235,
+    "korean": "평가",
+    "english": "evaluation",
+    "nepali": "मूल्याङ्कन"
+  },
+  {
+    "id": 236,
+    "korean": "받다",
+    "english": "to receive",
+    "nepali": "पाउनु"
+  },
+  {
+    "id": 237,
+    "korean": "기준",
+    "english": "standard",
+    "nepali": "मापदण्ड"
+  },
+  {
+    "id": 238,
+    "korean": "설계",
+    "english": "design",
+    "nepali": "डिजाइन"
+  },
+  {
+    "id": 239,
+    "korean": "생산",
+    "english": "production",
+    "nepali": "उत्पादन"
+  },
+  {
+    "id": 240,
+    "korean": "부문",
+    "english": "sector",
+    "nepali": "क्षेत्र"
+  },
+  {
+    "id": 241,
+    "korean": "포함하다",
+    "english": "to include",
+    "nepali": "समावेश गर्नु"
+  },
+  {
+    "id": 242,
+    "korean": "종합",
+    "english": "comprehensive",
+    "nepali": "समग्र"
+  },
+  {
+    "id": 243,
+    "korean": "위",
+    "english": "rank, place",
+    "nepali": "स्थान (दर्जा)"
+  },
+  {
+    "id": 244,
+    "korean": "선종",
+    "english": "ship type",
+    "nepali": "जहाजको प्रकार"
+  },
+  {
+    "id": 245,
+    "korean": "가스운반선",
+    "english": "gas carrier",
+    "nepali": "ग्यास ढुवानी जहाज"
+  },
+  {
+    "id": 246,
+    "korean": "유조선",
+    "english": "oil tanker",
+    "nepali": "तेल ढुवानी जहाज"
+  },
+  {
+    "id": 247,
+    "korean": "컨테이너선",
+    "english": "container ship",
+    "nepali": "कन्टेनर जहाज"
+  },
+  {
+    "id": 248,
+    "korean": "확보하다",
+    "english": "to secure",
+    "nepali": "सुनिश्चित गर्नु"
+  },
+  {
+    "id": 249,
+    "korean": "최근",
+    "english": "recently",
+    "nepali": "हालै"
+  },
+  {
+    "id": 250,
+    "korean": "몇",
+    "english": "how many",
+    "nepali": "कति"
+  },
+  {
+    "id": 251,
+    "korean": "년간",
+    "english": "for years",
+    "nepali": "वर्षसम्म"
+  },
+  {
+    "id": 252,
+    "korean": "경기 침체",
+    "english": "economic downturn",
+    "nepali": "आर्थिक मन्दी"
+  },
+  {
+    "id": 253,
+    "korean": "경쟁",
+    "english": "competition",
+    "nepali": "प्रतिस्पर्धा"
+  },
+  {
+    "id": 254,
+    "korean": "심화",
+    "english": "intensification",
+    "nepali": "तीव्र हुनु"
+  },
+  {
+    "id": 255,
+    "korean": "다소",
+    "english": "somewhat",
+    "nepali": "केही हदसम्म"
+  },
+  {
+    "id": 256,
+    "korean": "어려움",
+    "english": "difficulty",
+    "nepali": "कठिनाइ"
+  },
+  {
+    "id": 257,
+    "korean": "겪다",
+    "english": "to experience, to go through",
+    "nepali": "भोग्नु"
+  },
+  {
+    "id": 258,
+    "korean": "극복하다",
+    "english": "to overcome",
+    "nepali": "पार गर्नु"
+  },
+  {
+    "id": 259,
+    "korean": "기술",
+    "english": "technology",
+    "nepali": "प्रविधि"
+  },
+  {
+    "id": 260,
+    "korean": "혁신",
+    "english": "innovation",
+    "nepali": "नवीकरण, नवप्रवर्तन"
+  },
+  {
+    "id": 261,
+    "korean": "개선",
+    "english": "improvement",
+    "nepali": "सुधार"
+  },
+  {
+    "id": 262,
+    "korean": "강화하다",
+    "english": "to strengthen",
+    "nepali": "बलियो बनाउनु"
+  },
+  {
+    "id": 263,
+    "korean": "선도국",
+    "english": "leading country",
+    "nepali": "अग्रणी देश"
+  },
+  {
+    "id": 264,
+    "korean": "입지",
+    "english": "position",
+    "nepali": "स्थान, हैसियत"
+  },
+  {
+    "id": 265,
+    "korean": "유지하다",
+    "english": "to maintain",
+    "nepali": "कायम राख्नु"
+  },
+  {
+    "id": 266,
+    "korean": "노력",
+    "english": "effort",
+    "nepali": "प्रयास"
+  },
+  {
+    "id": 267,
+    "korean": "끊임없이",
+    "english": "continuously",
+    "nepali": "निरन्तर"
+  },
+  {
+    "id": 268,
+    "korean": "재료",
+    "english": "material",
+    "nepali": "सामग्री"
+  },
+  {
+    "id": 269,
+    "korean": "원료",
+    "english": "raw material",
+    "nepali": "कच्चा पदार्थ"
+  },
+  {
+    "id": 270,
+    "korean": "도구",
+    "english": "tool",
+    "nepali": "औजार"
+  },
+  {
+    "id": 271,
+    "korean": "처리하다",
+    "english": "to handle",
+    "nepali": "व्यवस्थापन गर्नु"
+  },
+  {
+    "id": 272,
+    "korean": "조립하다",
+    "english": "to assemble",
+    "nepali": "जोड्नु"
+  },
+  {
+    "id": 273,
+    "korean": "환기시키다",
+    "english": "to ventilate",
+    "nepali": "हावा आउजाउ गराउनु"
+  },
+  {
+    "id": 274,
+    "korean": "창문",
+    "english": "window",
+    "nepali": "झ्याल"
+  },
+  {
+    "id": 275,
+    "korean": "줄자",
+    "english": "tape measure",
+    "nepali": "नाप्ने फित्ता"
+  },
+  {
+    "id": 276,
+    "korean": "송풍기",
+    "english": "blower",
+    "nepali": "हावा फुक्ने मेसिन"
+  },
+  {
+    "id": 277,
+    "korean": "사다리",
+    "english": "ladder",
+    "nepali": "भर्‍याङ"
+  },
+  {
+    "id": 278,
+    "korean": "포장",
+    "english": "packing",
+    "nepali": "प्याकिङ"
+  },
+  {
+    "id": 279,
+    "korean": "연마",
+    "english": "polishing, grinding",
+    "nepali": "घोट्ने काम"
+  },
+  {
+    "id": 280,
+    "korean": "재단",
+    "english": "cutting (fabric etc.)",
+    "nepali": "काट्ने काम"
+  },
+  {
+    "id": 281,
+    "korean": "소형",
+    "english": "small-sized",
+    "nepali": "सानो आकारको"
+  },
+  {
+    "id": 282,
+    "korean": "불구하고",
+    "english": "despite",
+    "nepali": "तैपनि"
+  },
+  {
+    "id": 283,
+    "korean": "성장하다",
+    "english": "to grow",
+    "nepali": "वृद्धि हुनु"
+  },
+  {
+    "id": 284,
+    "korean": "보유하다",
+    "english": "to possess, to hold",
+    "nepali": "धारण गर्नु"
+  },
+  {
+    "id": 285,
+    "korean": "로프",
+    "english": "rope",
+    "nepali": "डोरी"
+  },
+  {
+    "id": 286,
+    "korean": "옆",
+    "english": "side",
+    "nepali": "छेउ"
+  },
+  {
+    "id": 287,
+    "korean": "오전",
+    "english": "morning",
+    "nepali": "बिहान"
+  },
+  {
+    "id": 288,
+    "korean": "작업 태도",
+    "english": "work attitude",
+    "nepali": "काम गर्ने तरिका/व्यवहार"
+  },
+  {
+    "id": 289,
+    "korean": "작업 수칙",
+    "english": "work rules",
+    "nepali": "काम गर्ने नियम"
+  },
+  {
+    "id": 290,
+    "korean": "마스크",
+    "english": "mask",
+    "nepali": "मास्क"
+  },
+  {
+    "id": 291,
+    "korean": "착용하다",
+    "english": "to wear",
+    "nepali": "लगाउनु"
+  },
+  {
+    "id": 292,
+    "korean": "주문하다",
+    "english": "to order",
+    "nepali": "अर्डर गर्नु"
+  },
+  {
+    "id": 293,
+    "korean": "작업대",
+    "english": "workbench",
+    "nepali": "काम गर्ने टेबल"
+  },
+  {
+    "id": 294,
+    "korean": "쓰다",
+    "english": "to wear, to use",
+    "nepali": "लगाउनु, प्रयोग गर्नु"
+  },
+  {
+    "id": 295,
+    "korean": "바람",
+    "english": "wind",
+    "nepali": "हावा"
+  },
+  {
+    "id": 296,
+    "korean": "불다",
+    "english": "to blow",
+    "nepali": "बग्नु (हावा), फुक्नु"
+  },
+  {
+    "id": 297,
+    "korean": "실내",
+    "english": "indoors",
+    "nepali": "घर भित्र"
+  },
+  {
+    "id": 298,
+    "korean": "야외",
+    "english": "outdoors",
+    "nepali": "खुला स्थान"
+  },
+  {
+    "id": 299,
+    "korean": "계획서",
+    "english": "plan document",
+    "nepali": "योजना कागज"
+  },
+  {
+    "id": 300,
+    "korean": "잘못되다",
+    "english": "to go wrong",
+    "nepali": "गल्ती हुनु"
+  },
+  {
+    "id": 301,
+    "korean": "시작하다",
+    "english": "to start",
+    "nepali": "सुरु गर्नु"
+  },
+  {
+    "id": 302,
+    "korean": "깔판 작업",
+    "english": "floorboard work",
+    "nepali": "तल फलक राख्ने काम"
+  }
+]

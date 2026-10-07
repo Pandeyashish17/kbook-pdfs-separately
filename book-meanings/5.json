@@ -1,0 +1,1232 @@
+[
+  {
+    "id": 1,
+    "korean": "날짜",
+    "english": "date",
+    "nepali": "मिति"
+  },
+  {
+    "id": 2,
+    "korean": "요일",
+    "english": "day of the week",
+    "nepali": "हप्ताको दिन (बार)"
+  },
+  {
+    "id": 3,
+    "korean": "일요일",
+    "english": "Sunday",
+    "nepali": "आइतबार"
+  },
+  {
+    "id": 4,
+    "korean": "월요일",
+    "english": "Monday",
+    "nepali": "सोमबार"
+  },
+  {
+    "id": 5,
+    "korean": "화요일",
+    "english": "Tuesday",
+    "nepali": "मंगलबार"
+  },
+  {
+    "id": 6,
+    "korean": "수요일",
+    "english": "Wednesday",
+    "nepali": "बुधबार"
+  },
+  {
+    "id": 7,
+    "korean": "목요일",
+    "english": "Thursday",
+    "nepali": "बिहीबार"
+  },
+  {
+    "id": 8,
+    "korean": "금요일",
+    "english": "Friday",
+    "nepali": "शुक्रबार"
+  },
+  {
+    "id": 9,
+    "korean": "토요일",
+    "english": "Saturday",
+    "nepali": "शनिबार"
+  },
+  {
+    "id": 10,
+    "korean": "무슨",
+    "english": "what (kind of)",
+    "nepali": "कुन / के (प्रकारको)"
+  },
+  {
+    "id": 11,
+    "korean": "문법",
+    "english": "grammar",
+    "nepali": "व्याकरण"
+  },
+  {
+    "id": 12,
+    "korean": "어휘",
+    "english": "vocabulary",
+    "nepali": "शब्दावली"
+  },
+  {
+    "id": 13,
+    "korean": "문화",
+    "english": "culture",
+    "nepali": "संस्कृति"
+  },
+  {
+    "id": 14,
+    "korean": "정보",
+    "english": "information",
+    "nepali": "जानकारी"
+  },
+  {
+    "id": 15,
+    "korean": "양력",
+    "english": "solar calendar",
+    "nepali": "सौर्य पात्रो"
+  },
+  {
+    "id": 16,
+    "korean": "음력",
+    "english": "lunar calendar",
+    "nepali": "चन्द्र पात्रो"
+  },
+  {
+    "id": 17,
+    "korean": "시간",
+    "english": "time",
+    "nepali": "समय"
+  },
+  {
+    "id": 18,
+    "korean": "관련",
+    "english": "relation / related",
+    "nepali": "सम्बन्ध / सम्बन्धित"
+  },
+  {
+    "id": 19,
+    "korean": "말하다",
+    "english": "to speak / to say",
+    "nepali": "बोल्नु / भन्नु"
+  },
+  {
+    "id": 20,
+    "korean": "묻다",
+    "english": "to ask",
+    "nepali": "सोध्नु"
+  },
+  {
+    "id": 21,
+    "korean": "대답하다",
+    "english": "to answer",
+    "nepali": "जवाफ दिनु"
+  },
+  {
+    "id": 22,
+    "korean": "목표",
+    "english": "goal",
+    "nepali": "लक्ष्य"
+  },
+  {
+    "id": 23,
+    "korean": "어제",
+    "english": "yesterday",
+    "nepali": "हिजो"
+  },
+  {
+    "id": 24,
+    "korean": "오늘",
+    "english": "today",
+    "nepali": "आज"
+  },
+  {
+    "id": 25,
+    "korean": "내일",
+    "english": "tomorrow",
+    "nepali": "भोलि"
+  },
+  {
+    "id": 26,
+    "korean": "평일",
+    "english": "weekday",
+    "nepali": "कार्य दिन (सामान्य दिन)"
+  },
+  {
+    "id": 27,
+    "korean": "주말",
+    "english": "weekend",
+    "nepali": "सप्ताहन्त (शनि–आइतबार)"
+  },
+  {
+    "id": 28,
+    "korean": "매일",
+    "english": "every day",
+    "nepali": "हरेक दिन"
+  },
+  {
+    "id": 29,
+    "korean": "운동",
+    "english": "exercise / sport",
+    "nepali": "व्यायाम / खेलकुद"
+  },
+  {
+    "id": 30,
+    "korean": "좋아하다",
+    "english": "to like",
+    "nepali": "मन पराउनु"
+  },
+  {
+    "id": 31,
+    "korean": "그림",
+    "english": "picture / drawing",
+    "nepali": "चित्र"
+  },
+  {
+    "id": 32,
+    "korean": "대화",
+    "english": "conversation",
+    "nepali": "कुराकानी"
+  },
+  {
+    "id": 33,
+    "korean": "완성하다",
+    "english": "to complete",
+    "nepali": "पूरा गर्नु"
+  },
+  {
+    "id": 34,
+    "korean": "앞",
+    "english": "front / before",
+    "nepali": "अगाडि"
+  },
+  {
+    "id": 35,
+    "korean": "쓰이다",
+    "english": "to be used",
+    "nepali": "प्रयोग हुनु"
+  },
+  {
+    "id": 36,
+    "korean": "모르다",
+    "english": "to not know",
+    "nepali": "नजान्नु"
+  },
+  {
+    "id": 37,
+    "korean": "결합하다",
+    "english": "to combine / to join",
+    "nepali": "जोडिनु / मिलाउनु"
+  },
+  {
+    "id": 38,
+    "korean": "나타내다",
+    "english": "to show / to express",
+    "nepali": "देखाउनु / जनाउनु"
+  },
+  {
+    "id": 39,
+    "korean": "명사",
+    "english": "noun",
+    "nepali": "संज्ञा"
+  },
+  {
+    "id": 40,
+    "korean": "일어나다",
+    "english": "to happen / to occur / to get up",
+    "nepali": "हुनु / घट्नु / उठ्नु"
+  },
+  {
+    "id": 41,
+    "korean": "때",
+    "english": "time / when",
+    "nepali": "समय / बेला"
+  },
+  {
+    "id": 42,
+    "korean": "이동",
+    "english": "movement / moving",
+    "nepali": "चलाइ / हिँडाइ"
+  },
+  {
+    "id": 43,
+    "korean": "목적지",
+    "english": "destination",
+    "nepali": "गन्तव्य"
+  },
+  {
+    "id": 44,
+    "korean": "곳",
+    "english": "place",
+    "nepali": "ठाउँ"
+  },
+  {
+    "id": 45,
+    "korean": "등",
+    "english": "etc. / and so on",
+    "nepali": "आदि इत्यादि"
+  },
+  {
+    "id": 46,
+    "korean": "지금",
+    "english": "now",
+    "nepali": "अहिले"
+  },
+  {
+    "id": 47,
+    "korean": "존재하다",
+    "english": "to exist",
+    "nepali": "अस्तित्वमा हुनु"
+  },
+  {
+    "id": 48,
+    "korean": "예",
+    "english": "example (for example)",
+    "nepali": "उदाहरण"
+  },
+  {
+    "id": 49,
+    "korean": "일하다",
+    "english": "to work",
+    "nepali": "काम गर्नु"
+  },
+  {
+    "id": 50,
+    "korean": "영화",
+    "english": "movie",
+    "nepali": "चलचित्र / फिल्म"
+  },
+  {
+    "id": 51,
+    "korean": "보다",
+    "english": "to see / to look / to watch",
+    "nepali": "हेर्नु"
+  },
+  {
+    "id": 52,
+    "korean": "쉬다",
+    "english": "to rest / to take a break",
+    "nepali": "आराम गर्नु"
+  },
+  {
+    "id": 53,
+    "korean": "병원",
+    "english": "hospital",
+    "nepali": "अस्पताल"
+  },
+  {
+    "id": 54,
+    "korean": "가다",
+    "english": "to go",
+    "nepali": "जानु"
+  },
+  {
+    "id": 55,
+    "korean": "미용실",
+    "english": "hair salon",
+    "nepali": "हेयर सैलुन / पार्लर"
+  },
+  {
+    "id": 56,
+    "korean": "뭐",
+    "english": "what (short form of 무엇)",
+    "nepali": "के"
+  },
+  {
+    "id": 57,
+    "korean": "시장",
+    "english": "market",
+    "nepali": "बजार"
+  },
+  {
+    "id": 58,
+    "korean": "쇼핑하다",
+    "english": "to shop",
+    "nepali": "किनमेल गर्नु"
+  },
+  {
+    "id": 59,
+    "korean": "은행",
+    "english": "bank",
+    "nepali": "बैंक"
+  },
+  {
+    "id": 60,
+    "korean": "운동하다",
+    "english": "to exercise",
+    "nepali": "व्यायाम गर्नु"
+  },
+  {
+    "id": 61,
+    "korean": "회사",
+    "english": "company / workplace",
+    "nepali": "कम्पनी / काम गर्ने ठाउँ"
+  },
+  {
+    "id": 62,
+    "korean": "있다",
+    "english": "to exist / to be (at) / to have",
+    "nepali": "हुनु / छ"
+  },
+  {
+    "id": 63,
+    "korean": "집",
+    "english": "house / home",
+    "nepali": "घर"
+  },
+  {
+    "id": 64,
+    "korean": "쓰다",
+    "english": "to write",
+    "nepali": "लेख्नु"
+  },
+  {
+    "id": 65,
+    "korean": "문장",
+    "english": "sentence",
+    "nepali": "वाक्य"
+  },
+  {
+    "id": 66,
+    "korean": "한국어",
+    "english": "Korean language",
+    "nepali": "कोरियाली भाषा"
+  },
+  {
+    "id": 67,
+    "korean": "공부하다",
+    "english": "to study",
+    "nepali": "पढ्नु / अध्ययन गर्नु"
+  },
+  {
+    "id": 68,
+    "korean": "배우다",
+    "english": "to learn",
+    "nepali": "सिक्नु"
+  },
+  {
+    "id": 69,
+    "korean": "요리하다",
+    "english": "to cook",
+    "nepali": "खाना पकाउनु"
+  },
+  {
+    "id": 70,
+    "korean": "텔레비전",
+    "english": "television",
+    "nepali": "टेलिभिजन"
+  },
+  {
+    "id": 71,
+    "korean": "발음",
+    "english": "pronunciation",
+    "nepali": "उच्चारण"
+  },
+  {
+    "id": 72,
+    "korean": "낱말",
+    "english": "word",
+    "nepali": "शब्द"
+  },
+  {
+    "id": 73,
+    "korean": "사랑",
+    "english": "love",
+    "nepali": "माया / प्रेम"
+  },
+  {
+    "id": 74,
+    "korean": "우리",
+    "english": "we / our",
+    "nepali": "हामी / हाम्रो"
+  },
+  {
+    "id": 75,
+    "korean": "주의",
+    "english": "caution / attention",
+    "nepali": "सावधानी / ध्यान"
+  },
+  {
+    "id": 76,
+    "korean": "강의",
+    "english": "lecture",
+    "nepali": "व्याख्यान / कक्षा"
+  },
+  {
+    "id": 77,
+    "korean": "예의",
+    "english": "courtesy / manners",
+    "nepali": "शिष्टता / मर्यादा"
+  },
+  {
+    "id": 78,
+    "korean": "이외",
+    "english": "other than / besides",
+    "nepali": "बाहेक"
+  },
+  {
+    "id": 79,
+    "korean": "또는",
+    "english": "or",
+    "nepali": "वा / अथवा"
+  },
+  {
+    "id": 80,
+    "korean": "조사",
+    "english": "particle (grammar)",
+    "nepali": "कोरियाली व्याकरणको कण (पार्टिकल)"
+  },
+  {
+    "id": 81,
+    "korean": "첫음절",
+    "english": "first syllable",
+    "nepali": "पहिलो अक्षर (सिलेबल)"
+  },
+  {
+    "id": 82,
+    "korean": "발음하다",
+    "english": "to pronounce",
+    "nepali": "उच्चारण गर्नु"
+  },
+  {
+    "id": 83,
+    "korean": "지난달",
+    "english": "last month",
+    "nepali": "गएको महिना"
+  },
+  {
+    "id": 84,
+    "korean": "이번 달",
+    "english": "this month",
+    "nepali": "यो महिना"
+  },
+  {
+    "id": 85,
+    "korean": "다음 달",
+    "english": "next month",
+    "nepali": "अर्को महिना"
+  },
+  {
+    "id": 86,
+    "korean": "월",
+    "english": "month",
+    "nepali": "महिना"
+  },
+  {
+    "id": 87,
+    "korean": "일월",
+    "english": "January",
+    "nepali": "जनवरी (पहिलो महिना)"
+  },
+  {
+    "id": 88,
+    "korean": "이월",
+    "english": "February",
+    "nepali": "फेब्रुअरी (दोस्रो महिना)"
+  },
+  {
+    "id": 89,
+    "korean": "삼월",
+    "english": "March",
+    "nepali": "मार्च (तेस्रो महिना)"
+  },
+  {
+    "id": 90,
+    "korean": "사월",
+    "english": "April",
+    "nepali": "अप्रिल (चौथो महिना)"
+  },
+  {
+    "id": 91,
+    "korean": "오월",
+    "english": "May",
+    "nepali": "मे (पाँचौं महिना)"
+  },
+  {
+    "id": 92,
+    "korean": "유월",
+    "english": "June",
+    "nepali": "जुन (छैटौं महिना)"
+  },
+  {
+    "id": 93,
+    "korean": "칠월",
+    "english": "July",
+    "nepali": "जुलाई (सातौं महिना)"
+  },
+  {
+    "id": 94,
+    "korean": "팔월",
+    "english": "August",
+    "nepali": "अगस्ट (आठौं महिना)"
+  },
+  {
+    "id": 95,
+    "korean": "구월",
+    "english": "September",
+    "nepali": "सेप्टेम्बर (नवौं महिना)"
+  },
+  {
+    "id": 96,
+    "korean": "시월",
+    "english": "October",
+    "nepali": "अक्टोबर (दसौं महिना)"
+  },
+  {
+    "id": 97,
+    "korean": "십일월",
+    "english": "November",
+    "nepali": "नोभेम्बर (एघारौं महिना)"
+  },
+  {
+    "id": 98,
+    "korean": "십이월",
+    "english": "December",
+    "nepali": "डिसेम्बर (बाह्रौं महिना)"
+  },
+  {
+    "id": 99,
+    "korean": "일",
+    "english": "day (of the month) / work",
+    "nepali": "दिन (महिनाको) / काम"
+  },
+  {
+    "id": 100,
+    "korean": "지난주",
+    "english": "last week",
+    "nepali": "गएको हप्ता"
+  },
+  {
+    "id": 101,
+    "korean": "이번 주",
+    "english": "this week",
+    "nepali": "यो हप्ता"
+  },
+  {
+    "id": 102,
+    "korean": "다음 주",
+    "english": "next week",
+    "nepali": "अर्को हप्ता"
+  },
+  {
+    "id": 103,
+    "korean": "숫자",
+    "english": "number",
+    "nepali": "अङ्क / संख्या"
+  },
+  {
+    "id": 104,
+    "korean": "이",
+    "english": "two (Sino-Korean number)",
+    "nepali": "दुई (चिनियाँ-कोरियाली अङ्क)"
+  },
+  {
+    "id": 105,
+    "korean": "삼",
+    "english": "three (Sino-Korean number)",
+    "nepali": "तीन"
+  },
+  {
+    "id": 106,
+    "korean": "사",
+    "english": "four (Sino-Korean number)",
+    "nepali": "चार"
+  },
+  {
+    "id": 107,
+    "korean": "오",
+    "english": "five (Sino-Korean number)",
+    "nepali": "पाँच"
+  },
+  {
+    "id": 108,
+    "korean": "육",
+    "english": "six (Sino-Korean number)",
+    "nepali": "छ"
+  },
+  {
+    "id": 109,
+    "korean": "칠",
+    "english": "seven (Sino-Korean number)",
+    "nepali": "सात"
+  },
+  {
+    "id": 110,
+    "korean": "팔",
+    "english": "eight (Sino-Korean number)",
+    "nepali": "आठ"
+  },
+  {
+    "id": 111,
+    "korean": "구",
+    "english": "nine (Sino-Korean number)",
+    "nepali": "नौ"
+  },
+  {
+    "id": 112,
+    "korean": "십",
+    "english": "ten (Sino-Korean number)",
+    "nepali": "दश"
+  },
+  {
+    "id": 113,
+    "korean": "이십",
+    "english": "twenty",
+    "nepali": "बीस"
+  },
+  {
+    "id": 114,
+    "korean": "삼십",
+    "english": "thirty",
+    "nepali": "तीस"
+  },
+  {
+    "id": 115,
+    "korean": "작년",
+    "english": "last year",
+    "nepali": "गत वर्ष"
+  },
+  {
+    "id": 116,
+    "korean": "올해",
+    "english": "this year",
+    "nepali": "यो वर्ष"
+  },
+  {
+    "id": 117,
+    "korean": "내년",
+    "english": "next year",
+    "nepali": "अर्को वर्ष"
+  },
+  {
+    "id": 118,
+    "korean": "언제",
+    "english": "when",
+    "nepali": "कहिले"
+  },
+  {
+    "id": 119,
+    "korean": "몇 월",
+    "english": "which month",
+    "nepali": "कुन महिना"
+  },
+  {
+    "id": 120,
+    "korean": "며칠",
+    "english": "which day / how many days",
+    "nepali": "कुन दिन / कति दिन"
+  },
+  {
+    "id": 121,
+    "korean": "생일",
+    "english": "birthday",
+    "nepali": "जन्मदिन"
+  },
+  {
+    "id": 122,
+    "korean": "친구",
+    "english": "friend",
+    "nepali": "साथी"
+  },
+  {
+    "id": 123,
+    "korean": "케이크",
+    "english": "cake",
+    "nepali": "केक"
+  },
+  {
+    "id": 124,
+    "korean": "미역국",
+    "english": "seaweed soup",
+    "nepali": "समुद्री झार (मियोक) सुप"
+  },
+  {
+    "id": 125,
+    "korean": "동사",
+    "english": "verb",
+    "nepali": "क्रियापद"
+  },
+  {
+    "id": 126,
+    "korean": "형용사",
+    "english": "adjective",
+    "nepali": "विशेषण"
+  },
+  {
+    "id": 127,
+    "korean": "붙다",
+    "english": "to attach / to stick",
+    "nepali": "टाँसिनु / जोडिनु"
+  },
+  {
+    "id": 128,
+    "korean": "이미",
+    "english": "already",
+    "nepali": "पहिले नै"
+  },
+  {
+    "id": 129,
+    "korean": "상황",
+    "english": "situation",
+    "nepali": "अवस्था / परिस्थिति"
+  },
+  {
+    "id": 130,
+    "korean": "오다",
+    "english": "to come",
+    "nepali": "आउनु"
+  },
+  {
+    "id": 131,
+    "korean": "한국",
+    "english": "Republic of Korea",
+    "nepali": "कोरिया (दक्षिण कोरिया)"
+  },
+  {
+    "id": 132,
+    "korean": "빵",
+    "english": "bread",
+    "nepali": "पाउरोटी"
+  },
+  {
+    "id": 133,
+    "korean": "먹다",
+    "english": "to eat",
+    "nepali": "खानु"
+  },
+  {
+    "id": 134,
+    "korean": "하다",
+    "english": "to do",
+    "nepali": "गर्नु"
+  },
+  {
+    "id": 135,
+    "korean": "자다",
+    "english": "to sleep",
+    "nepali": "सुत्नु"
+  },
+  {
+    "id": 136,
+    "korean": "기숙사",
+    "english": "dormitory",
+    "nepali": "छात्रावास / डर्मिटरी"
+  },
+  {
+    "id": 137,
+    "korean": "비빔밥",
+    "english": "bibimbap (mixed rice)",
+    "nepali": "बिबिम्बाप (मिसाइएको भात)"
+  },
+  {
+    "id": 138,
+    "korean": "드시다",
+    "english": "to eat (honorific)",
+    "nepali": "खानुहोस् (आदरार्थी)"
+  },
+  {
+    "id": 139,
+    "korean": "손님",
+    "english": "customer / guest",
+    "nepali": "ग्राहक / पाहुना"
+  },
+  {
+    "id": 140,
+    "korean": "주다",
+    "english": "to give",
+    "nepali": "दिनु"
+  },
+  {
+    "id": 141,
+    "korean": "달력",
+    "english": "calendar",
+    "nepali": "क्यालेन्डर"
+  },
+  {
+    "id": 142,
+    "korean": "크다",
+    "english": "to be big",
+    "nepali": "ठूलो हुनु"
+  },
+  {
+    "id": 143,
+    "korean": "작다",
+    "english": "to be small",
+    "nepali": "सानो हुनु"
+  },
+  {
+    "id": 144,
+    "korean": "적히다",
+    "english": "to be written",
+    "nepali": "लेखिनु"
+  },
+  {
+    "id": 145,
+    "korean": "기준",
+    "english": "standard / basis",
+    "nepali": "मापदण्ड / आधार"
+  },
+  {
+    "id": 146,
+    "korean": "아직",
+    "english": "still / yet",
+    "nepali": "अझै"
+  },
+  {
+    "id": 147,
+    "korean": "사용하다",
+    "english": "to use",
+    "nepali": "प्रयोग गर्नु"
+  },
+  {
+    "id": 148,
+    "korean": "표시하다",
+    "english": "to display / to mark",
+    "nepali": "देखाउनु / चिन्ह लगाउनु"
+  },
+  {
+    "id": 149,
+    "korean": "학교",
+    "english": "school",
+    "nepali": "विद्यालय"
+  },
+  {
+    "id": 150,
+    "korean": "정부",
+    "english": "government",
+    "nepali": "सरकार"
+  },
+  {
+    "id": 151,
+    "korean": "기관",
+    "english": "organization / agency",
+    "nepali": "संस्था / निकाय"
+  },
+  {
+    "id": 152,
+    "korean": "일정",
+    "english": "schedule",
+    "nepali": "तालिका / कार्यक्रम"
+  },
+  {
+    "id": 153,
+    "korean": "모두",
+    "english": "all / everyone",
+    "nepali": "सबै"
+  },
+  {
+    "id": 154,
+    "korean": "광복절",
+    "english": "Liberation Day",
+    "nepali": "मुक्ति दिवस (कोरियाको स्वतन्त्रता दिवस)"
+  },
+  {
+    "id": 155,
+    "korean": "한글날",
+    "english": "Hangeul Day",
+    "nepali": "हान्गुल दिवस"
+  },
+  {
+    "id": 156,
+    "korean": "국경일",
+    "english": "national holiday",
+    "nepali": "राष्ट्रिय बिदा / दिवस"
+  },
+  {
+    "id": 157,
+    "korean": "법정",
+    "english": "legal / statutory",
+    "nepali": "कानूनी"
+  },
+  {
+    "id": 158,
+    "korean": "공휴일",
+    "english": "public holiday",
+    "nepali": "सार्वजनिक बिदा"
+  },
+  {
+    "id": 159,
+    "korean": "전통",
+    "english": "tradition",
+    "nepali": "परम्परा"
+  },
+  {
+    "id": 160,
+    "korean": "명절",
+    "english": "traditional holiday",
+    "nepali": "परम्परागत चाडपर्व"
+  },
+  {
+    "id": 161,
+    "korean": "설날",
+    "english": "Lunar New Year (Seollal)",
+    "nepali": "कोरियाली चन्द्र नयाँ वर्ष (सोलनाल)"
+  },
+  {
+    "id": 162,
+    "korean": "추석",
+    "english": "Chuseok (Korean harvest festival)",
+    "nepali": "चुसोक (कोरियाली फसल चाड)"
+  },
+  {
+    "id": 163,
+    "korean": "새해",
+    "english": "new year",
+    "nepali": "नयाँ वर्ष"
+  },
+  {
+    "id": 164,
+    "korean": "첫날",
+    "english": "first day",
+    "nepali": "पहिलो दिन"
+  },
+  {
+    "id": 165,
+    "korean": "두 번",
+    "english": "twice",
+    "nepali": "दुई पटक"
+  },
+  {
+    "id": 166,
+    "korean": "개인",
+    "english": "individual / person",
+    "nepali": "व्यक्ति"
+  },
+  {
+    "id": 167,
+    "korean": "종교",
+    "english": "religion",
+    "nepali": "धर्म"
+  },
+  {
+    "id": 168,
+    "korean": "존중되다",
+    "english": "to be respected",
+    "nepali": "सम्मान गरिनु"
+  },
+  {
+    "id": 169,
+    "korean": "예수님",
+    "english": "Jesus (honorific)",
+    "nepali": "येशु"
+  },
+  {
+    "id": 170,
+    "korean": "부처님",
+    "english": "Buddha (honorific)",
+    "nepali": "बुद्ध"
+  },
+  {
+    "id": 171,
+    "korean": "탄생일",
+    "english": "birthday (formal)",
+    "nepali": "जन्मदिन (औपचारिक)"
+  },
+  {
+    "id": 172,
+    "korean": "크리스마스",
+    "english": "Christmas",
+    "nepali": "क्रिसमस"
+  },
+  {
+    "id": 173,
+    "korean": "기념하다",
+    "english": "to commemorate / to celebrate",
+    "nepali": "सम्झना गर्नु / मनाउनु"
+  },
+  {
+    "id": 174,
+    "korean": "경우",
+    "english": "case / situation",
+    "nepali": "अवस्था / सन्दर्भ"
+  },
+  {
+    "id": 175,
+    "korean": "진짜",
+    "english": "real / genuine",
+    "nepali": "वास्तविक / साँचो"
+  },
+  {
+    "id": 176,
+    "korean": "백화점",
+    "english": "department store",
+    "nepali": "डिपार्टमेन्ट स्टोर"
+  },
+  {
+    "id": 177,
+    "korean": "고객님",
+    "english": "customer (honorific)",
+    "nepali": "ग्राहक (आदरार्थी)"
+  },
+  {
+    "id": 178,
+    "korean": "축하하다",
+    "english": "to congratulate",
+    "nepali": "बधाई दिनु"
+  },
+  {
+    "id": 179,
+    "korean": "문자",
+    "english": "text message",
+    "nepali": "टेक्स्ट सन्देश"
+  },
+  {
+    "id": 180,
+    "korean": "받다",
+    "english": "to receive",
+    "nepali": "पाउनु / लिनु"
+  },
+  {
+    "id": 181,
+    "korean": "해프닝",
+    "english": "happening / amusing incident",
+    "nepali": "रमाइलो घटना"
+  },
+  {
+    "id": 182,
+    "korean": "과거",
+    "english": "past",
+    "nepali": "विगत / भूतकाल"
+  },
+  {
+    "id": 183,
+    "korean": "계절",
+    "english": "season",
+    "nepali": "ऋतु"
+  },
+  {
+    "id": 184,
+    "korean": "장소",
+    "english": "place",
+    "nepali": "ठाउँ"
+  },
+  {
+    "id": 185,
+    "korean": "물건",
+    "english": "thing / item",
+    "nepali": "सामान / वस्तु"
+  },
+  {
+    "id": 186,
+    "korean": "이름",
+    "english": "name",
+    "nepali": "नाम"
+  },
+  {
+    "id": 187,
+    "korean": "신문",
+    "english": "newspaper",
+    "nepali": "अखबार"
+  },
+  {
+    "id": 188,
+    "korean": "읽다",
+    "english": "to read",
+    "nepali": "पढ्नु"
+  },
+  {
+    "id": 189,
+    "korean": "영화관",
+    "english": "movie theater",
+    "nepali": "सिनेमा हल"
+  },
+  {
+    "id": 190,
+    "korean": "따로",
+    "english": "separately",
+    "nepali": "छुट्टै"
+  },
+  {
+    "id": 191,
+    "korean": "많다",
+    "english": "to be many / much",
+    "nepali": "धेरै हुनु"
+  },
+  {
+    "id": 192,
+    "korean": "읽기",
+    "english": "reading",
+    "nepali": "पढाइ"
+  },
+  {
+    "id": 193,
+    "korean": "다음",
+    "english": "next / following",
+    "nepali": "अर्को / निम्न"
+  },
+  {
+    "id": 194,
+    "korean": "관계",
+    "english": "relation / connection",
+    "nepali": "सम्बन्ध"
+  },
+  {
+    "id": 195,
+    "korean": "고르다",
+    "english": "to choose",
+    "nepali": "छान्नु"
+  },
+  {
+    "id": 196,
+    "korean": "밑줄",
+    "english": "underline",
+    "nepali": "रेखांकन (मुनिको धर्का)"
+  },
+  {
+    "id": 197,
+    "korean": "맞다",
+    "english": "to be correct",
+    "nepali": "सही हुनु / मिल्नु"
+  },
+  {
+    "id": 198,
+    "korean": "내용",
+    "english": "content",
+    "nepali": "सामग्री / विषयवस्तु"
+  },
+  {
+    "id": 199,
+    "korean": "듣기",
+    "english": "listening",
+    "nepali": "सुनाइ"
+  },
+  {
+    "id": 200,
+    "korean": "날씨",
+    "english": "weather",
+    "nepali": "मौसम"
+  },
+  {
+    "id": 201,
+    "korean": "음식",
+    "english": "food",
+    "nepali": "खाना"
+  },
+  {
+    "id": 202,
+    "korean": "빈칸",
+    "english": "blank space",
+    "nepali": "खाली ठाउँ"
+  },
+  {
+    "id": 203,
+    "korean": "알맞다",
+    "english": "to be suitable / correct",
+    "nepali": "उपयुक्त हुनु"
+  },
+  {
+    "id": 204,
+    "korean": "물음",
+    "english": "question",
+    "nepali": "प्रश्न"
+  },
+  {
+    "id": 205,
+    "korean": "지문",
+    "english": "script / passage",
+    "nepali": "पाठ / स्क्रिप्ट"
+  }
+]

@@ -1,0 +1,1340 @@
+[
+  {
+    "id": 1,
+    "korean": "위치",
+    "english": "location, position",
+    "nepali": "स्थान"
+  },
+  {
+    "id": 2,
+    "korean": "장소",
+    "english": "place",
+    "nepali": "ठाउँ"
+  },
+  {
+    "id": 3,
+    "korean": "텔레비전",
+    "english": "television",
+    "nepali": "टेलिभिजन"
+  },
+  {
+    "id": 4,
+    "korean": "어디",
+    "english": "where",
+    "nepali": "कहाँ"
+  },
+  {
+    "id": 5,
+    "korean": "있다",
+    "english": "to be, to have, to exist",
+    "nepali": "हुनु"
+  },
+  {
+    "id": 6,
+    "korean": "없다",
+    "english": "to not have, to not exist",
+    "nepali": "नहुनु"
+  },
+  {
+    "id": 7,
+    "korean": "거실",
+    "english": "living room",
+    "nepali": "बैठक कोठा"
+  },
+  {
+    "id": 8,
+    "korean": "-에",
+    "english": "at, in, on (place particle)",
+    "nepali": "मा"
+  },
+  {
+    "id": 9,
+    "korean": "문법",
+    "english": "grammar",
+    "nepali": "व्याकरण"
+  },
+  {
+    "id": 10,
+    "korean": "어휘",
+    "english": "vocabulary",
+    "nepali": "शब्दावली"
+  },
+  {
+    "id": 11,
+    "korean": "문화",
+    "english": "culture",
+    "nepali": "संस्कृति"
+  },
+  {
+    "id": 12,
+    "korean": "정보",
+    "english": "information",
+    "nepali": "जानकारी"
+  },
+  {
+    "id": 13,
+    "korean": "가구",
+    "english": "furniture",
+    "nepali": "फर्निचर"
+  },
+  {
+    "id": 14,
+    "korean": "전자제품",
+    "english": "electronic product",
+    "nepali": "विद्युतीय सामान"
+  },
+  {
+    "id": 15,
+    "korean": "한국",
+    "english": "Korea",
+    "nepali": "कोरिया"
+  },
+  {
+    "id": 16,
+    "korean": "도시",
+    "english": "city",
+    "nepali": "सहर"
+  },
+  {
+    "id": 17,
+    "korean": "학습",
+    "english": "study, learning",
+    "nepali": "सिकाइ"
+  },
+  {
+    "id": 18,
+    "korean": "목표",
+    "english": "goal, objective",
+    "nepali": "लक्ष्य"
+  },
+  {
+    "id": 19,
+    "korean": "집",
+    "english": "house, home",
+    "nepali": "घर"
+  },
+  {
+    "id": 20,
+    "korean": "물건",
+    "english": "item, thing",
+    "nepali": "सामान"
+  },
+  {
+    "id": 21,
+    "korean": "말하다",
+    "english": "to speak, to say",
+    "nepali": "बोल्नु"
+  },
+  {
+    "id": 22,
+    "korean": "사람",
+    "english": "person",
+    "nepali": "व्यक्ति"
+  },
+  {
+    "id": 23,
+    "korean": "에어컨",
+    "english": "air conditioner",
+    "nepali": "एयर कन्डिसनर"
+  },
+  {
+    "id": 24,
+    "korean": "침대",
+    "english": "bed",
+    "nepali": "ओछ्यान"
+  },
+  {
+    "id": 25,
+    "korean": "의자",
+    "english": "chair",
+    "nepali": "कुर्सी"
+  },
+  {
+    "id": 26,
+    "korean": "책상",
+    "english": "desk",
+    "nepali": "डेस्क"
+  },
+  {
+    "id": 27,
+    "korean": "옷장",
+    "english": "closet, wardrobe",
+    "nepali": "कपडा राख्ने दराज"
+  },
+  {
+    "id": 28,
+    "korean": "소파",
+    "english": "sofa",
+    "nepali": "सोफा"
+  },
+  {
+    "id": 29,
+    "korean": "전자레인지",
+    "english": "microwave oven",
+    "nepali": "माइक्रोवेभ"
+  },
+  {
+    "id": 30,
+    "korean": "세탁기",
+    "english": "washing machine",
+    "nepali": "कपडा धुने मेसिन"
+  },
+  {
+    "id": 31,
+    "korean": "냉장고",
+    "english": "refrigerator",
+    "nepali": "फ्रिज"
+  },
+  {
+    "id": 32,
+    "korean": "청소기",
+    "english": "vacuum cleaner",
+    "nepali": "भ्याकुम क्लिनर"
+  },
+  {
+    "id": 33,
+    "korean": "식탁",
+    "english": "dining table",
+    "nepali": "खाने टेबल"
+  },
+  {
+    "id": 34,
+    "korean": "그림",
+    "english": "picture",
+    "nepali": "चित्र"
+  },
+  {
+    "id": 35,
+    "korean": "보다",
+    "english": "to see, to look",
+    "nepali": "हेर्नु"
+  },
+  {
+    "id": 36,
+    "korean": "대화",
+    "english": "conversation",
+    "nepali": "कुराकानी"
+  },
+  {
+    "id": 37,
+    "korean": "완성하다",
+    "english": "to complete",
+    "nepali": "पूरा गर्नु"
+  },
+  {
+    "id": 38,
+    "korean": "이것",
+    "english": "this (thing)",
+    "nepali": "यो"
+  },
+  {
+    "id": 39,
+    "korean": "뭐",
+    "english": "what (short form)",
+    "nepali": "के"
+  },
+  {
+    "id": 40,
+    "korean": "보기",
+    "english": "example",
+    "nepali": "उदाहरण"
+  },
+  {
+    "id": 41,
+    "korean": "존재",
+    "english": "existence",
+    "nepali": "अस्तित्व"
+  },
+  {
+    "id": 42,
+    "korean": "소유",
+    "english": "possession",
+    "nepali": "स्वामित्व"
+  },
+  {
+    "id": 43,
+    "korean": "나타내다",
+    "english": "to show, to indicate",
+    "nepali": "देखाउनु"
+  },
+  {
+    "id": 44,
+    "korean": "존재하다",
+    "english": "to exist",
+    "nepali": "अस्तित्वमा हुनु"
+  },
+  {
+    "id": 45,
+    "korean": "소유하다",
+    "english": "to own, to possess",
+    "nepali": "स्वामित्व राख्नु"
+  },
+  {
+    "id": 46,
+    "korean": "명사",
+    "english": "noun",
+    "nepali": "संज्ञा"
+  },
+  {
+    "id": 47,
+    "korean": "결합하다",
+    "english": "to combine",
+    "nepali": "जोडिनु"
+  },
+  {
+    "id": 48,
+    "korean": "문장",
+    "english": "sentence",
+    "nepali": "वाक्य"
+  },
+  {
+    "id": 49,
+    "korean": "주어",
+    "english": "subject (grammar)",
+    "nepali": "कर्ता"
+  },
+  {
+    "id": 50,
+    "korean": "사용하다",
+    "english": "to use",
+    "nepali": "प्रयोग गर्नु"
+  },
+  {
+    "id": 51,
+    "korean": "묻다",
+    "english": "to ask",
+    "nepali": "सोध्नु"
+  },
+  {
+    "id": 52,
+    "korean": "형태",
+    "english": "form, shape",
+    "nepali": "रूप"
+  },
+  {
+    "id": 53,
+    "korean": "변화",
+    "english": "change",
+    "nepali": "परिवर्तन"
+  },
+  {
+    "id": 54,
+    "korean": "받침",
+    "english": "final consonant (batchim)",
+    "nepali": "पदान्त व्यञ्जन (प्याचिम)"
+  },
+  {
+    "id": 55,
+    "korean": "이름",
+    "english": "name",
+    "nepali": "नाम"
+  },
+  {
+    "id": 56,
+    "korean": "예",
+    "english": "example",
+    "nepali": "उदाहरण"
+  },
+  {
+    "id": 57,
+    "korean": "컴퓨터",
+    "english": "computer",
+    "nepali": "कम्प्युटर"
+  },
+  {
+    "id": 58,
+    "korean": "쓰다",
+    "english": "to write, to use",
+    "nepali": "लेख्नु, प्रयोग गर्नु"
+  },
+  {
+    "id": 59,
+    "korean": "-도",
+    "english": "also, too",
+    "nepali": "पनि"
+  },
+  {
+    "id": 60,
+    "korean": "방",
+    "english": "room",
+    "nepali": "कोठा"
+  },
+  {
+    "id": 61,
+    "korean": "추가적",
+    "english": "additional",
+    "nepali": "थप"
+  },
+  {
+    "id": 62,
+    "korean": "포함되다",
+    "english": "to be included",
+    "nepali": "समावेश हुनु"
+  },
+  {
+    "id": 63,
+    "korean": "이미",
+    "english": "already",
+    "nepali": "पहिले नै"
+  },
+  {
+    "id": 64,
+    "korean": "어떤",
+    "english": "some, which, a certain",
+    "nepali": "कुनै"
+  },
+  {
+    "id": 65,
+    "korean": "다른",
+    "english": "other, different",
+    "nepali": "अर्को"
+  },
+  {
+    "id": 66,
+    "korean": "아니요",
+    "english": "no",
+    "nepali": "होइन"
+  },
+  {
+    "id": 67,
+    "korean": "네",
+    "english": "yes",
+    "nepali": "हो"
+  },
+  {
+    "id": 68,
+    "korean": "제시되다",
+    "english": "to be presented, to be given",
+    "nepali": "प्रस्तुत हुनु"
+  },
+  {
+    "id": 69,
+    "korean": "표현",
+    "english": "expression",
+    "nepali": "अभिव्यक्ति"
+  },
+  {
+    "id": 70,
+    "korean": "활용하다",
+    "english": "to use, to make use of",
+    "nepali": "प्रयोग गर्नु"
+  },
+  {
+    "id": 71,
+    "korean": "발음",
+    "english": "pronunciation",
+    "nepali": "उच्चारण"
+  },
+  {
+    "id": 72,
+    "korean": "발음하다",
+    "english": "to pronounce",
+    "nepali": "उच्चारण गर्नु"
+  },
+  {
+    "id": 73,
+    "korean": "각각",
+    "english": "each, respectively",
+    "nepali": "क्रमशः"
+  },
+  {
+    "id": 74,
+    "korean": "이중모음",
+    "english": "diphthong",
+    "nepali": "दोहोरो स्वर"
+  },
+  {
+    "id": 75,
+    "korean": "외국",
+    "english": "foreign country",
+    "nepali": "विदेश"
+  },
+  {
+    "id": 76,
+    "korean": "외모",
+    "english": "appearance",
+    "nepali": "रूप, बनावट"
+  },
+  {
+    "id": 77,
+    "korean": "해외",
+    "english": "overseas",
+    "nepali": "विदेश"
+  },
+  {
+    "id": 78,
+    "korean": "가위",
+    "english": "scissors",
+    "nepali": "कैंची"
+  },
+  {
+    "id": 79,
+    "korean": "바위",
+    "english": "rock",
+    "nepali": "चट्टान"
+  },
+  {
+    "id": 80,
+    "korean": "회사",
+    "english": "company, workplace",
+    "nepali": "कम्पनी"
+  },
+  {
+    "id": 81,
+    "korean": "식당",
+    "english": "restaurant",
+    "nepali": "रेस्टुरेन्ट"
+  },
+  {
+    "id": 82,
+    "korean": "은행",
+    "english": "bank",
+    "nepali": "बैंक"
+  },
+  {
+    "id": 83,
+    "korean": "커피숍",
+    "english": "coffee shop",
+    "nepali": "कफी सप"
+  },
+  {
+    "id": 84,
+    "korean": "편의점",
+    "english": "convenience store",
+    "nepali": "सुविधा पसल"
+  },
+  {
+    "id": 85,
+    "korean": "시장",
+    "english": "market",
+    "nepali": "बजार"
+  },
+  {
+    "id": 86,
+    "korean": "미용실",
+    "english": "hair salon",
+    "nepali": "कपाल काट्ने पसल"
+  },
+  {
+    "id": 87,
+    "korean": "슈퍼마켓",
+    "english": "supermarket",
+    "nepali": "सुपरमार्केट"
+  },
+  {
+    "id": 88,
+    "korean": "약국",
+    "english": "pharmacy",
+    "nepali": "औषधि पसल"
+  },
+  {
+    "id": 89,
+    "korean": "병원",
+    "english": "hospital",
+    "nepali": "अस्पताल"
+  },
+  {
+    "id": 90,
+    "korean": "우체국",
+    "english": "post office",
+    "nepali": "हुलाक कार्यालय"
+  },
+  {
+    "id": 91,
+    "korean": "화장실",
+    "english": "restroom, toilet",
+    "nepali": "शौचालय"
+  },
+  {
+    "id": 92,
+    "korean": "부엌",
+    "english": "kitchen",
+    "nepali": "भान्सा"
+  },
+  {
+    "id": 93,
+    "korean": "여기",
+    "english": "here",
+    "nepali": "यहाँ"
+  },
+  {
+    "id": 94,
+    "korean": "거기",
+    "english": "there",
+    "nepali": "त्यहाँ"
+  },
+  {
+    "id": 95,
+    "korean": "저기",
+    "english": "over there",
+    "nepali": "त्यहाँ टाढा"
+  },
+  {
+    "id": 96,
+    "korean": "기숙사",
+    "english": "dormitory",
+    "nepali": "छात्रावास"
+  },
+  {
+    "id": 97,
+    "korean": "사무실",
+    "english": "office",
+    "nepali": "कार्यालय"
+  },
+  {
+    "id": 98,
+    "korean": "-에 있다",
+    "english": "to be at (a place)",
+    "nepali": "मा हुनु"
+  },
+  {
+    "id": 99,
+    "korean": "씨",
+    "english": "Mr., Ms. (title after a name)",
+    "nepali": "श्री, सुश्री"
+  },
+  {
+    "id": 100,
+    "korean": "알다",
+    "english": "to know, to understand",
+    "nepali": "जान्नु"
+  },
+  {
+    "id": 101,
+    "korean": "이따",
+    "english": "later, in a while",
+    "nepali": "केही बेरपछि"
+  },
+  {
+    "id": 102,
+    "korean": "시",
+    "english": "o'clock",
+    "nepali": "बजे"
+  },
+  {
+    "id": 103,
+    "korean": "두",
+    "english": "two",
+    "nepali": "दुई"
+  },
+  {
+    "id": 104,
+    "korean": "전화하다",
+    "english": "to make a phone call",
+    "nepali": "फोन गर्नु"
+  },
+  {
+    "id": 105,
+    "korean": "반장님",
+    "english": "foreman, team leader",
+    "nepali": "टोली प्रमुख"
+  },
+  {
+    "id": 106,
+    "korean": "특별시",
+    "english": "special city",
+    "nepali": "विशेष सहर"
+  },
+  {
+    "id": 107,
+    "korean": "특별자치시",
+    "english": "special self-governing city",
+    "nepali": "विशेष स्वशासित सहर"
+  },
+  {
+    "id": 108,
+    "korean": "광역시",
+    "english": "metropolitan city",
+    "nepali": "महानगर"
+  },
+  {
+    "id": 109,
+    "korean": "서울",
+    "english": "Seoul",
+    "nepali": "सोल"
+  },
+  {
+    "id": 110,
+    "korean": "세종",
+    "english": "Sejong",
+    "nepali": "सेजोङ"
+  },
+  {
+    "id": 111,
+    "korean": "인천",
+    "english": "Incheon",
+    "nepali": "इन्चोन"
+  },
+  {
+    "id": 112,
+    "korean": "대전",
+    "english": "Daejeon",
+    "nepali": "देजोन"
+  },
+  {
+    "id": 113,
+    "korean": "부산",
+    "english": "Busan",
+    "nepali": "बुसान"
+  },
+  {
+    "id": 114,
+    "korean": "울산",
+    "english": "Ulsan",
+    "nepali": "उल्सान"
+  },
+  {
+    "id": 115,
+    "korean": "대구",
+    "english": "Daegu",
+    "nepali": "देगु"
+  },
+  {
+    "id": 116,
+    "korean": "광주",
+    "english": "Gwangju",
+    "nepali": "क्वाङजु"
+  },
+  {
+    "id": 117,
+    "korean": "개",
+    "english": "piece, item (counter)",
+    "nepali": "वटा"
+  },
+  {
+    "id": 118,
+    "korean": "여섯",
+    "english": "six",
+    "nepali": "छ"
+  },
+  {
+    "id": 119,
+    "korean": "가장",
+    "english": "most, the best",
+    "nepali": "सबैभन्दा"
+  },
+  {
+    "id": 120,
+    "korean": "크다",
+    "english": "to be big",
+    "nepali": "ठूलो हुनु"
+  },
+  {
+    "id": 121,
+    "korean": "정치",
+    "english": "politics",
+    "nepali": "राजनीति"
+  },
+  {
+    "id": 122,
+    "korean": "경제",
+    "english": "economy",
+    "nepali": "अर्थतन्त्र"
+  },
+  {
+    "id": 123,
+    "korean": "중심지",
+    "english": "center, hub",
+    "nepali": "केन्द्र"
+  },
+  {
+    "id": 124,
+    "korean": "주변",
+    "english": "surroundings, nearby area",
+    "nepali": "वरिपरि"
+  },
+  {
+    "id": 125,
+    "korean": "경기도",
+    "english": "Gyeonggi Province",
+    "nepali": "क्योङगी प्रान्त"
+  },
+  {
+    "id": 126,
+    "korean": "함께",
+    "english": "together",
+    "nepali": "सँगै"
+  },
+  {
+    "id": 127,
+    "korean": "수도권",
+    "english": "capital area",
+    "nepali": "राजधानी क्षेत्र"
+  },
+  {
+    "id": 128,
+    "korean": "이루다",
+    "english": "to form, to make up",
+    "nepali": "बनाउनु"
+  },
+  {
+    "id": 129,
+    "korean": "지역",
+    "english": "area, region",
+    "nepali": "क्षेत्र"
+  },
+  {
+    "id": 130,
+    "korean": "거주하다",
+    "english": "to reside, to live",
+    "nepali": "बसोबास गर्नु"
+  },
+  {
+    "id": 131,
+    "korean": "넘다",
+    "english": "to exceed, to go over",
+    "nepali": "नाघ्नु"
+  },
+  {
+    "id": 132,
+    "korean": "관문",
+    "english": "gateway",
+    "nepali": "प्रवेशद्वार"
+  },
+  {
+    "id": 133,
+    "korean": "국제공항",
+    "english": "international airport",
+    "nepali": "अन्तर्राष्ट्रिय विमानस्थल"
+  },
+  {
+    "id": 134,
+    "korean": "항",
+    "english": "port",
+    "nepali": "बन्दरगाह"
+  },
+  {
+    "id": 135,
+    "korean": "위치하다",
+    "english": "to be located",
+    "nepali": "अवस्थित हुनु"
+  },
+  {
+    "id": 136,
+    "korean": "두 번째",
+    "english": "second",
+    "nepali": "दोस्रो"
+  },
+  {
+    "id": 137,
+    "korean": "세계적",
+    "english": "worldwide, world-class",
+    "nepali": "विश्वव्यापी"
+  },
+  {
+    "id": 138,
+    "korean": "규모",
+    "english": "scale, size",
+    "nepali": "आकार, स्तर"
+  },
+  {
+    "id": 139,
+    "korean": "해변",
+    "english": "beach",
+    "nepali": "समुद्र किनार"
+  },
+  {
+    "id": 140,
+    "korean": "아름답다",
+    "english": "to be beautiful",
+    "nepali": "सुन्दर हुनु"
+  },
+  {
+    "id": 141,
+    "korean": "관광객",
+    "english": "tourist",
+    "nepali": "पर्यटक"
+  },
+  {
+    "id": 142,
+    "korean": "방문하다",
+    "english": "to visit",
+    "nepali": "भ्रमण गर्नु"
+  },
+  {
+    "id": 143,
+    "korean": "인근",
+    "english": "nearby, neighborhood",
+    "nepali": "नजिक"
+  },
+  {
+    "id": 144,
+    "korean": "자동차",
+    "english": "automobile, car",
+    "nepali": "मोटरगाडी"
+  },
+  {
+    "id": 145,
+    "korean": "조선",
+    "english": "shipbuilding",
+    "nepali": "जहाज निर्माण"
+  },
+  {
+    "id": 146,
+    "korean": "중화학",
+    "english": "heavy and chemical (industry)",
+    "nepali": "भारी र रासायनिक"
+  },
+  {
+    "id": 147,
+    "korean": "산업",
+    "english": "industry",
+    "nepali": "उद्योग"
+  },
+  {
+    "id": 148,
+    "korean": "발달하다",
+    "english": "to develop, to be developed",
+    "nepali": "विकसित हुनु"
+  },
+  {
+    "id": 149,
+    "korean": "공업",
+    "english": "manufacturing industry",
+    "nepali": "औद्योगिक उत्पादन"
+  },
+  {
+    "id": 150,
+    "korean": "남동쪽",
+    "english": "southeast",
+    "nepali": "दक्षिणपूर्व"
+  },
+  {
+    "id": 151,
+    "korean": "경상도",
+    "english": "Gyeongsang Province",
+    "nepali": "क्योङसाङ प्रान्त"
+  },
+  {
+    "id": 152,
+    "korean": "지방",
+    "english": "region, province",
+    "nepali": "क्षेत्र, प्रान्त"
+  },
+  {
+    "id": 153,
+    "korean": "섬유",
+    "english": "textile, fiber",
+    "nepali": "कपडा, रेसा"
+  },
+  {
+    "id": 154,
+    "korean": "남서쪽",
+    "english": "southwest",
+    "nepali": "दक्षिणपश्चिम"
+  },
+  {
+    "id": 155,
+    "korean": "전라도",
+    "english": "Jeolla Province",
+    "nepali": "जोल्ला प्रान्त"
+  },
+  {
+    "id": 156,
+    "korean": "예술",
+    "english": "art",
+    "nepali": "कला"
+  },
+  {
+    "id": 157,
+    "korean": "이 외에도",
+    "english": "in addition to this",
+    "nepali": "यसबाहेक"
+  },
+  {
+    "id": 158,
+    "korean": "행정",
+    "english": "administration",
+    "nepali": "प्रशासन"
+  },
+  {
+    "id": 159,
+    "korean": "업무",
+    "english": "task, duties",
+    "nepali": "कार्य"
+  },
+  {
+    "id": 160,
+    "korean": "효율적",
+    "english": "efficient",
+    "nepali": "प्रभावकारी"
+  },
+  {
+    "id": 161,
+    "korean": "수행하다",
+    "english": "to carry out, to perform",
+    "nepali": "सम्पन्न गर्नु"
+  },
+  {
+    "id": 162,
+    "korean": "만들다",
+    "english": "to make",
+    "nepali": "बनाउनु"
+  },
+  {
+    "id": 163,
+    "korean": "행정중심복합도시",
+    "english": "administrative-centered multifunctional city",
+    "nepali": "प्रशासन केन्द्रित बहुकार्यात्मक सहर"
+  },
+  {
+    "id": 164,
+    "korean": "교육부",
+    "english": "Ministry of Education",
+    "nepali": "शिक्षा मन्त्रालय"
+  },
+  {
+    "id": 165,
+    "korean": "고용노동부",
+    "english": "Ministry of Employment and Labor",
+    "nepali": "रोजगार तथा श्रम मन्त्रालय"
+  },
+  {
+    "id": 166,
+    "korean": "대부분",
+    "english": "most, mostly",
+    "nepali": "धेरैजसो"
+  },
+  {
+    "id": 167,
+    "korean": "정부",
+    "english": "government",
+    "nepali": "सरकार"
+  },
+  {
+    "id": 168,
+    "korean": "부처",
+    "english": "government ministry",
+    "nepali": "सरकारी मन्त्रालय"
+  },
+  {
+    "id": 169,
+    "korean": "경부선",
+    "english": "Gyeongbu Line",
+    "nepali": "क्योङबु रेलमार्ग"
+  },
+  {
+    "id": 170,
+    "korean": "호남선",
+    "english": "Honam Line",
+    "nepali": "होनाम रेलमार्ग"
+  },
+  {
+    "id": 171,
+    "korean": "지나가다",
+    "english": "to pass through",
+    "nepali": "हुँदै जानु"
+  },
+  {
+    "id": 172,
+    "korean": "교통",
+    "english": "transportation",
+    "nepali": "यातायात"
+  },
+  {
+    "id": 173,
+    "korean": "과학",
+    "english": "science",
+    "nepali": "विज्ञान"
+  },
+  {
+    "id": 174,
+    "korean": "확인해요",
+    "english": "self assessment, check",
+    "nepali": "आफ्नो जाँच"
+  },
+  {
+    "id": 175,
+    "korean": "읽기",
+    "english": "reading",
+    "nepali": "पढाइ"
+  },
+  {
+    "id": 176,
+    "korean": "고르다",
+    "english": "to choose",
+    "nepali": "छान्नु"
+  },
+  {
+    "id": 177,
+    "korean": "단어",
+    "english": "word",
+    "nepali": "शब्द"
+  },
+  {
+    "id": 178,
+    "korean": "계절",
+    "english": "season",
+    "nepali": "ऋतु"
+  },
+  {
+    "id": 179,
+    "korean": "날씨",
+    "english": "weather",
+    "nepali": "मौसम"
+  },
+  {
+    "id": 180,
+    "korean": "취미",
+    "english": "hobby",
+    "nepali": "रुचि"
+  },
+  {
+    "id": 181,
+    "korean": "밑줄",
+    "english": "underline",
+    "nepali": "रेखांकन"
+  },
+  {
+    "id": 182,
+    "korean": "치다",
+    "english": "to draw (a line), to hit",
+    "nepali": "तान्नु, हान्नु"
+  },
+  {
+    "id": 183,
+    "korean": "부분",
+    "english": "part, section",
+    "nepali": "भाग"
+  },
+  {
+    "id": 184,
+    "korean": "맞다",
+    "english": "to be right, to be correct",
+    "nepali": "ठीक हुनु"
+  },
+  {
+    "id": 185,
+    "korean": "농부",
+    "english": "farmer",
+    "nepali": "किसान"
+  },
+  {
+    "id": 186,
+    "korean": "밥",
+    "english": "rice, meal",
+    "nepali": "भात, खाना"
+  },
+  {
+    "id": 187,
+    "korean": "먹다",
+    "english": "to eat",
+    "nepali": "खानु"
+  },
+  {
+    "id": 188,
+    "korean": "빈칸",
+    "english": "blank space",
+    "nepali": "खाली ठाउँ"
+  },
+  {
+    "id": 189,
+    "korean": "들어가다",
+    "english": "to go in, to enter",
+    "nepali": "भित्र जानु"
+  },
+  {
+    "id": 190,
+    "korean": "알맞다",
+    "english": "to be suitable, to be correct",
+    "nepali": "उपयुक्त हुनु"
+  },
+  {
+    "id": 191,
+    "korean": "머리",
+    "english": "head, hair",
+    "nepali": "टाउको, कपाल"
+  },
+  {
+    "id": 192,
+    "korean": "너무",
+    "english": "too, very",
+    "nepali": "धेरै, अति"
+  },
+  {
+    "id": 193,
+    "korean": "길다",
+    "english": "to be long",
+    "nepali": "लामो हुनु"
+  },
+  {
+    "id": 194,
+    "korean": "내일",
+    "english": "tomorrow",
+    "nepali": "भोलि"
+  },
+  {
+    "id": 195,
+    "korean": "자르다",
+    "english": "to cut",
+    "nepali": "काट्नु"
+  },
+  {
+    "id": 196,
+    "korean": "가다",
+    "english": "to go",
+    "nepali": "जानु"
+  },
+  {
+    "id": 197,
+    "korean": "글",
+    "english": "text, writing",
+    "nepali": "लेख"
+  },
+  {
+    "id": 198,
+    "korean": "내용",
+    "english": "content",
+    "nepali": "विषयवस्तु"
+  },
+  {
+    "id": 199,
+    "korean": "같다",
+    "english": "to be the same",
+    "nepali": "उस्तै हुनु"
+  },
+  {
+    "id": 200,
+    "korean": "찾다",
+    "english": "to find, to visit, to look for",
+    "nepali": "खोज्नु, भेट्न जानु"
+  },
+  {
+    "id": 201,
+    "korean": "대한민국",
+    "english": "Republic of Korea",
+    "nepali": "दक्षिण कोरिया"
+  },
+  {
+    "id": 202,
+    "korean": "듣기",
+    "english": "listening",
+    "nepali": "सुनाइ"
+  },
+  {
+    "id": 203,
+    "korean": "물음",
+    "english": "question",
+    "nepali": "प्रश्न"
+  },
+  {
+    "id": 204,
+    "korean": "대답",
+    "english": "answer",
+    "nepali": "जवाफ"
+  },
+  {
+    "id": 205,
+    "korean": "높다",
+    "english": "to be high",
+    "nepali": "उच्च हुनु"
+  },
+  {
+    "id": 206,
+    "korean": "많다",
+    "english": "to be many, to be much",
+    "nepali": "धेरै हुनु"
+  },
+  {
+    "id": 207,
+    "korean": "사다",
+    "english": "to buy",
+    "nepali": "किन्नु"
+  },
+  {
+    "id": 208,
+    "korean": "어제",
+    "english": "yesterday",
+    "nepali": "हिजो"
+  },
+  {
+    "id": 209,
+    "korean": "매일",
+    "english": "every day",
+    "nepali": "हरेक दिन"
+  },
+  {
+    "id": 210,
+    "korean": "친구",
+    "english": "friend",
+    "nepali": "साथी"
+  },
+  {
+    "id": 211,
+    "korean": "지하철",
+    "english": "subway",
+    "nepali": "मेट्रो रेल"
+  },
+  {
+    "id": 212,
+    "korean": "집안일",
+    "english": "housework",
+    "nepali": "घरको काम"
+  },
+  {
+    "id": 213,
+    "korean": "조리법",
+    "english": "cooking method, recipe",
+    "nepali": "पकाउने तरिका"
+  },
+  {
+    "id": 214,
+    "korean": "대중교통",
+    "english": "public transportation",
+    "nepali": "सार्वजनिक यातायात"
+  },
+  {
+    "id": 215,
+    "korean": "선풍기",
+    "english": "electric fan",
+    "nepali": "बिजुलीको पंखा"
+  },
+  {
+    "id": 216,
+    "korean": "자주",
+    "english": "often",
+    "nepali": "धेरैजसो"
+  },
+  {
+    "id": 217,
+    "korean": "과일",
+    "english": "fruit",
+    "nepali": "फलफूल"
+  },
+  {
+    "id": 218,
+    "korean": "채소",
+    "english": "vegetable",
+    "nepali": "तरकारी"
+  },
+  {
+    "id": 219,
+    "korean": "마트",
+    "english": "mart, supermarket",
+    "nepali": "मार्ट"
+  },
+  {
+    "id": 220,
+    "korean": "근처",
+    "english": "nearby",
+    "nepali": "नजिक"
+  },
+  {
+    "id": 221,
+    "korean": "어떻게",
+    "english": "how",
+    "nepali": "कसरी"
+  },
+  {
+    "id": 222,
+    "korean": "좋다",
+    "english": "to be good",
+    "nepali": "राम्रो हुनु"
+  },
+  {
+    "id": 223,
+    "korean": "지문",
+    "english": "passage, script",
+    "nepali": "अनुच्छेद"
+  }
+]
