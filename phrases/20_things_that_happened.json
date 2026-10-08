@@ -1,0 +1,1477 @@
+[
+  {
+    "id": 166,
+    "english": "I made a mistake.",
+    "korean": "제가 실수했어요."
+  },
+  {
+    "id": 275,
+    "english": "The evening was wonderful.",
+    "korean": "저녁은 정말 좋았어요."
+  },
+  {
+    "id": 319,
+    "english": "I used to do that.",
+    "korean": "난 그러곤 했어요."
+  },
+  {
+    "id": 350,
+    "english": "That was really close.",
+    "korean": "진짜 아까웠어요."
+  },
+  {
+    "id": 365,
+    "english": "You got it.",
+    "korean": "알겠습니다."
+  },
+  {
+    "id": 434,
+    "english": "It was my fault.",
+    "korean": "제 잘못이에요."
+  },
+  {
+    "id": 446,
+    "english": "He majored in business.",
+    "korean": "그는 경영학을 전공했습니다."
+  },
+  {
+    "id": 500,
+    "english": "I really enjoyed it.",
+    "korean": "정말 즐거웠어요."
+  },
+  {
+    "id": 530,
+    "english": "I lost track of time.",
+    "korean": "시간 가는 줄 몰랐어요."
+  },
+  {
+    "id": 679,
+    "english": "I made a report.",
+    "korean": "보고서를 작성했어요."
+  },
+  {
+    "id": 686,
+    "english": "I finished ahead of schedule.",
+    "korean": "예정보다 일찍 끝냈어요."
+  },
+  {
+    "id": 689,
+    "english": "I worked late last night.",
+    "korean": "어젯밤 야근했어요."
+  },
+  {
+    "id": 837,
+    "english": "I vomited.",
+    "korean": "토했어요."
+  },
+  {
+    "id": 841,
+    "english": "I twisted my ankle.",
+    "korean": "발목을 삐었어요."
+  },
+  {
+    "id": 980,
+    "english": "I was robbed.",
+    "korean": "도둑맞았어요."
+  },
+  {
+    "id": 1015,
+    "english": "I passed it.",
+    "korean": "지나쳤어요."
+  },
+  {
+    "id": 1028,
+    "english": "I received the wrong item.",
+    "korean": "다른 물건이 왔어요."
+  },
+  {
+    "id": 1029,
+    "english": "The package was damaged.",
+    "korean": "소포가 손상됐어요."
+  },
+  {
+    "id": 1116,
+    "english": "You saved me.",
+    "korean": "덕분에 살았어요."
+  },
+  {
+    "id": 1235,
+    "english": "You seem tired today.",
+    "korean": "오늘 피곤해 보여요."
+  },
+  {
+    "id": 1242,
+    "english": "It was a busy week.",
+    "korean": "바쁜 한 주였어요."
+  },
+  {
+    "id": 1246,
+    "english": "The year passed so quickly.",
+    "korean": "올해가 정말 빨리 지나갔어요."
+  },
+  {
+    "id": 1286,
+    "english": "That was my misunderstanding.",
+    "korean": "제가 잘못 이해했어요."
+  },
+  {
+    "id": 1378,
+    "english": "I finished my quota for today.",
+    "korean": "오늘 할당량을 다 채웠어요."
+  },
+  {
+    "id": 1395,
+    "english": "My account was frozen.",
+    "korean": "계좌가 동결됐어요."
+  },
+  {
+    "id": 1428,
+    "english": "I am stuffed.",
+    "korean": "너무 많이 먹었어요."
+  },
+  {
+    "id": 1531,
+    "english": "The week went by fast.",
+    "korean": "한 주가 빨리 지나갔어요."
+  },
+  {
+    "id": 1541,
+    "english": "I passed level 2.",
+    "korean": "2급에 합격했어요."
+  },
+  {
+    "id": 1556,
+    "english": "I have never thought about it that way.",
+    "korean": "그런 식으로 생각해본 적이 없어요."
+  },
+  {
+    "id": 1559,
+    "english": "I have mixed feelings about it.",
+    "korean": "복잡한 심정이에요."
+  },
+  {
+    "id": 1568,
+    "english": "That was a great effort.",
+    "korean": "정말 노력했네요."
+  },
+  {
+    "id": 1569,
+    "english": "I am impressed by you.",
+    "korean": "정말 대단해요."
+  },
+  {
+    "id": 1604,
+    "english": "I think we got cut off.",
+    "korean": "전화가 끊긴 것 같아요."
+  },
+  {
+    "id": 1676,
+    "english": "I had a feeling that would happen.",
+    "korean": "그럴 것 같았어요."
+  },
+  {
+    "id": 1685,
+    "english": "It was nice talking to you.",
+    "korean": "얘기 나눠서 좋았어요."
+  },
+  {
+    "id": 1693,
+    "english": "I had a great time today.",
+    "korean": "오늘 정말 즐거웠어요."
+  },
+  {
+    "id": 1717,
+    "english": "I started intermittent fasting.",
+    "korean": "간헐적 단식을 시작했어요."
+  },
+  {
+    "id": 1790,
+    "english": "I think I overworked myself.",
+    "korean": "무리한 것 같아요."
+  },
+  {
+    "id": 1859,
+    "english": "I made a good financial decision.",
+    "korean": "좋은 재정적 결정을 했어요."
+  },
+  {
+    "id": 1874,
+    "english": "I made an error in the report.",
+    "korean": "보고서에 실수가 있었어요."
+  },
+  {
+    "id": 1875,
+    "english": "I corrected the mistake already.",
+    "korean": "이미 실수를 수정했어요."
+  },
+  {
+    "id": 1989,
+    "english": "I think I went past it.",
+    "korean": "지나친 것 같아요."
+  },
+  {
+    "id": 1990,
+    "english": "I found it thank you so much.",
+    "korean": "찾았어요 정말 감사해요."
+  },
+  {
+    "id": 1997,
+    "english": "You went above and beyond.",
+    "korean": "정말 그 이상으로 도와주셨어요."
+  },
+  {
+    "id": 2013,
+    "english": "The ending was really surprising.",
+    "korean": "결말이 정말 놀라웠어요."
+  },
+  {
+    "id": 2052,
+    "english": "I did not mean to cause trouble.",
+    "korean": "문제를 일으키려던 게 아니었어요."
+  },
+  {
+    "id": 2057,
+    "english": "I think we found the solution.",
+    "korean": "해결책을 찾은 것 같아요."
+  },
+  {
+    "id": 2060,
+    "english": "I was wondering if.",
+    "korean": "혹시 궁금한데요."
+  },
+  {
+    "id": 2062,
+    "english": "I just wanted to let you know.",
+    "korean": "알려드리고 싶어서요."
+  },
+  {
+    "id": 2063,
+    "english": "I was hoping you could.",
+    "korean": "부탁드리고 싶은 게 있는데요."
+  },
+  {
+    "id": 2086,
+    "english": "The circuit breaker tripped.",
+    "korean": "차단기가 내려갔어요."
+  },
+  {
+    "id": 2088,
+    "english": "We need to report this to management.",
+    "korean": "관리자에게 이것을 보고해야 해요."
+  },
+  {
+    "id": 2191,
+    "english": "I made the wrong decision.",
+    "korean": "잘못된 결정을 했어요."
+  },
+  {
+    "id": 2197,
+    "english": "I was too hasty.",
+    "korean": "너무 서둘렀어요."
+  },
+  {
+    "id": 2251,
+    "english": "It was my honor to help.",
+    "korean": "도와드릴 수 있어서 영광이었어요."
+  },
+  {
+    "id": 2271,
+    "english": "I have already finished.",
+    "korean": "이미 다 끝냈어요."
+  },
+  {
+    "id": 2275,
+    "english": "I was supposed to be here earlier.",
+    "korean": "더 일찍 여기 있어야 했어요."
+  },
+  {
+    "id": 2277,
+    "english": "I decided not to go.",
+    "korean": "안 가기로 했어요."
+  },
+  {
+    "id": 2278,
+    "english": "I changed my mind about it.",
+    "korean": "마음을 바꿨어요."
+  },
+  {
+    "id": 2288,
+    "english": "That is unexpected.",
+    "korean": "의외네요."
+  },
+  {
+    "id": 2289,
+    "english": "I did not know that.",
+    "korean": "몰랐어요."
+  },
+  {
+    "id": 2296,
+    "english": "I knew it.",
+    "korean": "그럴 줄 알았어요."
+  },
+  {
+    "id": 2393,
+    "english": "My transaction was declined.",
+    "korean": "거래가 거절됐어요."
+  },
+  {
+    "id": 2503,
+    "english": "I have never thought of it that way.",
+    "korean": "그렇게 생각해본 적이 없어요."
+  },
+  {
+    "id": 2604,
+    "english": "I had galbijjim for the first time today.",
+    "korean": "오늘 처음으로 갈비찜을 먹었어요."
+  },
+  {
+    "id": 2616,
+    "english": "I am feeling burned out.",
+    "korean": "번아웃이 온 것 같아요."
+  },
+  {
+    "id": 2680,
+    "english": "I had no idea.",
+    "korean": "전혀 몰랐어요."
+  },
+  {
+    "id": 2682,
+    "english": "I was wondering about that.",
+    "korean": "그게 궁금했어요."
+  },
+  {
+    "id": 2687,
+    "english": "It all worked out in the end.",
+    "korean": "결국 다 잘 됐어요."
+  },
+  {
+    "id": 2719,
+    "english": "I got chills.",
+    "korean": "소름 돋았어요."
+  },
+  {
+    "id": 2731,
+    "english": "I zoned out.",
+    "korean": "딴 생각했어요."
+  },
+  {
+    "id": 2732,
+    "english": "I pulled an all-nighter.",
+    "korean": "밤을 샜어요."
+  },
+  {
+    "id": 2737,
+    "english": "I messed up big time.",
+    "korean": "크게 실수했어요."
+  },
+  {
+    "id": 2739,
+    "english": "That backfired.",
+    "korean": "역효과가 났어요."
+  },
+  {
+    "id": 2740,
+    "english": "I got played.",
+    "korean": "당했어요."
+  },
+  {
+    "id": 2744,
+    "english": "I nailed it.",
+    "korean": "완벽하게 해냈어요."
+  },
+  {
+    "id": 2745,
+    "english": "I bombed it.",
+    "korean": "완전히 망쳤어요."
+  },
+  {
+    "id": 2746,
+    "english": "I choked.",
+    "korean": "긴장해서 망쳤어요."
+  },
+  {
+    "id": 2747,
+    "english": "That was so smooth.",
+    "korean": "자연스러웠어요."
+  },
+  {
+    "id": 2796,
+    "english": "I reorganized my closet.",
+    "korean": "옷장을 정리했어요."
+  },
+  {
+    "id": 2810,
+    "english": "I got played for a fool.",
+    "korean": "호구 잡혔어요."
+  },
+  {
+    "id": 2823,
+    "english": "I snorted from laughing.",
+    "korean": "웃다가 코가 빠질 뻔했어요."
+  },
+  {
+    "id": 2824,
+    "english": "That joke was terrible.",
+    "korean": "그 농담 별로예요."
+  },
+  {
+    "id": 2825,
+    "english": "That was so unexpected.",
+    "korean": "갑자기 뭔 소리예요."
+  },
+  {
+    "id": 2828,
+    "english": "I nearly had a heart attack.",
+    "korean": "심장이 떨어지는 줄 알았어요."
+  },
+  {
+    "id": 2859,
+    "english": "I knew it all along.",
+    "korean": "처음부터 알고 있었어요."
+  },
+  {
+    "id": 2860,
+    "english": "I told you so.",
+    "korean": "제가 그랬잖아요."
+  },
+  {
+    "id": 2894,
+    "english": "That must have felt amazing.",
+    "korean": "정말 기분이 좋았겠어요."
+  },
+  {
+    "id": 2896,
+    "english": "You handled that so well.",
+    "korean": "정말 잘 대처했네요."
+  },
+  {
+    "id": 2897,
+    "english": "I would have panicked.",
+    "korean": "저였으면 당황했을 거예요."
+  },
+  {
+    "id": 2902,
+    "english": "That gave me goosebumps.",
+    "korean": "닭살이 돋았어요."
+  },
+  {
+    "id": 2903,
+    "english": "I was on the edge of my seat.",
+    "korean": "조마조마했어요."
+  },
+  {
+    "id": 2922,
+    "english": "I left the group chat.",
+    "korean": "단체 채팅방 나갔어요."
+  },
+  {
+    "id": 2923,
+    "english": "I got too many notifications.",
+    "korean": "알림이 너무 많이 왔어요."
+  },
+  {
+    "id": 2924,
+    "english": "I muted the group chat.",
+    "korean": "단체 채팅방 알림을 껐어요."
+  },
+  {
+    "id": 2928,
+    "english": "I finally got up at eight.",
+    "korean": "결국 여덟 시에 일어났어요."
+  },
+  {
+    "id": 2931,
+    "english": "I trimmed my nails today.",
+    "korean": "오늘 손톱을 잘랐어요."
+  },
+  {
+    "id": 2942,
+    "english": "I had a nightmare.",
+    "korean": "악몽을 꿨어요."
+  },
+  {
+    "id": 2960,
+    "english": "I messed up the seasoning.",
+    "korean": "간을 잘못 맞췄어요."
+  },
+  {
+    "id": 2968,
+    "english": "The ending was so satisfying.",
+    "korean": "결말이 정말 만족스러웠어요."
+  },
+  {
+    "id": 2974,
+    "english": "It was harder than I thought.",
+    "korean": "생각보다 어려웠어요."
+  },
+  {
+    "id": 2990,
+    "english": "We had a small argument.",
+    "korean": "사소한 다툼이 있었어요."
+  },
+  {
+    "id": 2991,
+    "english": "We made up already.",
+    "korean": "이미 화해했어요."
+  },
+  {
+    "id": 3021,
+    "english": "That came out of nowhere.",
+    "korean": "갑자기 어디서 나온 얘기예요."
+  },
+  {
+    "id": 3023,
+    "english": "My jaw dropped.",
+    "korean": "입이 떡 벌어졌어요."
+  },
+  {
+    "id": 3024,
+    "english": "I did not see that coming at all.",
+    "korean": "전혀 예상 못 했어요."
+  },
+  {
+    "id": 3025,
+    "english": "That blindsided me.",
+    "korean": "완전히 허를 찔렸어요."
+  },
+  {
+    "id": 3026,
+    "english": "I was caught completely off guard.",
+    "korean": "완전히 방심하고 있었어요."
+  },
+  {
+    "id": 3027,
+    "english": "That turned my world upside down.",
+    "korean": "세상이 뒤집힌 것 같았어요."
+  },
+  {
+    "id": 3030,
+    "english": "I did not know what to say.",
+    "korean": "뭐라고 해야 할지 몰랐어요."
+  },
+  {
+    "id": 3031,
+    "english": "I needed a moment to process it.",
+    "korean": "잠깐 생각할 시간이 필요했어요."
+  },
+  {
+    "id": 3068,
+    "english": "I made a to-do list.",
+    "korean": "할 일 목록을 만들었어요."
+  },
+  {
+    "id": 3069,
+    "english": "I crossed everything off my list today.",
+    "korean": "오늘 목록에 있는 걸 다 완료했어요."
+  },
+  {
+    "id": 3092,
+    "english": "I stepped out of my comfort zone.",
+    "korean": "편안한 영역에서 벗어났어요."
+  },
+  {
+    "id": 3100,
+    "english": "I really enjoyed this conversation.",
+    "korean": "오늘 정말 즐거운 대화였어요."
+  },
+  {
+    "id": 3125,
+    "english": "That was such a red flag.",
+    "korean": "그거 완전 위험 신호예요."
+  },
+  {
+    "id": 3133,
+    "english": "I deactivated my account.",
+    "korean": "계정을 비활성화했어요."
+  },
+  {
+    "id": 3134,
+    "english": "I went offline for a bit.",
+    "korean": "잠시 오프라인이었어요."
+  },
+  {
+    "id": 3146,
+    "english": "I just need to vent.",
+    "korean": "그냥 하소연하고 싶어요."
+  },
+  {
+    "id": 3151,
+    "english": "That was therapeutic.",
+    "korean": "치유가 됐어요."
+  },
+  {
+    "id": 3152,
+    "english": "I needed that conversation.",
+    "korean": "그 대화가 필요했어요."
+  },
+  {
+    "id": 3218,
+    "english": "I totally blanked on that.",
+    "korean": "완전히 잊었어요."
+  },
+  {
+    "id": 3219,
+    "english": "It slipped my mind.",
+    "korean": "깜빡했어요."
+  },
+  {
+    "id": 3231,
+    "english": "I have never tasted anything like this.",
+    "korean": "이런 맛은 처음이에요."
+  },
+  {
+    "id": 3257,
+    "english": "I was just about to say that.",
+    "korean": "막 그 말 하려고 했어요."
+  },
+  {
+    "id": 3275,
+    "english": "I took a personal day today.",
+    "korean": "오늘 개인 휴가를 썼어요."
+  },
+  {
+    "id": 3277,
+    "english": "That was exactly what I needed.",
+    "korean": "그게 딱 필요했어요."
+  },
+  {
+    "id": 3311,
+    "english": "I just need to breathe.",
+    "korean": "숨 좀 쉬어야 해요."
+  },
+  {
+    "id": 3315,
+    "english": "I did not mean it like that.",
+    "korean": "그런 뜻이 아니었어요."
+  },
+  {
+    "id": 3316,
+    "english": "I was being sarcastic.",
+    "korean": "비꼬는 말이었어요."
+  },
+  {
+    "id": 3317,
+    "english": "I was joking obviously.",
+    "korean": "당연히 농담이었어요."
+  },
+  {
+    "id": 3321,
+    "english": "That was priceless.",
+    "korean": "표정이 정말 웃겼어요."
+  },
+  {
+    "id": 3342,
+    "english": "I just had the best day.",
+    "korean": "오늘 정말 최고의 하루였어요."
+  },
+  {
+    "id": 3347,
+    "english": "The week felt so long.",
+    "korean": "한 주가 정말 길게 느껴졌어요."
+  },
+  {
+    "id": 3354,
+    "english": "I made it through the day.",
+    "korean": "오늘 하루를 버텨냈어요."
+  },
+  {
+    "id": 3404,
+    "english": "We need a larger pipe flange.",
+    "korean": "더 큰 파이프 플랜지가 필요해요."
+  },
+  {
+    "id": 3457,
+    "english": "The canteen opened early today.",
+    "korean": "오늘 구내식당이 일찍 열었어요."
+  },
+  {
+    "id": 3482,
+    "english": "I told her I am doing well here.",
+    "korean": "여기서 잘 지내고 있다고 했어요."
+  },
+  {
+    "id": 3563,
+    "english": "You need to add more chili flakes.",
+    "korean": "고추가루를 더 넣어야 해요."
+  },
+  {
+    "id": 3621,
+    "english": "I recorded it to watch later.",
+    "korean": "나중에 보려고 녹화해뒀어요."
+  },
+  {
+    "id": 3624,
+    "english": "You ruined it.",
+    "korean": "망쳤잖아요."
+  },
+  {
+    "id": 3650,
+    "english": "I started in a different industry.",
+    "korean": "처음에는 다른 업종에서 시작했어요."
+  },
+  {
+    "id": 3681,
+    "english": "I watched it without subtitles.",
+    "korean": "자막 없이 봤어요."
+  },
+  {
+    "id": 3696,
+    "english": "She saved me from making a big mistake.",
+    "korean": "그 친구가 큰 실수를 막아줬어요."
+  },
+  {
+    "id": 3731,
+    "english": "I got a lot done today.",
+    "korean": "오늘 많은 것을 해냈어요."
+  },
+  {
+    "id": 3733,
+    "english": "I handled a tough situation well today.",
+    "korean": "오늘 어려운 상황을 잘 처리했어요."
+  },
+  {
+    "id": 3736,
+    "english": "It made my whole day.",
+    "korean": "그게 제 하루를 환하게 만들었어요."
+  },
+  {
+    "id": 3754,
+    "english": "I made a mistake.",
+    "korean": "실수했어요."
+  },
+  {
+    "id": 3770,
+    "english": "I worked very hard today.",
+    "korean": "오늘 정말 열심히 일했어요."
+  },
+  {
+    "id": 3789,
+    "english": "I did what you asked.",
+    "korean": "시키신 대로 했어요."
+  },
+  {
+    "id": 3804,
+    "english": "I finished early today.",
+    "korean": "오늘 일찍 끝났어요."
+  },
+  {
+    "id": 3846,
+    "english": "That was scary.",
+    "korean": "무서웠어요."
+  },
+  {
+    "id": 3855,
+    "english": "I only had a banana.",
+    "korean": "바나나 하나만 먹었어요."
+  },
+  {
+    "id": 3861,
+    "english": "I made it just in time.",
+    "korean": "간신히 제때 왔어요."
+  },
+  {
+    "id": 3863,
+    "english": "I had to stand the whole way.",
+    "korean": "서서 내내 왔어요."
+  },
+  {
+    "id": 3864,
+    "english": "I walked here today.",
+    "korean": "오늘 걸어왔어요."
+  },
+  {
+    "id": 3887,
+    "english": "That went by so fast.",
+    "korean": "정말 빨리 지나갔어요."
+  },
+  {
+    "id": 3938,
+    "english": "You helped me a lot back then.",
+    "korean": "그때 많이 도와줬잖아요."
+  },
+  {
+    "id": 3987,
+    "english": "My feet need a rest.",
+    "korean": "발이 좀 쉬어야 해요."
+  },
+  {
+    "id": 4000,
+    "english": "You worked really hard today.",
+    "korean": "오늘 정말 열심히 했어요."
+  },
+  {
+    "id": 4005,
+    "english": "I also made that mistake before.",
+    "korean": "저도 전에 그런 실수 했어요."
+  },
+  {
+    "id": 4011,
+    "english": "We succeed together.",
+    "korean": "함께 성공해요."
+  },
+  {
+    "id": 4058,
+    "english": "I got soaked on the way here.",
+    "korean": "여기 오는 길에 흠뻑 젖었어요."
+  },
+  {
+    "id": 4122,
+    "english": "That was not easy.",
+    "korean": "쉽지 않았어요."
+  },
+  {
+    "id": 4141,
+    "english": "It turned out pretty well.",
+    "korean": "꽤 잘 됐어요."
+  },
+  {
+    "id": 4155,
+    "english": "The pharmacist gave me good advice.",
+    "korean": "약사가 좋은 조언을 해줬어요."
+  },
+  {
+    "id": 4202,
+    "english": "I gave today my best.",
+    "korean": "오늘 최선을 다했어요."
+  },
+  {
+    "id": 4295,
+    "english": "They approved it.",
+    "korean": "승인됐어요."
+  },
+  {
+    "id": 4297,
+    "english": "We failed the check.",
+    "korean": "검사에 떨어졌어요."
+  },
+  {
+    "id": 4298,
+    "english": "We need to fix it again.",
+    "korean": "다시 고쳐야 해요."
+  },
+  {
+    "id": 4308,
+    "english": "We need a new blade.",
+    "korean": "새 날이 필요해요."
+  },
+  {
+    "id": 4364,
+    "english": "We did a lot today.",
+    "korean": "오늘 많이 했어요."
+  },
+  {
+    "id": 4373,
+    "english": "I did not do so well today.",
+    "korean": "오늘 잘 못한 것 같아요."
+  },
+  {
+    "id": 4381,
+    "english": "We made it through the day.",
+    "korean": "오늘 하루를 버텼어요."
+  },
+  {
+    "id": 4409,
+    "english": "I had a good rest yesterday.",
+    "korean": "어제 잘 쉬었어요."
+  },
+  {
+    "id": 4421,
+    "english": "I had a quiet evening.",
+    "korean": "조용한 저녁을 보냈어요."
+  },
+  {
+    "id": 4431,
+    "english": "You got it.",
+    "korean": "됐어요."
+  },
+  {
+    "id": 4439,
+    "english": "It rained all night.",
+    "korean": "밤새 비가 왔어요."
+  },
+  {
+    "id": 4443,
+    "english": "I got rained on.",
+    "korean": "비를 맞았어요."
+  },
+  {
+    "id": 4446,
+    "english": "It cleared up now.",
+    "korean": "이제 맑아졌어요."
+  },
+  {
+    "id": 4447,
+    "english": "The sun came out.",
+    "korean": "해가 났어요."
+  },
+  {
+    "id": 4478,
+    "english": "It was good thank you.",
+    "korean": "좋았어요 감사해요."
+  },
+  {
+    "id": 4479,
+    "english": "I rested a lot.",
+    "korean": "많이 쉬었어요."
+  },
+  {
+    "id": 4480,
+    "english": "I went out a little.",
+    "korean": "좀 외출했어요."
+  },
+  {
+    "id": 4489,
+    "english": "I did nothing special.",
+    "korean": "특별한 건 없었어요."
+  },
+  {
+    "id": 4491,
+    "english": "It went by too fast.",
+    "korean": "너무 빨리 지나갔어요."
+  },
+  {
+    "id": 4545,
+    "english": "We missed you here.",
+    "korean": "여기서 보고 싶었어요."
+  },
+  {
+    "id": 4560,
+    "english": "That was quick.",
+    "korean": "빠르네요."
+  },
+  {
+    "id": 4662,
+    "english": "We are almost finished.",
+    "korean": "거의 다 끝났어요."
+  },
+  {
+    "id": 4666,
+    "english": "We finished.",
+    "korean": "끝났어요."
+  },
+  {
+    "id": 4668,
+    "english": "We worked well today.",
+    "korean": "오늘 잘 했어요."
+  },
+  {
+    "id": 4679,
+    "english": "It was such a simple thing.",
+    "korean": "정말 간단한 거였네요."
+  },
+  {
+    "id": 4684,
+    "english": "You saved me a lot of time.",
+    "korean": "시간을 많이 절약해줬어요."
+  },
+  {
+    "id": 4697,
+    "english": "I was joking.",
+    "korean": "농담이에요."
+  },
+  {
+    "id": 4758,
+    "english": "We need to finish by four.",
+    "korean": "네 시까지 끝내야 해요."
+  },
+  {
+    "id": 4773,
+    "english": "I was overthinking it.",
+    "korean": "너무 생각을 많이 했어요."
+  },
+  {
+    "id": 4938,
+    "english": "I was so lost.",
+    "korean": "정말 어리둥절했어요."
+  },
+  {
+    "id": 4952,
+    "english": "We all started somewhere.",
+    "korean": "우리 모두 어딘가에서 시작했잖아요."
+  },
+  {
+    "id": 4953,
+    "english": "You will get used to it quickly.",
+    "korean": "금방 적응할 거예요."
+  },
+  {
+    "id": 5002,
+    "english": "You earned it today.",
+    "korean": "오늘 그럴 자격이 있어요."
+  },
+  {
+    "id": 5041,
+    "english": "I left them in my locker.",
+    "korean": "사물함에 두고 왔어요."
+  },
+  {
+    "id": 5047,
+    "english": "You did your part.",
+    "korean": "당신 몫을 다 했어요."
+  },
+  {
+    "id": 5048,
+    "english": "I did my part.",
+    "korean": "저도 제 몫을 다 했어요."
+  },
+  {
+    "id": 5149,
+    "english": "That trust is earned not given.",
+    "korean": "그 신뢰는 얻는 거지 주어지는 게 아니에요."
+  },
+  {
+    "id": 5175,
+    "english": "I never thought of it that way.",
+    "korean": "그렇게 생각해본 적 없었어요."
+  },
+  {
+    "id": 5176,
+    "english": "That changed my perspective.",
+    "korean": "관점이 바뀌었어요."
+  },
+  {
+    "id": 5199,
+    "english": "I think I got it thanks.",
+    "korean": "할 수 있을 것 같아요 감사해요."
+  },
+  {
+    "id": 5223,
+    "english": "This time we got lucky.",
+    "korean": "이번엔 운이 좋았어요."
+  },
+  {
+    "id": 5234,
+    "english": "We got a lot done.",
+    "korean": "많이 했어요."
+  },
+  {
+    "id": 5241,
+    "english": "We earned our rest.",
+    "korean": "우리 쉴 자격이 있어요."
+  },
+  {
+    "id": 5261,
+    "english": "We stopped here.",
+    "korean": "여기서 멈췄어요."
+  },
+  {
+    "id": 5275,
+    "english": "I was saying we need more time.",
+    "korean": "시간이 더 필요하다고 했어요."
+  },
+  {
+    "id": 5282,
+    "english": "I did not bring one today.",
+    "korean": "오늘 안 가져왔어요."
+  },
+  {
+    "id": 5307,
+    "english": "I never thought of that.",
+    "korean": "그 생각을 못 했어요."
+  },
+  {
+    "id": 5320,
+    "english": "I needed to hear that today.",
+    "korean": "오늘 그 말이 필요했어요."
+  },
+  {
+    "id": 5365,
+    "english": "I remember it was not fun.",
+    "korean": "기억나요 재미없었잖아요."
+  },
+  {
+    "id": 5368,
+    "english": "I got soaked underneath.",
+    "korean": "안에서 다 젖었어요."
+  },
+  {
+    "id": 5388,
+    "english": "You helped me so much.",
+    "korean": "많이 도와줬어요."
+  },
+  {
+    "id": 5474,
+    "english": "We were all new once.",
+    "korean": "우리 모두 처음이 있었잖아요."
+  },
+  {
+    "id": 5475,
+    "english": "I remember how lost I felt.",
+    "korean": "얼마나 어리둥절했는지 기억나요."
+  },
+  {
+    "id": 5494,
+    "english": "It was so crispy and good.",
+    "korean": "정말 바삭하고 맛있었어요."
+  },
+  {
+    "id": 5514,
+    "english": "I picked it up from him.",
+    "korean": "그 분한테서 배웠어요."
+  },
+  {
+    "id": 5539,
+    "english": "We were busy that is good.",
+    "korean": "바빴으니까 좋은 거죠."
+  },
+  {
+    "id": 5581,
+    "english": "I only needed it for a second.",
+    "korean": "잠깐만 필요했어요."
+  },
+  {
+    "id": 5604,
+    "english": "I made a mistake just now.",
+    "korean": "방금 실수했어요."
+  },
+  {
+    "id": 5617,
+    "english": "The left side looks a little uneven.",
+    "korean": "왼쪽이 좀 고르지 않아 보여요."
+  },
+  {
+    "id": 5647,
+    "english": "I know I worked at a bad one before.",
+    "korean": "알아요 전에 안 좋은 데서 일했어요."
+  },
+  {
+    "id": 5650,
+    "english": "It was I left quickly.",
+    "korean": "맞아요 빨리 떠났어요."
+  },
+  {
+    "id": 5662,
+    "english": "That was the hard part it is easier now.",
+    "korean": "그게 어려운 부분이었어요 이제 쉬워요."
+  },
+  {
+    "id": 5670,
+    "english": "You made this yourself.",
+    "korean": "직접 만들었어요."
+  },
+  {
+    "id": 5677,
+    "english": "I am used to this now.",
+    "korean": "이제 익숙해졌어요."
+  },
+  {
+    "id": 5678,
+    "english": "It took time but I got there.",
+    "korean": "시간이 걸렸지만 됐어요."
+  },
+  {
+    "id": 5681,
+    "english": "I adapted to everything.",
+    "korean": "모든 것에 적응했어요."
+  },
+  {
+    "id": 5739,
+    "english": "The canteen is crowded today.",
+    "korean": "오늘 구내식당이 붐벼요."
+  },
+  {
+    "id": 5754,
+    "english": "I just worked hard.",
+    "korean": "그냥 열심히 했어요."
+  },
+  {
+    "id": 5757,
+    "english": "This turned out perfectly.",
+    "korean": "완벽하게 됐어요."
+  },
+  {
+    "id": 5768,
+    "english": "That was clumsy of me.",
+    "korean": "제가 덜렁댔네요."
+  },
+  {
+    "id": 5782,
+    "english": "You earned it.",
+    "korean": "당신이 만들어 낸 거예요."
+  },
+  {
+    "id": 5804,
+    "english": "I just did.",
+    "korean": "방금 했어요."
+  },
+  {
+    "id": 5828,
+    "english": "I just needed to slow down.",
+    "korean": "그냥 천천히 해야 했어요."
+  },
+  {
+    "id": 5857,
+    "english": "I saw a stray cat this morning.",
+    "korean": "오늘 아침에 길고양이를 봤어요."
+  },
+  {
+    "id": 5861,
+    "english": "I did not have anything.",
+    "korean": "가진 게 없었어요."
+  },
+  {
+    "id": 5903,
+    "english": "I snoozed it twice.",
+    "korean": "알람을 두 번 껐어요."
+  },
+  {
+    "id": 5913,
+    "english": "My stop was missed by accident.",
+    "korean": "실수로 정류장을 지나쳤어요."
+  },
+  {
+    "id": 5923,
+    "english": "I had to ask the guard for help.",
+    "korean": "경비원한테 도움을 요청했어요."
+  },
+  {
+    "id": 5936,
+    "english": "I found it.",
+    "korean": "찾았어요."
+  },
+  {
+    "id": 5969,
+    "english": "I used to but I stopped.",
+    "korean": "피웠었는데 끊었어요."
+  },
+  {
+    "id": 5971,
+    "english": "It took a few tries.",
+    "korean": "몇 번 시도했어요."
+  },
+  {
+    "id": 5992,
+    "english": "They need to hear your voice.",
+    "korean": "목소리를 들어야 하잖아요."
+  },
+  {
+    "id": 5994,
+    "english": "I tried something new last night.",
+    "korean": "어젯밤에 새로운 걸 먹어봤어요."
+  },
+  {
+    "id": 5998,
+    "english": "I loved it actually.",
+    "korean": "사실 정말 좋았어요."
+  },
+  {
+    "id": 6023,
+    "english": "I got good feedback today.",
+    "korean": "오늘 좋은 피드백을 받았어요."
+  },
+  {
+    "id": 6026,
+    "english": "I worked hard for that.",
+    "korean": "그것을 위해 열심히 했어요."
+  },
+  {
+    "id": 6052,
+    "english": "I tried to stop at one.",
+    "korean": "한 편에서 멈추려고 했어요."
+  },
+  {
+    "id": 6053,
+    "english": "I watched four episodes.",
+    "korean": "4편 봤어요."
+  },
+  {
+    "id": 6055,
+    "english": "The story was too good to stop.",
+    "korean": "이야기가 너무 좋아서 멈출 수 없었어요."
+  },
+  {
+    "id": 6070,
+    "english": "I organized my area.",
+    "korean": "제 구역을 정리했어요."
+  },
+  {
+    "id": 6073,
+    "english": "I noticed that too.",
+    "korean": "저도 그걸 알았어요."
+  },
+  {
+    "id": 6097,
+    "english": "I also need new insoles.",
+    "korean": "안창도 새것이 필요해요."
+  },
+  {
+    "id": 6126,
+    "english": "I almost did once.",
+    "korean": "한번 거의 잊을 뻔했어요."
+  },
+  {
+    "id": 6140,
+    "english": "I met a friend after a long time.",
+    "korean": "간만에 친구를 만났어요."
+  },
+  {
+    "id": 6145,
+    "english": "You said you like games, remember?",
+    "korean": "게임 좋아한다고 했잖아요."
+  },
+  {
+    "id": 6202,
+    "english": "I was lucky.",
+    "korean": "운이 좋았어요."
+  },
+  {
+    "id": 6291,
+    "english": "He told a lie.",
+    "korean": "그는 거짓말을 했어요."
+  },
+  {
+    "id": 6293,
+    "english": "The plan failed.",
+    "korean": "계획이 망했어요."
+  },
+  {
+    "id": 6294,
+    "english": "I was so surprised at that moment.",
+    "korean": "그 순간 너무 놀랐어요."
+  },
+  {
+    "id": 6491,
+    "english": "I woke up late.",
+    "korean": "늦게 일어났어요."
+  },
+  {
+    "id": 6492,
+    "english": "I lost my wallet.",
+    "korean": "지갑을 잃어버렸어요."
+  },
+  {
+    "id": 6493,
+    "english": "I met my friend yesterday.",
+    "korean": "어제 친구를 만났어요."
+  },
+  {
+    "id": 6494,
+    "english": "I fell asleep on the bus.",
+    "korean": "버스에서 잠들었어요."
+  },
+  {
+    "id": 6495,
+    "english": "I finished work early.",
+    "korean": "일찍 끝났어요."
+  },
+  {
+    "id": 6930,
+    "english": "I missed the bus.",
+    "korean": "버스를 놓쳤어요."
+  },
+  {
+    "id": 6931,
+    "english": "I was late for work.",
+    "korean": "회사에 지각했어요."
+  },
+  {
+    "id": 6932,
+    "english": "I fell down.",
+    "korean": "넘어졌어요."
+  },
+  {
+    "id": 6933,
+    "english": "I lost my keys.",
+    "korean": "열쇠를 잃어버렸어요."
+  },
+  {
+    "id": 6934,
+    "english": "I got lost.",
+    "korean": "길을 잃었어요."
+  },
+  {
+    "id": 6935,
+    "english": "My phone fell in the water.",
+    "korean": "휴대폰이 물에 빠졌어요."
+  },
+  {
+    "id": 6936,
+    "english": "I left my wallet at home.",
+    "korean": "지갑을 두고 왔어요."
+  },
+  {
+    "id": 6937,
+    "english": "I got a call from the company.",
+    "korean": "회사에서 전화가 왔어요."
+  },
+  {
+    "id": 6938,
+    "english": "I got paid today.",
+    "korean": "오늘 월급을 받았어요."
+  },
+  {
+    "id": 6939,
+    "english": "I went to the hospital.",
+    "korean": "병원에 갔어요."
+  },
+  {
+    "id": 6940,
+    "english": "I met an old friend.",
+    "korean": "옛 친구를 만났어요."
+  },
+  {
+    "id": 6941,
+    "english": "I had a great day.",
+    "korean": "오늘 정말 좋은 하루였어요."
+  },
+  {
+    "id": 6942,
+    "english": "I worked overtime yesterday.",
+    "korean": "어제 야근했어요."
+  },
+  {
+    "id": 6943,
+    "english": "I stayed up all night.",
+    "korean": "밤을 새웠어요."
+  },
+  {
+    "id": 6944,
+    "english": "I passed the test.",
+    "korean": "시험에 합격했어요."
+  },
+  {
+    "id": 6945,
+    "english": "I failed the test.",
+    "korean": "시험에 떨어졌어요."
+  },
+  {
+    "id": 6946,
+    "english": "I moved to a new place.",
+    "korean": "새 집으로 이사했어요."
+  },
+  {
+    "id": 6947,
+    "english": "The package arrived.",
+    "korean": "택배가 도착했어요."
+  },
+  {
+    "id": 6948,
+    "english": "The shop was closed.",
+    "korean": "가게가 문을 닫았어요."
+  },
+  {
+    "id": 6949,
+    "english": "I overslept.",
+    "korean": "늦잠을 잤어요."
+  },
+  {
+    "id": 6950,
+    "english": "I caught a cold.",
+    "korean": "감기에 걸렸어요."
+  },
+  {
+    "id": 6951,
+    "english": "There was an accident.",
+    "korean": "사고가 났어요."
+  },
+  {
+    "id": 6952,
+    "english": "It rained all day.",
+    "korean": "하루 종일 비가 왔어요."
+  },
+  {
+    "id": 6953,
+    "english": "I got a new job.",
+    "korean": "새 직장을 얻었어요."
+  }
+]

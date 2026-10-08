@@ -1,0 +1,547 @@
+[
+  {
+    "id": 3,
+    "english": "Yes I understand.",
+    "korean": "네 알겠습니다."
+  },
+  {
+    "id": 15,
+    "english": "I understand.",
+    "korean": "알겠어요."
+  },
+  {
+    "id": 16,
+    "english": "I understand.",
+    "korean": "이해했어요."
+  },
+  {
+    "id": 18,
+    "english": "I don't know.",
+    "korean": "모르겠어요."
+  },
+  {
+    "id": 21,
+    "english": "Just a moment.",
+    "korean": "잠시만요."
+  },
+  {
+    "id": 41,
+    "english": "I agree.",
+    "korean": "동의해요."
+  },
+  {
+    "id": 133,
+    "english": "No thank you.",
+    "korean": "아니요 괜찮아요."
+  },
+  {
+    "id": 136,
+    "english": "Really.",
+    "korean": "정말요."
+  },
+  {
+    "id": 200,
+    "english": "I can't hear you.",
+    "korean": "안 들려요."
+  },
+  {
+    "id": 208,
+    "english": "I can't tell you.",
+    "korean": "말할 수 없어요."
+  },
+  {
+    "id": 220,
+    "english": "I can't drink.",
+    "korean": "저는 술을 못 마셔요."
+  },
+  {
+    "id": 266,
+    "english": "I can't help it.",
+    "korean": "어쩔 수 없어요."
+  },
+  {
+    "id": 283,
+    "english": "After you.",
+    "korean": "먼저 가세요."
+  },
+  {
+    "id": 298,
+    "english": "That's all I need.",
+    "korean": "필요한 건 그게 다예요."
+  },
+  {
+    "id": 305,
+    "english": "I can't stand it.",
+    "korean": "난 참을 수가 없어요."
+  },
+  {
+    "id": 309,
+    "english": "I hope so.",
+    "korean": "그렇기를 바래요."
+  },
+  {
+    "id": 346,
+    "english": "No wonder.",
+    "korean": "어쩐지 그렇더군요."
+  },
+  {
+    "id": 357,
+    "english": "That's good to know.",
+    "korean": "알아두면 좋습니다."
+  },
+  {
+    "id": 378,
+    "english": "I can't sleep.",
+    "korean": "잠을 잘 수가 없어요."
+  },
+  {
+    "id": 419,
+    "english": "I can't stop sneezing.",
+    "korean": "제 체기가 멈추지 않아요."
+  },
+  {
+    "id": 429,
+    "english": "I agree too.",
+    "korean": "저도 동의해요."
+  },
+  {
+    "id": 433,
+    "english": "I don't think so.",
+    "korean": "난 그렇게 생각 안 해요."
+  },
+  {
+    "id": 439,
+    "english": "Not bad.",
+    "korean": "나쁘지 않아요."
+  },
+  {
+    "id": 466,
+    "english": "I can't wait!",
+    "korean": "궁금해 죽겠어요!"
+  },
+  {
+    "id": 851,
+    "english": "I can't sleep well.",
+    "korean": "잠을 잘 못 자요."
+  },
+  {
+    "id": 1131,
+    "english": "I understand completely.",
+    "korean": "완전히 이해했어요."
+  },
+  {
+    "id": 1133,
+    "english": "Of course, no problem.",
+    "korean": "물론이죠 문제없어요."
+  },
+  {
+    "id": 1265,
+    "english": "No onions please.",
+    "korean": "양파 빼 주세요."
+  },
+  {
+    "id": 1291,
+    "english": "No hard feelings.",
+    "korean": "나쁜 감정은 없어요."
+  },
+  {
+    "id": 1293,
+    "english": "I think so too.",
+    "korean": "저도 그렇게 생각해요."
+  },
+  {
+    "id": 1297,
+    "english": "I see it differently.",
+    "korean": "저는 좀 다르게 생각해요."
+  },
+  {
+    "id": 2285,
+    "english": "I see.",
+    "korean": "그렇구나요."
+  },
+  {
+    "id": 2293,
+    "english": "No way.",
+    "korean": "설마요."
+  },
+  {
+    "id": 2297,
+    "english": "Of course.",
+    "korean": "당연하죠."
+  },
+  {
+    "id": 2298,
+    "english": "Absolutely.",
+    "korean": "물론이에요."
+  },
+  {
+    "id": 2299,
+    "english": "Not at all.",
+    "korean": "천만에요."
+  },
+  {
+    "id": 2301,
+    "english": "I guess so.",
+    "korean": "그런 것 같아요."
+  },
+  {
+    "id": 2302,
+    "english": "Maybe.",
+    "korean": "아마도요."
+  },
+  {
+    "id": 2303,
+    "english": "Probably.",
+    "korean": "아마 그럴 거예요."
+  },
+  {
+    "id": 2305,
+    "english": "It depends.",
+    "korean": "상황에 따라요."
+  },
+  {
+    "id": 2757,
+    "english": "No pain no gain.",
+    "korean": "고생 끝에 낙이 와요."
+  },
+  {
+    "id": 3750,
+    "english": "I understand now.",
+    "korean": "이제 알겠어요."
+  },
+  {
+    "id": 3795,
+    "english": "I understand your instructions.",
+    "korean": "지시사항 이해했어요."
+  },
+  {
+    "id": 4079,
+    "english": "Yes I see.",
+    "korean": "네 그렇군요."
+  },
+  {
+    "id": 4080,
+    "english": "Not yet.",
+    "korean": "아직이요."
+  },
+  {
+    "id": 4231,
+    "english": "True true.",
+    "korean": "맞아요 맞아요."
+  },
+  {
+    "id": 4232,
+    "english": "Exactly.",
+    "korean": "맞아요."
+  },
+  {
+    "id": 4234,
+    "english": "Not really.",
+    "korean": "딱히 그렇지 않아요."
+  },
+  {
+    "id": 4236,
+    "english": "Not sure.",
+    "korean": "잘 모르겠어요."
+  },
+  {
+    "id": 4237,
+    "english": "Maybe later.",
+    "korean": "나중에요."
+  },
+  {
+    "id": 4423,
+    "english": "Of course go ahead.",
+    "korean": "물론이에요 물어봐요."
+  },
+  {
+    "id": 4470,
+    "english": "No complaints today.",
+    "korean": "오늘은 불평 없이요."
+  },
+  {
+    "id": 4553,
+    "english": "Okay no problem.",
+    "korean": "네 괜찮아요."
+  },
+  {
+    "id": 4554,
+    "english": "Sure thing.",
+    "korean": "그럼요."
+  },
+  {
+    "id": 4608,
+    "english": "That is great news.",
+    "korean": "좋은 소식이네요."
+  },
+  {
+    "id": 4743,
+    "english": "No I will pay.",
+    "korean": "아니요 제가 낼게요."
+  },
+  {
+    "id": 4754,
+    "english": "No rush.",
+    "korean": "급하지 않아요."
+  },
+  {
+    "id": 4768,
+    "english": "That is it.",
+    "korean": "그거예요."
+  },
+  {
+    "id": 4829,
+    "english": "I understand that feeling.",
+    "korean": "그 마음이 이해돼요."
+  },
+  {
+    "id": 5038,
+    "english": "True it gets better.",
+    "korean": "그렇네요 나아져요."
+  },
+  {
+    "id": 5057,
+    "english": "No drama just work.",
+    "korean": "드라마 없이 그냥 일해요."
+  },
+  {
+    "id": 5104,
+    "english": "Not yet almost.",
+    "korean": "아직이요 거의요."
+  },
+  {
+    "id": 5256,
+    "english": "I know I know.",
+    "korean": "알아요 알아요."
+  },
+  {
+    "id": 5276,
+    "english": "Maybe thirty minutes.",
+    "korean": "30분 정도요."
+  },
+  {
+    "id": 5305,
+    "english": "No way really.",
+    "korean": "설마 정말요."
+  },
+  {
+    "id": 5342,
+    "english": "Probably all day.",
+    "korean": "아마 하루 종일이요."
+  },
+  {
+    "id": 5378,
+    "english": "Of course quality first.",
+    "korean": "물론이요 품질 먼저요."
+  },
+  {
+    "id": 5412,
+    "english": "Got it thanks.",
+    "korean": "알겠어요 감사해요."
+  },
+  {
+    "id": 5449,
+    "english": "I know keep going.",
+    "korean": "알아요 계속해요."
+  },
+  {
+    "id": 5493,
+    "english": "Yes that sounds right.",
+    "korean": "네 그게 맞는 것 같아요."
+  },
+  {
+    "id": 5503,
+    "english": "No fighting no drama.",
+    "korean": "싸움도 드라마도 없이요."
+  },
+  {
+    "id": 5556,
+    "english": "No reason just happy.",
+    "korean": "이유 없이 그냥 행복해요."
+  },
+  {
+    "id": 5564,
+    "english": "Maybe five hours.",
+    "korean": "5시간 정도요."
+  },
+  {
+    "id": 5578,
+    "english": "Sure take it.",
+    "korean": "물론이요 가져가요."
+  },
+  {
+    "id": 5600,
+    "english": "I understand that feeling.",
+    "korean": "그 느낌 이해해요."
+  },
+  {
+    "id": 5602,
+    "english": "Exactly that is satisfying.",
+    "korean": "맞아요 그게 보람 있어요."
+  },
+  {
+    "id": 5640,
+    "english": "No you choose.",
+    "korean": "아니요 당신이 골라요."
+  },
+  {
+    "id": 5648,
+    "english": "No respect no teamwork.",
+    "korean": "존중도 팀워크도 없었어요."
+  },
+  {
+    "id": 5660,
+    "english": "Okay I trust you.",
+    "korean": "알겠어요 믿을게요."
+  },
+  {
+    "id": 5668,
+    "english": "Sure go ahead.",
+    "korean": "그래요 드세요."
+  },
+  {
+    "id": 5671,
+    "english": "Yes last night.",
+    "korean": "네 어젯밤에요."
+  },
+  {
+    "id": 5712,
+    "english": "No complaints from me.",
+    "korean": "저는 불평 없어요."
+  },
+  {
+    "id": 5721,
+    "english": "I know you will.",
+    "korean": "알아요."
+  },
+  {
+    "id": 5735,
+    "english": "Exactly no surprises.",
+    "korean": "맞아요 놀랄 일이 없잖아요."
+  },
+  {
+    "id": 5753,
+    "english": "Of course anytime.",
+    "korean": "물론이요 언제든지요."
+  },
+  {
+    "id": 5769,
+    "english": "No harm done.",
+    "korean": "괜찮아요 문제없어요."
+  },
+  {
+    "id": 5832,
+    "english": "I agree no doubt.",
+    "korean": "동의해요 의심할 여지가 없어요."
+  },
+  {
+    "id": 5850,
+    "english": "No I can manage.",
+    "korean": "아니요 할 수 있어요."
+  },
+  {
+    "id": 5869,
+    "english": "Maybe fresher beans.",
+    "korean": "더 신선한 원두인가봐요."
+  },
+  {
+    "id": 5939,
+    "english": "Got it thank you.",
+    "korean": "됐어요 감사해요."
+  },
+  {
+    "id": 5967,
+    "english": "No I do not.",
+    "korean": "아니요 안 피워요."
+  },
+  {
+    "id": 6017,
+    "english": "Okay hold this side.",
+    "korean": "알겠어요 이쪽 잡아요."
+  },
+  {
+    "id": 6019,
+    "english": "Got it.",
+    "korean": "잡았어요."
+  },
+  {
+    "id": 6036,
+    "english": "Yes same time.",
+    "korean": "네 같은 시간에요."
+  },
+  {
+    "id": 6158,
+    "english": "Hmm, I'm not sure.",
+    "korean": "글쎄요… 잘 모르겠어요."
+  },
+  {
+    "id": 6165,
+    "english": "I'm not sure.",
+    "korean": "잘 모르겠습니다."
+  },
+  {
+    "id": 6187,
+    "english": "Of course.",
+    "korean": "당연하지."
+  },
+  {
+    "id": 6366,
+    "english": "Yes, that's right.",
+    "korean": "네, 맞아요."
+  },
+  {
+    "id": 6367,
+    "english": "No, it isn't.",
+    "korean": "아니요, 아니에요."
+  },
+  {
+    "id": 6368,
+    "english": "I'm not sure yet.",
+    "korean": "아직 잘 모르겠어요."
+  },
+  {
+    "id": 6369,
+    "english": "That's fine with me.",
+    "korean": "저는 괜찮아요."
+  },
+  {
+    "id": 6557,
+    "english": "No, that's not right.",
+    "korean": "아니요, 맞지 않아요."
+  },
+  {
+    "id": 6558,
+    "english": "I don't understand.",
+    "korean": "이해가 안 돼요."
+  },
+  {
+    "id": 6559,
+    "english": "Already done.",
+    "korean": "벌써 했어요."
+  },
+  {
+    "id": 6560,
+    "english": "I disagree.",
+    "korean": "저는 생각이 달라요."
+  },
+  {
+    "id": 6561,
+    "english": "Either is fine.",
+    "korean": "아무거나 괜찮아요."
+  },
+  {
+    "id": 6562,
+    "english": "Wait a moment.",
+    "korean": "잠깐만요."
+  },
+  {
+    "id": 6563,
+    "english": "I'll think about it.",
+    "korean": "생각해 볼게요."
+  },
+  {
+    "id": 6564,
+    "english": "I have no idea.",
+    "korean": "전혀 모르겠어요."
+  }
+]

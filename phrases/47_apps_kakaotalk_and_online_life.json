@@ -1,0 +1,197 @@
+[
+  {
+    "id": 7632,
+    "english": "Do you use KakaoTalk?",
+    "korean": "카카오톡 써요?"
+  },
+  {
+    "id": 7633,
+    "english": "Please send it on KakaoTalk.",
+    "korean": "카카오톡으로 보내 주세요."
+  },
+  {
+    "id": 7634,
+    "english": "Let's make a group chat.",
+    "korean": "단톡방 만들어요."
+  },
+  {
+    "id": 7635,
+    "english": "I'll invite you to the chat room.",
+    "korean": "채팅방에 초대할게요."
+  },
+  {
+    "id": 7636,
+    "english": "Please check the group chat.",
+    "korean": "단톡방 확인해 주세요."
+  },
+  {
+    "id": 7637,
+    "english": "I'll text you.",
+    "korean": "문자할게요."
+  },
+  {
+    "id": 7638,
+    "english": "Please read my message.",
+    "korean": "메시지 읽어 주세요."
+  },
+  {
+    "id": 7639,
+    "english": "I saw your message.",
+    "korean": "메시지 봤어요."
+  },
+  {
+    "id": 7640,
+    "english": "Sorry, I didn't see your message.",
+    "korean": "죄송해요, 메시지 못 봤어요."
+  },
+  {
+    "id": 7641,
+    "english": "Which map app do you use?",
+    "korean": "어떤 지도 앱 써요?"
+  },
+  {
+    "id": 7642,
+    "english": "Try using Naver Map.",
+    "korean": "네이버 지도를 써 보세요."
+  },
+  {
+    "id": 7643,
+    "english": "Please search for it on the map.",
+    "korean": "지도에서 검색해 보세요."
+  },
+  {
+    "id": 7644,
+    "english": "Let me search for it.",
+    "korean": "검색해 볼게요."
+  },
+  {
+    "id": 7645,
+    "english": "Can you share your location?",
+    "korean": "위치를 공유해 주실래요?"
+  },
+  {
+    "id": 7646,
+    "english": "I'll share my location.",
+    "korean": "제 위치를 공유할게요."
+  },
+  {
+    "id": 7647,
+    "english": "Do you have the Kakao Taxi app?",
+    "korean": "카카오택시 앱 있어요?"
+  },
+  {
+    "id": 7648,
+    "english": "Please call a taxi on the app.",
+    "korean": "앱으로 택시 불러 주세요."
+  },
+  {
+    "id": 7649,
+    "english": "Please install this app.",
+    "korean": "이 앱을 설치해 주세요."
+  },
+  {
+    "id": 7650,
+    "english": "Please log in.",
+    "korean": "로그인해 주세요."
+  },
+  {
+    "id": 7651,
+    "english": "Please sign up.",
+    "korean": "회원 가입해 주세요."
+  },
+  {
+    "id": 7652,
+    "english": "I need to verify my identity.",
+    "korean": "본인 인증이 필요해요."
+  },
+  {
+    "id": 7653,
+    "english": "The verification code didn't come.",
+    "korean": "인증번호가 안 와요."
+  },
+  {
+    "id": 7654,
+    "english": "Please enter the verification code.",
+    "korean": "인증번호를 입력해 주세요."
+  },
+  {
+    "id": 7655,
+    "english": "My account is locked.",
+    "korean": "계정이 잠겼어요."
+  },
+  {
+    "id": 7656,
+    "english": "What is your ID?",
+    "korean": "아이디가 뭐예요?"
+  },
+  {
+    "id": 7657,
+    "english": "I can't log in.",
+    "korean": "로그인이 안 돼요."
+  },
+  {
+    "id": 7658,
+    "english": "The app keeps crashing.",
+    "korean": "앱이 계속 꺼져요."
+  },
+  {
+    "id": 7659,
+    "english": "Please update the app.",
+    "korean": "앱을 업데이트해 주세요."
+  },
+  {
+    "id": 7660,
+    "english": "The app is only in Korean.",
+    "korean": "앱이 한국어로만 되어 있어요."
+  },
+  {
+    "id": 7661,
+    "english": "Can I change the language to English?",
+    "korean": "언어를 영어로 바꿀 수 있어요?"
+  },
+  {
+    "id": 7662,
+    "english": "Please use a translation app.",
+    "korean": "번역 앱을 써 주세요."
+  },
+  {
+    "id": 7663,
+    "english": "Please speak into the phone.",
+    "korean": "휴대폰에 대고 말씀해 주세요."
+  },
+  {
+    "id": 7664,
+    "english": "Can I send you money through an app?",
+    "korean": "앱으로 송금해도 돼요?"
+  },
+  {
+    "id": 7665,
+    "english": "Please send it through Toss.",
+    "korean": "토스로 보내 주세요."
+  },
+  {
+    "id": 7666,
+    "english": "Please scan the QR code.",
+    "korean": "QR코드를 스캔해 주세요."
+  },
+  {
+    "id": 7667,
+    "english": "Can I pay with a QR code?",
+    "korean": "QR코드로 결제할 수 있어요?"
+  },
+  {
+    "id": 7668,
+    "english": "Is there a coupon?",
+    "korean": "쿠폰 있어요?"
+  },
+  {
+    "id": 7669,
+    "english": "Please apply the coupon.",
+    "korean": "쿠폰 적용해 주세요."
+  },
+  {
+    "id": 7670,
+    "english": "I'd like to leave a review.",
+    "korean": "리뷰를 남기고 싶어요."
+  }
+]

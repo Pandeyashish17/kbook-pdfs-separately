@@ -1,0 +1,212 @@
+[
+  {
+    "id": 8,
+    "english": "What is your name?",
+    "korean": "이름이 뭐예요?"
+  },
+  {
+    "id": 137,
+    "english": "How old are you?",
+    "korean": "몇 살이세요?"
+  },
+  {
+    "id": 142,
+    "english": "I am a student.",
+    "korean": "저는 학생입니다."
+  },
+  {
+    "id": 948,
+    "english": "I am from Nepal.",
+    "korean": "저는 네팔에서 왔어요."
+  },
+  {
+    "id": 1191,
+    "english": "I am 28 years old.",
+    "korean": "저는 28살이에요."
+  },
+  {
+    "id": 1403,
+    "english": "I live in Gyeongju.",
+    "korean": "경주에 살아요."
+  },
+  {
+    "id": 1664,
+    "english": "How old is she?",
+    "korean": "그 분 몇 살이에요?"
+  },
+  {
+    "id": 2113,
+    "english": "I am from Rupandehi province in Nepal.",
+    "korean": "저는 네팔 루판데히 출신이에요."
+  },
+  {
+    "id": 6188,
+    "english": "We are the same age.",
+    "korean": "우리는 동갑이에요."
+  },
+  {
+    "id": 6189,
+    "english": "I was born in 2004.",
+    "korean": "2004년생입니다."
+  },
+  {
+    "id": 6272,
+    "english": "Are you also Korean?",
+    "korean": "그쪽도 한국 사람이에요?"
+  },
+  {
+    "id": 6273,
+    "english": "Where are you from?",
+    "korean": "그쪽은 어디에서 왔어요?"
+  },
+  {
+    "id": 6274,
+    "english": "Are you also from Nepal?",
+    "korean": "그쪽도 네팔 사람이에요?"
+  },
+  {
+    "id": 6276,
+    "english": "What's your name?",
+    "korean": "그쪽 이름이 뭐예요?"
+  },
+  {
+    "id": 6445,
+    "english": "I work at a factory.",
+    "korean": "저는 공장에서 일해요."
+  },
+  {
+    "id": 6446,
+    "english": "I'm still learning Korean.",
+    "korean": "아직 한국어를 배우고 있어요."
+  },
+  {
+    "id": 6863,
+    "english": "My name is Ashu.",
+    "korean": "제 이름은 아슈예요."
+  },
+  {
+    "id": 6864,
+    "english": "Please call me Ashu.",
+    "korean": "아슈라고 불러 주세요."
+  },
+  {
+    "id": 6865,
+    "english": "Nice to meet you, I'm Ashu.",
+    "korean": "만나서 반갑습니다. 저는 아슈입니다."
+  },
+  {
+    "id": 6866,
+    "english": "I'm from Lumbini, Nepal.",
+    "korean": "저는 네팔 룸비니에서 왔어요."
+  },
+  {
+    "id": 6867,
+    "english": "I'm Nepali.",
+    "korean": "저는 네팔 사람이에요."
+  },
+  {
+    "id": 6868,
+    "english": "I was born in Nepal.",
+    "korean": "저는 네팔에서 태어났어요."
+  },
+  {
+    "id": 6869,
+    "english": "I live in Korea now.",
+    "korean": "지금 한국에 살고 있어요."
+  },
+  {
+    "id": 6870,
+    "english": "It's my first time in Korea.",
+    "korean": "한국은 처음이에요."
+  },
+  {
+    "id": 6871,
+    "english": "I came to Korea last month.",
+    "korean": "지난달에 한국에 왔어요."
+  },
+  {
+    "id": 6872,
+    "english": "I plan to stay for four years.",
+    "korean": "4년 동안 있을 계획이에요."
+  },
+  {
+    "id": 6873,
+    "english": "I'm twenty-eight years old.",
+    "korean": "저는 스물여덟 살이에요."
+  },
+  {
+    "id": 6874,
+    "english": "I'm a student.",
+    "korean": "저는 학생이에요."
+  },
+  {
+    "id": 6875,
+    "english": "I'm a welder.",
+    "korean": "저는 용접공이에요."
+  },
+  {
+    "id": 6876,
+    "english": "I'm learning Korean.",
+    "korean": "한국어를 배우고 있어요."
+  },
+  {
+    "id": 6877,
+    "english": "I speak Nepali and English.",
+    "korean": "저는 네팔어와 영어를 해요."
+  },
+  {
+    "id": 6878,
+    "english": "I speak a little Korean.",
+    "korean": "한국어를 조금 해요."
+  },
+  {
+    "id": 6879,
+    "english": "What do you do for a living?",
+    "korean": "무슨 일을 하세요?"
+  },
+  {
+    "id": 6880,
+    "english": "Where do you work?",
+    "korean": "어디에서 일하세요?"
+  },
+  {
+    "id": 6881,
+    "english": "What is your phone number?",
+    "korean": "전화번호가 어떻게 되세요?"
+  },
+  {
+    "id": 6882,
+    "english": "My phone number is 010-1234-5678.",
+    "korean": "제 전화번호는 010-1234-5678이에요."
+  },
+  {
+    "id": 6883,
+    "english": "What is your address?",
+    "korean": "주소가 어떻게 되세요?"
+  },
+  {
+    "id": 6884,
+    "english": "How do you spell your name?",
+    "korean": "이름 철자가 어떻게 돼요?"
+  },
+  {
+    "id": 6885,
+    "english": "Where were you born?",
+    "korean": "어디에서 태어났어요?"
+  },
+  {
+    "id": 6886,
+    "english": "What is your nationality?",
+    "korean": "국적이 어디예요?"
+  },
+  {
+    "id": 6887,
+    "english": "What is your hobby?",
+    "korean": "취미가 뭐예요?"
+  },
+  {
+    "id": 6888,
+    "english": "My hobby is reading.",
+    "korean": "제 취미는 독서예요."
+  }
+]

@@ -1,0 +1,927 @@
+[
+  {
+    "id": 111,
+    "english": "I can only speak a little Korean.",
+    "korean": "저는 한국어를 조금만 할 수 있어요."
+  },
+  {
+    "id": 227,
+    "english": "Are you Korean?",
+    "korean": "한국인이세요?"
+  },
+  {
+    "id": 371,
+    "english": "I respect you.",
+    "korean": "나는 당신을 존경해요."
+  },
+  {
+    "id": 908,
+    "english": "How do you say this in Korean?",
+    "korean": "이걸 한국어로 어떻게 말해요?"
+  },
+  {
+    "id": 911,
+    "english": "I am learning Korean.",
+    "korean": "한국어를 배우고 있어요."
+  },
+  {
+    "id": 912,
+    "english": "My Korean is not very good.",
+    "korean": "한국어를 잘 못해요."
+  },
+  {
+    "id": 918,
+    "english": "Is my Korean understandable?",
+    "korean": "제 한국어 알아들을 수 있어요?"
+  },
+  {
+    "id": 919,
+    "english": "I am studying Korean every day.",
+    "korean": "매일 한국어를 공부해요."
+  },
+  {
+    "id": 920,
+    "english": "Can you correct my Korean?",
+    "korean": "한국어 틀린 거 고쳐줄 수 있어요?"
+  },
+  {
+    "id": 921,
+    "english": "How long did it take you to learn Korean?",
+    "korean": "한국어 배우는 데 얼마나 걸렸어요?"
+  },
+  {
+    "id": 922,
+    "english": "I want to be fluent in Korean.",
+    "korean": "한국어를 유창하게 하고 싶어요."
+  },
+  {
+    "id": 923,
+    "english": "Korean grammar is difficult.",
+    "korean": "한국어 문법이 어려워요."
+  },
+  {
+    "id": 949,
+    "english": "How long have you been in Korea?",
+    "korean": "한국에 온 지 얼마나 됐어요?"
+  },
+  {
+    "id": 958,
+    "english": "I want to see Korean traditional culture.",
+    "korean": "한국 전통 문화를 보고 싶어요."
+  },
+  {
+    "id": 960,
+    "english": "I really like Korea.",
+    "korean": "한국이 정말 좋아요."
+  },
+  {
+    "id": 961,
+    "english": "Korean people are very kind.",
+    "korean": "한국 사람들이 정말 친절해요."
+  },
+  {
+    "id": 965,
+    "english": "What do Koreans do for fun?",
+    "korean": "한국 사람들은 보통 뭐 하며 놀아요?"
+  },
+  {
+    "id": 970,
+    "english": "I am adapting slowly.",
+    "korean": "천천히 적응하고 있어요."
+  },
+  {
+    "id": 971,
+    "english": "Life in Korea is interesting.",
+    "korean": "한국 생활이 재미있어요."
+  },
+  {
+    "id": 1046,
+    "english": "I study Korean for 1 hour a day.",
+    "korean": "하루에 1시간 한국어를 공부해요."
+  },
+  {
+    "id": 1104,
+    "english": "I feel a bit homesick today.",
+    "korean": "오늘 좀 고국이 그리워요."
+  },
+  {
+    "id": 1143,
+    "english": "Should I bow when greeting?",
+    "korean": "인사할 때 고개를 숙여야 해요?"
+  },
+  {
+    "id": 1144,
+    "english": "I should use two hands to receive this.",
+    "korean": "두 손으로 받아야 하죠."
+  },
+  {
+    "id": 1146,
+    "english": "I heard seniority is important here.",
+    "korean": "여기서는 서열이 중요하다고 들었어요."
+  },
+  {
+    "id": 1147,
+    "english": "I want to understand Korean culture better.",
+    "korean": "한국 문화를 더 잘 이해하고 싶어요."
+  },
+  {
+    "id": 1148,
+    "english": "Is tipping customary in Korea?",
+    "korean": "한국에서는 팁을 주나요?"
+  },
+  {
+    "id": 1153,
+    "english": "Happy Chuseok.",
+    "korean": "추석 잘 보내세요."
+  },
+  {
+    "id": 1164,
+    "english": "I want to try a Korean jjimjilbang.",
+    "korean": "찜질방에 가보고 싶어요."
+  },
+  {
+    "id": 1211,
+    "english": "I hope to come back to Korea someday.",
+    "korean": "언젠가 다시 한국에 오고 싶어요."
+  },
+  {
+    "id": 1277,
+    "english": "Where do I register as a foreigner?",
+    "korean": "외국인 등록은 어디서 해요?"
+  },
+  {
+    "id": 1453,
+    "english": "Age matters a lot in Korea.",
+    "korean": "한국에서는 나이가 중요해요."
+  },
+  {
+    "id": 1458,
+    "english": "In Korea people often ask personal questions.",
+    "korean": "한국에서는 개인적인 질문을 많이 해요."
+  },
+  {
+    "id": 1460,
+    "english": "Korean age is one year older.",
+    "korean": "한국 나이는 한 살 더 많아요."
+  },
+  {
+    "id": 1461,
+    "english": "What is your Korean age?",
+    "korean": "한국 나이가 어떻게 돼요?"
+  },
+  {
+    "id": 1464,
+    "english": "In Nepal we also respect elders.",
+    "korean": "네팔에서도 어른을 공경해요."
+  },
+  {
+    "id": 1465,
+    "english": "That is similar to our culture.",
+    "korean": "저희 문화와 비슷하네요."
+  },
+  {
+    "id": 1467,
+    "english": "Koreans are very hardworking.",
+    "korean": "한국 사람들은 정말 부지런해요."
+  },
+  {
+    "id": 1517,
+    "english": "Korean variety shows are funny.",
+    "korean": "한국 예능이 웃겨요."
+  },
+  {
+    "id": 1521,
+    "english": "Korean webtoons are really interesting.",
+    "korean": "한국 웹툰이 정말 재미있어요."
+  },
+  {
+    "id": 1533,
+    "english": "I came to Korea 6 months ago.",
+    "korean": "6개월 전에 한국에 왔어요."
+  },
+  {
+    "id": 1546,
+    "english": "I want to take a Korean class.",
+    "korean": "한국어 수업을 듣고 싶어요."
+  },
+  {
+    "id": 1549,
+    "english": "Reading Korean is harder than speaking.",
+    "korean": "한국어 읽기가 말하기보다 어려워요."
+  },
+  {
+    "id": 1550,
+    "english": "I know about 500 Korean words now.",
+    "korean": "이제 한국어 단어를 500개 정도 알아요."
+  },
+  {
+    "id": 1592,
+    "english": "I am looking for Nepali spices.",
+    "korean": "네팔 향신료를 찾고 있어요."
+  },
+  {
+    "id": 1743,
+    "english": "How do you count in Korean?",
+    "korean": "한국어로 어떻게 세어요?"
+  },
+  {
+    "id": 1751,
+    "english": "How do I say first in Korean?",
+    "korean": "한국어로 첫 번째가 뭐예요?"
+  },
+  {
+    "id": 1792,
+    "english": "I want to try Korean martial arts.",
+    "korean": "한국 무술을 배워보고 싶어요."
+  },
+  {
+    "id": 1808,
+    "english": "Korea has four distinct seasons.",
+    "korean": "한국은 사계절이 뚜렷해요."
+  },
+  {
+    "id": 1885,
+    "english": "Working abroad is challenging but rewarding.",
+    "korean": "해외에서 일하는 건 힘들지만 보람 있어요."
+  },
+  {
+    "id": 1891,
+    "english": "I am adapting well to life here.",
+    "korean": "여기 생활에 잘 적응하고 있어요."
+  },
+  {
+    "id": 1914,
+    "english": "Do you have plans for Chuseok?",
+    "korean": "추석에 계획 있어요?"
+  },
+  {
+    "id": 1915,
+    "english": "I want to experience a Korean holiday.",
+    "korean": "한국 명절을 경험해보고 싶어요."
+  },
+  {
+    "id": 1918,
+    "english": "What do you do on New Year's in Korea?",
+    "korean": "한국에서는 새해에 뭘 해요?"
+  },
+  {
+    "id": 1921,
+    "english": "How long is the Chuseok holiday?",
+    "korean": "추석 연휴가 며칠이에요?"
+  },
+  {
+    "id": 1950,
+    "english": "I want to send a package to Nepal.",
+    "korean": "네팔로 소포를 보내고 싶어요."
+  },
+  {
+    "id": 1962,
+    "english": "Korea has developed so much.",
+    "korean": "한국이 정말 많이 발전했어요."
+  },
+  {
+    "id": 1964,
+    "english": "Korean technology is very advanced.",
+    "korean": "한국 기술이 정말 발달해 있어요."
+  },
+  {
+    "id": 1966,
+    "english": "Korea is very safe compared to many countries.",
+    "korean": "한국은 많은 나라에 비해 정말 안전해요."
+  },
+  {
+    "id": 1969,
+    "english": "Healthcare is affordable in Korea.",
+    "korean": "한국에서 의료비가 저렴해요."
+  },
+  {
+    "id": 1970,
+    "english": "Korean education is highly valued.",
+    "korean": "한국에서는 교육을 매우 중요시해요."
+  },
+  {
+    "id": 1974,
+    "english": "Koreans take great pride in their culture.",
+    "korean": "한국 사람들은 자국 문화에 큰 자부심을 가지고 있어요."
+  },
+  {
+    "id": 1975,
+    "english": "I want to understand Korea better.",
+    "korean": "한국을 더 잘 이해하고 싶어요."
+  },
+  {
+    "id": 1976,
+    "english": "I respect Korean traditions.",
+    "korean": "한국 전통을 존중해요."
+  },
+  {
+    "id": 2104,
+    "english": "Nepal is a beautiful country.",
+    "korean": "네팔은 아름다운 나라예요."
+  },
+  {
+    "id": 2105,
+    "english": "Mount Everest is in Nepal.",
+    "korean": "에베레스트 산이 네팔에 있어요."
+  },
+  {
+    "id": 2106,
+    "english": "Nepal has many Hindu temples.",
+    "korean": "네팔에는 힌두교 사원이 많아요."
+  },
+  {
+    "id": 2108,
+    "english": "Nepal and Korea are very different.",
+    "korean": "네팔과 한국은 많이 달라요."
+  },
+  {
+    "id": 2110,
+    "english": "The currency in Nepal is rupee.",
+    "korean": "네팔 화폐는 루피예요."
+  },
+  {
+    "id": 2111,
+    "english": "Nepal is between India and China.",
+    "korean": "네팔은 인도와 중국 사이에 있어요."
+  },
+  {
+    "id": 2114,
+    "english": "Nepal has a very diverse culture.",
+    "korean": "네팔은 다양한 문화를 가지고 있어요."
+  },
+  {
+    "id": 2188,
+    "english": "I believe in treating everyone with respect.",
+    "korean": "모든 사람을 존중하는 게 중요하다고 생각해요."
+  },
+  {
+    "id": 2220,
+    "english": "In my culture we speak very directly.",
+    "korean": "저희 문화에서는 매우 직접적으로 말해요."
+  },
+  {
+    "id": 2221,
+    "english": "I am still learning Korean communication style.",
+    "korean": "한국 소통 방식을 배우고 있어요."
+  },
+  {
+    "id": 2261,
+    "english": "I use Naver to search in Korean.",
+    "korean": "한국어로 검색할 때 네이버를 써요."
+  },
+  {
+    "id": 2267,
+    "english": "I love how convenient Korea is.",
+    "korean": "한국이 얼마나 편리한지 정말 좋아요."
+  },
+  {
+    "id": 2394,
+    "english": "Is there a fee for overseas transfers?",
+    "korean": "해외 송금 수수료가 있어요?"
+  },
+  {
+    "id": 2400,
+    "english": "Can I check my transaction history?",
+    "korean": "거래 내역을 확인할 수 있어요?"
+  },
+  {
+    "id": 2429,
+    "english": "In Korea the eldest eats first.",
+    "korean": "한국에서는 연장자가 먼저 드세요."
+  },
+  {
+    "id": 2431,
+    "english": "I bow slightly when greeting elders.",
+    "korean": "어른께 인사할 때 살짝 절해요."
+  },
+  {
+    "id": 2437,
+    "english": "Jeong means deep emotional bonds.",
+    "korean": "정은 깊은 감정적 유대를 의미해요."
+  },
+  {
+    "id": 2438,
+    "english": "Han is a feeling unique to Koreans.",
+    "korean": "한은 한국인 특유의 감정이에요."
+  },
+  {
+    "id": 2439,
+    "english": "Koreans are very community oriented.",
+    "korean": "한국 사람들은 공동체 의식이 강해요."
+  },
+  {
+    "id": 2441,
+    "english": "I try to follow Korean table manners.",
+    "korean": "한국 식사 예절을 따르려고 해요."
+  },
+  {
+    "id": 2442,
+    "english": "I always wait for elders to sit first.",
+    "korean": "항상 어른이 먼저 앉으시길 기다려요."
+  },
+  {
+    "id": 2463,
+    "english": "Nepal has eight of the world's highest peaks.",
+    "korean": "세계 최고봉 중 8개가 네팔에 있어요."
+  },
+  {
+    "id": 2465,
+    "english": "Nepal has a population of about 30 million.",
+    "korean": "네팔 인구는 약 3천만 명이에요."
+  },
+  {
+    "id": 2466,
+    "english": "Kathmandu is the capital of Nepal.",
+    "korean": "카트만두가 네팔의 수도예요."
+  },
+  {
+    "id": 2470,
+    "english": "Nepal and Korea have good relations.",
+    "korean": "네팔과 한국은 좋은 관계를 유지하고 있어요."
+  },
+  {
+    "id": 2472,
+    "english": "Working in Korea has changed my life.",
+    "korean": "한국에서 일하는 것이 제 삶을 바꿨어요."
+  },
+  {
+    "id": 2474,
+    "english": "There are many Nepali workers in Korea.",
+    "korean": "한국에 네팔 근로자들이 많아요."
+  },
+  {
+    "id": 2630,
+    "english": "I respect the Korean way of life.",
+    "korean": "한국의 생활 방식을 존중해요."
+  },
+  {
+    "id": 2631,
+    "english": "Learning Korean customs makes life easier.",
+    "korean": "한국 관습을 배우면 생활이 편해져요."
+  },
+  {
+    "id": 2634,
+    "english": "I feel like part of the community now.",
+    "korean": "이제 이 공동체의 일원이 된 것 같아요."
+  },
+  {
+    "id": 2638,
+    "english": "The traditional architecture here is beautiful.",
+    "korean": "여기 전통 건축물이 아름다워요."
+  },
+  {
+    "id": 2653,
+    "english": "Nepal is very mountainous and green.",
+    "korean": "네팔은 산이 많고 초록빛이 아름다워요."
+  },
+  {
+    "id": 2654,
+    "english": "In Nepal we celebrate Tihar with lights.",
+    "korean": "네팔에서는 빛으로 티하르를 축하해요."
+  },
+  {
+    "id": 2655,
+    "english": "Dashain is like Chuseok in Nepal.",
+    "korean": "다샤인이 네팔의 추석 같은 명절이에요."
+  },
+  {
+    "id": 2657,
+    "english": "The Nepali diaspora in Korea is growing.",
+    "korean": "한국의 네팔 교민 사회가 커지고 있어요."
+  },
+  {
+    "id": 2661,
+    "english": "Korean and Nepali people have similar values.",
+    "korean": "한국과 네팔 사람들은 비슷한 가치관을 가지고 있어요."
+  },
+  {
+    "id": 2664,
+    "english": "I hope more Nepali people can come to Korea.",
+    "korean": "더 많은 네팔 사람들이 한국에 올 수 있으면 좋겠어요."
+  },
+  {
+    "id": 3081,
+    "english": "Living abroad has changed me.",
+    "korean": "해외 생활이 저를 변화시켰어요."
+  },
+  {
+    "id": 3282,
+    "english": "Korea is so different from Nepal.",
+    "korean": "한국은 네팔과 정말 달라요."
+  },
+  {
+    "id": 3297,
+    "english": "Korea has given me so much.",
+    "korean": "한국이 제게 많은 것을 줬어요."
+  },
+  {
+    "id": 3299,
+    "english": "This country has shaped who I am.",
+    "korean": "이 나라가 제가 누구인지를 만들어줬어요."
+  },
+  {
+    "id": 3301,
+    "english": "Korea will always have a place in my heart.",
+    "korean": "한국은 항상 제 마음속에 있을 거예요."
+  },
+  {
+    "id": 3583,
+    "english": "Manual workers deserve more respect.",
+    "korean": "현장 근로자들이 더 많은 존중을 받아야 해요."
+  },
+  {
+    "id": 3604,
+    "english": "The bow section is complete.",
+    "korean": "선수 구역이 완성됐어요."
+  },
+  {
+    "id": 3660,
+    "english": "The Korean vocational certification is respected worldwide.",
+    "korean": "한국 기술 자격증은 전 세계적으로 인정받아요."
+  },
+  {
+    "id": 3670,
+    "english": "I am becoming more confident in Korean.",
+    "korean": "한국어에 점점 더 자신감이 생겨요."
+  },
+  {
+    "id": 3671,
+    "english": "My Korean has improved so much.",
+    "korean": "한국어 실력이 정말 많이 늘었어요."
+  },
+  {
+    "id": 3692,
+    "english": "I refuse to give up on my Korean.",
+    "korean": "한국어를 포기하지 않을 거예요."
+  },
+  {
+    "id": 3701,
+    "english": "They are patient with my Korean mistakes.",
+    "korean": "그분들이 제 한국어 실수에 인내심을 가져줘요."
+  },
+  {
+    "id": 3725,
+    "english": "Nepal needs more skilled workers like us.",
+    "korean": "네팔에는 우리 같은 숙련 기술자가 필요해요."
+  },
+  {
+    "id": 3726,
+    "english": "I dream of starting something in Nepal.",
+    "korean": "네팔에서 무언가를 시작하는 꿈이 있어요."
+  },
+  {
+    "id": 3962,
+    "english": "How do you say this in Korean?",
+    "korean": "이걸 한국어로 어떻게 해요?"
+  },
+  {
+    "id": 4002,
+    "english": "Your Korean is much better now.",
+    "korean": "한국어가 많이 늘었어요."
+  },
+  {
+    "id": 4014,
+    "english": "I like living in Korea.",
+    "korean": "한국에서 사는 게 좋아요."
+  },
+  {
+    "id": 4204,
+    "english": "Korea is a very modern country.",
+    "korean": "한국은 정말 현대적인 나라예요."
+  },
+  {
+    "id": 4207,
+    "english": "Korean people are very proud of their country.",
+    "korean": "한국 사람들은 자국에 정말 자부심을 가지고 있어요."
+  },
+  {
+    "id": 4209,
+    "english": "Korea has achieved so much.",
+    "korean": "한국이 정말 많이 이루었어요."
+  },
+  {
+    "id": 4210,
+    "english": "The country is very developed.",
+    "korean": "나라가 정말 발달해 있어요."
+  },
+  {
+    "id": 4211,
+    "english": "I learn from Korea every day.",
+    "korean": "매일 한국에서 배워요."
+  },
+  {
+    "id": 4212,
+    "english": "Korea changed my way of thinking.",
+    "korean": "한국이 제 생각하는 방식을 바꿨어요."
+  },
+  {
+    "id": 4216,
+    "english": "Korea taught me to be more organized.",
+    "korean": "한국이 저를 더 체계적으로 만들었어요."
+  },
+  {
+    "id": 4507,
+    "english": "We respect each other here.",
+    "korean": "우리 서로 존중해요."
+  },
+  {
+    "id": 4509,
+    "english": "That is the culture I love about here.",
+    "korean": "여기서 제가 좋아하는 문화예요."
+  },
+  {
+    "id": 4564,
+    "english": "How long have you lived in Korea?",
+    "korean": "한국에 산 지 얼마나 됐어요?"
+  },
+  {
+    "id": 4565,
+    "english": "What do you like most about Korea?",
+    "korean": "한국에서 뭐가 제일 좋아요?"
+  },
+  {
+    "id": 4568,
+    "english": "Can you read Korean letters?",
+    "korean": "한국어 글자를 읽을 수 있어요?"
+  },
+  {
+    "id": 4569,
+    "english": "Are you studying Korean?",
+    "korean": "한국어 공부하고 있어요?"
+  },
+  {
+    "id": 4570,
+    "english": "Your Korean is getting good.",
+    "korean": "한국어가 많이 늘었네요."
+  },
+  {
+    "id": 4574,
+    "english": "Where have you been in Korea?",
+    "korean": "한국 어디어디 가봤어요?"
+  },
+  {
+    "id": 4576,
+    "english": "Would you stay in Korea long term?",
+    "korean": "한국에 오래 있을 거예요?"
+  },
+  {
+    "id": 4578,
+    "english": "Korea grows on you does it not?",
+    "korean": "한국이 점점 좋아지지요?"
+  },
+  {
+    "id": 4582,
+    "english": "Korea will always have a place in my heart.",
+    "korean": "한국은 항상 제 마음에 있을 거예요."
+  },
+  {
+    "id": 4584,
+    "english": "Living abroad changed me.",
+    "korean": "해외에서 사는 게 저를 바꿨어요."
+  },
+  {
+    "id": 4700,
+    "english": "It is from my country.",
+    "korean": "제 나라 것이에요."
+  },
+  {
+    "id": 4800,
+    "english": "Nepal is in Asia near India.",
+    "korean": "네팔은 인도 근처 아시아에 있어요."
+  },
+  {
+    "id": 4801,
+    "english": "It is a beautiful country.",
+    "korean": "아름다운 나라예요."
+  },
+  {
+    "id": 4803,
+    "english": "Mount Everest is in my country.",
+    "korean": "에베레스트 산이 제 나라에 있어요."
+  },
+  {
+    "id": 4839,
+    "english": "How do you say thank you in Korean again?",
+    "korean": "한국어로 감사합니다가 또 뭐였죠?"
+  },
+  {
+    "id": 4852,
+    "english": "Korean is not so hard with practice.",
+    "korean": "연습하면 한국어 그렇게 어렵지 않아요."
+  },
+  {
+    "id": 4915,
+    "english": "What is your favorite thing about Korea so far?",
+    "korean": "지금까지 한국에서 가장 좋은 게 뭐예요?"
+  },
+  {
+    "id": 4931,
+    "english": "Korean is making you smarter.",
+    "korean": "한국어가 당신을 더 똑똑하게 만들고 있어요."
+  },
+  {
+    "id": 4979,
+    "english": "I am trying to use Korean every chance I get.",
+    "korean": "기회가 있을 때마다 한국어를 쓰려고 해요."
+  },
+  {
+    "id": 4988,
+    "english": "I am thankful for patient Koreans.",
+    "korean": "인내심 있는 한국 사람들이 감사해요."
+  },
+  {
+    "id": 5167,
+    "english": "That is what it means to live abroad.",
+    "korean": "그게 해외에서 사는 게 어떤 건지를 말해줘요."
+  },
+  {
+    "id": 5194,
+    "english": "A real sense of community.",
+    "korean": "진정한 공동체 의식이요."
+  },
+  {
+    "id": 5326,
+    "english": "I do not know the title in Korean yet.",
+    "korean": "아직 한국어 제목을 몰라요."
+  },
+  {
+    "id": 5684,
+    "english": "You speak more Korean than you think.",
+    "korean": "생각보다 한국어를 더 잘해요."
+  },
+  {
+    "id": 5836,
+    "english": "And we respect each other.",
+    "korean": "그리고 서로 존중하니까요."
+  },
+  {
+    "id": 5866,
+    "english": "Koreans love cats it seems.",
+    "korean": "한국 사람들은 고양이를 좋아하는 것 같아요."
+  },
+  {
+    "id": 6040,
+    "english": "Oh there are others from Nepal here too.",
+    "korean": "아 여기 네팔 사람들이 더 있어요."
+  },
+  {
+    "id": 6044,
+    "english": "Community is so important.",
+    "korean": "공동체가 정말 중요해요."
+  },
+  {
+    "id": 6045,
+    "english": "Especially living abroad.",
+    "korean": "특히 해외에 살 때요."
+  },
+  {
+    "id": 6505,
+    "english": "How do Koreans celebrate Chuseok?",
+    "korean": "한국 사람들은 추석을 어떻게 보내요?"
+  },
+  {
+    "id": 6506,
+    "english": "Please take off your shoes.",
+    "korean": "신발을 벗어 주세요."
+  },
+  {
+    "id": 6507,
+    "english": "Koreans bow when they greet.",
+    "korean": "한국 사람들은 인사할 때 허리를 숙여요."
+  },
+  {
+    "id": 7317,
+    "english": "What is Chuseok?",
+    "korean": "추석이 뭐예요?"
+  },
+  {
+    "id": 7318,
+    "english": "Do you celebrate Seollal?",
+    "korean": "설날을 쇠세요?"
+  },
+  {
+    "id": 7319,
+    "english": "Koreans eat tteokguk on New Year's Day.",
+    "korean": "한국에서는 설날에 떡국을 먹어요."
+  },
+  {
+    "id": 7320,
+    "english": "We celebrate Dashain in Nepal.",
+    "korean": "네팔에서는 다사인을 지내요."
+  },
+  {
+    "id": 7321,
+    "english": "We celebrate Tihar in Nepal.",
+    "korean": "네팔에서는 티하르를 지내요."
+  },
+  {
+    "id": 7322,
+    "english": "Dal bhat is the staple food of Nepal.",
+    "korean": "달밧은 네팔의 기본 음식이에요."
+  },
+  {
+    "id": 7323,
+    "english": "Do you know momo?",
+    "korean": "모모 아세요?"
+  },
+  {
+    "id": 7324,
+    "english": "Nepal has the Himalayas.",
+    "korean": "네팔에는 히말라야가 있어요."
+  },
+  {
+    "id": 7325,
+    "english": "Lumbini is the birthplace of Buddha.",
+    "korean": "룸비니는 부처님이 태어나신 곳이에요."
+  },
+  {
+    "id": 7326,
+    "english": "Do I take off my shoes inside?",
+    "korean": "안에서 신발을 벗어야 해요?"
+  },
+  {
+    "id": 7327,
+    "english": "Please give it with both hands.",
+    "korean": "드릴 때는 두 손으로 드리세요."
+  },
+  {
+    "id": 7328,
+    "english": "Pour the drink with both hands.",
+    "korean": "술은 두 손으로 따르세요."
+  },
+  {
+    "id": 7329,
+    "english": "Eat after the elders start.",
+    "korean": "어른이 먼저 드신 후에 드세요."
+  },
+  {
+    "id": 7330,
+    "english": "Bow when you greet someone.",
+    "korean": "인사할 때 허리를 숙이세요."
+  },
+  {
+    "id": 7331,
+    "english": "Koreans use honorific speech.",
+    "korean": "한국 사람들은 존댓말을 써요."
+  },
+  {
+    "id": 7332,
+    "english": "Should I use polite speech?",
+    "korean": "존댓말을 써야 해요?"
+  },
+  {
+    "id": 7333,
+    "english": "Can I speak casually?",
+    "korean": "말 편하게 해도 돼요?"
+  },
+  {
+    "id": 7334,
+    "english": "Koreans respect their elders.",
+    "korean": "한국에서는 어른을 공경해요."
+  },
+  {
+    "id": 7335,
+    "english": "There is a culture of hurrying in Korea.",
+    "korean": "한국에는 빨리빨리 문화가 있어요."
+  },
+  {
+    "id": 7336,
+    "english": "Kimchi is always on the table.",
+    "korean": "김치는 식탁에 꼭 있어요."
+  },
+  {
+    "id": 7337,
+    "english": "Hanbok is the traditional Korean clothing.",
+    "korean": "한복은 한국의 전통 의상이에요."
+  },
+  {
+    "id": 7338,
+    "english": "Tomorrow is a public holiday.",
+    "korean": "내일은 공휴일이에요."
+  },
+  {
+    "id": 7339,
+    "english": "Many shops close on Seollal.",
+    "korean": "설날에는 문을 닫는 가게가 많아요."
+  },
+  {
+    "id": 7340,
+    "english": "I miss Nepali food.",
+    "korean": "네팔 음식이 그리워요."
+  },
+  {
+    "id": 7341,
+    "english": "There is a Nepali shop nearby.",
+    "korean": "근처에 네팔 가게가 있어요."
+  },
+  {
+    "id": 7342,
+    "english": "Is there a Nepali community here?",
+    "korean": "여기에 네팔 커뮤니티가 있어요?"
+  },
+  {
+    "id": 7343,
+    "english": "In Nepal we say Namaste to greet.",
+    "korean": "네팔에서는 '나마스테'로 인사해요."
+  }
+]

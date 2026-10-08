@@ -1,0 +1,457 @@
+[
+  {
+    "id": 2311,
+    "english": "The finished goods are ready to ship.",
+    "korean": "완제품 출하 준비가 됐어요."
+  },
+  {
+    "id": 3357,
+    "english": "I work at a shipbuilding company.",
+    "korean": "저는 조선소에서 일해요."
+  },
+  {
+    "id": 3358,
+    "english": "I am a shipbuilding worker.",
+    "korean": "저는 조선소 근로자예요."
+  },
+  {
+    "id": 3359,
+    "english": "The shipyard is very large.",
+    "korean": "조선소가 정말 넓어요."
+  },
+  {
+    "id": 3360,
+    "english": "I work on the ship hull.",
+    "korean": "선체 작업을 해요."
+  },
+  {
+    "id": 3362,
+    "english": "The crane is lifting the steel block.",
+    "korean": "크레인이 철 블록을 들어올리고 있어요."
+  },
+  {
+    "id": 3363,
+    "english": "Be careful near the dry dock.",
+    "korean": "도크 근처에서 조심하세요."
+  },
+  {
+    "id": 3364,
+    "english": "The ship is in the drydock right now.",
+    "korean": "지금 선박이 드라이 도크에 있어요."
+  },
+  {
+    "id": 3365,
+    "english": "We are building a cargo ship.",
+    "korean": "화물선을 건조하고 있어요."
+  },
+  {
+    "id": 3366,
+    "english": "This is a container ship project.",
+    "korean": "이건 컨테이너선 프로젝트예요."
+  },
+  {
+    "id": 3368,
+    "english": "The ship launching ceremony is next week.",
+    "korean": "다음 주에 선박 진수식이 있어요."
+  },
+  {
+    "id": 3369,
+    "english": "The hull structure is almost complete.",
+    "korean": "선체 구조가 거의 완성됐어요."
+  },
+  {
+    "id": 3398,
+    "english": "The paint job on the hull is done.",
+    "korean": "선체 도장이 완료됐어요."
+  },
+  {
+    "id": 3403,
+    "english": "The pipe fitting does not match.",
+    "korean": "파이프 피팅이 맞지 않아요."
+  },
+  {
+    "id": 3405,
+    "english": "The engine room is on deck three.",
+    "korean": "엔진실은 3층 갑판에 있어요."
+  },
+  {
+    "id": 3406,
+    "english": "I am assigned to the engine room team.",
+    "korean": "저는 엔진실 팀에 배치됐어요."
+  },
+  {
+    "id": 3407,
+    "english": "The propeller shaft installation is today.",
+    "korean": "오늘 프로펠러 축 설치가 있어요."
+  },
+  {
+    "id": 3408,
+    "english": "The anchor chain is being installed.",
+    "korean": "닻 체인을 설치하고 있어요."
+  },
+  {
+    "id": 3410,
+    "english": "The navigation equipment is being tested.",
+    "korean": "항법 장비 테스트 중이에요."
+  },
+  {
+    "id": 3411,
+    "english": "The ship's electrical wiring is complete.",
+    "korean": "선박 전기 배선이 완료됐어요."
+  },
+  {
+    "id": 3412,
+    "english": "The ship will be delivered next month.",
+    "korean": "다음 달에 선박이 인도돼요."
+  },
+  {
+    "id": 3413,
+    "english": "The client is coming to inspect the ship.",
+    "korean": "고객이 선박 검사하러 와요."
+  },
+  {
+    "id": 3416,
+    "english": "The ship performed well during sea trials.",
+    "korean": "시운전 중 선박이 잘 작동했어요."
+  },
+  {
+    "id": 3418,
+    "english": "This is our tenth ship this year.",
+    "korean": "이게 올해 열 번째 선박이에요."
+  },
+  {
+    "id": 3421,
+    "english": "We need to speed up the outfitting work.",
+    "korean": "의장 작업을 빠르게 해야 해요."
+  },
+  {
+    "id": 3446,
+    "english": "The ship has received its certificate.",
+    "korean": "선박이 인증서를 받았어요."
+  },
+  {
+    "id": 3529,
+    "english": "Hearing protection is required in the engine room.",
+    "korean": "엔진실에서는 청력 보호구 착용이 필요해요."
+  },
+  {
+    "id": 3586,
+    "english": "Those ships will sail around the world.",
+    "korean": "그 선박들이 전 세계를 항해할 거예요."
+  },
+  {
+    "id": 3592,
+    "english": "The shipyard foreman is calling for us.",
+    "korean": "조선소 반장이 우리를 부르고 있어요."
+  },
+  {
+    "id": 3599,
+    "english": "The bulkhead needs more reinforcement.",
+    "korean": "격벽에 보강이 더 필요해요."
+  },
+  {
+    "id": 3601,
+    "english": "The longitudinal girder is in place.",
+    "korean": "종늑골이 제자리에 있어요."
+  },
+  {
+    "id": 3605,
+    "english": "The stern section is being assembled.",
+    "korean": "선미 구역이 조립되고 있어요."
+  },
+  {
+    "id": 3606,
+    "english": "The keel is laid.",
+    "korean": "용골이 설치됐어요."
+  },
+  {
+    "id": 3607,
+    "english": "The keel laying ceremony was impressive.",
+    "korean": "용골 설치식이 인상적이었어요."
+  },
+  {
+    "id": 3608,
+    "english": "The ship is taking shape now.",
+    "korean": "선박의 모습이 갖춰지고 있어요."
+  },
+  {
+    "id": 3610,
+    "english": "The outfitting work is the most detailed.",
+    "korean": "의장 작업이 가장 세밀해요."
+  },
+  {
+    "id": 3611,
+    "english": "Pipe fitting requires precision.",
+    "korean": "파이프 피팅에는 정밀함이 필요해요."
+  },
+  {
+    "id": 3617,
+    "english": "The funnel is being painted.",
+    "korean": "굴뚝이 도색되고 있어요."
+  },
+  {
+    "id": 3618,
+    "english": "The company logo goes on the funnel.",
+    "korean": "굴뚝에 회사 로고가 들어가요."
+  },
+  {
+    "id": 3619,
+    "english": "The ship looks beautiful from a distance.",
+    "korean": "멀리서 보면 선박이 정말 아름다워요."
+  },
+  {
+    "id": 3649,
+    "english": "Have you always worked in shipbuilding?",
+    "korean": "항상 조선소에서 일했어요?"
+  },
+  {
+    "id": 3651,
+    "english": "I switched to shipbuilding for better pay.",
+    "korean": "더 나은 급여 때문에 조선소로 왔어요."
+  },
+  {
+    "id": 3713,
+    "english": "Ulsan and Busan are the big shipbuilding cities.",
+    "korean": "울산과 부산이 대표적인 조선 도시예요."
+  },
+  {
+    "id": 3717,
+    "english": "You can see ships from all over town.",
+    "korean": "마을 어디서나 선박이 보여요."
+  },
+  {
+    "id": 3718,
+    "english": "The sound of the shipyard fills the air.",
+    "korean": "조선소 소리가 공기를 가득 채워요."
+  },
+  {
+    "id": 3720,
+    "english": "Korea is a world leader in shipbuilding.",
+    "korean": "한국은 세계 조선 산업의 선두 주자예요."
+  },
+  {
+    "id": 3723,
+    "english": "Korean shipbuilding is renowned globally.",
+    "korean": "한국 조선 기술은 전 세계적으로 유명해요."
+  },
+  {
+    "id": 3808,
+    "english": "The ship is very big.",
+    "korean": "배가 정말 크네요."
+  },
+  {
+    "id": 3809,
+    "english": "I work near the ship.",
+    "korean": "배 근처에서 일해요."
+  },
+  {
+    "id": 3810,
+    "english": "I work on the ship.",
+    "korean": "배에서 일해요."
+  },
+  {
+    "id": 3811,
+    "english": "We are building a ship.",
+    "korean": "배를 만들고 있어요."
+  },
+  {
+    "id": 3812,
+    "english": "The ship is almost ready.",
+    "korean": "배가 거의 완성됐어요."
+  },
+  {
+    "id": 3813,
+    "english": "The ship will go to sea soon.",
+    "korean": "배가 곧 바다로 나갈 거예요."
+  },
+  {
+    "id": 3814,
+    "english": "I painted part of the ship today.",
+    "korean": "오늘 배의 일부를 칠했어요."
+  },
+  {
+    "id": 4191,
+    "english": "Every ship we build matters.",
+    "korean": "우리가 만드는 모든 배가 중요해요."
+  },
+  {
+    "id": 4192,
+    "english": "Someone will use this ship for years.",
+    "korean": "누군가가 이 배를 몇 년 동안 쓸 거예요."
+  },
+  {
+    "id": 4195,
+    "english": "I am proud to work in shipbuilding.",
+    "korean": "조선소에서 일하는 것이 자랑스러워요."
+  },
+  {
+    "id": 4780,
+    "english": "That ship is really big.",
+    "korean": "저 배 정말 크네요."
+  },
+  {
+    "id": 4781,
+    "english": "How long does it take to build a ship?",
+    "korean": "배 만드는 데 얼마나 걸려요?"
+  },
+  {
+    "id": 4784,
+    "english": "Many people work on one ship.",
+    "korean": "한 배에 많은 사람이 일해요."
+  },
+  {
+    "id": 4787,
+    "english": "Without us there is no ship.",
+    "korean": "우리 없으면 배가 없어요."
+  },
+  {
+    "id": 4790,
+    "english": "This ship will travel the world.",
+    "korean": "이 배가 전 세계를 여행할 거예요."
+  },
+  {
+    "id": 4796,
+    "english": "I never thought I would build ships.",
+    "korean": "배를 만들 거라고 생각 못 했어요."
+  },
+  {
+    "id": 4799,
+    "english": "Korea and this shipyard is one of those places.",
+    "korean": "한국과 이 조선소가 그런 곳 중 하나예요."
+  },
+  {
+    "id": 5027,
+    "english": "I can see the ship from here.",
+    "korean": "여기서 배가 보여요."
+  },
+  {
+    "id": 5093,
+    "english": "That is the crane.",
+    "korean": "저건 크레인이에요."
+  },
+  {
+    "id": 7103,
+    "english": "Please wear a safety harness.",
+    "korean": "안전대를 착용하세요."
+  },
+  {
+    "id": 7104,
+    "english": "Wear a safety harness when working at height.",
+    "korean": "높은 곳에서 작업할 때는 안전대를 착용하세요."
+  },
+  {
+    "id": 7105,
+    "english": "Do not stand under a suspended load.",
+    "korean": "매달린 짐 아래에 서지 마세요."
+  },
+  {
+    "id": 7106,
+    "english": "Watch out for the crane.",
+    "korean": "크레인 조심하세요."
+  },
+  {
+    "id": 7107,
+    "english": "The scaffold is not safe.",
+    "korean": "비계가 안전하지 않아요."
+  },
+  {
+    "id": 7108,
+    "english": "Please inspect the scaffold.",
+    "korean": "비계를 점검해 주세요."
+  },
+  {
+    "id": 7109,
+    "english": "Please block off the area.",
+    "korean": "구역을 차단해 주세요."
+  },
+  {
+    "id": 7110,
+    "english": "The next job is grinding.",
+    "korean": "다음은 그라인딩 작업이에요."
+  },
+  {
+    "id": 7111,
+    "english": "We are cutting the steel plate.",
+    "korean": "강판을 자르는 중이에요."
+  },
+  {
+    "id": 7112,
+    "english": "The steel plate is heavy.",
+    "korean": "강판이 무거워요."
+  },
+  {
+    "id": 7113,
+    "english": "Has the block been assembled?",
+    "korean": "블록이 조립됐어요?"
+  },
+  {
+    "id": 7114,
+    "english": "Where is the block yard?",
+    "korean": "블록 야적장이 어디예요?"
+  },
+  {
+    "id": 7115,
+    "english": "A hot work permit is needed.",
+    "korean": "화기 작업 허가가 필요해요."
+  },
+  {
+    "id": 7116,
+    "english": "This is confined space work.",
+    "korean": "밀폐 공간 작업이에요."
+  },
+  {
+    "id": 7117,
+    "english": "Check for gas first.",
+    "korean": "먼저 가스를 확인하세요."
+  },
+  {
+    "id": 7118,
+    "english": "Please ventilate the compartment.",
+    "korean": "구획을 환기해 주세요."
+  },
+  {
+    "id": 7119,
+    "english": "Please carry the pipe.",
+    "korean": "파이프를 옮겨 주세요."
+  },
+  {
+    "id": 7120,
+    "english": "Sandblasting is in progress.",
+    "korean": "샌드블라스팅 작업 중이에요."
+  },
+  {
+    "id": 7121,
+    "english": "The dock gate is open.",
+    "korean": "도크 게이트가 열렸어요."
+  },
+  {
+    "id": 7122,
+    "english": "The tugboat is coming.",
+    "korean": "예인선이 오고 있어요."
+  },
+  {
+    "id": 7123,
+    "english": "Where is the shipyard gate?",
+    "korean": "조선소 정문이 어디예요?"
+  },
+  {
+    "id": 7124,
+    "english": "Please hold the rope.",
+    "korean": "로프를 잡아 주세요."
+  },
+  {
+    "id": 7125,
+    "english": "Please tighten the bolts.",
+    "korean": "볼트를 조여 주세요."
+  },
+  {
+    "id": 7126,
+    "english": "Please loosen the bolts.",
+    "korean": "볼트를 풀어 주세요."
+  },
+  {
+    "id": 7127,
+    "english": "Which deck are we working on today?",
+    "korean": "오늘은 어느 갑판에서 작업해요?"
+  }
+]

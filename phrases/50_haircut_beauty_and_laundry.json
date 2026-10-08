@@ -1,0 +1,172 @@
+[
+  {
+    "id": 7757,
+    "english": "I'd like a haircut.",
+    "korean": "머리 자르고 싶어요."
+  },
+  {
+    "id": 7758,
+    "english": "Just a trim, please.",
+    "korean": "조금만 다듬어 주세요."
+  },
+  {
+    "id": 7759,
+    "english": "Short on the sides, please.",
+    "korean": "옆은 짧게 해 주세요."
+  },
+  {
+    "id": 7760,
+    "english": "Not too short, please.",
+    "korean": "너무 짧지 않게 해 주세요."
+  },
+  {
+    "id": 7761,
+    "english": "Please cut it like this photo.",
+    "korean": "이 사진처럼 잘라 주세요."
+  },
+  {
+    "id": 7762,
+    "english": "Please shave me.",
+    "korean": "면도해 주세요."
+  },
+  {
+    "id": 7763,
+    "english": "Please trim my beard.",
+    "korean": "수염을 다듬어 주세요."
+  },
+  {
+    "id": 7764,
+    "english": "How much is a haircut?",
+    "korean": "커트는 얼마예요?"
+  },
+  {
+    "id": 7765,
+    "english": "I'd like a perm.",
+    "korean": "파마하고 싶어요."
+  },
+  {
+    "id": 7766,
+    "english": "I'd like to dye my hair.",
+    "korean": "염색하고 싶어요."
+  },
+  {
+    "id": 7767,
+    "english": "Please wash my hair.",
+    "korean": "머리 감겨 주세요."
+  },
+  {
+    "id": 7768,
+    "english": "Please dry my hair.",
+    "korean": "머리 말려 주세요."
+  },
+  {
+    "id": 7769,
+    "english": "It's a bit too short.",
+    "korean": "좀 짧아요."
+  },
+  {
+    "id": 7770,
+    "english": "Can you cut a little more?",
+    "korean": "조금 더 잘라 주실 수 있어요?"
+  },
+  {
+    "id": 7771,
+    "english": "Where is the laundromat?",
+    "korean": "빨래방이 어디예요?"
+  },
+  {
+    "id": 7772,
+    "english": "Where is the coin laundry?",
+    "korean": "코인 세탁소가 어디예요?"
+  },
+  {
+    "id": 7773,
+    "english": "How much is one wash?",
+    "korean": "세탁 한 번에 얼마예요?"
+  },
+  {
+    "id": 7774,
+    "english": "How long does the wash take?",
+    "korean": "세탁하는 데 얼마나 걸려요?"
+  },
+  {
+    "id": 7775,
+    "english": "How long does the dryer take?",
+    "korean": "건조는 얼마나 걸려요?"
+  },
+  {
+    "id": 7776,
+    "english": "Please dry clean this.",
+    "korean": "이거 드라이클리닝해 주세요."
+  },
+  {
+    "id": 7777,
+    "english": "Can you remove this stain?",
+    "korean": "이 얼룩을 지워 주실 수 있어요?"
+  },
+  {
+    "id": 7778,
+    "english": "Can you hem these pants?",
+    "korean": "바지 기장 줄여 주실 수 있어요?"
+  },
+  {
+    "id": 7779,
+    "english": "Can you fix this zipper?",
+    "korean": "지퍼 고쳐 주실 수 있어요?"
+  },
+  {
+    "id": 7780,
+    "english": "Where can I get my shoes repaired?",
+    "korean": "신발 어디서 고칠 수 있어요?"
+  },
+  {
+    "id": 7781,
+    "english": "There is a stain on my shirt.",
+    "korean": "셔츠에 얼룩이 묻었어요."
+  },
+  {
+    "id": 7782,
+    "english": "The color ran.",
+    "korean": "물이 빠졌어요."
+  },
+  {
+    "id": 7783,
+    "english": "It shrank.",
+    "korean": "줄어들었어요."
+  },
+  {
+    "id": 7784,
+    "english": "Do you have sunscreen?",
+    "korean": "선크림 있어요?"
+  },
+  {
+    "id": 7785,
+    "english": "I need moisturizer.",
+    "korean": "보습제가 필요해요."
+  },
+  {
+    "id": 7786,
+    "english": "My skin is dry.",
+    "korean": "피부가 건조해요."
+  },
+  {
+    "id": 7787,
+    "english": "Is there a public bathhouse?",
+    "korean": "대중목욕탕 있어요?"
+  },
+  {
+    "id": 7788,
+    "english": "Where is the jjimjilbang?",
+    "korean": "찜질방이 어디예요?"
+  },
+  {
+    "id": 7789,
+    "english": "Please give me a towel.",
+    "korean": "수건 주세요."
+  },
+  {
+    "id": 7790,
+    "english": "Where are the lockers?",
+    "korean": "사물함이 어디예요?"
+  }
+]

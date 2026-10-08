@@ -1,0 +1,177 @@
+[
+  {
+    "id": 7551,
+    "english": "My package hasn't arrived.",
+    "korean": "택배가 아직 안 왔어요."
+  },
+  {
+    "id": 7552,
+    "english": "Where is my package?",
+    "korean": "제 택배가 어디 있어요?"
+  },
+  {
+    "id": 7553,
+    "english": "Please leave it at the door.",
+    "korean": "문 앞에 놓아 주세요."
+  },
+  {
+    "id": 7554,
+    "english": "Please leave it with the security office.",
+    "korean": "경비실에 맡겨 주세요."
+  },
+  {
+    "id": 7555,
+    "english": "Please call me when you arrive.",
+    "korean": "도착하면 전화해 주세요."
+  },
+  {
+    "id": 7556,
+    "english": "Please don't ring the doorbell.",
+    "korean": "초인종은 누르지 마세요."
+  },
+  {
+    "id": 7557,
+    "english": "I'll pick it up myself.",
+    "korean": "제가 직접 찾으러 갈게요."
+  },
+  {
+    "id": 7558,
+    "english": "I'd like to send a package.",
+    "korean": "택배를 보내고 싶어요."
+  },
+  {
+    "id": 7559,
+    "english": "How much is it to send this?",
+    "korean": "이거 보내는 데 얼마예요?"
+  },
+  {
+    "id": 7560,
+    "english": "Please send it to Nepal.",
+    "korean": "네팔로 보내 주세요."
+  },
+  {
+    "id": 7561,
+    "english": "How long will it take to arrive?",
+    "korean": "도착하는 데 얼마나 걸려요?"
+  },
+  {
+    "id": 7562,
+    "english": "Please use express delivery.",
+    "korean": "빠른 배송으로 해 주세요."
+  },
+  {
+    "id": 7563,
+    "english": "Please use regular delivery.",
+    "korean": "일반 배송으로 해 주세요."
+  },
+  {
+    "id": 7564,
+    "english": "Can I track my parcel?",
+    "korean": "택배 조회할 수 있어요?"
+  },
+  {
+    "id": 7565,
+    "english": "What is the tracking number?",
+    "korean": "운송장 번호가 뭐예요?"
+  },
+  {
+    "id": 7566,
+    "english": "Please write the recipient's name.",
+    "korean": "받는 분 이름을 써 주세요."
+  },
+  {
+    "id": 7567,
+    "english": "The delivery is late.",
+    "korean": "배송이 늦어요."
+  },
+  {
+    "id": 7568,
+    "english": "The item arrived damaged.",
+    "korean": "물건이 파손된 채로 왔어요."
+  },
+  {
+    "id": 7569,
+    "english": "I received the wrong item.",
+    "korean": "다른 물건이 왔어요."
+  },
+  {
+    "id": 7570,
+    "english": "I'd like to return this.",
+    "korean": "이거 반품하고 싶어요."
+  },
+  {
+    "id": 7571,
+    "english": "I want to cancel my order.",
+    "korean": "주문을 취소하고 싶어요."
+  },
+  {
+    "id": 7572,
+    "english": "How long does a refund take?",
+    "korean": "환불은 얼마나 걸려요?"
+  },
+  {
+    "id": 7573,
+    "english": "Is shipping free?",
+    "korean": "배송비 무료예요?"
+  },
+  {
+    "id": 7574,
+    "english": "How much is the shipping fee?",
+    "korean": "배송비가 얼마예요?"
+  },
+  {
+    "id": 7575,
+    "english": "Is shipping free over 30,000 won?",
+    "korean": "3만 원 이상 무료 배송이에요?"
+  },
+  {
+    "id": 7576,
+    "english": "I ordered it online.",
+    "korean": "온라인으로 주문했어요."
+  },
+  {
+    "id": 7577,
+    "english": "I ordered food through a delivery app.",
+    "korean": "배달 앱으로 음식을 시켰어요."
+  },
+  {
+    "id": 7578,
+    "english": "Please include chopsticks.",
+    "korean": "젓가락 같이 주세요."
+  },
+  {
+    "id": 7579,
+    "english": "No disposable utensils, please.",
+    "korean": "일회용 수저는 빼 주세요."
+  },
+  {
+    "id": 7580,
+    "english": "Please leave it outside the door.",
+    "korean": "문 앞에 두고 가세요."
+  },
+  {
+    "id": 7581,
+    "english": "The delivery rider is here.",
+    "korean": "배달 기사님이 오셨어요."
+  },
+  {
+    "id": 7582,
+    "english": "Thank you for the delivery.",
+    "korean": "배달 감사합니다."
+  },
+  {
+    "id": 7583,
+    "english": "I'd like to change the delivery address.",
+    "korean": "배송지를 바꾸고 싶어요."
+  },
+  {
+    "id": 7584,
+    "english": "The address is wrong.",
+    "korean": "주소가 틀렸어요."
+  },
+  {
+    "id": 7585,
+    "english": "Can you text me when it arrives?",
+    "korean": "도착하면 문자 주실래요?"
+  }
+]

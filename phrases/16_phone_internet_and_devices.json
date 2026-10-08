@@ -1,0 +1,627 @@
+[
+  {
+    "id": 92,
+    "english": "What is the WiFi password?",
+    "korean": "와이파이 비밀번호가 무엇인가요?"
+  },
+  {
+    "id": 146,
+    "english": "I lost my phone.",
+    "korean": "휴대폰을 잃어버렸어요."
+  },
+  {
+    "id": 170,
+    "english": "I'll call you later.",
+    "korean": "나중에 전화 줄게요."
+  },
+  {
+    "id": 407,
+    "english": "Please charge my phone.",
+    "korean": "휴대폰 충전 부탁드려요."
+  },
+  {
+    "id": 458,
+    "english": "What do you call that?",
+    "korean": "뭐라고 하죠?"
+  },
+  {
+    "id": 460,
+    "english": "She is on the phone.",
+    "korean": "그녀는 통화 중이에요."
+  },
+  {
+    "id": 535,
+    "english": "My phone battery is dead.",
+    "korean": "휴대폰 배터리가 다 됐어요."
+  },
+  {
+    "id": 547,
+    "english": "I need to charge my phone.",
+    "korean": "휴대폰 충전해야 해요."
+  },
+  {
+    "id": 602,
+    "english": "Please put your phone on silent.",
+    "korean": "핸드폰 무음으로 해 주세요."
+  },
+  {
+    "id": 664,
+    "english": "I will email you.",
+    "korean": "이메일 보낼게요."
+  },
+  {
+    "id": 665,
+    "english": "Please check your email.",
+    "korean": "이메일 확인해 주세요."
+  },
+  {
+    "id": 666,
+    "english": "The printer is broken.",
+    "korean": "프린터가 고장났어요."
+  },
+  {
+    "id": 667,
+    "english": "Can I use the computer?",
+    "korean": "컴퓨터 써도 되나요?"
+  },
+  {
+    "id": 676,
+    "english": "I need to make a phone call.",
+    "korean": "전화해야 해요."
+  },
+  {
+    "id": 696,
+    "english": "I copied you on the email.",
+    "korean": "이메일에 참조 넣었어요."
+  },
+  {
+    "id": 700,
+    "english": "I need a password for the system.",
+    "korean": "시스템 비밀번호가 필요해요."
+  },
+  {
+    "id": 701,
+    "english": "My computer is not working.",
+    "korean": "컴퓨터가 작동이 안 돼요."
+  },
+  {
+    "id": 752,
+    "english": "Is WiFi included?",
+    "korean": "와이파이 포함이에요?"
+  },
+  {
+    "id": 753,
+    "english": "The WiFi is not connecting.",
+    "korean": "와이파이 연결이 안 돼요."
+  },
+  {
+    "id": 889,
+    "english": "My phone has no signal.",
+    "korean": "전화기 신호가 없어요."
+  },
+  {
+    "id": 890,
+    "english": "My battery is dead.",
+    "korean": "배터리가 다 됐어요."
+  },
+  {
+    "id": 891,
+    "english": "Can I use your charger?",
+    "korean": "충전기 빌려 쓸 수 있어요?"
+  },
+  {
+    "id": 892,
+    "english": "I need to make an international call.",
+    "korean": "국제 전화를 해야 해요."
+  },
+  {
+    "id": 893,
+    "english": "The call dropped.",
+    "korean": "전화가 끊겼어요."
+  },
+  {
+    "id": 894,
+    "english": "Can you call me back?",
+    "korean": "다시 전화해 줄 수 있어요?"
+  },
+  {
+    "id": 895,
+    "english": "I will text you.",
+    "korean": "문자 보낼게요."
+  },
+  {
+    "id": 897,
+    "english": "Let me add you on KakaoTalk.",
+    "korean": "카카오톡 추가할게요."
+  },
+  {
+    "id": 898,
+    "english": "What is your KakaoTalk ID?",
+    "korean": "카카오톡 아이디가 뭐예요?"
+  },
+  {
+    "id": 899,
+    "english": "The internet is slow.",
+    "korean": "인터넷이 느려요."
+  },
+  {
+    "id": 900,
+    "english": "The WiFi is not working.",
+    "korean": "와이파이가 안 돼요."
+  },
+  {
+    "id": 901,
+    "english": "Can I use your WiFi?",
+    "korean": "와이파이 써도 될까요?"
+  },
+  {
+    "id": 902,
+    "english": "I need to charge my phone.",
+    "korean": "폰 충전해야 해요."
+  },
+  {
+    "id": 903,
+    "english": "My phone is almost dead.",
+    "korean": "폰 배터리가 거의 없어요."
+  },
+  {
+    "id": 905,
+    "english": "I need to fix my phone.",
+    "korean": "폰을 수리해야 해요."
+  },
+  {
+    "id": 907,
+    "english": "My screen is cracked.",
+    "korean": "화면이 깨졌어요."
+  },
+  {
+    "id": 984,
+    "english": "Please call this number for me.",
+    "korean": "이 번호로 전화해 주세요."
+  },
+  {
+    "id": 990,
+    "english": "Please call my company.",
+    "korean": "저희 회사에 전화해 주세요."
+  },
+  {
+    "id": 1141,
+    "english": "Can I call you by your first name?",
+    "korean": "이름으로 불러도 돼요?"
+  },
+  {
+    "id": 1142,
+    "english": "What should I call you?",
+    "korean": "뭐라고 부르면 돼요?"
+  },
+  {
+    "id": 1152,
+    "english": "What is this holiday called?",
+    "korean": "이 명절이 뭐예요?"
+  },
+  {
+    "id": 1184,
+    "english": "Can I charge my phone here?",
+    "korean": "여기서 핸드폰 충전할 수 있어요?"
+  },
+  {
+    "id": 1375,
+    "english": "Please call maintenance.",
+    "korean": "유지보수팀을 불러 주세요."
+  },
+  {
+    "id": 1392,
+    "english": "How do I check my account balance online?",
+    "korean": "온라인으로 잔액 확인하려면 어떻게 해요?"
+  },
+  {
+    "id": 1402,
+    "english": "Can I do this transaction online?",
+    "korean": "이 거래를 온라인으로 할 수 있어요?"
+  },
+  {
+    "id": 1544,
+    "english": "I use a dictionary app.",
+    "korean": "사전 앱을 써요."
+  },
+  {
+    "id": 1602,
+    "english": "I will call back later.",
+    "korean": "나중에 다시 전화할게요."
+  },
+  {
+    "id": 1605,
+    "english": "I will send you a message.",
+    "korean": "메시지 보낼게요."
+  },
+  {
+    "id": 1606,
+    "english": "Please check your KakaoTalk.",
+    "korean": "카카오톡 확인해 주세요."
+  },
+  {
+    "id": 1608,
+    "english": "Did you receive my message?",
+    "korean": "제 문자 받았어요?"
+  },
+  {
+    "id": 1610,
+    "english": "I left a voicemail.",
+    "korean": "음성 메시지 남겼어요."
+  },
+  {
+    "id": 1611,
+    "english": "My phone was on silent.",
+    "korean": "폰이 무음이었어요."
+  },
+  {
+    "id": 1672,
+    "english": "I was just about to call you.",
+    "korean": "막 전화하려던 참이었어요."
+  },
+  {
+    "id": 1774,
+    "english": "Can I get the WiFi password here?",
+    "korean": "여기 와이파이 비밀번호 알려주세요."
+  },
+  {
+    "id": 1879,
+    "english": "Can you reset my password?",
+    "korean": "비밀번호를 재설정해 줄 수 있어요?"
+  },
+  {
+    "id": 1928,
+    "english": "What app should I use for transportation?",
+    "korean": "교통에 어떤 앱을 쓰면 좋아요?"
+  },
+  {
+    "id": 1931,
+    "english": "Can you recommend a good language app?",
+    "korean": "좋은 언어 앱 추천해 줄 수 있어요?"
+  },
+  {
+    "id": 2148,
+    "english": "Which apps do Koreans use most?",
+    "korean": "한국 사람들이 주로 어떤 앱을 써요?"
+  },
+  {
+    "id": 2150,
+    "english": "I use Kakao Maps for navigation.",
+    "korean": "카카오 맵으로 길 찾아요."
+  },
+  {
+    "id": 2158,
+    "english": "I want to use mobile banking on my phone.",
+    "korean": "폰으로 모바일 뱅킹을 하고 싶어요."
+  },
+  {
+    "id": 2159,
+    "english": "My KakaoTalk is not working.",
+    "korean": "카카오톡이 작동을 안 해요."
+  },
+  {
+    "id": 2160,
+    "english": "I need to update the app.",
+    "korean": "앱을 업데이트해야 해요."
+  },
+  {
+    "id": 2161,
+    "english": "The app keeps crashing.",
+    "korean": "앱이 계속 꺼져요."
+  },
+  {
+    "id": 2201,
+    "english": "My earphones broke.",
+    "korean": "이어폰이 망가졌어요."
+  },
+  {
+    "id": 2266,
+    "english": "Korean internet speed is incredible.",
+    "korean": "한국 인터넷 속도가 정말 빨라요."
+  },
+  {
+    "id": 2280,
+    "english": "I tried to call but could not.",
+    "korean": "전화하려 했는데 못 했어요."
+  },
+  {
+    "id": 2402,
+    "english": "I need to dispute this charge.",
+    "korean": "이 청구에 이의를 제기해야 해요."
+  },
+  {
+    "id": 2447,
+    "english": "Gyeongju is called the museum without walls.",
+    "korean": "경주는 지붕 없는 박물관이라고 불려요."
+  },
+  {
+    "id": 2512,
+    "english": "Do you have a spare charger?",
+    "korean": "여분 충전기 있어요?"
+  },
+  {
+    "id": 2735,
+    "english": "That was a close call.",
+    "korean": "아찔했어요."
+  },
+  {
+    "id": 2858,
+    "english": "Call it a hunch.",
+    "korean": "직감이에요."
+  },
+  {
+    "id": 2909,
+    "english": "I sent you a voice message.",
+    "korean": "음성 메시지 보냈어요."
+  },
+  {
+    "id": 2915,
+    "english": "Can we video call tonight?",
+    "korean": "오늘 밤에 영상 통화 할 수 있어요?"
+  },
+  {
+    "id": 2918,
+    "english": "You are freezing on my screen.",
+    "korean": "화면이 멈춰있어요."
+  },
+  {
+    "id": 2977,
+    "english": "I did not even check my phone.",
+    "korean": "폰도 안 봤어요."
+  },
+  {
+    "id": 3107,
+    "english": "I am always one message away.",
+    "korean": "메시지 하나면 돼요."
+  },
+  {
+    "id": 3193,
+    "english": "I downloaded a meditation app.",
+    "korean": "명상 앱을 다운로드했어요."
+  },
+  {
+    "id": 3195,
+    "english": "I track my steps on my phone.",
+    "korean": "폰으로 걸음 수를 추적해요."
+  },
+  {
+    "id": 3268,
+    "english": "I keep checking my work phone.",
+    "korean": "계속 업무 폰을 확인하게 돼요."
+  },
+  {
+    "id": 3490,
+    "english": "I felt emotional seeing them on the screen.",
+    "korean": "화면으로 보면서 감정이 북받쳤어요."
+  },
+  {
+    "id": 3634,
+    "english": "I will message you the exact location.",
+    "korean": "정확한 위치를 메시지로 보낼게요."
+  },
+  {
+    "id": 3841,
+    "english": "I will call for help.",
+    "korean": "도움을 부를게요."
+  },
+  {
+    "id": 4023,
+    "english": "The internet is very fast here.",
+    "korean": "인터넷이 정말 빨라요."
+  },
+  {
+    "id": 4037,
+    "english": "Can I charge my phone here?",
+    "korean": "여기서 폰 충전해도 돼요?"
+  },
+  {
+    "id": 4039,
+    "english": "I forgot my charger today.",
+    "korean": "오늘 충전기를 깜빡했어요."
+  },
+  {
+    "id": 4166,
+    "english": "I video call them every Sunday.",
+    "korean": "매주 일요일에 영상 통화를 해요."
+  },
+  {
+    "id": 4290,
+    "english": "Let me call the supervisor.",
+    "korean": "감독관을 부를게요."
+  },
+  {
+    "id": 4305,
+    "english": "Change the battery.",
+    "korean": "배터리를 교체하세요."
+  },
+  {
+    "id": 4344,
+    "english": "If something happens call me.",
+    "korean": "뭔가 생기면 불러줘요."
+  },
+  {
+    "id": 4348,
+    "english": "You are in charge now.",
+    "korean": "이제 당신이 책임자예요."
+  },
+  {
+    "id": 4351,
+    "english": "Call me if you need anything.",
+    "korean": "필요한 게 있으면 연락해요."
+  },
+  {
+    "id": 4352,
+    "english": "I am just a phone call away.",
+    "korean": "전화 한 통이면 돼요."
+  },
+  {
+    "id": 4837,
+    "english": "After the call I feel better.",
+    "korean": "통화 후에 기분이 나아져요."
+  },
+  {
+    "id": 4986,
+    "english": "Better than any book or app.",
+    "korean": "어떤 책이나 앱보다 나아요."
+  },
+  {
+    "id": 5599,
+    "english": "Not just numbers on a screen.",
+    "korean": "화면의 숫자만이 아니라요."
+  },
+  {
+    "id": 5881,
+    "english": "And then check my phone.",
+    "korean": "그다음에 폰 확인하고요."
+  },
+  {
+    "id": 5989,
+    "english": "How often do you call?",
+    "korean": "얼마나 자주 전화해요?"
+  },
+  {
+    "id": 6230,
+    "english": "So-and-so called.",
+    "korean": "아무개 씨가 전화했어요."
+  },
+  {
+    "id": 6235,
+    "english": "Please call anytime.",
+    "korean": "아무 때나 전화하세요."
+  },
+  {
+    "id": 6440,
+    "english": "My phone battery is low.",
+    "korean": "휴대폰 배터리가 얼마 없어요."
+  },
+  {
+    "id": 6441,
+    "english": "Can you send me a message?",
+    "korean": "문자 보내 주실래요?"
+  },
+  {
+    "id": 6442,
+    "english": "I'll call you later.",
+    "korean": "나중에 전화할게요."
+  },
+  {
+    "id": 6443,
+    "english": "What's your phone number?",
+    "korean": "전화번호가 뭐예요?"
+  },
+  {
+    "id": 6444,
+    "english": "Please send it on KakaoTalk.",
+    "korean": "카카오톡으로 보내 주세요."
+  },
+  {
+    "id": 6841,
+    "english": "Do you have a charger?",
+    "korean": "충전기 있어요?"
+  },
+  {
+    "id": 6842,
+    "english": "May I use your phone?",
+    "korean": "전화 좀 빌려도 돼요?"
+  },
+  {
+    "id": 6843,
+    "english": "My phone is broken.",
+    "korean": "휴대폰이 고장 났어요."
+  },
+  {
+    "id": 6844,
+    "english": "I want to buy a SIM card.",
+    "korean": "유심을 사고 싶어요."
+  },
+  {
+    "id": 6845,
+    "english": "I need a prepaid plan.",
+    "korean": "선불 요금제가 필요해요."
+  },
+  {
+    "id": 6846,
+    "english": "How much is the monthly plan?",
+    "korean": "한 달 요금제가 얼마예요?"
+  },
+  {
+    "id": 6847,
+    "english": "How much data do I get?",
+    "korean": "데이터는 얼마나 줘요?"
+  },
+  {
+    "id": 6848,
+    "english": "Please connect me to the Wi-Fi.",
+    "korean": "와이파이에 연결해 주세요."
+  },
+  {
+    "id": 6849,
+    "english": "I can't hear you well.",
+    "korean": "잘 안 들려요."
+  },
+  {
+    "id": 6850,
+    "english": "The signal is weak.",
+    "korean": "신호가 약해요."
+  },
+  {
+    "id": 6851,
+    "english": "Send me a photo.",
+    "korean": "사진 보내 주세요."
+  },
+  {
+    "id": 6852,
+    "english": "Let's make a video call.",
+    "korean": "영상 통화해요."
+  },
+  {
+    "id": 6853,
+    "english": "Please call me back.",
+    "korean": "다시 전화해 주세요."
+  },
+  {
+    "id": 6854,
+    "english": "I'll call you back.",
+    "korean": "다시 전화할게요."
+  },
+  {
+    "id": 6855,
+    "english": "The app won't open.",
+    "korean": "앱이 안 열려요."
+  },
+  {
+    "id": 6856,
+    "english": "How do I download the app?",
+    "korean": "앱 어떻게 다운로드해요?"
+  },
+  {
+    "id": 6857,
+    "english": "I forgot my password.",
+    "korean": "비밀번호를 잊어버렸어요."
+  },
+  {
+    "id": 6858,
+    "english": "Please reset my password.",
+    "korean": "비밀번호를 재설정해 주세요."
+  },
+  {
+    "id": 6859,
+    "english": "Please turn on the location.",
+    "korean": "위치를 켜 주세요."
+  },
+  {
+    "id": 6860,
+    "english": "Where can I get my phone fixed?",
+    "korean": "휴대폰 어디서 고칠 수 있어요?"
+  },
+  {
+    "id": 6861,
+    "english": "Is the phone still under warranty?",
+    "korean": "휴대폰 보증 기간이 남았어요?"
+  },
+  {
+    "id": 6862,
+    "english": "Please take a screenshot.",
+    "korean": "화면을 캡처해 주세요."
+  }
+]

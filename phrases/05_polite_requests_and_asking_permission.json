@@ -1,0 +1,1137 @@
+[
+  {
+    "id": 33,
+    "english": "Please trust me.",
+    "korean": "저를 믿어주세요."
+  },
+  {
+    "id": 36,
+    "english": "Please look here.",
+    "korean": "여기 좀 봐주세요."
+  },
+  {
+    "id": 37,
+    "english": "Would you come with me?",
+    "korean": "저와 함께 가시겠어요?"
+  },
+  {
+    "id": 38,
+    "english": "Please wait a moment.",
+    "korean": "조금 기다려 주세요."
+  },
+  {
+    "id": 64,
+    "english": "Please wrap this up for me.",
+    "korean": "이것 좀 포장해 주세요."
+  },
+  {
+    "id": 79,
+    "english": "I need more time.",
+    "korean": "더 시간이 필요해요."
+  },
+  {
+    "id": 83,
+    "english": "Can I reserve this?",
+    "korean": "이거 예약할 수 있나요?"
+  },
+  {
+    "id": 89,
+    "english": "Can I sit here?",
+    "korean": "여기 앉아도 돼요?"
+  },
+  {
+    "id": 97,
+    "english": "Can I return this?",
+    "korean": "반품할 수 있나요?"
+  },
+  {
+    "id": 98,
+    "english": "Can you fix this?",
+    "korean": "이거 좀 고칠 수 있나요?"
+  },
+  {
+    "id": 102,
+    "english": "I want some rest.",
+    "korean": "쉬고 싶어요."
+  },
+  {
+    "id": 115,
+    "english": "Could you tell me the time?",
+    "korean": "혹시 시간을 알려주실 수 있나요?"
+  },
+  {
+    "id": 120,
+    "english": "Please be quiet.",
+    "korean": "조용히 해주세요."
+  },
+  {
+    "id": 151,
+    "english": "Can you hold on for a moment?",
+    "korean": "잠시 대기해 주실 수 있나요?"
+  },
+  {
+    "id": 165,
+    "english": "Please don't forget that.",
+    "korean": "그것을 잊지 말아주세요."
+  },
+  {
+    "id": 175,
+    "english": "Please give me a chance.",
+    "korean": "한 번만 기회를 주세요."
+  },
+  {
+    "id": 176,
+    "english": "Please answer me.",
+    "korean": "대답해 주세요."
+  },
+  {
+    "id": 182,
+    "english": "Can you give me a ride?",
+    "korean": "저 좀 태워 주실 수 있나요?"
+  },
+  {
+    "id": 224,
+    "english": "May I ask a question?",
+    "korean": "질문 하나 해도 될까요?"
+  },
+  {
+    "id": 251,
+    "english": "Please include me.",
+    "korean": "저도 포함시켜 주세요."
+  },
+  {
+    "id": 264,
+    "english": "Please tell me your name.",
+    "korean": "이름 좀 알려주세요."
+  },
+  {
+    "id": 270,
+    "english": "Please don't blame yourself.",
+    "korean": "자책하지 마세요."
+  },
+  {
+    "id": 274,
+    "english": "Can we start over?",
+    "korean": "우리 새로 시작할 수 있나요?"
+  },
+  {
+    "id": 287,
+    "english": "Please let me know.",
+    "korean": "알려주세요."
+  },
+  {
+    "id": 310,
+    "english": "Please make sure.",
+    "korean": "확인 좀 해 주세요."
+  },
+  {
+    "id": 311,
+    "english": "Please don't rush me.",
+    "korean": "재촉하지 말아주세요."
+  },
+  {
+    "id": 315,
+    "english": "Please stand up.",
+    "korean": "일어나 주세요."
+  },
+  {
+    "id": 338,
+    "english": "Tell me what happened.",
+    "korean": "무슨 일이 있었는지 말씀해 주세요."
+  },
+  {
+    "id": 354,
+    "english": "Can we talk for a moment?",
+    "korean": "잠깐 이야기 좀 할까요?"
+  },
+  {
+    "id": 356,
+    "english": "Please speak louder.",
+    "korean": "더 크게 말씀해 주세요."
+  },
+  {
+    "id": 373,
+    "english": "Please take a seat.",
+    "korean": "앉으세요."
+  },
+  {
+    "id": 374,
+    "english": "Please fasten your seatbelt.",
+    "korean": "안전벨트를 매세요."
+  },
+  {
+    "id": 395,
+    "english": "Can I take a look?",
+    "korean": "제가 좀 봐도 될까요?"
+  },
+  {
+    "id": 399,
+    "english": "Can you hold this a little?",
+    "korean": "이거 조금만 잡아 주시면 안 되나요?"
+  },
+  {
+    "id": 401,
+    "english": "Please raise your hand.",
+    "korean": "손을 들어 주세요."
+  },
+  {
+    "id": 432,
+    "english": "May I come in?",
+    "korean": "들어가도 될까요?"
+  },
+  {
+    "id": 491,
+    "english": "I need a break.",
+    "korean": "잠깐 쉬어야겠어요."
+  },
+  {
+    "id": 494,
+    "english": "Please wait a second.",
+    "korean": "잠깐만 기다려 주세요."
+  },
+  {
+    "id": 508,
+    "english": "Please make yourself comfortable.",
+    "korean": "편하게 즐기세요."
+  },
+  {
+    "id": 514,
+    "english": "Could you show me the way?",
+    "korean": "길 좀 알려 주실래요."
+  },
+  {
+    "id": 533,
+    "english": "Please fasten your seat belt.",
+    "korean": "안전 벨트를 매주세요."
+  },
+  {
+    "id": 555,
+    "english": "Can you hold this for me?",
+    "korean": "이거 좀 들어 줄래요?"
+  },
+  {
+    "id": 564,
+    "english": "Please turn down the volume.",
+    "korean": "소리 좀 줄여 주세요."
+  },
+  {
+    "id": 569,
+    "english": "Please be on time.",
+    "korean": "제 시간에 와 주세요."
+  },
+  {
+    "id": 585,
+    "english": "Please show me your ID.",
+    "korean": "신분증 보여 주세요."
+  },
+  {
+    "id": 590,
+    "english": "I need some quiet time.",
+    "korean": "조용한 시간이 필요해요."
+  },
+  {
+    "id": 597,
+    "english": "Please write down your number.",
+    "korean": "번호를 적어 주세요."
+  },
+  {
+    "id": 615,
+    "english": "Please wrap this up for me.",
+    "korean": "이것 좀 포장해 주세요."
+  },
+  {
+    "id": 622,
+    "english": "Can I sit here?",
+    "korean": "여기 앉아도 돼요?"
+  },
+  {
+    "id": 634,
+    "english": "Can you come with me?",
+    "korean": "저와 함께 가시겠어요?"
+  },
+  {
+    "id": 636,
+    "english": "Please leave me alone.",
+    "korean": "혼자 있게 해주세요."
+  },
+  {
+    "id": 640,
+    "english": "Please don't rush me.",
+    "korean": "제촉하지 말아 주세요."
+  },
+  {
+    "id": 644,
+    "english": "Can you hold this a little?",
+    "korean": "이거 조금만 잡아 주시면 안 되나요?"
+  },
+  {
+    "id": 663,
+    "english": "Can you send me the file?",
+    "korean": "파일 좀 보내줄 수 있어요?"
+  },
+  {
+    "id": 675,
+    "english": "Can I leave early today?",
+    "korean": "오늘 일찍 퇴근해도 될까요?"
+  },
+  {
+    "id": 680,
+    "english": "Can you review this?",
+    "korean": "이거 검토해 주실 수 있나요?"
+  },
+  {
+    "id": 681,
+    "english": "I need your approval.",
+    "korean": "승인이 필요해요."
+  },
+  {
+    "id": 687,
+    "english": "Can you cover for me?",
+    "korean": "저 대신 해줄 수 있어요?"
+  },
+  {
+    "id": 690,
+    "english": "Can we reschedule?",
+    "korean": "일정을 다시 잡을 수 있을까요?"
+  },
+  {
+    "id": 691,
+    "english": "Please give me feedback.",
+    "korean": "피드백 주세요."
+  },
+  {
+    "id": 695,
+    "english": "Please forward this to me.",
+    "korean": "저한테 전달해 주세요."
+  },
+  {
+    "id": 708,
+    "english": "Please stop here.",
+    "korean": "여기서 내려 주세요."
+  },
+  {
+    "id": 719,
+    "english": "Please turn on the meter.",
+    "korean": "미터기 켜주세요."
+  },
+  {
+    "id": 728,
+    "english": "Can I transfer here?",
+    "korean": "여기서 환승 할 수 있어요?"
+  },
+  {
+    "id": 755,
+    "english": "Can you please keep it down?",
+    "korean": "좀 조용히 해주실 수 있어요?"
+  },
+  {
+    "id": 761,
+    "english": "Can I try this on?",
+    "korean": "입어봐도 될까요?"
+  },
+  {
+    "id": 802,
+    "english": "Can I have napkins please?",
+    "korean": "냅킨 주세요."
+  },
+  {
+    "id": 806,
+    "english": "Can I get this to go?",
+    "korean": "포장해 주실 수 있어요?"
+  },
+  {
+    "id": 811,
+    "english": "Can you warm this up?",
+    "korean": "데워 주실 수 있어요?"
+  },
+  {
+    "id": 821,
+    "english": "Can I order now?",
+    "korean": "지금 주문해도 될까요?"
+  },
+  {
+    "id": 880,
+    "english": "Please give me change.",
+    "korean": "거스름돈 주세요."
+  },
+  {
+    "id": 896,
+    "english": "Can you send me your number?",
+    "korean": "번호 보내줄 수 있어요?"
+  },
+  {
+    "id": 904,
+    "english": "Can I use a power outlet here?",
+    "korean": "여기서 콘센트 써도 돼요?"
+  },
+  {
+    "id": 967,
+    "english": "Can you show me around?",
+    "korean": "여기저기 구경시켜 줄 수 있어요?"
+  },
+  {
+    "id": 987,
+    "english": "Please evacuate the building.",
+    "korean": "건물에서 대피해 주세요."
+  },
+  {
+    "id": 1023,
+    "english": "Can I track this package?",
+    "korean": "소포를 추적할 수 있어요?"
+  },
+  {
+    "id": 1053,
+    "english": "Can I use a day pass?",
+    "korean": "일일권으로 이용할 수 있어요?"
+  },
+  {
+    "id": 1097,
+    "english": "I need some time to think.",
+    "korean": "생각할 시간이 필요해요."
+  },
+  {
+    "id": 1105,
+    "english": "Can you do me a favor?",
+    "korean": "부탁 하나 해도 될까요?"
+  },
+  {
+    "id": 1109,
+    "english": "Can you come with me?",
+    "korean": "같이 가줄 수 있어요?"
+  },
+  {
+    "id": 1110,
+    "english": "Can you hold this for a moment?",
+    "korean": "잠깐 이거 들어줄 수 있어요?"
+  },
+  {
+    "id": 1111,
+    "english": "Can you take a picture of me?",
+    "korean": "사진 찍어 줄 수 있어요?"
+  },
+  {
+    "id": 1112,
+    "english": "Can you check this for mistakes?",
+    "korean": "틀린 거 있는지 확인해 줄 수 있어요?"
+  },
+  {
+    "id": 1125,
+    "english": "Please guide me well.",
+    "korean": "잘 가르쳐 주세요."
+  },
+  {
+    "id": 1137,
+    "english": "Please let me know the result.",
+    "korean": "결과를 알려 주세요."
+  },
+  {
+    "id": 1177,
+    "english": "Please heat this up for me.",
+    "korean": "이거 데워주세요."
+  },
+  {
+    "id": 1180,
+    "english": "Can I have a straw?",
+    "korean": "빨대 주세요."
+  },
+  {
+    "id": 1189,
+    "english": "Can I accumulate points?",
+    "korean": "포인트 적립 할 수 있어요?"
+  },
+  {
+    "id": 1190,
+    "english": "I need ice.",
+    "korean": "얼음이 필요해요."
+  },
+  {
+    "id": 1266,
+    "english": "Please include extra napkins.",
+    "korean": "냅킨 많이 넣어주세요."
+  },
+  {
+    "id": 1299,
+    "english": "Could we consider another option?",
+    "korean": "다른 방법도 생각해볼 수 있지 않을까요?"
+  },
+  {
+    "id": 1305,
+    "english": "I need some tissues.",
+    "korean": "티슈가 필요해요."
+  },
+  {
+    "id": 1311,
+    "english": "Can we turn up the heat?",
+    "korean": "난방 좀 올릴 수 있어요?"
+  },
+  {
+    "id": 1316,
+    "english": "I need a pen.",
+    "korean": "펜이 필요해요."
+  },
+  {
+    "id": 1354,
+    "english": "Can you re-check the numbers?",
+    "korean": "숫자 다시 확인해 줄 수 있어요?"
+  },
+  {
+    "id": 1355,
+    "english": "Please be more precise.",
+    "korean": "더 정확하게 해 주세요."
+  },
+  {
+    "id": 1359,
+    "english": "Please report any accidents immediately.",
+    "korean": "사고가 나면 즉시 보고해 주세요."
+  },
+  {
+    "id": 1362,
+    "english": "I need a leave of absence.",
+    "korean": "휴가를 써야 해요."
+  },
+  {
+    "id": 1379,
+    "english": "Please show me the correct procedure.",
+    "korean": "올바른 절차를 보여주세요."
+  },
+  {
+    "id": 1387,
+    "english": "Please do a handover briefing.",
+    "korean": "인수인계 브리핑 해 주세요."
+  },
+  {
+    "id": 1444,
+    "english": "Give me two of these.",
+    "korean": "이거 두 개 주세요."
+  },
+  {
+    "id": 1450,
+    "english": "I want the original flavor.",
+    "korean": "원래 맛으로 주세요."
+  },
+  {
+    "id": 1457,
+    "english": "Can I speak informally with you?",
+    "korean": "반말로 해도 괜찮아요?"
+  },
+  {
+    "id": 1471,
+    "english": "I need a cavity filled.",
+    "korean": "충치 치료가 필요해요."
+  },
+  {
+    "id": 1510,
+    "english": "Can you follow me on Instagram?",
+    "korean": "인스타그램에서 팔로우해 줄 수 있어요?"
+  },
+  {
+    "id": 1545,
+    "english": "Can you correct me when I make mistakes?",
+    "korean": "제가 틀리면 고쳐 주세요."
+  },
+  {
+    "id": 1597,
+    "english": "Give me half a kilogram please.",
+    "korean": "500그램 주세요."
+  },
+  {
+    "id": 1609,
+    "english": "Please reply when you can.",
+    "korean": "시간 될 때 답장해 주세요."
+  },
+  {
+    "id": 1630,
+    "english": "Can we camp there?",
+    "korean": "거기서 캠핑할 수 있어요?"
+  },
+  {
+    "id": 1698,
+    "english": "Can you say that one more time?",
+    "korean": "한 번만 더 말씀해 주세요."
+  },
+  {
+    "id": 1705,
+    "english": "Can you give me an example?",
+    "korean": "예를 들어줄 수 있어요?"
+  },
+  {
+    "id": 1752,
+    "english": "Give me three of those please.",
+    "korean": "그거 세 개 주세요."
+  },
+  {
+    "id": 1753,
+    "english": "I need five more.",
+    "korean": "다섯 개 더 필요해요."
+  },
+  {
+    "id": 1764,
+    "english": "Can I get extra banchan?",
+    "korean": "반찬 더 주실 수 있어요?"
+  },
+  {
+    "id": 1871,
+    "english": "Please let me know if there are changes.",
+    "korean": "변경 사항이 있으면 알려 주세요."
+  },
+  {
+    "id": 1878,
+    "english": "I need IT support.",
+    "korean": "IT 지원이 필요해요."
+  },
+  {
+    "id": 1881,
+    "english": "Can you share that file with me?",
+    "korean": "그 파일을 공유해 줄 수 있어요?"
+  },
+  {
+    "id": 1882,
+    "english": "Please update me on the progress.",
+    "korean": "진행 상황을 알려 주세요."
+  },
+  {
+    "id": 1900,
+    "english": "Would you mind helping me for a moment?",
+    "korean": "잠깐 도와주실 수 있어요?"
+  },
+  {
+    "id": 1901,
+    "english": "May I ask you something personal?",
+    "korean": "개인적인 거 좀 여쭤봐도 될까요?"
+  },
+  {
+    "id": 1902,
+    "english": "Is it okay if I sit here?",
+    "korean": "여기 앉아도 괜찮을까요?"
+  },
+  {
+    "id": 1903,
+    "english": "Would it be possible to change this?",
+    "korean": "이거 바꿔도 될까요?"
+  },
+  {
+    "id": 1904,
+    "english": "Could you please turn down the volume?",
+    "korean": "소리 좀 줄여 주실 수 있어요?"
+  },
+  {
+    "id": 1906,
+    "english": "Please let me know if I am bothering you.",
+    "korean": "제가 방해가 되면 말씀해 주세요."
+  },
+  {
+    "id": 1908,
+    "english": "Please feel free to ask me anything.",
+    "korean": "언제든지 물어보세요."
+  },
+  {
+    "id": 1938,
+    "english": "I need a haircut.",
+    "korean": "머리를 자르고 싶어요."
+  },
+  {
+    "id": 1941,
+    "english": "Can you cut the sides short?",
+    "korean": "옆 부분만 짧게 해 주세요."
+  },
+  {
+    "id": 1946,
+    "english": "I want my beard trimmed too.",
+    "korean": "수염도 다듬어 주세요."
+  },
+  {
+    "id": 1947,
+    "english": "Please make the top a bit shorter.",
+    "korean": "위를 좀 더 짧게 해 주세요."
+  },
+  {
+    "id": 1954,
+    "english": "Can I insure this package?",
+    "korean": "이 소포에 보험을 들 수 있어요?"
+  },
+  {
+    "id": 1958,
+    "english": "Please handle this carefully.",
+    "korean": "조심히 다뤄 주세요."
+  },
+  {
+    "id": 1960,
+    "english": "Please mark it as fragile.",
+    "korean": "깨짐 주의 표시를 해 주세요."
+  },
+  {
+    "id": 2016,
+    "english": "Shall we try it together?",
+    "korean": "같이 가볼까요?"
+  },
+  {
+    "id": 2018,
+    "english": "Can I get that iced please?",
+    "korean": "아이스로 주세요."
+  },
+  {
+    "id": 2022,
+    "english": "Can you make it less sweet?",
+    "korean": "덜 달게 해 주실 수 있어요?"
+  },
+  {
+    "id": 2025,
+    "english": "Can I get extra espresso shots?",
+    "korean": "에스프레소 샷 추가해 주세요."
+  },
+  {
+    "id": 2054,
+    "english": "Please bear with me for a moment.",
+    "korean": "잠시만 기다려 주세요."
+  },
+  {
+    "id": 2092,
+    "english": "Can I get a side of japchae?",
+    "korean": "잡채 사이드로 주세요."
+  },
+  {
+    "id": 2142,
+    "english": "Can you refer me to a specialist?",
+    "korean": "전문의에게 보내 줄 수 있어요?"
+  },
+  {
+    "id": 2209,
+    "english": "Can I return this if it does not fit?",
+    "korean": "안 맞으면 반품할 수 있어요?"
+  },
+  {
+    "id": 2217,
+    "english": "Please be honest with me too.",
+    "korean": "저한테도 솔직하게 말해 주세요."
+  },
+  {
+    "id": 2223,
+    "english": "Please correct me if I say something wrong.",
+    "korean": "제가 틀린 말 하면 고쳐 주세요."
+  },
+  {
+    "id": 2238,
+    "english": "I need sunscreen today.",
+    "korean": "오늘 선크림이 필요해요."
+  },
+  {
+    "id": 2241,
+    "english": "Please go ahead.",
+    "korean": "먼저 하세요."
+  },
+  {
+    "id": 2244,
+    "english": "Please do not go to any trouble.",
+    "korean": "신경 쓰지 않으셔도 돼요."
+  },
+  {
+    "id": 2247,
+    "english": "Please take all the time you need.",
+    "korean": "천천히 하세요."
+  },
+  {
+    "id": 2287,
+    "english": "Tell me more.",
+    "korean": "더 말해 주세요."
+  },
+  {
+    "id": 2323,
+    "english": "I need a replacement tool.",
+    "korean": "교체 공구가 필요해요."
+  },
+  {
+    "id": 2325,
+    "english": "Please wear your high-visibility vest.",
+    "korean": "형광 조끼를 착용해 주세요."
+  },
+  {
+    "id": 2371,
+    "english": "I want everything well-done.",
+    "korean": "다 잘 익혀 주세요."
+  },
+  {
+    "id": 2384,
+    "english": "Can I order in advance for pickup?",
+    "korean": "미리 주문해서 포장 픽업할 수 있어요?"
+  },
+  {
+    "id": 2389,
+    "english": "Can I open a joint account?",
+    "korean": "공동 계좌를 만들 수 있어요?"
+  },
+  {
+    "id": 2493,
+    "english": "Can you give me more details?",
+    "korean": "더 자세히 말씀해 줄 수 있어요?"
+  },
+  {
+    "id": 2497,
+    "english": "Could you be more specific?",
+    "korean": "좀 더 구체적으로 말씀해 줄 수 있어요?"
+  },
+  {
+    "id": 2555,
+    "english": "Please handle this product carefully.",
+    "korean": "이 제품을 조심히 다뤄 주세요."
+  },
+  {
+    "id": 2566,
+    "english": "Can I hang things on the wall?",
+    "korean": "벽에 물건을 걸어도 돼요?"
+  },
+  {
+    "id": 2580,
+    "english": "Can I change my seat?",
+    "korean": "자리를 바꿀 수 있어요?"
+  },
+  {
+    "id": 2609,
+    "english": "I need a cold compress for this.",
+    "korean": "냉찜질이 필요해요."
+  },
+  {
+    "id": 2610,
+    "english": "I need a warm compress for this.",
+    "korean": "온찜질이 필요해요."
+  },
+  {
+    "id": 2613,
+    "english": "I need physiotherapy.",
+    "korean": "물리치료가 필요해요."
+  },
+  {
+    "id": 2782,
+    "english": "Can you set the table please?",
+    "korean": "상 좀 차려줄 수 있어요?"
+  },
+  {
+    "id": 2797,
+    "english": "I need more hangers.",
+    "korean": "옷걸이가 더 필요해요."
+  },
+  {
+    "id": 2908,
+    "english": "Can you send me the location pin?",
+    "korean": "위치 핀 보내줄 수 있어요?"
+  },
+  {
+    "id": 2919,
+    "english": "Can you hear me okay?",
+    "korean": "제 말 잘 들려요?"
+  },
+  {
+    "id": 2971,
+    "english": "Can you recommend something to watch?",
+    "korean": "볼 만한 거 추천해줄 수 있어요?"
+  },
+  {
+    "id": 3009,
+    "english": "Can you throw in something extra?",
+    "korean": "서비스로 뭔가 더 주실 수 있어요?"
+  },
+  {
+    "id": 3065,
+    "english": "Can we talk about something fun instead?",
+    "korean": "대신 재미있는 얘기 해요?"
+  },
+  {
+    "id": 3131,
+    "english": "I need some me time.",
+    "korean": "혼자만의 시간이 필요해요."
+  },
+  {
+    "id": 3147,
+    "english": "Can I vent to you?",
+    "korean": "저 좀 하소연해도 돼요?"
+  },
+  {
+    "id": 3261,
+    "english": "Tell me about it.",
+    "korean": "그러게요."
+  },
+  {
+    "id": 3303,
+    "english": "Give me a break.",
+    "korean": "좀 쉬게 해줘요."
+  },
+  {
+    "id": 3310,
+    "english": "I need a minute.",
+    "korean": "잠깐만요."
+  },
+  {
+    "id": 3318,
+    "english": "Can you not take a joke?",
+    "korean": "농담도 못 해요?"
+  },
+  {
+    "id": 3393,
+    "english": "Please handle gas cylinders with care.",
+    "korean": "가스 실린더를 조심스럽게 다뤄주세요."
+  },
+  {
+    "id": 3424,
+    "english": "Please double check the measurements.",
+    "korean": "치수를 다시 한번 확인해주세요."
+  },
+  {
+    "id": 3454,
+    "english": "I need a double espresso today.",
+    "korean": "오늘 더블 에스프레소가 필요해요."
+  },
+  {
+    "id": 3517,
+    "english": "Please report all near misses.",
+    "korean": "아차 사고를 모두 보고해 주세요."
+  },
+  {
+    "id": 3590,
+    "english": "I need an angle grinder.",
+    "korean": "앵글 그라인더가 필요해요."
+  },
+  {
+    "id": 3646,
+    "english": "I need two more days.",
+    "korean": "이틀이 더 필요해요."
+  },
+  {
+    "id": 3746,
+    "english": "I need more time.",
+    "korean": "시간이 더 필요해요."
+  },
+  {
+    "id": 3749,
+    "english": "Can you show me again?",
+    "korean": "다시 보여줄 수 있어요?"
+  },
+  {
+    "id": 3758,
+    "english": "I need a new one.",
+    "korean": "새것이 필요해요."
+  },
+  {
+    "id": 3761,
+    "english": "Please wait a moment.",
+    "korean": "잠깐 기다려 주세요."
+  },
+  {
+    "id": 3765,
+    "english": "I need a break.",
+    "korean": "좀 쉬어야 해요."
+  },
+  {
+    "id": 3766,
+    "english": "Can I take a short rest?",
+    "korean": "잠깐 쉬어도 돼요?"
+  },
+  {
+    "id": 3779,
+    "english": "Can you hear me?",
+    "korean": "들려요?"
+  },
+  {
+    "id": 3783,
+    "english": "Can we talk later?",
+    "korean": "나중에 얘기할 수 있어요?"
+  },
+  {
+    "id": 3792,
+    "english": "Can I ask something?",
+    "korean": "뭐 좀 여쭤봐도 될까요?"
+  },
+  {
+    "id": 3970,
+    "english": "Can I do it like this instead?",
+    "korean": "이렇게 해도 돼요?"
+  },
+  {
+    "id": 3975,
+    "english": "Can I go now or should I wait?",
+    "korean": "이제 가도 되나요 기다려야 하나요?"
+  },
+  {
+    "id": 3994,
+    "english": "I need some fresh air.",
+    "korean": "신선한 공기가 필요해요."
+  },
+  {
+    "id": 4036,
+    "english": "Can you watch my things?",
+    "korean": "제 물건 좀 봐줄 수 있어요?"
+  },
+  {
+    "id": 4258,
+    "english": "Show me what to do.",
+    "korean": "뭘 해야 하는지 보여주세요."
+  },
+  {
+    "id": 4261,
+    "english": "Can you hold this?",
+    "korean": "이거 잡아줄 수 있어요?"
+  },
+  {
+    "id": 4282,
+    "english": "Can you check this for me?",
+    "korean": "이거 확인해줄 수 있어요?"
+  },
+  {
+    "id": 4300,
+    "english": "I need the screwdriver.",
+    "korean": "드라이버가 필요해요."
+  },
+  {
+    "id": 4303,
+    "english": "I need more nails.",
+    "korean": "못이 더 필요해요."
+  },
+  {
+    "id": 4326,
+    "english": "Can you come look at this?",
+    "korean": "이거 와서 봐줄 수 있어요?"
+  },
+  {
+    "id": 4334,
+    "english": "Show me the problem.",
+    "korean": "문제를 보여줘요."
+  },
+  {
+    "id": 4336,
+    "english": "Can you do me a favor?",
+    "korean": "부탁 하나 해도 돼요?"
+  },
+  {
+    "id": 4341,
+    "english": "Can you watch this for me?",
+    "korean": "이거 좀 봐줄 수 있어요?"
+  },
+  {
+    "id": 4422,
+    "english": "Can I ask you something?",
+    "korean": "뭐 좀 물어봐도 될까요?"
+  },
+  {
+    "id": 4492,
+    "english": "I need more weekends.",
+    "korean": "주말이 더 필요해요."
+  },
+  {
+    "id": 4604,
+    "english": "Tell me more.",
+    "korean": "더 말해줘요."
+  },
+  {
+    "id": 4893,
+    "english": "I need alone time sometimes.",
+    "korean": "가끔 혼자만의 시간이 필요해요."
+  },
+  {
+    "id": 6035,
+    "english": "Will you be back tomorrow?",
+    "korean": "내일 또 와요?"
+  },
+  {
+    "id": 6157,
+    "english": "The reason I'm bringing this up is that I have a favor to ask.",
+    "korean": "다름이 아니라 부탁이 있어서요."
+  },
+  {
+    "id": 6169,
+    "english": "Do you want to go on a date with me?",
+    "korean": "나랑 같이 데이트 가 줄래요?"
+  },
+  {
+    "id": 6374,
+    "english": "Could you wait a moment?",
+    "korean": "잠깐만 기다려 주실래요?"
+  },
+  {
+    "id": 6375,
+    "english": "Can I ask a question?",
+    "korean": "질문 하나 해도 돼요?"
+  },
+  {
+    "id": 6376,
+    "english": "Please open the window.",
+    "korean": "창문 좀 열어 주세요."
+  },
+  {
+    "id": 6377,
+    "english": "Please turn off the light.",
+    "korean": "불 좀 꺼 주세요."
+  },
+  {
+    "id": 6378,
+    "english": "Could you lend me a pen?",
+    "korean": "펜 좀 빌려 주실래요?"
+  },
+  {
+    "id": 6379,
+    "english": "Please give me some water.",
+    "korean": "물 좀 주세요."
+  },
+  {
+    "id": 6581,
+    "english": "Please wait here.",
+    "korean": "여기서 기다려 주세요."
+  },
+  {
+    "id": 6582,
+    "english": "Please turn on the light.",
+    "korean": "불 좀 켜 주세요."
+  },
+  {
+    "id": 6583,
+    "english": "Please close the door.",
+    "korean": "문 좀 닫아 주세요."
+  },
+  {
+    "id": 6584,
+    "english": "Could you move over a little?",
+    "korean": "조금만 옆으로 가 주시겠어요?"
+  },
+  {
+    "id": 6585,
+    "english": "Could you turn the volume down?",
+    "korean": "소리 좀 줄여 주시겠어요?"
+  },
+  {
+    "id": 6586,
+    "english": "May I take a picture?",
+    "korean": "사진 찍어도 돼요?"
+  },
+  {
+    "id": 6587,
+    "english": "May I use the restroom?",
+    "korean": "화장실 좀 써도 될까요?"
+  },
+  {
+    "id": 6588,
+    "english": "Can I charge my phone here?",
+    "korean": "여기서 휴대폰 충전해도 돼요?"
+  },
+  {
+    "id": 6589,
+    "english": "Could you take a photo of us?",
+    "korean": "저희 사진 좀 찍어 주실래요?"
+  },
+  {
+    "id": 6590,
+    "english": "Please call me later.",
+    "korean": "나중에 전화해 주세요."
+  },
+  {
+    "id": 6591,
+    "english": "May I borrow your pen?",
+    "korean": "펜 좀 빌려도 돼요?"
+  },
+  {
+    "id": 6592,
+    "english": "Could you lend me a hand?",
+    "korean": "좀 도와주시겠어요?"
+  },
+  {
+    "id": 6593,
+    "english": "May I open the window?",
+    "korean": "창문 열어도 돼요?"
+  }
+]

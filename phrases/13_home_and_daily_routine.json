@@ -1,0 +1,1442 @@
+[
+  {
+    "id": 192,
+    "english": "I want to sleep.",
+    "korean": "저는 자고 싶어요."
+  },
+  {
+    "id": 229,
+    "english": "Did you wake up?",
+    "korean": "일어났습니까?"
+  },
+  {
+    "id": 239,
+    "english": "Please clean my room.",
+    "korean": "제 방을 청소해 주세요."
+  },
+  {
+    "id": 240,
+    "english": "We need to clean.",
+    "korean": "청소를 열심히 해야 해요."
+  },
+  {
+    "id": 277,
+    "english": "What time did you wake up?",
+    "korean": "몇 시에 일어나셨어요?"
+  },
+  {
+    "id": 292,
+    "english": "Please close the window.",
+    "korean": "창문 좀 닫아주세요."
+  },
+  {
+    "id": 364,
+    "english": "It's time to wake up.",
+    "korean": "일어날 시간이에요."
+  },
+  {
+    "id": 409,
+    "english": "Do you have toothpaste?",
+    "korean": "치약 있나요?"
+  },
+  {
+    "id": 424,
+    "english": "I need to go to the bathroom.",
+    "korean": "화장실에 가야겠어요."
+  },
+  {
+    "id": 445,
+    "english": "A mosquito got into the room.",
+    "korean": "모기가 방에 들어왔어요."
+  },
+  {
+    "id": 465,
+    "english": "Please turn on the air conditioner.",
+    "korean": "에어컨 좀 틀어주세요."
+  },
+  {
+    "id": 483,
+    "english": "Is the door open?",
+    "korean": "문이 열렸나요?"
+  },
+  {
+    "id": 503,
+    "english": "I'm on my way home.",
+    "korean": "집에 가는 중이에요."
+  },
+  {
+    "id": 536,
+    "english": "Please wake me up at 7.",
+    "korean": "7시에 깨워 주세요."
+  },
+  {
+    "id": 543,
+    "english": "I just woke up.",
+    "korean": "방금 일어났어요."
+  },
+  {
+    "id": 561,
+    "english": "I locked myself out.",
+    "korean": "문을 잠그고 나왔어요."
+  },
+  {
+    "id": 567,
+    "english": "Can you open the window?",
+    "korean": "창문 좀 열어 줄래요?"
+  },
+  {
+    "id": 583,
+    "english": "Please wake me up later.",
+    "korean": "나중에 깨워 주세요."
+  },
+  {
+    "id": 592,
+    "english": "I'll clean it up later.",
+    "korean": "정리할게요."
+  },
+  {
+    "id": 593,
+    "english": "Please leave the door open.",
+    "korean": "문을 열어 두세요."
+  },
+  {
+    "id": 594,
+    "english": "I'll take a shower.",
+    "korean": "샤워하고 올게요."
+  },
+  {
+    "id": 699,
+    "english": "Can I work from home today?",
+    "korean": "오늘 재택근무 해도 될까요?"
+  },
+  {
+    "id": 730,
+    "english": "What room number am I in?",
+    "korean": "제 방 번호가 몇 번이에요?"
+  },
+  {
+    "id": 731,
+    "english": "The heater is not working.",
+    "korean": "난방이 안 돼요."
+  },
+  {
+    "id": 732,
+    "english": "The air conditioner is broken.",
+    "korean": "에어컨이 고장났어요."
+  },
+  {
+    "id": 735,
+    "english": "The toilet is clogged.",
+    "korean": "변기가 막혔어요."
+  },
+  {
+    "id": 736,
+    "english": "There is a leak.",
+    "korean": "물이 새요."
+  },
+  {
+    "id": 737,
+    "english": "Can I have an extra blanket?",
+    "korean": "담요 하나 더 주실 수 있어요?"
+  },
+  {
+    "id": 740,
+    "english": "When is the laundry time?",
+    "korean": "세탁 시간이 언제예요?"
+  },
+  {
+    "id": 742,
+    "english": "Where do I throw away the trash?",
+    "korean": "쓰레기 어디에 버려요?"
+  },
+  {
+    "id": 743,
+    "english": "What day is trash collection?",
+    "korean": "쓰레기 수거일이 무슨 요일이에요?"
+  },
+  {
+    "id": 749,
+    "english": "I lost my room key.",
+    "korean": "방 열쇠를 잃어버렸어요."
+  },
+  {
+    "id": 750,
+    "english": "Can I get a spare key?",
+    "korean": "여분 열쇠를 받을 수 있어요?"
+  },
+  {
+    "id": 751,
+    "english": "The door lock is not working.",
+    "korean": "도어락이 작동이 안 돼요."
+  },
+  {
+    "id": 756,
+    "english": "What are the dorm rules?",
+    "korean": "기숙사 규칙이 어떻게 돼요?"
+  },
+  {
+    "id": 969,
+    "english": "I miss my home country.",
+    "korean": "고국이 그리워요."
+  },
+  {
+    "id": 1026,
+    "english": "Please leave it at the door.",
+    "korean": "문 앞에 놔 주세요."
+  },
+  {
+    "id": 1030,
+    "english": "I wake up at 6 AM.",
+    "korean": "오전 6시에 일어나요."
+  },
+  {
+    "id": 1031,
+    "english": "I take a shower every morning.",
+    "korean": "매일 아침 샤워해요."
+  },
+  {
+    "id": 1035,
+    "english": "I come home at 7 PM.",
+    "korean": "저녁 7시에 집에 와요."
+  },
+  {
+    "id": 1037,
+    "english": "I go to bed at 11 PM.",
+    "korean": "밤 11시에 자요."
+  },
+  {
+    "id": 1040,
+    "english": "I clean my room on weekends.",
+    "korean": "주말에 방 청소를 해요."
+  },
+  {
+    "id": 1041,
+    "english": "I do laundry twice a week.",
+    "korean": "일주일에 두 번 빨래해요."
+  },
+  {
+    "id": 1042,
+    "english": "I read before sleeping.",
+    "korean": "자기 전에 책을 읽어요."
+  },
+  {
+    "id": 1049,
+    "english": "I try to sleep 8 hours a night.",
+    "korean": "하루에 8시간 자려고 해요."
+  },
+  {
+    "id": 1052,
+    "english": "Is there a locker room?",
+    "korean": "탈의실이 있어요?"
+  },
+  {
+    "id": 1079,
+    "english": "I wake up at half past six.",
+    "korean": "여섯 시 반에 일어나요."
+  },
+  {
+    "id": 1118,
+    "english": "Can you wake me up at 7?",
+    "korean": "7시에 깨워줄 수 있어요?"
+  },
+  {
+    "id": 1193,
+    "english": "I have a family back home.",
+    "korean": "고국에 가족이 있어요."
+  },
+  {
+    "id": 1240,
+    "english": "I stayed home all weekend.",
+    "korean": "주말에 계속 집에 있었어요."
+  },
+  {
+    "id": 1312,
+    "english": "Can we open a window?",
+    "korean": "창문 좀 열어도 될까요?"
+  },
+  {
+    "id": 1491,
+    "english": "I am looking for a place to rent.",
+    "korean": "임대할 곳을 찾고 있어요."
+  },
+  {
+    "id": 1496,
+    "english": "Can I see the room first?",
+    "korean": "먼저 방을 볼 수 있어요?"
+  },
+  {
+    "id": 1497,
+    "english": "Is the room furnished?",
+    "korean": "방이 가구가 갖춰져 있어요?"
+  },
+  {
+    "id": 1499,
+    "english": "Is there a gas stove or induction?",
+    "korean": "가스레인지예요 아니면 인덕션이에요?"
+  },
+  {
+    "id": 1500,
+    "english": "How is the heating system?",
+    "korean": "난방 시스템이 어떻게 돼요?"
+  },
+  {
+    "id": 1501,
+    "english": "Is there ondol floor heating?",
+    "korean": "온돌 바닥 난방이 있어요?"
+  },
+  {
+    "id": 1503,
+    "english": "Where do I put recycling?",
+    "korean": "재활용은 어디에 버려요?"
+  },
+  {
+    "id": 1504,
+    "english": "What is the recycling schedule?",
+    "korean": "재활용 수거 일정이 어떻게 돼요?"
+  },
+  {
+    "id": 1507,
+    "english": "My neighbor is very noisy.",
+    "korean": "이웃이 너무 시끄러워요."
+  },
+  {
+    "id": 1534,
+    "english": "I will go back home next year.",
+    "korean": "내년에 귀국할 거예요."
+  },
+  {
+    "id": 1645,
+    "english": "It is clean.",
+    "korean": "깨끗해요."
+  },
+  {
+    "id": 1697,
+    "english": "Text me when you get home safely.",
+    "korean": "집에 도착하면 문자 해줘요."
+  },
+  {
+    "id": 1714,
+    "english": "I have been sleeping better recently.",
+    "korean": "최근에 잠을 더 잘 자고 있어요."
+  },
+  {
+    "id": 1734,
+    "english": "I have a family back home in Nepal.",
+    "korean": "고국 네팔에 가족이 있어요."
+  },
+  {
+    "id": 1756,
+    "english": "Can we sit by the window?",
+    "korean": "창가에 앉을 수 있어요?"
+  },
+  {
+    "id": 1794,
+    "english": "I played football back home.",
+    "korean": "고국에서 축구를 했어요."
+  },
+  {
+    "id": 1863,
+    "english": "Rent is my biggest expense.",
+    "korean": "월세가 제일 큰 지출이에요."
+  },
+  {
+    "id": 1898,
+    "english": "I miss home but I have a goal.",
+    "korean": "고향이 그립지만 목표가 있어요."
+  },
+  {
+    "id": 1899,
+    "english": "Could you please open the door?",
+    "korean": "문 좀 열어주실 수 있어요?"
+  },
+  {
+    "id": 1905,
+    "english": "Do you mind if I open the window?",
+    "korean": "창문 열어도 괜찮을까요?"
+  },
+  {
+    "id": 1922,
+    "english": "I want to go home during the long holiday.",
+    "korean": "긴 연휴 때 고국에 가고 싶어요."
+  },
+  {
+    "id": 1949,
+    "english": "Can I wash my hair here?",
+    "korean": "여기서 머리 감을 수 있어요?"
+  },
+  {
+    "id": 2037,
+    "english": "How long does the wash cycle take?",
+    "korean": "세탁에 얼마나 걸려요?"
+  },
+  {
+    "id": 2040,
+    "english": "This fabric should be hand washed.",
+    "korean": "이 천은 손빨래해야 해요."
+  },
+  {
+    "id": 2137,
+    "english": "I have not slept well all week.",
+    "korean": "일주일 내내 잠을 잘 못 잤어요."
+  },
+  {
+    "id": 2178,
+    "english": "I dream of owning my own home.",
+    "korean": "내 집을 갖는 것이 꿈이에요."
+  },
+  {
+    "id": 2243,
+    "english": "Make yourself at home.",
+    "korean": "편하게 계세요."
+  },
+  {
+    "id": 2256,
+    "english": "I learned how to sort recycling in Korea.",
+    "korean": "한국에서 재활용 분리수거 방법을 배웠어요."
+  },
+  {
+    "id": 2257,
+    "english": "The trash collection is at night here.",
+    "korean": "여기는 밤에 쓰레기를 수거해요."
+  },
+  {
+    "id": 2265,
+    "english": "Ondol heating is very efficient.",
+    "korean": "온돌 난방이 정말 효율적이에요."
+  },
+  {
+    "id": 2279,
+    "english": "I ended up staying home.",
+    "korean": "결국 집에 있었어요."
+  },
+  {
+    "id": 2315,
+    "english": "Please keep the work area clean.",
+    "korean": "작업 구역을 깨끗하게 유지해 주세요."
+  },
+  {
+    "id": 2328,
+    "english": "The shower drain is clogged.",
+    "korean": "샤워기 배수구가 막혔어요."
+  },
+  {
+    "id": 2329,
+    "english": "My room smells musty.",
+    "korean": "방에서 곰팡이 냄새가 나요."
+  },
+  {
+    "id": 2331,
+    "english": "Can I get a fan for my room?",
+    "korean": "방에 선풍기 받을 수 있어요?"
+  },
+  {
+    "id": 2332,
+    "english": "The window does not close properly.",
+    "korean": "창문이 제대로 닫히지 않아요."
+  },
+  {
+    "id": 2333,
+    "english": "My roommate snores very loudly.",
+    "korean": "룸메이트가 코를 너무 크게 골아요."
+  },
+  {
+    "id": 2334,
+    "english": "Can I request a room change?",
+    "korean": "방 변경을 요청할 수 있어요?"
+  },
+  {
+    "id": 2337,
+    "english": "The mattress is very uncomfortable.",
+    "korean": "매트리스가 정말 불편해요."
+  },
+  {
+    "id": 2338,
+    "english": "Can I get an extra pillow?",
+    "korean": "베개 하나 더 받을 수 있어요?"
+  },
+  {
+    "id": 2339,
+    "english": "The smoke alarm keeps going off.",
+    "korean": "화재경보기가 계속 울려요."
+  },
+  {
+    "id": 2340,
+    "english": "The electricity went out in my room.",
+    "korean": "방 전기가 나갔어요."
+  },
+  {
+    "id": 2341,
+    "english": "Is there a common room I can use?",
+    "korean": "공용 공간을 사용할 수 있어요?"
+  },
+  {
+    "id": 2345,
+    "english": "The lock on my locker is broken.",
+    "korean": "개인 사물함 자물쇠가 고장났어요."
+  },
+  {
+    "id": 2372,
+    "english": "Can you recommend the house special?",
+    "korean": "가게 특선 요리를 추천해 줄 수 있어요?"
+  },
+  {
+    "id": 2436,
+    "english": "I know nunchi means reading the room.",
+    "korean": "눈치가 상황을 파악하는 거라는 걸 알아요."
+  },
+  {
+    "id": 2552,
+    "english": "I need to take a bathroom break.",
+    "korean": "화장실 좀 다녀와도 될까요."
+  },
+  {
+    "id": 2560,
+    "english": "Can I bring a small appliance to my room?",
+    "korean": "방에 소형 가전을 가져와도 돼요?"
+  },
+  {
+    "id": 2563,
+    "english": "The drain in the bathroom is slow.",
+    "korean": "욕실 배수구가 느려요."
+  },
+  {
+    "id": 2564,
+    "english": "There are cockroaches in my room.",
+    "korean": "방에 바퀴벌레가 있어요."
+  },
+  {
+    "id": 2565,
+    "english": "I need pest control in my room.",
+    "korean": "방 방역이 필요해요."
+  },
+  {
+    "id": 2568,
+    "english": "I need a curtain for my window.",
+    "korean": "창문에 커튼이 필요해요."
+  },
+  {
+    "id": 2570,
+    "english": "My room gets very cold at night.",
+    "korean": "밤에 방이 너무 추워요."
+  },
+  {
+    "id": 2571,
+    "english": "There is no ventilation in this room.",
+    "korean": "이 방에 환기가 안 돼요."
+  },
+  {
+    "id": 2572,
+    "english": "Can I get a dehumidifier for my room?",
+    "korean": "제습기를 구할 수 있어요?"
+  },
+  {
+    "id": 2579,
+    "english": "I need a window seat please.",
+    "korean": "창가 자리로 주세요."
+  },
+  {
+    "id": 2648,
+    "english": "Gyeongju feels like home to me now.",
+    "korean": "경주가 이제 제 집처럼 느껴져요."
+  },
+  {
+    "id": 2669,
+    "english": "My friends back home cheer me up.",
+    "korean": "고국 친구들이 저를 응원해줘요."
+  },
+  {
+    "id": 2751,
+    "english": "The pot calling the kettle black.",
+    "korean": "똥 묻은 개가 겨 묻은 개 나무라는 격이에요."
+  },
+  {
+    "id": 2787,
+    "english": "I need to do laundry today.",
+    "korean": "오늘 빨래를 해야 해요."
+  },
+  {
+    "id": 2788,
+    "english": "My room is a total mess.",
+    "korean": "방이 완전히 난장판이에요."
+  },
+  {
+    "id": 2790,
+    "english": "I vacuumed the whole room.",
+    "korean": "방 전체를 청소기로 돌렸어요."
+  },
+  {
+    "id": 2791,
+    "english": "I mopped the floor.",
+    "korean": "바닥을 닦았어요."
+  },
+  {
+    "id": 2792,
+    "english": "The trash is full.",
+    "korean": "쓰레기통이 가득 찼어요."
+  },
+  {
+    "id": 2793,
+    "english": "Can someone take out the trash?",
+    "korean": "누가 쓰레기 좀 버려줄 수 있어요?"
+  },
+  {
+    "id": 2794,
+    "english": "I need to change my bed sheets.",
+    "korean": "침대 시트를 갈아야 해요."
+  },
+  {
+    "id": 2795,
+    "english": "I aired out my room today.",
+    "korean": "오늘 방을 환기시켰어요."
+  },
+  {
+    "id": 2799,
+    "english": "Don't forget your keys.",
+    "korean": "열쇠 잊지 마세요."
+  },
+  {
+    "id": 2800,
+    "english": "I locked myself out.",
+    "korean": "열쇠를 두고 문을 잠갔어요."
+  },
+  {
+    "id": 2801,
+    "english": "The key is under the mat.",
+    "korean": "열쇠가 매트 아래 있어요."
+  },
+  {
+    "id": 2802,
+    "english": "I need a spare key made.",
+    "korean": "열쇠 복사본을 만들어야 해요."
+  },
+  {
+    "id": 2925,
+    "english": "I woke up feeling refreshed today.",
+    "korean": "오늘 상쾌하게 일어났어요."
+  },
+  {
+    "id": 2926,
+    "english": "I could not get out of bed this morning.",
+    "korean": "오늘 아침에 침대에서 일어나기 너무 힘들었어요."
+  },
+  {
+    "id": 2929,
+    "english": "I brushed my teeth twice today.",
+    "korean": "오늘 두 번 양치질했어요."
+  },
+  {
+    "id": 2930,
+    "english": "I forgot to wash my face.",
+    "korean": "세수하는 걸 깜빡했어요."
+  },
+  {
+    "id": 2933,
+    "english": "I ran out of shampoo.",
+    "korean": "샴푸가 다 떨어졌어요."
+  },
+  {
+    "id": 2936,
+    "english": "I took a cold shower to wake up.",
+    "korean": "잠 깨려고 찬물로 샤워했어요."
+  },
+  {
+    "id": 2938,
+    "english": "I had a quick nap after work.",
+    "korean": "퇴근 후에 잠깐 낮잠 잤어요."
+  },
+  {
+    "id": 2943,
+    "english": "I slept like a log.",
+    "korean": "통나무처럼 잤어요."
+  },
+  {
+    "id": 2964,
+    "english": "I slept in until noon on Sunday.",
+    "korean": "일요일에 정오까지 잤어요."
+  },
+  {
+    "id": 2965,
+    "english": "I had a lazy day at home.",
+    "korean": "집에서 뒹굴거렸어요."
+  },
+  {
+    "id": 3040,
+    "english": "Sleep on it before deciding.",
+    "korean": "결정하기 전에 하룻밤 자고 생각해보세요."
+  },
+  {
+    "id": 3061,
+    "english": "I just want to do my job and go home.",
+    "korean": "그냥 일하고 집에 가고 싶어요."
+  },
+  {
+    "id": 3087,
+    "english": "Now I have friends and a routine.",
+    "korean": "이제 친구들도 생기고 생활 패턴도 잡혔어요."
+  },
+  {
+    "id": 3182,
+    "english": "Let sleeping dogs lie.",
+    "korean": "가만히 있는 걸 건드리지 마세요."
+  },
+  {
+    "id": 3201,
+    "english": "I separate my recycling every day.",
+    "korean": "매일 재활용을 분리해요."
+  },
+  {
+    "id": 3286,
+    "english": "The streets are so clean here.",
+    "korean": "여기 거리가 정말 깨끗해요."
+  },
+  {
+    "id": 3291,
+    "english": "I would not feel safe doing that at home.",
+    "korean": "고국에서는 그렇게 하면 안전하지 않을 거예요."
+  },
+  {
+    "id": 3294,
+    "english": "I miss the simplicity of life back home.",
+    "korean": "고국의 단순한 생활이 그리워요."
+  },
+  {
+    "id": 3336,
+    "english": "Did you sleep okay?",
+    "korean": "잘 잤어요?"
+  },
+  {
+    "id": 3350,
+    "english": "I cannot wait to sleep in tomorrow.",
+    "korean": "내일 늦잠 자는 게 기대돼요."
+  },
+  {
+    "id": 3394,
+    "english": "The gas leak detector is beeping.",
+    "korean": "가스 누출 감지기가 울리고 있어요."
+  },
+  {
+    "id": 3401,
+    "english": "The blast cleaning is finished.",
+    "korean": "블라스트 청소가 끝났어요."
+  },
+  {
+    "id": 3448,
+    "english": "I barely slept last night.",
+    "korean": "어젯밤에 거의 못 잤어요."
+  },
+  {
+    "id": 3495,
+    "english": "I keep myself busy so I do not miss home too much.",
+    "korean": "너무 그리워하지 않으려고 바쁘게 지내요."
+  },
+  {
+    "id": 3511,
+    "english": "The alarm will sound at ten o'clock.",
+    "korean": "열 시에 알람이 울릴 거예요."
+  },
+  {
+    "id": 3512,
+    "english": "When you hear the alarm evacuate calmly?",
+    "korean": "알람이 울리면 침착하게 대피하세요?"
+  },
+  {
+    "id": 3540,
+    "english": "Lock out tag out before maintenance.",
+    "korean": "정비 전에 잠금 표지 절차를 따르세요."
+  },
+  {
+    "id": 3542,
+    "english": "The equipment has been locked out.",
+    "korean": "장비가 잠금 처리됐어요."
+  },
+  {
+    "id": 3549,
+    "english": "The microwave smells terrible.",
+    "korean": "전자레인지에서 냄새가 너무 심해요."
+  },
+  {
+    "id": 3550,
+    "english": "Can someone clean the microwave please?",
+    "korean": "누가 전자레인지를 청소해줄 수 있어요?"
+  },
+  {
+    "id": 3552,
+    "english": "Let us take turns cleaning this week.",
+    "korean": "이번 주에 돌아가면서 청소해요."
+  },
+  {
+    "id": 3570,
+    "english": "Are you heading home now?",
+    "korean": "이제 집에 가요?"
+  },
+  {
+    "id": 3577,
+    "english": "I just want to shower and sleep.",
+    "korean": "그냥 샤워하고 자고 싶어요."
+  },
+  {
+    "id": 3640,
+    "english": "I try not to bring work home.",
+    "korean": "집에 일을 가져오지 않으려고 해요."
+  },
+  {
+    "id": 3674,
+    "english": "I usually take a shower when I get home.",
+    "korean": "집에 오면 보통 샤워부터 해요."
+  },
+  {
+    "id": 3684,
+    "english": "I keep a vocabulary notebook beside my bed.",
+    "korean": "침대 옆에 단어장을 두고 있어요."
+  },
+  {
+    "id": 3689,
+    "english": "Consistency is the key.",
+    "korean": "꾸준함이 핵심이에요."
+  },
+  {
+    "id": 3724,
+    "english": "I want to take these skills back home someday.",
+    "korean": "언젠가 이 기술을 고국에 가져가고 싶어요."
+  },
+  {
+    "id": 3818,
+    "english": "I cleaned the work area today.",
+    "korean": "오늘 작업 구역을 청소했어요."
+  },
+  {
+    "id": 3850,
+    "english": "I slept well thank you.",
+    "korean": "잘 잤어요 감사해요."
+  },
+  {
+    "id": 3851,
+    "english": "I could not sleep last night.",
+    "korean": "어젯밤에 잠을 못 잤어요."
+  },
+  {
+    "id": 3857,
+    "english": "What time did you wake up today?",
+    "korean": "오늘 몇 시에 일어나셨어요?"
+  },
+  {
+    "id": 3858,
+    "english": "I woke up at five thirty.",
+    "korean": "다섯 시 반에 일어났어요."
+  },
+  {
+    "id": 3859,
+    "english": "The alarm did not go off.",
+    "korean": "알람이 안 울렸어요."
+  },
+  {
+    "id": 3908,
+    "english": "I plan to sleep a lot.",
+    "korean": "많이 잘 계획이에요."
+  },
+  {
+    "id": 3909,
+    "english": "I will do laundry and clean.",
+    "korean": "빨래하고 청소할 거예요."
+  },
+  {
+    "id": 3946,
+    "english": "I miss home today.",
+    "korean": "오늘 집이 그리워요."
+  },
+  {
+    "id": 3978,
+    "english": "Can we open a window?",
+    "korean": "창문 좀 열 수 있어요?"
+  },
+  {
+    "id": 4015,
+    "english": "Korea is a clean country.",
+    "korean": "한국은 깨끗한 나라예요."
+  },
+  {
+    "id": 4162,
+    "english": "Are you getting enough sleep?",
+    "korean": "잠을 충분히 자고 있어요?"
+  },
+  {
+    "id": 4163,
+    "english": "Try to sleep early tonight.",
+    "korean": "오늘 밤에 일찍 자봐요."
+  },
+  {
+    "id": 4165,
+    "english": "My family is all back home.",
+    "korean": "가족이 다 고국에 있어요."
+  },
+  {
+    "id": 4176,
+    "english": "I will go home to visit in December.",
+    "korean": "12월에 방문하러 집에 갈 거예요."
+  },
+  {
+    "id": 4177,
+    "english": "I am already excited about going home.",
+    "korean": "벌써 집에 가는 게 기대돼요."
+  },
+  {
+    "id": 4180,
+    "english": "Home is where the heart is.",
+    "korean": "마음이 있는 곳이 집이에요."
+  },
+  {
+    "id": 4181,
+    "english": "But Korea has become a second home.",
+    "korean": "근데 한국이 제2의 집이 됐어요."
+  },
+  {
+    "id": 4293,
+    "english": "Clean up before they come.",
+    "korean": "오기 전에 정리해요."
+  },
+  {
+    "id": 4360,
+    "english": "I need to clean up first.",
+    "korean": "먼저 정리해야 해요."
+  },
+  {
+    "id": 4370,
+    "english": "Text me when you get home.",
+    "korean": "집에 도착하면 문자 해요."
+  },
+  {
+    "id": 4402,
+    "english": "I live in the dormitory.",
+    "korean": "기숙사에 살아요."
+  },
+  {
+    "id": 4403,
+    "english": "My room is small but okay.",
+    "korean": "방이 작지만 괜찮아요."
+  },
+  {
+    "id": 4404,
+    "english": "I share a room.",
+    "korean": "방을 같이 써요."
+  },
+  {
+    "id": 4405,
+    "english": "My roommate is nice.",
+    "korean": "룸메이트가 좋아요."
+  },
+  {
+    "id": 4406,
+    "english": "I woke up early today.",
+    "korean": "오늘 일찍 일어났어요."
+  },
+  {
+    "id": 4407,
+    "english": "I went to bed late last night.",
+    "korean": "어젯밤에 늦게 잤어요."
+  },
+  {
+    "id": 4408,
+    "english": "I did not sleep enough.",
+    "korean": "잠을 충분히 못 잤어요."
+  },
+  {
+    "id": 4413,
+    "english": "I stayed home all day.",
+    "korean": "하루 종일 집에 있었어요."
+  },
+  {
+    "id": 4419,
+    "english": "I did laundry last night.",
+    "korean": "어젯밤에 빨래를 했어요."
+  },
+  {
+    "id": 4420,
+    "english": "I cleaned my room yesterday.",
+    "korean": "어제 방 청소를 했어요."
+  },
+  {
+    "id": 4460,
+    "english": "I slept like a baby.",
+    "korean": "아기처럼 잤어요."
+  },
+  {
+    "id": 4481,
+    "english": "I stayed home mostly.",
+    "korean": "주로 집에 있었어요."
+  },
+  {
+    "id": 4579,
+    "english": "I feel more at home every day.",
+    "korean": "매일 더 편안해지는 것 같아요."
+  },
+  {
+    "id": 4694,
+    "english": "I could sleep right now.",
+    "korean": "지금 당장 잘 수 있겠어요."
+  },
+  {
+    "id": 4695,
+    "english": "Wake me up when break is over.",
+    "korean": "쉬는 시간 끝나면 깨워요."
+  },
+  {
+    "id": 4696,
+    "english": "Do not actually let me sleep.",
+    "korean": "진짜로 재우지는 마요."
+  },
+  {
+    "id": 4733,
+    "english": "Just resting at home.",
+    "korean": "그냥 집에서 쉬어요."
+  },
+  {
+    "id": 4814,
+    "english": "One day I will go home stronger.",
+    "korean": "언젠가 더 강해져서 돌아갈 거예요."
+  },
+  {
+    "id": 4836,
+    "english": "It makes me feel close to home.",
+    "korean": "고향에 가까운 느낌이 들어요."
+  },
+  {
+    "id": 4875,
+    "english": "My room is small but comfortable.",
+    "korean": "방이 작지만 편안해요."
+  },
+  {
+    "id": 4877,
+    "english": "A bed a table and a chair.",
+    "korean": "침대 테이블 의자요."
+  },
+  {
+    "id": 4879,
+    "english": "I keep it very clean.",
+    "korean": "항상 깨끗하게 유지해요."
+  },
+  {
+    "id": 4880,
+    "english": "Clean room clear mind.",
+    "korean": "깨끗한 방이 맑은 정신을 만들어요."
+  },
+  {
+    "id": 4881,
+    "english": "I organize everything before sleeping.",
+    "korean": "자기 전에 다 정리해요."
+  },
+  {
+    "id": 4882,
+    "english": "Wake up to a clean room feels good.",
+    "korean": "깨끗한 방에서 일어나는 게 기분 좋아요."
+  },
+  {
+    "id": 4889,
+    "english": "My room is my safe space.",
+    "korean": "제 방이 제 안전한 공간이에요."
+  },
+  {
+    "id": 4890,
+    "english": "After work I just want to be in my room.",
+    "korean": "퇴근 후에는 그냥 방에 있고 싶어요."
+  },
+  {
+    "id": 4923,
+    "english": "What do you miss from home?",
+    "korean": "고국에서 뭐가 그리워요?"
+  },
+  {
+    "id": 4944,
+    "english": "Tell them where the toilet is.",
+    "korean": "화장실이 어딘지 알려줘요."
+  },
+  {
+    "id": 4991,
+    "english": "Clean up time.",
+    "korean": "정리 시간이에요."
+  },
+  {
+    "id": 5007,
+    "english": "Safe travels home.",
+    "korean": "집에 안전히 가요."
+  },
+  {
+    "id": 5012,
+    "english": "I had a great sleep.",
+    "korean": "잠을 잘 잤어요."
+  },
+  {
+    "id": 5013,
+    "english": "Best sleep in a long time.",
+    "korean": "오랜만에 잘 잔 것 같아요."
+  },
+  {
+    "id": 5019,
+    "english": "I woke up in a good mood.",
+    "korean": "기분 좋게 일어났어요."
+  },
+  {
+    "id": 5035,
+    "english": "I forgot it at home.",
+    "korean": "집에 두고 왔어요."
+  },
+  {
+    "id": 5060,
+    "english": "And everyone going home safe.",
+    "korean": "그리고 모두 안전하게 집에 가는 거요."
+  },
+  {
+    "id": 5158,
+    "english": "I miss home sometimes.",
+    "korean": "가끔 집이 그리워요."
+  },
+  {
+    "id": 5160,
+    "english": "Rainy days make me miss home more.",
+    "korean": "비 오는 날 더 그리워요."
+  },
+  {
+    "id": 5163,
+    "english": "And it reminds you of home.",
+    "korean": "그게 집을 생각나게 해요."
+  },
+  {
+    "id": 5170,
+    "english": "And you create a new home here.",
+    "korean": "그리고 여기서 새 집을 만들게 돼요."
+  },
+  {
+    "id": 5172,
+    "english": "Korea is becoming home slowly.",
+    "korean": "한국이 천천히 집이 되고 있어요."
+  },
+  {
+    "id": 5237,
+    "english": "Sleeping mostly.",
+    "korean": "주로 잘 거예요."
+  },
+  {
+    "id": 5251,
+    "english": "I slept okay not great.",
+    "korean": "그럭저럭 잤어요 잘 잔 건 아니에요."
+  },
+  {
+    "id": 5255,
+    "english": "Wake up we have work to do.",
+    "korean": "일어나요 할 일이 있잖아요."
+  },
+  {
+    "id": 5292,
+    "english": "Not really just going home.",
+    "korean": "별로요 그냥 집에 갈 거예요."
+  },
+  {
+    "id": 5555,
+    "english": "I woke up happy.",
+    "korean": "행복하게 일어났어요."
+  },
+  {
+    "id": 5566,
+    "english": "I know but I could not sleep.",
+    "korean": "알아요 근데 잠이 안 왔어요."
+  },
+  {
+    "id": 5567,
+    "english": "Try going to bed earlier.",
+    "korean": "더 일찍 자려고 해봐요."
+  },
+  {
+    "id": 5574,
+    "english": "Tonight I will go to bed early.",
+    "korean": "오늘 밤에 일찍 잘게요."
+  },
+  {
+    "id": 5733,
+    "english": "Routine can be comforting.",
+    "korean": "일상이 위안이 되기도 해요."
+  },
+  {
+    "id": 5738,
+    "english": "Routine is underrated.",
+    "korean": "일상이 생각보다 좋아요."
+  },
+  {
+    "id": 5770,
+    "english": "Let me clean that up.",
+    "korean": "제가 치울게요."
+  },
+  {
+    "id": 5773,
+    "english": "Yes I made the mess I clean it.",
+    "korean": "네 제가 만든 거니까 제가 치워요."
+  },
+  {
+    "id": 5807,
+    "english": "Same room as last time.",
+    "korean": "지난번이랑 같은 방이에요."
+  },
+  {
+    "id": 5877,
+    "english": "I cannot wait to get home.",
+    "korean": "빨리 집에 가고 싶어요."
+  },
+  {
+    "id": 5883,
+    "english": "Then shower.",
+    "korean": "그다음에 샤워하고요."
+  },
+  {
+    "id": 5884,
+    "english": "Then sleep.",
+    "korean": "그다음에 자요."
+  },
+  {
+    "id": 5902,
+    "english": "My alarm went off.",
+    "korean": "알람이 울렸어요."
+  },
+  {
+    "id": 5905,
+    "english": "I ran out the door.",
+    "korean": "문을 박차고 나갔어요."
+  },
+  {
+    "id": 5910,
+    "english": "It woke me right up.",
+    "korean": "확 잠이 깼어요."
+  },
+  {
+    "id": 5933,
+    "english": "In the locker room over there.",
+    "korean": "저쪽 탈의실이에요."
+  },
+  {
+    "id": 5937,
+    "english": "The lock is stiff.",
+    "korean": "자물쇠가 뻑뻑해요."
+  },
+  {
+    "id": 5940,
+    "english": "Make sure to lock it again.",
+    "korean": "다시 잠그는 거 잊지 마요."
+  },
+  {
+    "id": 5946,
+    "english": "Just come work and go home.",
+    "korean": "그냥 와서 일하고 집에 가요."
+  },
+  {
+    "id": 6047,
+    "english": "Just stayed home and rested.",
+    "korean": "그냥 집에서 쉬었어요."
+  },
+  {
+    "id": 6056,
+    "english": "I stretch every night before bed.",
+    "korean": "매일 밤 자기 전에 스트레칭해요."
+  },
+  {
+    "id": 6057,
+    "english": "It helps me sleep better.",
+    "korean": "잠을 더 잘 자게 해줘요."
+  },
+  {
+    "id": 6072,
+    "english": "A clean space helps you think.",
+    "korean": "깨끗한 공간이 생각하는 데 도움이 돼요."
+  },
+  {
+    "id": 6087,
+    "english": "The routine helped.",
+    "korean": "일상이 도움이 됐어요."
+  },
+  {
+    "id": 6089,
+    "english": "Community makes a place feel like home.",
+    "korean": "공동체가 장소를 집처럼 느끼게 해줘요."
+  },
+  {
+    "id": 6116,
+    "english": "A nice text from home.",
+    "korean": "집에서 온 좋은 문자요."
+  },
+  {
+    "id": 6129,
+    "english": "I want to save enough to go home.",
+    "korean": "집에 갈 만큼 충분히 모으고 싶어요."
+  },
+  {
+    "id": 6292,
+    "english": "There's a hole in the wall.",
+    "korean": "벽에 구멍이 있어요."
+  },
+  {
+    "id": 6423,
+    "english": "I'm going to bed now.",
+    "korean": "이제 자러 갈게요."
+  },
+  {
+    "id": 6424,
+    "english": "I'm doing laundry.",
+    "korean": "빨래하고 있어요."
+  },
+  {
+    "id": 6425,
+    "english": "Please lock the door.",
+    "korean": "문 잠그세요."
+  },
+  {
+    "id": 6426,
+    "english": "I'm cleaning my room.",
+    "korean": "방 청소하고 있어요."
+  },
+  {
+    "id": 6427,
+    "english": "Please turn off the heater.",
+    "korean": "히터 꺼 주세요."
+  },
+  {
+    "id": 6428,
+    "english": "I take a shower every night.",
+    "korean": "매일 밤 샤워해요."
+  },
+  {
+    "id": 6429,
+    "english": "I took out the trash.",
+    "korean": "쓰레기를 버렸어요."
+  },
+  {
+    "id": 6761,
+    "english": "I wake up at six.",
+    "korean": "여섯 시에 일어나요."
+  },
+  {
+    "id": 6762,
+    "english": "I brush my teeth.",
+    "korean": "양치해요."
+  },
+  {
+    "id": 6763,
+    "english": "I take a shower.",
+    "korean": "샤워해요."
+  },
+  {
+    "id": 6764,
+    "english": "I cook dinner.",
+    "korean": "저녁을 만들어요."
+  },
+  {
+    "id": 6765,
+    "english": "I do the laundry.",
+    "korean": "빨래해요."
+  },
+  {
+    "id": 6766,
+    "english": "I clean the room.",
+    "korean": "방을 청소해요."
+  },
+  {
+    "id": 6767,
+    "english": "I take out the trash.",
+    "korean": "쓰레기를 버려요."
+  },
+  {
+    "id": 6768,
+    "english": "I wash the dishes.",
+    "korean": "설거지해요."
+  },
+  {
+    "id": 6769,
+    "english": "I go to bed at eleven.",
+    "korean": "열한 시에 자요."
+  },
+  {
+    "id": 6770,
+    "english": "There is no hot water.",
+    "korean": "온수가 안 나와요."
+  },
+  {
+    "id": 6771,
+    "english": "The water is cut off.",
+    "korean": "물이 안 나와요."
+  },
+  {
+    "id": 6772,
+    "english": "The light is broken.",
+    "korean": "전등이 고장 났어요."
+  },
+  {
+    "id": 6773,
+    "english": "The power went out.",
+    "korean": "정전이 됐어요."
+  },
+  {
+    "id": 6774,
+    "english": "The air conditioner is not working.",
+    "korean": "에어컨이 안 돼요."
+  },
+  {
+    "id": 6775,
+    "english": "It smells bad.",
+    "korean": "냄새가 나요."
+  },
+  {
+    "id": 6776,
+    "english": "It's too noisy.",
+    "korean": "너무 시끄러워요."
+  },
+  {
+    "id": 6777,
+    "english": "Please be quiet, it's late.",
+    "korean": "늦었으니까 조용히 해 주세요."
+  },
+  {
+    "id": 6778,
+    "english": "Please turn off the TV.",
+    "korean": "TV 꺼 주세요."
+  },
+  {
+    "id": 6779,
+    "english": "I forgot my keys.",
+    "korean": "열쇠를 깜빡했어요."
+  },
+  {
+    "id": 6780,
+    "english": "I'm locked out.",
+    "korean": "문이 잠겨서 못 들어가요."
+  },
+  {
+    "id": 6781,
+    "english": "I have to charge my phone.",
+    "korean": "휴대폰을 충전해야 해요."
+  },
+  {
+    "id": 6782,
+    "english": "I iron my clothes.",
+    "korean": "옷을 다려요."
+  },
+  {
+    "id": 6783,
+    "english": "I hang the laundry.",
+    "korean": "빨래를 널어요."
+  },
+  {
+    "id": 6784,
+    "english": "The room is messy.",
+    "korean": "방이 지저분해요."
+  },
+  {
+    "id": 6785,
+    "english": "Where is the washing machine?",
+    "korean": "세탁기가 어디 있어요?"
+  },
+  {
+    "id": 6786,
+    "english": "I want to stay home today.",
+    "korean": "오늘은 집에 있고 싶어요."
+  },
+  {
+    "id": 6787,
+    "english": "I make breakfast every morning.",
+    "korean": "매일 아침 아침밥을 만들어요."
+  }
+]

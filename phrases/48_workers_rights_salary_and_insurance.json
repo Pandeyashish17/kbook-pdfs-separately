@@ -1,0 +1,222 @@
+[
+  {
+    "id": 7671,
+    "english": "How much is my monthly salary?",
+    "korean": "월급이 얼마예요?"
+  },
+  {
+    "id": 7672,
+    "english": "When is payday?",
+    "korean": "월급날이 언제예요?"
+  },
+  {
+    "id": 7673,
+    "english": "Is my salary paid on time?",
+    "korean": "월급이 제때 나와요?"
+  },
+  {
+    "id": 7674,
+    "english": "Please give me my pay slip.",
+    "korean": "급여명세서 주세요."
+  },
+  {
+    "id": 7675,
+    "english": "I haven't received my salary.",
+    "korean": "월급을 못 받았어요."
+  },
+  {
+    "id": 7676,
+    "english": "My salary is late.",
+    "korean": "월급이 늦어요."
+  },
+  {
+    "id": 7677,
+    "english": "Is overtime pay included?",
+    "korean": "연장 수당이 포함돼 있어요?"
+  },
+  {
+    "id": 7678,
+    "english": "How much is the overtime pay?",
+    "korean": "야근 수당이 얼마예요?"
+  },
+  {
+    "id": 7679,
+    "english": "How much is the minimum wage?",
+    "korean": "최저임금이 얼마예요?"
+  },
+  {
+    "id": 7680,
+    "english": "I worked on a holiday.",
+    "korean": "휴일에 일했어요."
+  },
+  {
+    "id": 7681,
+    "english": "I'd like to receive holiday pay.",
+    "korean": "휴일 수당을 받고 싶어요."
+  },
+  {
+    "id": 7682,
+    "english": "Do I get paid leave?",
+    "korean": "유급 휴가가 있어요?"
+  },
+  {
+    "id": 7683,
+    "english": "How many days of annual leave do I have left?",
+    "korean": "연차가 며칠 남았어요?"
+  },
+  {
+    "id": 7684,
+    "english": "I'd like to use my annual leave.",
+    "korean": "연차를 쓰고 싶어요."
+  },
+  {
+    "id": 7685,
+    "english": "What is deducted from my salary?",
+    "korean": "월급에서 뭐가 공제돼요?"
+  },
+  {
+    "id": 7686,
+    "english": "Why was this amount deducted?",
+    "korean": "이 금액은 왜 공제됐어요?"
+  },
+  {
+    "id": 7687,
+    "english": "Do I pay income tax?",
+    "korean": "소득세를 내요?"
+  },
+  {
+    "id": 7688,
+    "english": "Do I pay for health insurance?",
+    "korean": "건강보험료를 내요?"
+  },
+  {
+    "id": 7689,
+    "english": "What is the national pension?",
+    "korean": "국민연금이 뭐예요?"
+  },
+  {
+    "id": 7690,
+    "english": "Can I get my pension back when I leave Korea?",
+    "korean": "한국을 떠날 때 연금을 돌려받을 수 있어요?"
+  },
+  {
+    "id": 7691,
+    "english": "What is severance pay?",
+    "korean": "퇴직금이 뭐예요?"
+  },
+  {
+    "id": 7692,
+    "english": "When will I receive my severance pay?",
+    "korean": "퇴직금은 언제 받아요?"
+  },
+  {
+    "id": 7693,
+    "english": "What is departure guarantee insurance?",
+    "korean": "출국만기보험이 뭐예요?"
+  },
+  {
+    "id": 7694,
+    "english": "I need my employment contract.",
+    "korean": "근로계약서가 필요해요."
+  },
+  {
+    "id": 7695,
+    "english": "Please give me a copy of my contract.",
+    "korean": "근로계약서 사본을 주세요."
+  },
+  {
+    "id": 7696,
+    "english": "The contract is different from what I was told.",
+    "korean": "계약 내용이 들은 것과 달라요."
+  },
+  {
+    "id": 7697,
+    "english": "Please return my passport.",
+    "korean": "제 여권을 돌려주세요."
+  },
+  {
+    "id": 7698,
+    "english": "I want to change my workplace because of a problem.",
+    "korean": "문제가 있어서 사업장을 변경하고 싶어요."
+  },
+  {
+    "id": 7699,
+    "english": "I'd like to get labor counseling.",
+    "korean": "노동 상담을 받고 싶어요."
+  },
+  {
+    "id": 7700,
+    "english": "Is there a counselor who speaks Nepali?",
+    "korean": "네팔어 상담원이 있어요?"
+  },
+  {
+    "id": 7701,
+    "english": "Where is the foreign workers' support center?",
+    "korean": "외국인근로자지원센터가 어디예요?"
+  },
+  {
+    "id": 7702,
+    "english": "Is industrial accident insurance available?",
+    "korean": "산재보험이 되나요?"
+  },
+  {
+    "id": 7703,
+    "english": "Please don't shout at me.",
+    "korean": "저에게 소리 지르지 마세요."
+  },
+  {
+    "id": 7704,
+    "english": "I'm being treated unfairly at work.",
+    "korean": "직장에서 부당한 대우를 받고 있어요."
+  },
+  {
+    "id": 7705,
+    "english": "I'm working too many hours.",
+    "korean": "일을 너무 오래 해요."
+  },
+  {
+    "id": 7706,
+    "english": "I need a rest day.",
+    "korean": "쉬는 날이 필요해요."
+  },
+  {
+    "id": 7707,
+    "english": "Is Sunday a day off?",
+    "korean": "일요일은 쉬는 날이에요?"
+  },
+  {
+    "id": 7708,
+    "english": "Is the dormitory free?",
+    "korean": "기숙사는 무료예요?"
+  },
+  {
+    "id": 7709,
+    "english": "How much is the dormitory fee?",
+    "korean": "기숙사비가 얼마예요?"
+  },
+  {
+    "id": 7710,
+    "english": "Are meals provided?",
+    "korean": "식사가 제공돼요?"
+  },
+  {
+    "id": 7711,
+    "english": "Is there a bonus?",
+    "korean": "상여금이 있어요?"
+  },
+  {
+    "id": 7712,
+    "english": "When does my contract end?",
+    "korean": "계약이 언제 끝나요?"
+  },
+  {
+    "id": 7713,
+    "english": "Can I renew my contract?",
+    "korean": "계약을 연장할 수 있어요?"
+  },
+  {
+    "id": 7714,
+    "english": "I'd like to see my bank transaction history.",
+    "korean": "통장 거래 내역을 확인하고 싶어요."
+  }
+]

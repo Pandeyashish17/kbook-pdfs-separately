@@ -1,0 +1,632 @@
+[
+  {
+    "id": 31,
+    "english": "I love you!",
+    "korean": "사랑해요!"
+  },
+  {
+    "id": 144,
+    "english": "I have a new friend.",
+    "korean": "새로 알게 된 친구가 있어요."
+  },
+  {
+    "id": 234,
+    "english": "I miss my family.",
+    "korean": "가족이 보고 싶어요."
+  },
+  {
+    "id": 361,
+    "english": "They got divorced.",
+    "korean": "그들은 이혼했어요."
+  },
+  {
+    "id": 381,
+    "english": "Are you married?",
+    "korean": "결혼하셨어요?"
+  },
+  {
+    "id": 393,
+    "english": "Do you like children?",
+    "korean": "아이들을 좋아하시나요?"
+  },
+  {
+    "id": 400,
+    "english": "Do you have any siblings?",
+    "korean": "형제 자매 있나요?"
+  },
+  {
+    "id": 486,
+    "english": "I have one older sister.",
+    "korean": "저는 언니가 한 명 있어요."
+  },
+  {
+    "id": 744,
+    "english": "Can I invite a friend over?",
+    "korean": "친구를 데려와도 되나요?"
+  },
+  {
+    "id": 1194,
+    "english": "I have one younger brother.",
+    "korean": "남동생이 한 명 있어요."
+  },
+  {
+    "id": 1195,
+    "english": "I have one older sister.",
+    "korean": "누나가 한 명 있어요."
+  },
+  {
+    "id": 1196,
+    "english": "My parents are in Nepal.",
+    "korean": "부모님이 네팔에 계세요."
+  },
+  {
+    "id": 1197,
+    "english": "I miss my parents.",
+    "korean": "부모님이 보고 싶어요."
+  },
+  {
+    "id": 1198,
+    "english": "I video call my family every week.",
+    "korean": "매주 가족과 화상 통화를 해요."
+  },
+  {
+    "id": 1660,
+    "english": "Is he your friend?",
+    "korean": "그 사람 친구예요?"
+  },
+  {
+    "id": 1662,
+    "english": "Is she married?",
+    "korean": "그녀는 결혼했어요?"
+  },
+  {
+    "id": 1663,
+    "english": "Does he have children?",
+    "korean": "그 분 아이가 있어요?"
+  },
+  {
+    "id": 1688,
+    "english": "I will miss you.",
+    "korean": "보고 싶을 거예요."
+  },
+  {
+    "id": 1730,
+    "english": "Everything I do is for my family.",
+    "korean": "제가 하는 모든 일은 가족을 위한 거예요."
+  },
+  {
+    "id": 1833,
+    "english": "I have a close family.",
+    "korean": "저는 가족과 사이가 좋아요."
+  },
+  {
+    "id": 1835,
+    "english": "My father works very hard.",
+    "korean": "아버지는 정말 열심히 일하세요."
+  },
+  {
+    "id": 1836,
+    "english": "I have two older brothers.",
+    "korean": "오빠가 두 명 있어요."
+  },
+  {
+    "id": 1837,
+    "english": "I am the youngest in my family.",
+    "korean": "저는 막내예요."
+  },
+  {
+    "id": 1838,
+    "english": "My parents are proud of me.",
+    "korean": "부모님이 저를 자랑스러워하세요."
+  },
+  {
+    "id": 1839,
+    "english": "I call my parents every day.",
+    "korean": "매일 부모님께 전화해요."
+  },
+  {
+    "id": 1840,
+    "english": "I want to bring my family to Korea.",
+    "korean": "가족을 한국에 데려오고 싶어요."
+  },
+  {
+    "id": 1841,
+    "english": "My family supports me.",
+    "korean": "가족이 저를 응원해줘요."
+  },
+  {
+    "id": 1842,
+    "english": "I am working hard for my family.",
+    "korean": "가족을 위해 열심히 일해요."
+  },
+  {
+    "id": 1844,
+    "english": "My younger brother wants to study abroad.",
+    "korean": "남동생이 유학을 가고 싶어해요."
+  },
+  {
+    "id": 1845,
+    "english": "We are a small but close family.",
+    "korean": "우리는 작지만 사이가 좋은 가족이에요."
+  },
+  {
+    "id": 1846,
+    "english": "My parents call me every Sunday.",
+    "korean": "부모님이 매주 일요일에 전화하세요."
+  },
+  {
+    "id": 1847,
+    "english": "I miss celebrating holidays with family.",
+    "korean": "가족과 명절을 보내는 게 그리워요."
+  },
+  {
+    "id": 1919,
+    "english": "Children's Day is May fifth.",
+    "korean": "어린이날은 5월 5일이에요."
+  },
+  {
+    "id": 2116,
+    "english": "I want to show my Korean friends Nepal someday.",
+    "korean": "언젠가 한국 친구들에게 네팔을 보여주고 싶어요."
+  },
+  {
+    "id": 2164,
+    "english": "Happy wedding anniversary.",
+    "korean": "결혼기념일 축하해요."
+  },
+  {
+    "id": 2168,
+    "english": "I heard you had a baby.",
+    "korean": "아기 낳으셨다고 들었어요."
+  },
+  {
+    "id": 2179,
+    "english": "I want to give my parents a better life.",
+    "korean": "부모님께 더 나은 삶을 드리고 싶어요."
+  },
+  {
+    "id": 2183,
+    "english": "Family is my top priority.",
+    "korean": "가족이 제 최우선이에요."
+  },
+  {
+    "id": 2381,
+    "english": "I will come back with my friends.",
+    "korean": "친구들이랑 다시 올게요."
+  },
+  {
+    "id": 2475,
+    "english": "I have Nepali friends here too.",
+    "korean": "여기에도 네팔 친구들이 있어요."
+  },
+  {
+    "id": 2480,
+    "english": "My family motivates me every day.",
+    "korean": "가족이 매일 저를 동기부여해요."
+  },
+  {
+    "id": 2656,
+    "english": "I celebrate Nepali festivals with my friends here.",
+    "korean": "여기서 네팔 친구들과 명절을 기념해요."
+  },
+  {
+    "id": 2662,
+    "english": "Both cultures value family and hard work.",
+    "korean": "두 문화 모두 가족과 성실함을 중요시해요."
+  },
+  {
+    "id": 2668,
+    "english": "I call my mom when I feel down.",
+    "korean": "기분이 안 좋을 때 엄마한테 전화해요."
+  },
+  {
+    "id": 2670,
+    "english": "I look at photos of my family for strength.",
+    "korean": "힘을 얻기 위해 가족 사진을 봐요."
+  },
+  {
+    "id": 2761,
+    "english": "A friend in need is a friend indeed.",
+    "korean": "어려울 때 친구가 진짜 친구예요."
+  },
+  {
+    "id": 2982,
+    "english": "We have been friends for years.",
+    "korean": "우리 친구 된 지 몇 년 됐어요."
+  },
+  {
+    "id": 2988,
+    "english": "They are like family to me.",
+    "korean": "그 사람들이 제 가족 같아요."
+  },
+  {
+    "id": 2992,
+    "english": "Good friends forgive each other.",
+    "korean": "좋은 친구는 서로 용서해요."
+  },
+  {
+    "id": 2996,
+    "english": "I want to introduce you to my friend.",
+    "korean": "제 친구를 소개시켜 줄게요."
+  },
+  {
+    "id": 2997,
+    "english": "She is one of my closest friends.",
+    "korean": "그 친구는 제 가장 친한 친구 중 한 명이에요."
+  },
+  {
+    "id": 2999,
+    "english": "I am lucky to have such great friends.",
+    "korean": "이런 좋은 친구들이 있어서 행운이에요."
+  },
+  {
+    "id": 3000,
+    "english": "Friends make life better.",
+    "korean": "친구들이 있으면 삶이 더 나아져요."
+  },
+  {
+    "id": 3001,
+    "english": "A true friend is hard to find.",
+    "korean": "진짜 친구를 찾기가 쉽지 않아요."
+  },
+  {
+    "id": 3056,
+    "english": "I think they are dating.",
+    "korean": "그 두 사람 사귀는 것 같아요."
+  },
+  {
+    "id": 3127,
+    "english": "That relationship was so toxic.",
+    "korean": "그 관계가 정말 부정적이었어요."
+  },
+  {
+    "id": 3475,
+    "english": "My family was so happy to receive it.",
+    "korean": "가족이 받고 정말 기뻐했어요."
+  },
+  {
+    "id": 3479,
+    "english": "I need to call my family tonight.",
+    "korean": "오늘 밤에 가족에게 전화해야 해요."
+  },
+  {
+    "id": 3480,
+    "english": "I promised to call my mom.",
+    "korean": "엄마한테 전화하겠다고 약속했어요."
+  },
+  {
+    "id": 3481,
+    "english": "My mom asks about me every day.",
+    "korean": "엄마가 매일 저를 걱정하세요."
+  },
+  {
+    "id": 3487,
+    "english": "I video called my family last night.",
+    "korean": "어젯밤에 가족과 화상 통화를 했어요."
+  },
+  {
+    "id": 3488,
+    "english": "My little brother has grown so tall.",
+    "korean": "남동생이 정말 많이 컸어요."
+  },
+  {
+    "id": 3693,
+    "english": "I have made some really good friends here.",
+    "korean": "여기서 정말 좋은 친구들을 사귀었어요."
+  },
+  {
+    "id": 3706,
+    "english": "My Korean teammates are like family.",
+    "korean": "한국 팀원들이 가족 같아요."
+  },
+  {
+    "id": 3745,
+    "english": "Who is my partner today?",
+    "korean": "오늘 파트너가 누구예요?"
+  },
+  {
+    "id": 3916,
+    "english": "My friend recommended a place.",
+    "korean": "친구가 한 곳을 추천해줬어요."
+  },
+  {
+    "id": 3950,
+    "english": "I feel like part of the family.",
+    "korean": "가족의 일원이 된 것 같아요."
+  },
+  {
+    "id": 4164,
+    "english": "Do you have family here in Korea?",
+    "korean": "한국에 가족이 있어요?"
+  },
+  {
+    "id": 4167,
+    "english": "My mom always cries when she sees me.",
+    "korean": "엄마는 절 볼 때마다 우세요."
+  },
+  {
+    "id": 4171,
+    "english": "My dad does not say much but I know he cares.",
+    "korean": "아빠는 말이 없지만 걱정하시는 거 알아요."
+  },
+  {
+    "id": 4172,
+    "english": "My younger brother wants to come here too.",
+    "korean": "남동생도 여기 오고 싶어해요."
+  },
+  {
+    "id": 4174,
+    "english": "Family is my reason for everything.",
+    "korean": "가족이 제가 모든 걸 하는 이유예요."
+  },
+  {
+    "id": 4183,
+    "english": "Life is good when you have family and work.",
+    "korean": "가족과 일이 있으면 삶이 좋아요."
+  },
+  {
+    "id": 4416,
+    "english": "I called my family last night.",
+    "korean": "어젯밤에 가족에게 전화했어요."
+  },
+  {
+    "id": 4485,
+    "english": "I met some friends.",
+    "korean": "친구들을 만났어요."
+  },
+  {
+    "id": 4533,
+    "english": "My family depends on me.",
+    "korean": "가족이 저를 의지해요."
+  },
+  {
+    "id": 4572,
+    "english": "Is your family coming to visit?",
+    "korean": "가족이 방문하러 와요?"
+  },
+  {
+    "id": 4734,
+    "english": "I am meeting a friend.",
+    "korean": "친구를 만나요."
+  },
+  {
+    "id": 4809,
+    "english": "My family is proud I am working here.",
+    "korean": "여기서 일하는 걸 가족이 자랑스러워해요."
+  },
+  {
+    "id": 4817,
+    "english": "My family will be happy.",
+    "korean": "가족이 기뻐할 거예요."
+  },
+  {
+    "id": 4819,
+    "english": "Do you have any brothers or sisters?",
+    "korean": "형제자매가 있어요?"
+  },
+  {
+    "id": 4820,
+    "english": "I have one younger sister.",
+    "korean": "여동생이 한 명 있어요."
+  },
+  {
+    "id": 4821,
+    "english": "I am the eldest in my family.",
+    "korean": "제가 집에서 첫째예요."
+  },
+  {
+    "id": 4824,
+    "english": "How often do you contact your family?",
+    "korean": "가족이랑 얼마나 자주 연락해요?"
+  },
+  {
+    "id": 4826,
+    "english": "My mom worries a lot.",
+    "korean": "엄마가 걱정을 많이 하세요."
+  },
+  {
+    "id": 4830,
+    "english": "My parents are the same.",
+    "korean": "저희 부모님도 그래요."
+  },
+  {
+    "id": 4831,
+    "english": "We are lucky to have parents who care.",
+    "korean": "걱정해주는 부모님이 있어 행운이에요."
+  },
+  {
+    "id": 4834,
+    "english": "I call my parents every Sunday.",
+    "korean": "매주 일요일에 부모님께 전화해요."
+  },
+  {
+    "id": 4838,
+    "english": "Family is everything.",
+    "korean": "가족이 전부예요."
+  },
+  {
+    "id": 4859,
+    "english": "My family needed it.",
+    "korean": "가족이 필요했거든요."
+  },
+  {
+    "id": 4924,
+    "english": "My family of course.",
+    "korean": "가족이요 당연하죠."
+  },
+  {
+    "id": 4925,
+    "english": "My friends.",
+    "korean": "친구들이요."
+  },
+  {
+    "id": 5171,
+    "english": "With new friends and memories.",
+    "korean": "새 친구들과 추억들과 함께요."
+  },
+  {
+    "id": 5898,
+    "english": "It gave me experience and friends.",
+    "korean": "경험과 친구들을 줬어요."
+  },
+  {
+    "id": 5984,
+    "english": "My mom called last night.",
+    "korean": "어젯밤에 엄마가 전화했어요."
+  },
+  {
+    "id": 5988,
+    "english": "I miss her too.",
+    "korean": "저도 그리워요."
+  },
+  {
+    "id": 6039,
+    "english": "Meeting some friends from my country.",
+    "korean": "고국 친구들을 만나요."
+  },
+  {
+    "id": 6186,
+    "english": "I have a crush on someone.",
+    "korean": "짝사랑을 하고 있어요."
+  },
+  {
+    "id": 6209,
+    "english": "We broke up.",
+    "korean": "우리 헤어졌어요."
+  },
+  {
+    "id": 6435,
+    "english": "I called my mother today.",
+    "korean": "오늘 어머니께 전화했어요."
+  },
+  {
+    "id": 6436,
+    "english": "My friend helped me.",
+    "korean": "친구가 도와줬어요."
+  },
+  {
+    "id": 6437,
+    "english": "I'll introduce you to my friend.",
+    "korean": "친구를 소개해 줄게요."
+  },
+  {
+    "id": 6438,
+    "english": "I often video call my family.",
+    "korean": "가족이랑 자주 영상통화해요."
+  },
+  {
+    "id": 6439,
+    "english": "How is your family?",
+    "korean": "가족들은 잘 지내요?"
+  },
+  {
+    "id": 6819,
+    "english": "This is my friend.",
+    "korean": "이 사람은 제 친구예요."
+  },
+  {
+    "id": 6820,
+    "english": "This is my wife.",
+    "korean": "이쪽은 제 아내예요."
+  },
+  {
+    "id": 6821,
+    "english": "This is my husband.",
+    "korean": "이쪽은 제 남편이에요."
+  },
+  {
+    "id": 6822,
+    "english": "I have two brothers.",
+    "korean": "남자 형제가 두 명 있어요."
+  },
+  {
+    "id": 6823,
+    "english": "I have an older brother. (male speaker)",
+    "korean": "저는 형이 있어요."
+  },
+  {
+    "id": 6824,
+    "english": "I have an older brother. (female speaker)",
+    "korean": "저는 오빠가 있어요."
+  },
+  {
+    "id": 6825,
+    "english": "My parents live in Nepal.",
+    "korean": "부모님은 네팔에 사세요."
+  },
+  {
+    "id": 6826,
+    "english": "I'm single.",
+    "korean": "저는 미혼이에요."
+  },
+  {
+    "id": 6827,
+    "english": "I'm married.",
+    "korean": "저는 결혼했어요."
+  },
+  {
+    "id": 6828,
+    "english": "Do you have children?",
+    "korean": "자녀가 있어요?"
+  },
+  {
+    "id": 6829,
+    "english": "I'd like to introduce my friend.",
+    "korean": "제 친구를 소개할게요."
+  },
+  {
+    "id": 6830,
+    "english": "Let's hang out sometime.",
+    "korean": "언제 같이 놀아요."
+  },
+  {
+    "id": 6831,
+    "english": "Do you want to have a coffee?",
+    "korean": "커피 한잔할래요?"
+  },
+  {
+    "id": 6832,
+    "english": "I'll call my mother tonight.",
+    "korean": "오늘 밤에 어머니께 전화할 거예요."
+  },
+  {
+    "id": 6833,
+    "english": "I miss my friends.",
+    "korean": "친구들이 보고 싶어요."
+  },
+  {
+    "id": 6834,
+    "english": "You are a good friend.",
+    "korean": "좋은 친구예요."
+  },
+  {
+    "id": 6835,
+    "english": "I trust you.",
+    "korean": "당신을 믿어요."
+  },
+  {
+    "id": 6836,
+    "english": "He is my coworker.",
+    "korean": "그는 제 동료예요."
+  },
+  {
+    "id": 6837,
+    "english": "She is my boss.",
+    "korean": "그녀는 제 상사예요."
+  },
+  {
+    "id": 6838,
+    "english": "Let's be friends.",
+    "korean": "우리 친구 해요."
+  },
+  {
+    "id": 6839,
+    "english": "Can I add you on KakaoTalk?",
+    "korean": "카카오톡 친구 추가해도 될까요?"
+  },
+  {
+    "id": 6840,
+    "english": "What is your KakaoTalk ID?",
+    "korean": "카카오톡 아이디가 뭐예요?"
+  }
+]

@@ -1,0 +1,2602 @@
+[
+  {
+    "id": 65,
+    "english": "May I have the bill please?",
+    "korean": "계산서를 받을 수 있을까요?"
+  },
+  {
+    "id": 88,
+    "english": "Can you give me some water?",
+    "korean": "물 좀 주실 수 있나요?"
+  },
+  {
+    "id": 90,
+    "english": "Can I see the menu please?",
+    "korean": "메뉴판 좀 볼 수 있나요?"
+  },
+  {
+    "id": 112,
+    "english": "Are you hungry?",
+    "korean": "배고프신?"
+  },
+  {
+    "id": 118,
+    "english": "I like Korean food.",
+    "korean": "저는 한국 음식을 좋아해요."
+  },
+  {
+    "id": 122,
+    "english": "Did you eat lunch?",
+    "korean": "점심 먹었어요?"
+  },
+  {
+    "id": 123,
+    "english": "What should we eat for lunch?",
+    "korean": "점심 뭐 먹을까요?"
+  },
+  {
+    "id": 139,
+    "english": "This food is spicy.",
+    "korean": "이 음식은 매워요."
+  },
+  {
+    "id": 140,
+    "english": "I want to drink coffee.",
+    "korean": "저는 커피를 마시고 싶어요."
+  },
+  {
+    "id": 141,
+    "english": "This is delicious.",
+    "korean": "이거 맛있어요."
+  },
+  {
+    "id": 156,
+    "english": "Shall we have a cup of coffee?",
+    "korean": "커피 한잔 할까요?"
+  },
+  {
+    "id": 178,
+    "english": "I want to eat pizza.",
+    "korean": "피자를 먹고 싶어요."
+  },
+  {
+    "id": 189,
+    "english": "Can I eat this?",
+    "korean": "이거 먹어도 되나요?"
+  },
+  {
+    "id": 190,
+    "english": "You shouldn't eat this.",
+    "korean": "이거 먹으면 안 돼요."
+  },
+  {
+    "id": 205,
+    "english": "Do you have anything to drink?",
+    "korean": "마실 만한게 있나요?"
+  },
+  {
+    "id": 219,
+    "english": "I want to drink alcohol.",
+    "korean": "술을 먹고 싶어요."
+  },
+  {
+    "id": 259,
+    "english": "This soup tastes good.",
+    "korean": "이 스프 맛있네요."
+  },
+  {
+    "id": 273,
+    "english": "I'll make it takeout.",
+    "korean": "테이크 아웃으로 할게요."
+  },
+  {
+    "id": 337,
+    "english": "Lunch is over.",
+    "korean": "점심은 끝났어요."
+  },
+  {
+    "id": 375,
+    "english": "I like beer.",
+    "korean": "저는 맥주를 좋아해요."
+  },
+  {
+    "id": 431,
+    "english": "Let's split the bill.",
+    "korean": "각자 부담하도록 해요."
+  },
+  {
+    "id": 453,
+    "english": "I really want to eat something sweet.",
+    "korean": "정말 단 것을 먹고 싶어요."
+  },
+  {
+    "id": 462,
+    "english": "Can you give me that bottle?",
+    "korean": "저에게 그 병을 주실 수 있나요?"
+  },
+  {
+    "id": 496,
+    "english": "Could you recommend a restaurant?",
+    "korean": "식당 추천해 주실래요."
+  },
+  {
+    "id": 499,
+    "english": "The food smells great.",
+    "korean": "음식 냄새가 좋아요."
+  },
+  {
+    "id": 507,
+    "english": "Where should we eat?",
+    "korean": "어디서 먹을까요?"
+  },
+  {
+    "id": 510,
+    "english": "What is your favorite food?",
+    "korean": "가장 좋아하는 음식이 뭐예요?"
+  },
+  {
+    "id": 528,
+    "english": "This is amazing, really delicious.",
+    "korean": "이거 정말 맛있어요."
+  },
+  {
+    "id": 534,
+    "english": "Please pass the salt.",
+    "korean": "소금 좀 건네 주세요."
+  },
+  {
+    "id": 589,
+    "english": "Let's eat together next time.",
+    "korean": "다음에 같이 먹어요."
+  },
+  {
+    "id": 623,
+    "english": "Can I see the menu, please?",
+    "korean": "메뉴판 좀 볼 수 있나요?"
+  },
+  {
+    "id": 648,
+    "english": "Can you give me that bottle?",
+    "korean": "저에게 그 병을 주실 수 있나요?"
+  },
+  {
+    "id": 684,
+    "english": "Let's have lunch together.",
+    "korean": "같이 점심 먹어요."
+  },
+  {
+    "id": 697,
+    "english": "Is there a company dinner tonight?",
+    "korean": "오늘 회식 있어요?"
+  },
+  {
+    "id": 698,
+    "english": "I can't attend the company dinner.",
+    "korean": "회식에 참석하지 못할 것 같아요."
+  },
+  {
+    "id": 733,
+    "english": "There is no hot water.",
+    "korean": "온수가 안 나와요."
+  },
+  {
+    "id": 746,
+    "english": "Can I cook in the dormitory?",
+    "korean": "기숙사에서 요리해도 돼요?"
+  },
+  {
+    "id": 747,
+    "english": "Where is the common kitchen?",
+    "korean": "공용 주방이 어디예요?"
+  },
+  {
+    "id": 758,
+    "english": "Where is the nearest convenience store?",
+    "korean": "근처 편의점이 어디예요?"
+  },
+  {
+    "id": 789,
+    "english": "A table for two please.",
+    "korean": "두 명인데요."
+  },
+  {
+    "id": 790,
+    "english": "A table for one please.",
+    "korean": "혼자인데요."
+  },
+  {
+    "id": 791,
+    "english": "Can I see the menu?",
+    "korean": "메뉴 좀 볼게요?"
+  },
+  {
+    "id": 793,
+    "english": "What is this dish?",
+    "korean": "이 요리가 뭐예요?"
+  },
+  {
+    "id": 794,
+    "english": "Is this spicy?",
+    "korean": "이거 매워요?"
+  },
+  {
+    "id": 795,
+    "english": "Can you make it less spicy?",
+    "korean": "덜 맵게 해주실 수 있어요?"
+  },
+  {
+    "id": 797,
+    "english": "I don't eat pork.",
+    "korean": "돼지고기 안 먹어요."
+  },
+  {
+    "id": 798,
+    "english": "I am vegetarian.",
+    "korean": "저는 채식주의자예요."
+  },
+  {
+    "id": 799,
+    "english": "Can I have more rice please?",
+    "korean": "밥 더 주실 수 있어요?"
+  },
+  {
+    "id": 800,
+    "english": "Can I have more kimchi please?",
+    "korean": "김치 더 주실 수 있어요?"
+  },
+  {
+    "id": 801,
+    "english": "Can I have some water please?",
+    "korean": "물 주세요."
+  },
+  {
+    "id": 807,
+    "english": "The bill please.",
+    "korean": "계산해 주세요."
+  },
+  {
+    "id": 808,
+    "english": "Can we split the bill?",
+    "korean": "따로 계산해도 될까요?"
+  },
+  {
+    "id": 810,
+    "english": "The food is a bit cold.",
+    "korean": "음식이 좀 식었어요."
+  },
+  {
+    "id": 814,
+    "english": "It's not cooked enough.",
+    "korean": "덜 익은 것 같아요."
+  },
+  {
+    "id": 815,
+    "english": "Can I have chopsticks please?",
+    "korean": "젓가락 주세요."
+  },
+  {
+    "id": 816,
+    "english": "Can I have a fork please?",
+    "korean": "포크 주세요."
+  },
+  {
+    "id": 817,
+    "english": "Can I have a spoon please?",
+    "korean": "숟가락 주세요."
+  },
+  {
+    "id": 819,
+    "english": "Do you have a kids menu?",
+    "korean": "어린이 메뉴 있어요?"
+  },
+  {
+    "id": 820,
+    "english": "Is this dish popular here?",
+    "korean": "이 음식이 인기 있어요?"
+  },
+  {
+    "id": 824,
+    "english": "I would like to try Korean BBQ.",
+    "korean": "한국식 바베큐를 먹어보고 싶어요."
+  },
+  {
+    "id": 825,
+    "english": "How do you eat this?",
+    "korean": "이거 어떻게 먹어요?"
+  },
+  {
+    "id": 826,
+    "english": "Can you cook it for me?",
+    "korean": "구워 주실 수 있어요?"
+  },
+  {
+    "id": 827,
+    "english": "Is there a set menu?",
+    "korean": "세트 메뉴 있어요?"
+  },
+  {
+    "id": 828,
+    "english": "Does this come with side dishes?",
+    "korean": "반찬도 나와요?"
+  },
+  {
+    "id": 847,
+    "english": "Take this after meals.",
+    "korean": "식후에 드세요."
+  },
+  {
+    "id": 863,
+    "english": "I should avoid cold food.",
+    "korean": "찬 음식을 피해야 해요."
+  },
+  {
+    "id": 954,
+    "english": "Would you like to go out for drinks?",
+    "korean": "한잔하러 갈래요?"
+  },
+  {
+    "id": 959,
+    "english": "Korean food is very delicious.",
+    "korean": "한국 음식이 정말 맛있어요."
+  },
+  {
+    "id": 963,
+    "english": "Let's go eat something.",
+    "korean": "뭔가 먹으러 가요."
+  },
+  {
+    "id": 973,
+    "english": "I am getting used to Korean food.",
+    "korean": "한국 음식에 점점 익숙해지고 있어요."
+  },
+  {
+    "id": 1000,
+    "english": "It's next to the convenience store.",
+    "korean": "편의점 옆에 있어요."
+  },
+  {
+    "id": 1032,
+    "english": "I eat breakfast at 7.",
+    "korean": "7시에 아침을 먹어요."
+  },
+  {
+    "id": 1033,
+    "english": "I usually skip breakfast.",
+    "korean": "보통 아침을 거르는 편이에요."
+  },
+  {
+    "id": 1038,
+    "english": "I cook my own meals.",
+    "korean": "제가 직접 요리해요."
+  },
+  {
+    "id": 1039,
+    "english": "I order delivery food often.",
+    "korean": "배달 음식을 자주 시켜요."
+  },
+  {
+    "id": 1045,
+    "english": "I go for a walk after dinner.",
+    "korean": "저녁 식사 후 산책해요."
+  },
+  {
+    "id": 1048,
+    "english": "I drink a lot of water.",
+    "korean": "물을 많이 마셔요."
+  },
+  {
+    "id": 1066,
+    "english": "What do you eat for protein?",
+    "korean": "단백질 뭐 먹어요?"
+  },
+  {
+    "id": 1067,
+    "english": "I usually eat chicken breast.",
+    "korean": "닭가슴살을 주로 먹어요."
+  },
+  {
+    "id": 1080,
+    "english": "We have a 1 hour lunch break.",
+    "korean": "점심 휴식이 1시간이에요."
+  },
+  {
+    "id": 1145,
+    "english": "Koreans eat together as a family.",
+    "korean": "한국은 가족이 함께 식사해요."
+  },
+  {
+    "id": 1172,
+    "english": "I want to try street food.",
+    "korean": "길거리 음식을 먹어보고 싶어요."
+  },
+  {
+    "id": 1173,
+    "english": "What is the most famous food here?",
+    "korean": "여기서 가장 유명한 음식이 뭐예요?"
+  },
+  {
+    "id": 1207,
+    "english": "I drink occasionally.",
+    "korean": "가끔 술을 마셔요."
+  },
+  {
+    "id": 1208,
+    "english": "I enjoy cooking.",
+    "korean": "요리하는 걸 좋아해요."
+  },
+  {
+    "id": 1209,
+    "english": "My favorite Korean food is bibimbap.",
+    "korean": "제가 좋아하는 한국 음식은 비빔밥이에요."
+  },
+  {
+    "id": 1229,
+    "english": "No eating in the work area.",
+    "korean": "작업 구역에서는 먹으면 안 돼요."
+  },
+  {
+    "id": 1254,
+    "english": "The food delivery arrived.",
+    "korean": "배달 음식이 왔어요."
+  },
+  {
+    "id": 1262,
+    "english": "I want to order tteokbokki.",
+    "korean": "떡볶이 시키고 싶어요."
+  },
+  {
+    "id": 1263,
+    "english": "I want to order fried chicken.",
+    "korean": "치킨 시키고 싶어요."
+  },
+  {
+    "id": 1264,
+    "english": "Can I add extra sauce?",
+    "korean": "소스 추가할 수 있어요?"
+  },
+  {
+    "id": 1304,
+    "english": "I spilled my coffee.",
+    "korean": "커피를 쏟았어요."
+  },
+  {
+    "id": 1307,
+    "english": "I need a cup of water.",
+    "korean": "물 한 잔 필요해요."
+  },
+  {
+    "id": 1308,
+    "english": "Where can I buy coffee?",
+    "korean": "커피 어디서 살 수 있어요?"
+  },
+  {
+    "id": 1324,
+    "english": "That sounds delicious.",
+    "korean": "맛있겠다."
+  },
+  {
+    "id": 1412,
+    "english": "What is the local specialty food here?",
+    "korean": "여기 지역 특산 음식이 뭐예요?"
+  },
+  {
+    "id": 1413,
+    "english": "Gyeongju bread is very famous.",
+    "korean": "경주빵이 정말 유명해요."
+  },
+  {
+    "id": 1414,
+    "english": "I want to try hwangnam bread.",
+    "korean": "황남빵을 먹어보고 싶어요."
+  },
+  {
+    "id": 1418,
+    "english": "I want to eat samgyeopsal.",
+    "korean": "삼겹살을 먹고 싶어요."
+  },
+  {
+    "id": 1419,
+    "english": "I want to try sundubu jjigae.",
+    "korean": "순두부찌개를 먹어보고 싶어요."
+  },
+  {
+    "id": 1420,
+    "english": "Is there a Korean soup restaurant nearby?",
+    "korean": "근처에 국밥 집이 있어요?"
+  },
+  {
+    "id": 1421,
+    "english": "I love doenjang jjigae.",
+    "korean": "된장찌개가 너무 좋아요."
+  },
+  {
+    "id": 1422,
+    "english": "Can we eat at a pojangmacha?",
+    "korean": "포장마차에서 먹어요?"
+  },
+  {
+    "id": 1425,
+    "english": "I want sikhye as a dessert.",
+    "korean": "식혜를 마시고 싶어요."
+  },
+  {
+    "id": 1429,
+    "english": "That was the best meal I have had.",
+    "korean": "지금까지 먹어본 것 중에 제일 맛있었어요."
+  },
+  {
+    "id": 1430,
+    "english": "Let's share this dish.",
+    "korean": "이 요리 나눠 먹어요."
+  },
+  {
+    "id": 1431,
+    "english": "Can I have extra rice for free?",
+    "korean": "공기밥 무료로 더 주세요."
+  },
+  {
+    "id": 1433,
+    "english": "I like spicy food.",
+    "korean": "매운 음식을 좋아해요."
+  },
+  {
+    "id": 1435,
+    "english": "I want to learn how to cook Korean food.",
+    "korean": "한국 요리를 배우고 싶어요."
+  },
+  {
+    "id": 1436,
+    "english": "Do you know a good cooking class?",
+    "korean": "좋은 요리 교실 알아요?"
+  },
+  {
+    "id": 1437,
+    "english": "I like the garlic flavor in Korean food.",
+    "korean": "한국 음식에 마늘 향이 좋아요."
+  },
+  {
+    "id": 1438,
+    "english": "I want a triangle kimbap.",
+    "korean": "삼각 김밥 주세요."
+  },
+  {
+    "id": 1439,
+    "english": "Do you have ramyeon I can cook here?",
+    "korean": "여기서 끓여먹는 라면 있어요?"
+  },
+  {
+    "id": 1441,
+    "english": "I want an egg sandwich.",
+    "korean": "에그 샌드위치 주세요."
+  },
+  {
+    "id": 1442,
+    "english": "Do you have soy milk?",
+    "korean": "두유 있어요?"
+  },
+  {
+    "id": 1443,
+    "english": "I want an Americano coffee.",
+    "korean": "아메리카노 한 잔 주세요."
+  },
+  {
+    "id": 1445,
+    "english": "Do you have strawberry milk?",
+    "korean": "딸기 우유 있어요?"
+  },
+  {
+    "id": 1446,
+    "english": "Do you have barley tea?",
+    "korean": "보리차 있어요?"
+  },
+  {
+    "id": 1447,
+    "english": "Can I get an ice cream?",
+    "korean": "아이스크림 주세요."
+  },
+  {
+    "id": 1448,
+    "english": "Where are the snacks?",
+    "korean": "과자 코너가 어디예요?"
+  },
+  {
+    "id": 1449,
+    "english": "Is this spicy flavor?",
+    "korean": "이게 매운 맛이에요?"
+  },
+  {
+    "id": 1488,
+    "english": "Do I need to make a reservation?",
+    "korean": "예약을 해야 해요?"
+  },
+  {
+    "id": 1585,
+    "english": "Where is the rice section?",
+    "korean": "쌀 코너가 어디예요?"
+  },
+  {
+    "id": 1586,
+    "english": "I need cooking oil.",
+    "korean": "식용유가 필요해요."
+  },
+  {
+    "id": 1587,
+    "english": "Where are the eggs?",
+    "korean": "달걀은 어디 있어요?"
+  },
+  {
+    "id": 1588,
+    "english": "Do you have tofu?",
+    "korean": "두부 있어요?"
+  },
+  {
+    "id": 1589,
+    "english": "I need instant noodles.",
+    "korean": "라면이 필요해요."
+  },
+  {
+    "id": 1590,
+    "english": "Where is the frozen food section?",
+    "korean": "냉동식품 코너가 어디예요?"
+  },
+  {
+    "id": 1591,
+    "english": "Do you sell imported food?",
+    "korean": "수입 식품도 팔아요?"
+  },
+  {
+    "id": 1594,
+    "english": "Do you have coconut milk?",
+    "korean": "코코넛 밀크 있어요?"
+  },
+  {
+    "id": 1595,
+    "english": "I need garlic.",
+    "korean": "마늘이 필요해요."
+  },
+  {
+    "id": 1709,
+    "english": "I drink green tea every day.",
+    "korean": "매일 녹차를 마셔요."
+  },
+  {
+    "id": 1710,
+    "english": "I try to avoid processed food.",
+    "korean": "가공식품을 피하려고 해요."
+  },
+  {
+    "id": 1711,
+    "english": "I eat a lot of vegetables.",
+    "korean": "채소를 많이 먹어요."
+  },
+  {
+    "id": 1712,
+    "english": "I drink two liters of water a day.",
+    "korean": "하루에 물을 2리터 마셔요."
+  },
+  {
+    "id": 1715,
+    "english": "I try not to eat late at night.",
+    "korean": "늦게 밤에 먹지 않으려고 해요."
+  },
+  {
+    "id": 1716,
+    "english": "I quit drinking soda.",
+    "korean": "탄산음료를 끊었어요."
+  },
+  {
+    "id": 1732,
+    "english": "This food arrived cold.",
+    "korean": "이거 식었어요."
+  },
+  {
+    "id": 1733,
+    "english": "I will leave a review after eating.",
+    "korean": "먹고 나서 리뷰를 남길게요."
+  },
+  {
+    "id": 1738,
+    "english": "That sounds so delicious.",
+    "korean": "진짜 맛있겠다."
+  },
+  {
+    "id": 1755,
+    "english": "Table for four please.",
+    "korean": "네 명이에요."
+  },
+  {
+    "id": 1762,
+    "english": "I want to try the set menu.",
+    "korean": "세트 메뉴로 할게요."
+  },
+  {
+    "id": 1763,
+    "english": "Can I substitute the side dish?",
+    "korean": "반찬을 바꿀 수 있어요?"
+  },
+  {
+    "id": 1765,
+    "english": "Please bring the food quickly.",
+    "korean": "음식 빨리 가져다 주세요."
+  },
+  {
+    "id": 1766,
+    "english": "This dish is amazing.",
+    "korean": "이 요리가 정말 대단해요."
+  },
+  {
+    "id": 1767,
+    "english": "What goes well with this dish?",
+    "korean": "이 요리랑 잘 어울리는 게 뭐예요?"
+  },
+  {
+    "id": 1768,
+    "english": "One bottle of soju please.",
+    "korean": "소주 한 병 주세요."
+  },
+  {
+    "id": 1769,
+    "english": "Can I have a glass of water with no ice?",
+    "korean": "얼음 없이 물 한 잔 주세요."
+  },
+  {
+    "id": 1772,
+    "english": "This restaurant is very popular.",
+    "korean": "이 식당 정말 인기 있네요."
+  },
+  {
+    "id": 1775,
+    "english": "Are reservations required here?",
+    "korean": "여기 예약이 필요해요?"
+  },
+  {
+    "id": 1776,
+    "english": "I made a reservation for 7 PM.",
+    "korean": "7시에 예약했어요."
+  },
+  {
+    "id": 1777,
+    "english": "My name is Ashish for the reservation.",
+    "korean": "예약 이름은 아시시예요."
+  },
+  {
+    "id": 1787,
+    "english": "What do you eat before working out?",
+    "korean": "운동 전에 뭐 먹어요?"
+  },
+  {
+    "id": 1788,
+    "english": "I drink a protein shake after gym.",
+    "korean": "헬스 후에 단백질 쉐이크를 마셔요."
+  },
+  {
+    "id": 1805,
+    "english": "Is it safe to drink tap water?",
+    "korean": "수돗물을 마셔도 돼요?"
+  },
+  {
+    "id": 1820,
+    "english": "I like to cook new recipes.",
+    "korean": "새로운 요리를 만들어 보는 걸 좋아해요."
+  },
+  {
+    "id": 1834,
+    "english": "My mother is a great cook.",
+    "korean": "어머니는 요리를 정말 잘해요."
+  },
+  {
+    "id": 1843,
+    "english": "I send a portion of my salary home.",
+    "korean": "월급의 일부를 집에 보내요."
+  },
+  {
+    "id": 1851,
+    "english": "I cook at home to save money.",
+    "korean": "돈을 아끼려고 집에서 요리해요."
+  },
+  {
+    "id": 1852,
+    "english": "Eating out every day is expensive.",
+    "korean": "매일 외식하면 비싸요."
+  },
+  {
+    "id": 1916,
+    "english": "What do Koreans eat on Chuseok?",
+    "korean": "추석에 한국 사람들이 뭘 먹어요?"
+  },
+  {
+    "id": 1925,
+    "english": "What is a must-eat food in Korea?",
+    "korean": "한국에서 꼭 먹어야 할 음식이 뭐예요?"
+  },
+  {
+    "id": 1932,
+    "english": "Where do locals go to eat?",
+    "korean": "현지인들이 어디서 밥을 먹어요?"
+  },
+  {
+    "id": 1935,
+    "english": "What Korean food should I try first?",
+    "korean": "한국 음식 중에 뭘 먼저 먹어봐야 해요?"
+  },
+  {
+    "id": 1936,
+    "english": "Which is the best convenience store chain?",
+    "korean": "어느 편의점 체인이 제일 좋아요?"
+  },
+  {
+    "id": 1973,
+    "english": "The food culture here is incredible.",
+    "korean": "여기 음식 문화가 대단해요."
+  },
+  {
+    "id": 1983,
+    "english": "I see a convenience store on the corner.",
+    "korean": "모퉁이에 편의점이 보여요."
+  },
+  {
+    "id": 2005,
+    "english": "Korea did well in the World Cup.",
+    "korean": "한국이 월드컵에서 잘했어요."
+  },
+  {
+    "id": 2015,
+    "english": "I heard a new cafe opened nearby.",
+    "korean": "근처에 새 카페가 생겼다고 들었어요."
+  },
+  {
+    "id": 2019,
+    "english": "I would like a hot latte.",
+    "korean": "따뜻한 라떼로 주세요."
+  },
+  {
+    "id": 2023,
+    "english": "I would like oat milk please.",
+    "korean": "오트 밀크로 해 주세요."
+  },
+  {
+    "id": 2024,
+    "english": "Is there soy milk available?",
+    "korean": "두유로 바꿀 수 있어요?"
+  },
+  {
+    "id": 2026,
+    "english": "I want a green tea latte.",
+    "korean": "녹차 라떼 주세요."
+  },
+  {
+    "id": 2027,
+    "english": "Is there free refill on drip coffee?",
+    "korean": "드립 커피 리필 되나요?"
+  },
+  {
+    "id": 2028,
+    "english": "Do you have any cake or pastries?",
+    "korean": "케이크나 빵류 있어요?"
+  },
+  {
+    "id": 2033,
+    "english": "This is my new favorite cafe.",
+    "korean": "여기가 제 새로운 단골 카페예요."
+  },
+  {
+    "id": 2090,
+    "english": "One bowl of seolleongtang please.",
+    "korean": "설렁탕 한 그릇 주세요."
+  },
+  {
+    "id": 2096,
+    "english": "Is this the spicy version?",
+    "korean": "이게 매운 버전이에요?"
+  },
+  {
+    "id": 2097,
+    "english": "Can I try a small portion first?",
+    "korean": "처음에 소량만 먹어봐도 될까요?"
+  },
+  {
+    "id": 2098,
+    "english": "This soup is really comforting.",
+    "korean": "이 국이 정말 든든해요."
+  },
+  {
+    "id": 2099,
+    "english": "The kimchi here is really good.",
+    "korean": "여기 김치가 정말 맛있어요."
+  },
+  {
+    "id": 2101,
+    "english": "Can I get extra garlic please?",
+    "korean": "마늘 더 주실 수 있어요?"
+  },
+  {
+    "id": 2103,
+    "english": "The grilled pork belly is perfect.",
+    "korean": "삼겹살 구이가 완벽해요."
+  },
+  {
+    "id": 2107,
+    "english": "The food in Nepal is very spicy.",
+    "korean": "네팔 음식은 정말 매워요."
+  },
+  {
+    "id": 2109,
+    "english": "In Nepal we eat a lot of dal bhat.",
+    "korean": "네팔에서는 달밧을 많이 먹어요."
+  },
+  {
+    "id": 2139,
+    "english": "My appetite has decreased.",
+    "korean": "식욕이 줄었어요."
+  },
+  {
+    "id": 2172,
+    "english": "Let me treat you to a meal.",
+    "korean": "제가 식사 대접할게요."
+  },
+  {
+    "id": 2262,
+    "english": "The convenience store is open 24 hours.",
+    "korean": "편의점은 24시간 영업해요."
+  },
+  {
+    "id": 2263,
+    "english": "I found a good Korean meal prep idea.",
+    "korean": "좋은 한국식 밀프렙 아이디어를 찾았어요."
+  },
+  {
+    "id": 2264,
+    "english": "Kimchi refrigerators are amazing.",
+    "korean": "김치냉장고가 정말 대단해요."
+  },
+  {
+    "id": 2269,
+    "english": "I was just going to eat.",
+    "korean": "막 먹으려던 참이었어요."
+  },
+  {
+    "id": 2327,
+    "english": "Is hot water available all day?",
+    "korean": "하루 종일 온수가 나와요?"
+  },
+  {
+    "id": 2343,
+    "english": "Can I cook rice in my room?",
+    "korean": "방에서 밥을 지어도 되나요?"
+  },
+  {
+    "id": 2367,
+    "english": "Is this dish gluten free?",
+    "korean": "이 요리는 글루텐 없는 건가요?"
+  },
+  {
+    "id": 2368,
+    "english": "Can I get this without the sauce?",
+    "korean": "소스 없이 해 주실 수 있어요?"
+  },
+  {
+    "id": 2369,
+    "english": "Does this come with soup?",
+    "korean": "국이 같이 나와요?"
+  },
+  {
+    "id": 2370,
+    "english": "Can I have the dipping sauce on the side?",
+    "korean": "소스를 따로 주실 수 있어요?"
+  },
+  {
+    "id": 2374,
+    "english": "Do you have a vegetarian option?",
+    "korean": "채식 메뉴가 있어요?"
+  },
+  {
+    "id": 2375,
+    "english": "Can I get this without meat?",
+    "korean": "고기 없이 해 주실 수 있어요?"
+  },
+  {
+    "id": 2376,
+    "english": "Is there MSG in this dish?",
+    "korean": "이 요리에 MSG가 들어있어요?"
+  },
+  {
+    "id": 2377,
+    "english": "I am a bit full but it was delicious.",
+    "korean": "좀 배부르지만 정말 맛있었어요."
+  },
+  {
+    "id": 2378,
+    "english": "Can I take the leftovers home?",
+    "korean": "남은 음식을 싸가도 될까요?"
+  },
+  {
+    "id": 2379,
+    "english": "Please bring a separate plate.",
+    "korean": "접시를 따로 가져다 주세요."
+  },
+  {
+    "id": 2382,
+    "english": "How many calories is this dish roughly?",
+    "korean": "이 요리 칼로리가 대략 얼마예요?"
+  },
+  {
+    "id": 2383,
+    "english": "Is this dish popular with foreigners?",
+    "korean": "이 요리가 외국인들한테 인기 있어요?"
+  },
+  {
+    "id": 2385,
+    "english": "There is a hair in my food.",
+    "korean": "음식에 머리카락이 있어요."
+  },
+  {
+    "id": 2386,
+    "english": "Can you replace this dish please?",
+    "korean": "이 요리를 교체해 주실 수 있어요?"
+  },
+  {
+    "id": 2407,
+    "english": "I need to check my blood sugar.",
+    "korean": "혈당을 확인해야 해요."
+  },
+  {
+    "id": 2420,
+    "english": "I think I have food poisoning.",
+    "korean": "식중독에 걸린 것 같아요."
+  },
+  {
+    "id": 2425,
+    "english": "I need to refill my prescription.",
+    "korean": "처방전을 다시 받아야 해요."
+  },
+  {
+    "id": 2427,
+    "english": "I should not pour my own drink.",
+    "korean": "제 잔을 직접 채우면 안 되는군요."
+  },
+  {
+    "id": 2428,
+    "english": "I always pour drinks for others first.",
+    "korean": "항상 다른 사람 잔을 먼저 채워요."
+  },
+  {
+    "id": 2430,
+    "english": "I should not stick my chopsticks upright.",
+    "korean": "젓가락을 밥에 꽂으면 안 되는군요."
+  },
+  {
+    "id": 2434,
+    "english": "Koreans often ask if you have eaten.",
+    "korean": "한국 사람들은 밥 먹었냐고 자주 물어요."
+  },
+  {
+    "id": 2435,
+    "english": "Saying let us eat together is very common.",
+    "korean": "같이 밥 먹자고 하는 게 흔해요."
+  },
+  {
+    "id": 2443,
+    "english": "I learned not to tip in Korean restaurants.",
+    "korean": "한국 식당에서는 팁을 안 준다는 걸 배웠어요."
+  },
+  {
+    "id": 2445,
+    "english": "I brought fruit as a housewarming gift.",
+    "korean": "집들이 선물로 과일을 가져왔어요."
+  },
+  {
+    "id": 2461,
+    "english": "I want to try the Gyeongju bibimbap.",
+    "korean": "경주식 비빔밥을 먹어보고 싶어요."
+  },
+  {
+    "id": 2468,
+    "english": "Nepali food uses many spices.",
+    "korean": "네팔 음식은 향신료를 많이 써요."
+  },
+  {
+    "id": 2476,
+    "english": "I miss Nepali food sometimes.",
+    "korean": "가끔 네팔 음식이 그리워요."
+  },
+  {
+    "id": 2537,
+    "english": "I need a cutting board and knife.",
+    "korean": "도마와 칼이 필요해요."
+  },
+  {
+    "id": 2561,
+    "english": "Is there a common area for cooking?",
+    "korean": "요리할 수 있는 공용 공간이 있어요?"
+  },
+  {
+    "id": 2562,
+    "english": "The water pressure is very low.",
+    "korean": "수압이 너무 낮아요."
+  },
+  {
+    "id": 2590,
+    "english": "I love eating at pojangmacha stalls.",
+    "korean": "포장마차에서 먹는 걸 정말 좋아해요."
+  },
+  {
+    "id": 2591,
+    "english": "Street food here is so affordable.",
+    "korean": "여기 길거리 음식이 정말 저렴해요."
+  },
+  {
+    "id": 2592,
+    "english": "I want to try the spicy rice cakes.",
+    "korean": "매운 떡볶이를 먹고 싶어요."
+  },
+  {
+    "id": 2593,
+    "english": "The fish cake soup is perfect in winter.",
+    "korean": "겨울에 어묵탕이 딱이에요."
+  },
+  {
+    "id": 2594,
+    "english": "I want crispy fried chicken tonight.",
+    "korean": "오늘 밤 바삭한 후라이드 치킨 먹고 싶어요."
+  },
+  {
+    "id": 2595,
+    "english": "Korean fried chicken is the best.",
+    "korean": "한국 치킨이 최고예요."
+  },
+  {
+    "id": 2596,
+    "english": "I want to try budae jjigae.",
+    "korean": "부대찌개를 먹어보고 싶어요."
+  },
+  {
+    "id": 2597,
+    "english": "Doenjang jjigae is my comfort food now.",
+    "korean": "된장찌개가 제 위안 음식이 됐어요."
+  },
+  {
+    "id": 2598,
+    "english": "I eat kimchi with every meal now.",
+    "korean": "이제 매 식사 때 김치를 먹어요."
+  },
+  {
+    "id": 2599,
+    "english": "Korean porridge is great when sick.",
+    "korean": "아플 때 죽이 정말 좋아요."
+  },
+  {
+    "id": 2600,
+    "english": "I want pumpkin porridge please.",
+    "korean": "단호박죽 주세요."
+  },
+  {
+    "id": 2601,
+    "english": "Can I get seaweed soup?",
+    "korean": "미역국 주세요."
+  },
+  {
+    "id": 2602,
+    "english": "I love the soft tofu stew here.",
+    "korean": "여기 순두부찌개가 너무 맛있어요."
+  },
+  {
+    "id": 2603,
+    "english": "The beef soup here is incredible.",
+    "korean": "여기 소고기국이 정말 맛있어요."
+  },
+  {
+    "id": 2622,
+    "english": "Drinking together builds relationships here.",
+    "korean": "여기서는 같이 술 마시면 관계가 돈독해져요."
+  },
+  {
+    "id": 2624,
+    "english": "I went to my first company dinner.",
+    "korean": "처음으로 회식에 참석했어요."
+  },
+  {
+    "id": 2628,
+    "english": "Koreans are very passionate about food.",
+    "korean": "한국 사람들은 음식에 정말 열정적이에요."
+  },
+  {
+    "id": 2629,
+    "english": "Food is a big part of Korean culture.",
+    "korean": "음식이 한국 문화의 큰 부분이에요."
+  },
+  {
+    "id": 2645,
+    "english": "I found a great local restaurant near the tumuli.",
+    "korean": "왕릉 근처에서 좋은 현지 식당을 찾았어요."
+  },
+  {
+    "id": 2659,
+    "english": "I sometimes cook Nepali food for my coworkers.",
+    "korean": "가끔 동료들에게 네팔 음식을 만들어줘요."
+  },
+  {
+    "id": 2769,
+    "english": "Blood is thicker than water.",
+    "korean": "피는 물보다 진해요."
+  },
+  {
+    "id": 2776,
+    "english": "I forgot to buy milk.",
+    "korean": "우유 사는 걸 깜빡했어요."
+  },
+  {
+    "id": 2777,
+    "english": "The fridge is almost empty.",
+    "korean": "냉장고가 거의 비었어요."
+  },
+  {
+    "id": 2778,
+    "english": "I cooked dinner tonight.",
+    "korean": "오늘 저녁을 만들었어요."
+  },
+  {
+    "id": 2779,
+    "english": "The food turned out great.",
+    "korean": "음식이 정말 잘 됐어요."
+  },
+  {
+    "id": 2780,
+    "english": "I burned the rice.",
+    "korean": "밥을 태웠어요."
+  },
+  {
+    "id": 2781,
+    "english": "I need to wash the dishes.",
+    "korean": "설거지를 해야 해요."
+  },
+  {
+    "id": 2783,
+    "english": "Dinner is ready.",
+    "korean": "저녁 준비됐어요."
+  },
+  {
+    "id": 2784,
+    "english": "Come and eat while it's hot.",
+    "korean": "식기 전에 빨리 와서 드세요."
+  },
+  {
+    "id": 2785,
+    "english": "I skipped breakfast again.",
+    "korean": "또 아침을 거렀어요."
+  },
+  {
+    "id": 2786,
+    "english": "I only had coffee this morning.",
+    "korean": "오늘 아침에 커피만 마셨어요."
+  },
+  {
+    "id": 2872,
+    "english": "Do you prefer coffee or tea?",
+    "korean": "커피가 좋아요 차가 좋아요?"
+  },
+  {
+    "id": 2873,
+    "english": "Do you cook for yourself?",
+    "korean": "직접 요리해서 드세요?"
+  },
+  {
+    "id": 2874,
+    "english": "What is your go-to comfort food?",
+    "korean": "기분 안 좋을 때 뭐 먹어요?"
+  },
+  {
+    "id": 2947,
+    "english": "I need a snack right now.",
+    "korean": "지금 당장 간식이 필요해요."
+  },
+  {
+    "id": 2948,
+    "english": "I am trying to cut back on sugar.",
+    "korean": "설탕을 줄이려고 해요."
+  },
+  {
+    "id": 2949,
+    "english": "I ate way too much today.",
+    "korean": "오늘 너무 많이 먹었어요."
+  },
+  {
+    "id": 2950,
+    "english": "I should not have eaten that.",
+    "korean": "그걸 먹지 말았어야 했어요."
+  },
+  {
+    "id": 2952,
+    "english": "I have been eating healthier lately.",
+    "korean": "요즘 더 건강하게 먹고 있어요."
+  },
+  {
+    "id": 2953,
+    "english": "I started meal prepping on Sundays.",
+    "korean": "일요일마다 밀프렙을 시작했어요."
+  },
+  {
+    "id": 2954,
+    "english": "I pack my own lunch for work.",
+    "korean": "도시락을 싸서 다녀요."
+  },
+  {
+    "id": 2955,
+    "english": "The canteen food is okay.",
+    "korean": "구내식당 음식이 그럭저럭 괜찮아요."
+  },
+  {
+    "id": 2956,
+    "english": "I prefer cooking at home.",
+    "korean": "집에서 요리하는 게 더 좋아요."
+  },
+  {
+    "id": 2957,
+    "english": "This instant noodle is a life saver.",
+    "korean": "이 인스턴트 라면이 없으면 안 돼요."
+  },
+  {
+    "id": 2958,
+    "english": "I added an egg to my ramen.",
+    "korean": "라면에 달걀을 넣었어요."
+  },
+  {
+    "id": 2959,
+    "english": "I made kimchi fried rice tonight.",
+    "korean": "오늘 밤에 김치볶음밥을 만들었어요."
+  },
+  {
+    "id": 2961,
+    "english": "It is too bland.",
+    "korean": "너무 싱거워요."
+  },
+  {
+    "id": 2962,
+    "english": "I added too much salt.",
+    "korean": "소금을 너무 많이 넣었어요."
+  },
+  {
+    "id": 2963,
+    "english": "I need to practice cooking more.",
+    "korean": "요리를 더 연습해야 해요."
+  },
+  {
+    "id": 3158,
+    "english": "Bite off more than you can chew.",
+    "korean": "감당 못할 일을 맡았어요."
+  },
+  {
+    "id": 3180,
+    "english": "Have a lot on your plate.",
+    "korean": "할 일이 산더미예요."
+  },
+  {
+    "id": 3186,
+    "english": "Bite the hand that feeds you.",
+    "korean": "은혜를 원수로 갚아요."
+  },
+  {
+    "id": 3189,
+    "english": "I signed up for a cooking class.",
+    "korean": "요리 수업을 등록했어요."
+  },
+  {
+    "id": 3196,
+    "english": "I am trying to drink less coffee.",
+    "korean": "커피를 덜 마시려고 해요."
+  },
+  {
+    "id": 3197,
+    "english": "I switched to green tea instead.",
+    "korean": "대신 녹차로 바꿨어요."
+  },
+  {
+    "id": 3198,
+    "english": "I bought a reusable water bottle.",
+    "korean": "재사용 가능한 물통을 샀어요."
+  },
+  {
+    "id": 3204,
+    "english": "I have been eating less meat lately.",
+    "korean": "요즘 고기를 덜 먹고 있어요."
+  },
+  {
+    "id": 3206,
+    "english": "I started composting food waste.",
+    "korean": "음식물 쓰레기를 퇴비로 만들기 시작했어요."
+  },
+  {
+    "id": 3235,
+    "english": "I could eat this every day.",
+    "korean": "매일 먹어도 질리지 않겠어요."
+  },
+  {
+    "id": 3236,
+    "english": "This is my new favorite food.",
+    "korean": "이게 제 새로운 최애 음식이에요."
+  },
+  {
+    "id": 3242,
+    "english": "This looks too good to eat.",
+    "korean": "너무 예뻐서 먹기가 아까워요."
+  },
+  {
+    "id": 3245,
+    "english": "My taste buds are dancing.",
+    "korean": "입맛이 살아났어요."
+  },
+  {
+    "id": 3246,
+    "english": "I cleaned my plate.",
+    "korean": "다 먹었어요."
+  },
+  {
+    "id": 3247,
+    "english": "I could not stop eating.",
+    "korean": "멈출 수가 없었어요."
+  },
+  {
+    "id": 3295,
+    "english": "Nothing beats home cooking though.",
+    "korean": "그래도 집밥만 한 게 없어요."
+  },
+  {
+    "id": 3296,
+    "english": "My mother's cooking is irreplaceable.",
+    "korean": "어머니 음식은 어디서도 대신할 수 없어요."
+  },
+  {
+    "id": 3333,
+    "english": "Did you try the new restaurant?",
+    "korean": "새로 생긴 식당 가봤어요?"
+  },
+  {
+    "id": 3338,
+    "english": "Are you hungry yet?",
+    "korean": "이제 배고파요?"
+  },
+  {
+    "id": 3453,
+    "english": "Coffee is keeping me alive today.",
+    "korean": "오늘 커피로 살고 있어요."
+  },
+  {
+    "id": 3455,
+    "english": "I drank too much coffee and feel shaky.",
+    "korean": "커피를 너무 많이 마셔서 손이 떨려요."
+  },
+  {
+    "id": 3458,
+    "english": "The lunch menu looks good today.",
+    "korean": "오늘 점심 메뉴가 좋아 보여요."
+  },
+  {
+    "id": 3459,
+    "english": "I brought my lunch from home today.",
+    "korean": "오늘 집에서 도시락을 싸왔어요."
+  },
+  {
+    "id": 3460,
+    "english": "The canteen food was sold out.",
+    "korean": "구내식당 음식이 다 팔렸어요."
+  },
+  {
+    "id": 3462,
+    "english": "I skipped lunch because of work.",
+    "korean": "일 때문에 점심을 거렀어요."
+  },
+  {
+    "id": 3465,
+    "english": "Let us grab something quick to eat.",
+    "korean": "빨리 뭔가 먹읍시다."
+  },
+  {
+    "id": 3466,
+    "english": "There is a new food truck outside.",
+    "korean": "밖에 새 푸드트럭이 생겼어요."
+  },
+  {
+    "id": 3467,
+    "english": "The food truck has really good Korean food.",
+    "korean": "그 푸드트럭 한국 음식이 정말 맛있어요."
+  },
+  {
+    "id": 3478,
+    "english": "Do you want to grab a beer after work?",
+    "korean": "퇴근 후에 맥주 한잔 할까요?"
+  },
+  {
+    "id": 3483,
+    "english": "She sends me food photos to make me homesick.",
+    "korean": "엄마가 음식 사진을 보내서 향수병이 생겨요."
+  },
+  {
+    "id": 3484,
+    "english": "I miss my mom's cooking so much.",
+    "korean": "엄마 음식이 너무 그리워요."
+  },
+  {
+    "id": 3486,
+    "english": "I found a restaurant that tastes like home.",
+    "korean": "고향 음식 맛이 나는 식당을 찾았어요."
+  },
+  {
+    "id": 3522,
+    "english": "A few seconds of carelessness can cause accidents.",
+    "korean": "몇 초의 부주의가 사고를 일으킬 수 있어요."
+  },
+  {
+    "id": 3545,
+    "english": "Someone used my mug again.",
+    "korean": "누가 또 제 머그컵을 썼어요."
+  },
+  {
+    "id": 3546,
+    "english": "Please label your food in the fridge.",
+    "korean": "냉장고 음식에 이름을 써주세요."
+  },
+  {
+    "id": 3547,
+    "english": "Someone ate my lunch again.",
+    "korean": "누가 또 제 점심을 먹었어요."
+  },
+  {
+    "id": 3553,
+    "english": "I made some extra food if you want some.",
+    "korean": "음식을 좀 더 만들었는데 드실래요."
+  },
+  {
+    "id": 3556,
+    "english": "The recipe is from my country.",
+    "korean": "고국의 레시피예요."
+  },
+  {
+    "id": 3559,
+    "english": "Food really brings people together.",
+    "korean": "음식이 사람들을 하나로 모으는 것 같아요."
+  },
+  {
+    "id": 3560,
+    "english": "I tried making kimchi last weekend.",
+    "korean": "지난 주말에 김치를 담가봤어요."
+  },
+  {
+    "id": 3562,
+    "english": "Making kimchi is harder than it looks.",
+    "korean": "김치 담그는 게 보기보다 어려워요."
+  },
+  {
+    "id": 3565,
+    "english": "My Korean colleague gave me kimchi.",
+    "korean": "한국 동료가 김치를 줬어요."
+  },
+  {
+    "id": 3566,
+    "english": "I eat it with every meal now.",
+    "korean": "이제 매 식사 때 먹어요."
+  },
+  {
+    "id": 3567,
+    "english": "I am officially addicted to kimchi.",
+    "korean": "이제 완전히 김치에 중독됐어요."
+  },
+  {
+    "id": 3569,
+    "english": "I can eat things now that I could not before.",
+    "korean": "전에는 못 먹던 것도 이제 먹을 수 있어요."
+  },
+  {
+    "id": 3594,
+    "english": "The plate roller needs to be calibrated.",
+    "korean": "판재 롤러 교정이 필요해요."
+  },
+  {
+    "id": 3676,
+    "english": "I put on some music while cooking.",
+    "korean": "요리할 때 음악을 틀어요."
+  },
+  {
+    "id": 3785,
+    "english": "Let us meet at lunch.",
+    "korean": "점심에 만나요."
+  },
+  {
+    "id": 3853,
+    "english": "I need coffee badly.",
+    "korean": "커피가 정말 필요해요."
+  },
+  {
+    "id": 3854,
+    "english": "Did you eat breakfast?",
+    "korean": "아침 드셨어요?"
+  },
+  {
+    "id": 3868,
+    "english": "What are you having for lunch?",
+    "korean": "점심으로 뭐 먹어요?"
+  },
+  {
+    "id": 3869,
+    "english": "I brought leftovers from last night.",
+    "korean": "어젯밤 남은 음식을 가져왔어요."
+  },
+  {
+    "id": 3872,
+    "english": "What is this dish called?",
+    "korean": "이 요리 이름이 뭐예요?"
+  },
+  {
+    "id": 3873,
+    "english": "Is it spicy?",
+    "korean": "매워요?"
+  },
+  {
+    "id": 3874,
+    "english": "Can I have a bite?",
+    "korean": "한 입만 먹어봐도 돼요?"
+  },
+  {
+    "id": 3878,
+    "english": "Let us eat together.",
+    "korean": "같이 먹어요."
+  },
+  {
+    "id": 3881,
+    "english": "How long is our lunch break?",
+    "korean": "점심 휴식이 얼마나 돼요?"
+  },
+  {
+    "id": 3894,
+    "english": "Let us grab something to drink.",
+    "korean": "음료 하나 마시고 가요."
+  },
+  {
+    "id": 3895,
+    "english": "There is a convenience store nearby.",
+    "korean": "편의점이 근처에 있어요."
+  },
+  {
+    "id": 3896,
+    "english": "I need to buy something for dinner.",
+    "korean": "저녁거리를 좀 사야 해요."
+  },
+  {
+    "id": 3897,
+    "english": "I am cooking tonight.",
+    "korean": "오늘 저녁은 제가 요리해요."
+  },
+  {
+    "id": 3901,
+    "english": "The food gets here in thirty minutes.",
+    "korean": "음식이 30분 안에 와요."
+  },
+  {
+    "id": 3915,
+    "english": "I want to try a new restaurant.",
+    "korean": "새 식당에 가보고 싶어요."
+  },
+  {
+    "id": 4016,
+    "english": "The food here is very good.",
+    "korean": "여기 음식이 정말 좋아요."
+  },
+  {
+    "id": 4017,
+    "english": "I eat Korean food every day now.",
+    "korean": "이제 매일 한국 음식을 먹어요."
+  },
+  {
+    "id": 4022,
+    "english": "I can find anything at the convenience store.",
+    "korean": "편의점에서 뭐든 찾을 수 있어요."
+  },
+  {
+    "id": 4063,
+    "english": "Let us drink more water in this heat.",
+    "korean": "이 더위에 물을 더 마셔요."
+  },
+  {
+    "id": 4082,
+    "english": "Let us eat.",
+    "korean": "먹읍시다."
+  },
+  {
+    "id": 4125,
+    "english": "I tried kimchi jjigae for the first time.",
+    "korean": "처음으로 김치찌개를 먹어봤어요."
+  },
+  {
+    "id": 4126,
+    "english": "It was very spicy but delicious.",
+    "korean": "많이 매웠는데 맛있었어요."
+  },
+  {
+    "id": 4127,
+    "english": "I am getting used to spicy food.",
+    "korean": "매운 음식에 익숙해지고 있어요."
+  },
+  {
+    "id": 4128,
+    "english": "I eat ramyeon when I am lazy.",
+    "korean": "귀찮을 때 라면을 먹어요."
+  },
+  {
+    "id": 4129,
+    "english": "The instant food here is very tasty.",
+    "korean": "여기 인스턴트 음식이 정말 맛있어요."
+  },
+  {
+    "id": 4130,
+    "english": "I go to the convenience store almost every day.",
+    "korean": "거의 매일 편의점에 가요."
+  },
+  {
+    "id": 4135,
+    "english": "Fresh vegetables are cheap there.",
+    "korean": "거기서 채소를 싸게 살 수 있어요."
+  },
+  {
+    "id": 4136,
+    "english": "I cook simple meals at home.",
+    "korean": "집에서 간단한 음식을 만들어요."
+  },
+  {
+    "id": 4137,
+    "english": "Eggs and rice is my go to meal.",
+    "korean": "달걀과 밥이 제 기본 식사예요."
+  },
+  {
+    "id": 4138,
+    "english": "I add kimchi and it tastes amazing.",
+    "korean": "김치를 넣으면 정말 맛있어요."
+  },
+  {
+    "id": 4139,
+    "english": "I am slowly learning to cook Korean food.",
+    "korean": "한국 음식을 천천히 배우고 있어요."
+  },
+  {
+    "id": 4143,
+    "english": "I want to learn to make bibimbap.",
+    "korean": "비빔밥 만드는 법을 배우고 싶어요."
+  },
+  {
+    "id": 4152,
+    "english": "Drink lots of water and rest.",
+    "korean": "물 많이 마시고 쉬어요."
+  },
+  {
+    "id": 4153,
+    "english": "Eat something warm.",
+    "korean": "따뜻한 걸 드세요."
+  },
+  {
+    "id": 4168,
+    "english": "I tell her I am fine and eating well.",
+    "korean": "잘 지내고 잘 먹고 있다고 해요."
+  },
+  {
+    "id": 4178,
+    "english": "I will bring Korean snacks for my family.",
+    "korean": "가족에게 한국 과자를 가져갈 거예요."
+  },
+  {
+    "id": 4179,
+    "english": "They will love trying Korean food.",
+    "korean": "가족들이 한국 음식 먹는 걸 좋아할 거예요."
+  },
+  {
+    "id": 4384,
+    "english": "I could eat anything right now.",
+    "korean": "지금 뭐든 먹을 수 있어요."
+  },
+  {
+    "id": 4385,
+    "english": "What do you feel like eating?",
+    "korean": "뭐 먹고 싶어요?"
+  },
+  {
+    "id": 4388,
+    "english": "Not too spicy please.",
+    "korean": "너무 맵지 않게요."
+  },
+  {
+    "id": 4390,
+    "english": "How about noodles?",
+    "korean": "국수 어때요?"
+  },
+  {
+    "id": 4391,
+    "english": "How about rice and soup?",
+    "korean": "밥이랑 국 어때요?"
+  },
+  {
+    "id": 4393,
+    "english": "What is on the menu today?",
+    "korean": "오늘 메뉴가 뭐예요?"
+  },
+  {
+    "id": 4395,
+    "english": "I will just have the soup.",
+    "korean": "그냥 국만 먹을게요."
+  },
+  {
+    "id": 4396,
+    "english": "I brought my own food.",
+    "korean": "제 음식을 가져왔어요."
+  },
+  {
+    "id": 4398,
+    "english": "This is food from my country.",
+    "korean": "이건 제 나라 음식이에요."
+  },
+  {
+    "id": 4410,
+    "english": "I cooked dinner last night.",
+    "korean": "어젯밤에 저녁을 요리했어요."
+  },
+  {
+    "id": 4411,
+    "english": "I ordered food last night.",
+    "korean": "어젯밤에 음식을 시켰어요."
+  },
+  {
+    "id": 4451,
+    "english": "Drink water regularly.",
+    "korean": "물을 자주 마셔요."
+  },
+  {
+    "id": 4465,
+    "english": "I need at least one coffee.",
+    "korean": "커피 한 잔은 마셔야 해요."
+  },
+  {
+    "id": 4484,
+    "english": "I went to a cafe.",
+    "korean": "카페에 갔어요."
+  },
+  {
+    "id": 4488,
+    "english": "I cooked a big meal.",
+    "korean": "큰 음식을 요리했어요."
+  },
+  {
+    "id": 4518,
+    "english": "I cooked more at home.",
+    "korean": "집에서 더 많이 요리했어요."
+  },
+  {
+    "id": 4519,
+    "english": "Eating out is expensive.",
+    "korean": "외식이 비싸요."
+  },
+  {
+    "id": 4520,
+    "english": "Home cooking saves a lot.",
+    "korean": "집밥이 많이 절약돼요."
+  },
+  {
+    "id": 4567,
+    "english": "Is Korean food too spicy for you?",
+    "korean": "한국 음식이 너무 매워요?"
+  },
+  {
+    "id": 4698,
+    "english": "What snack did you bring today?",
+    "korean": "오늘 간식 뭐 가져왔어요?"
+  },
+  {
+    "id": 4699,
+    "english": "Want some of my snack.",
+    "korean": "제 간식 좀 드실래요."
+  },
+  {
+    "id": 4706,
+    "english": "Food is the best way to share cultures.",
+    "korean": "음식이 문화를 나누는 최고의 방법이에요."
+  },
+  {
+    "id": 4736,
+    "english": "Want to grab food together.",
+    "korean": "같이 밥 먹으러 갈래요."
+  },
+  {
+    "id": 4805,
+    "english": "The food is very different from Korean food.",
+    "korean": "음식이 한국 음식과 많이 달라요."
+  },
+  {
+    "id": 4806,
+    "english": "But both are delicious.",
+    "korean": "근데 둘 다 맛있어요."
+  },
+  {
+    "id": 4807,
+    "english": "I miss my mother's cooking.",
+    "korean": "엄마 음식이 그리워요."
+  },
+  {
+    "id": 4808,
+    "english": "But Korean food is filling me up nicely.",
+    "korean": "근데 한국 음식도 잘 먹고 있어요."
+  },
+  {
+    "id": 4840,
+    "english": "How do you say I am hungry?",
+    "korean": "배고프다는 한국어로 뭐예요?"
+  },
+  {
+    "id": 4863,
+    "english": "Food is my biggest expense.",
+    "korean": "음식이 제일 큰 지출이에요."
+  },
+  {
+    "id": 4864,
+    "english": "I cook more to save money.",
+    "korean": "돈을 아끼려고 더 요리해요."
+  },
+  {
+    "id": 4873,
+    "english": "I promised myself a good meal that day.",
+    "korean": "그날 맛있는 걸 먹겠다고 약속했어요."
+  },
+  {
+    "id": 4895,
+    "english": "Drink more water.",
+    "korean": "물을 더 많이 마셔요."
+  },
+  {
+    "id": 4896,
+    "english": "Are you drinking enough water today?",
+    "korean": "오늘 물 충분히 마시고 있어요?"
+  },
+  {
+    "id": 4897,
+    "english": "I forgot to drink water all morning.",
+    "korean": "오전 내내 물 마시는 걸 깜빡했어요."
+  },
+  {
+    "id": 4900,
+    "english": "Have some water now.",
+    "korean": "지금 물 좀 마셔요."
+  },
+  {
+    "id": 4916,
+    "english": "The food for sure.",
+    "korean": "음식이요 확실히요."
+  },
+  {
+    "id": 4926,
+    "english": "The food from home.",
+    "korean": "고국 음식이요."
+  },
+  {
+    "id": 4945,
+    "english": "Show them where to eat lunch.",
+    "korean": "점심 어디서 먹는지 보여줘요."
+  },
+  {
+    "id": 5121,
+    "english": "I love Korean BBQ.",
+    "korean": "한국 바베큐를 정말 좋아해요."
+  },
+  {
+    "id": 5123,
+    "english": "Have you been to that BBQ place near work?",
+    "korean": "직장 근처 그 바베큐집 가봤어요?"
+  },
+  {
+    "id": 5125,
+    "english": "Yes the meat there is very good.",
+    "korean": "네 거기 고기가 정말 맛있어요."
+  },
+  {
+    "id": 5126,
+    "english": "And the side dishes are amazing.",
+    "korean": "그리고 반찬이 정말 대단해요."
+  },
+  {
+    "id": 5127,
+    "english": "All you can eat too.",
+    "korean": "무한 리필이기도 해요."
+  },
+  {
+    "id": 5133,
+    "english": "Great let us make it a team dinner.",
+    "korean": "그럼 팀 회식으로 해요."
+  },
+  {
+    "id": 5136,
+    "english": "I have not had a good meal in a while.",
+    "korean": "오랫동안 제대로 된 밥을 못 먹었어요."
+  },
+  {
+    "id": 5253,
+    "english": "I need more coffee today.",
+    "korean": "오늘 커피가 더 필요해요."
+  },
+  {
+    "id": 5278,
+    "english": "Me too what time is lunch.",
+    "korean": "저도요 점심이 몇 시예요."
+  },
+  {
+    "id": 5281,
+    "english": "Have a snack then.",
+    "korean": "그럼 간식 먹어요."
+  },
+  {
+    "id": 5284,
+    "english": "It is a Korean snack called pepero.",
+    "korean": "빼빼로라는 한국 과자예요."
+  },
+  {
+    "id": 5288,
+    "english": "The convenience store has so many snacks.",
+    "korean": "편의점에 과자가 정말 많아요."
+  },
+  {
+    "id": 5296,
+    "english": "Just food for dinner.",
+    "korean": "저녁거리요."
+  },
+  {
+    "id": 5297,
+    "english": "Are you cooking tonight?",
+    "korean": "오늘 밤 요리해요?"
+  },
+  {
+    "id": 5300,
+    "english": "Maybe fried rice it is easy.",
+    "korean": "볶음밥 아마요 쉬우니까요."
+  },
+  {
+    "id": 5302,
+    "english": "Add kimchi it makes it better.",
+    "korean": "김치 넣으면 더 맛있어요."
+  },
+  {
+    "id": 5304,
+    "english": "You are learning Korean cooking well.",
+    "korean": "한국 요리를 잘 배우고 있네요."
+  },
+  {
+    "id": 5374,
+    "english": "We can finish before lunch then.",
+    "korean": "그럼 점심 전에 끝낼 수 있겠네요."
+  },
+  {
+    "id": 5383,
+    "english": "We finished before lunch.",
+    "korean": "점심 전에 끝냈어요."
+  },
+  {
+    "id": 5386,
+    "english": "We deserve extra rice today.",
+    "korean": "오늘 밥 더 먹을 자격이 있어요."
+  },
+  {
+    "id": 5421,
+    "english": "I will get food first.",
+    "korean": "먼저 음식 가져올게요."
+  },
+  {
+    "id": 5423,
+    "english": "The soup looks nice.",
+    "korean": "국이 좋아 보여요."
+  },
+  {
+    "id": 5427,
+    "english": "I eat too fast.",
+    "korean": "저 너무 빨리 먹어요."
+  },
+  {
+    "id": 5428,
+    "english": "Slow down enjoy the food.",
+    "korean": "천천히 음식을 즐겨요."
+  },
+  {
+    "id": 5430,
+    "english": "Lunch is the one time to relax.",
+    "korean": "점심이 쉴 수 있는 유일한 시간이에요."
+  },
+  {
+    "id": 5433,
+    "english": "Time flies even at lunch.",
+    "korean": "점심 시간도 빠르게 가네요."
+  },
+  {
+    "id": 5487,
+    "english": "I bought vegetables and fruit.",
+    "korean": "채소랑 과일을 샀어요."
+  },
+  {
+    "id": 5489,
+    "english": "I also tried some street food.",
+    "korean": "길거리 음식도 먹어봤어요."
+  },
+  {
+    "id": 5490,
+    "english": "What did you eat?",
+    "korean": "뭐 먹었어요?"
+  },
+  {
+    "id": 5491,
+    "english": "Some kind of pancake thing.",
+    "korean": "어떤 부침개 같은 거요."
+  },
+  {
+    "id": 5495,
+    "english": "With dipping sauce.",
+    "korean": "소스 찍어서요."
+  },
+  {
+    "id": 5496,
+    "english": "Of course always with sauce.",
+    "korean": "당연히 소스 찍어야죠."
+  },
+  {
+    "id": 5497,
+    "english": "I love Korean street food.",
+    "korean": "한국 길거리 음식을 정말 좋아해요."
+  },
+  {
+    "id": 5521,
+    "english": "Did you eat this morning?",
+    "korean": "오늘 아침 먹었어요?"
+  },
+  {
+    "id": 5523,
+    "english": "You should eat more.",
+    "korean": "더 먹어야 해요."
+  },
+  {
+    "id": 5524,
+    "english": "I was not hungry.",
+    "korean": "배가 안 고팠어요."
+  },
+  {
+    "id": 5525,
+    "english": "Eat something small at least.",
+    "korean": "그래도 조금이라도 먹어요."
+  },
+  {
+    "id": 5527,
+    "english": "Good do not skip breakfast.",
+    "korean": "좋아요 아침을 거르지 마요."
+  },
+  {
+    "id": 5529,
+    "english": "Energy comes from food.",
+    "korean": "에너지는 음식에서 나오잖아요."
+  },
+  {
+    "id": 5533,
+    "english": "Eat breakfast tomorrow.",
+    "korean": "내일 아침 먹어요."
+  },
+  {
+    "id": 5636,
+    "english": "Let us celebrate with good food tonight.",
+    "korean": "오늘 맛있는 걸 먹으며 축하해요."
+  },
+  {
+    "id": 5638,
+    "english": "What are we eating?",
+    "korean": "뭐 먹어요?"
+  },
+  {
+    "id": 5641,
+    "english": "Okay let us go to that chicken place.",
+    "korean": "알겠어요 그 치킨집 가요."
+  },
+  {
+    "id": 5663,
+    "english": "What is in your lunch box today?",
+    "korean": "오늘 도시락에 뭐 있어요?"
+  },
+  {
+    "id": 5664,
+    "english": "Leftover rice and some side dishes.",
+    "korean": "남은 밥이랑 반찬 몇 가지요."
+  },
+  {
+    "id": 5666,
+    "english": "My cooking is improving I think.",
+    "korean": "요리 실력이 늘고 있는 것 같아요."
+  },
+  {
+    "id": 5672,
+    "english": "You should open a restaurant.",
+    "korean": "식당 차려야겠어요."
+  },
+  {
+    "id": 5682,
+    "english": "The food the weather the work.",
+    "korean": "음식 날씨 일이요."
+  },
+  {
+    "id": 5741,
+    "english": "Or we can eat outside today.",
+    "korean": "아니면 오늘 밖에서 먹어요."
+  },
+  {
+    "id": 5745,
+    "english": "I love eating outside.",
+    "korean": "밖에서 먹는 게 좋아요."
+  },
+  {
+    "id": 5747,
+    "english": "Ha for a lunch break yes.",
+    "korean": "하 점심 휴식치고 맞아요."
+  },
+  {
+    "id": 5792,
+    "english": "I think about what I will eat.",
+    "korean": "뭘 먹을지 생각해요."
+  },
+  {
+    "id": 5793,
+    "english": "Ha always food with you.",
+    "korean": "하 항상 음식이네요."
+  },
+  {
+    "id": 5794,
+    "english": "Food is life.",
+    "korean": "음식이 삶이에요."
+  },
+  {
+    "id": 5864,
+    "english": "People leave food for them.",
+    "korean": "사람들이 음식을 놔줘요."
+  },
+  {
+    "id": 5867,
+    "english": "The coffee tastes good today.",
+    "korean": "오늘 커피 맛이 좋네요."
+  },
+  {
+    "id": 5872,
+    "english": "Everything tastes better when you really need it.",
+    "korean": "진짜 필요할 때 뭐든 더 맛있어요."
+  },
+  {
+    "id": 5874,
+    "english": "Water tastes amazing when you are thirsty.",
+    "korean": "목마를 때 물이 최고로 맛있잖아요."
+  },
+  {
+    "id": 5882,
+    "english": "Then eat something.",
+    "korean": "그다음에 뭔가 먹고요."
+  },
+  {
+    "id": 5906,
+    "english": "I forgot my lunch at home.",
+    "korean": "도시락을 집에 두고 왔어요."
+  },
+  {
+    "id": 5909,
+    "english": "I washed my face with cold water.",
+    "korean": "찬물로 세수했어요."
+  },
+  {
+    "id": 5976,
+    "english": "Can you pass the water please?",
+    "korean": "물 좀 건네줄 수 있어요?"
+  },
+  {
+    "id": 5978,
+    "english": "Drink more today it is warm.",
+    "korean": "오늘 따뜻하니까 더 마셔요."
+  },
+  {
+    "id": 5979,
+    "english": "I forgot my water bottle.",
+    "korean": "물병을 깜빡했어요."
+  },
+  {
+    "id": 5999,
+    "english": "The noodles and vegetables are so good.",
+    "korean": "면이랑 채소가 너무 맛있어요."
+  },
+  {
+    "id": 6004,
+    "english": "I ate too much again.",
+    "korean": "또 너무 많이 먹었어요."
+  },
+  {
+    "id": 6005,
+    "english": "I always do at lunch.",
+    "korean": "점심엔 항상 그래요."
+  },
+  {
+    "id": 6010,
+    "english": "Splash cold water on your face too.",
+    "korean": "찬물로 세수도 해봐요."
+  },
+  {
+    "id": 6115,
+    "english": "A good coffee this morning.",
+    "korean": "오늘 아침 커피가 맛있었어요."
+  },
+  {
+    "id": 6162,
+    "english": "What do you like to eat?",
+    "korean": "뭐 먹는 거 좋아해요?"
+  },
+  {
+    "id": 6163,
+    "english": "I'm craving tteokbokki.",
+    "korean": "떡볶이가 당겨요."
+  },
+  {
+    "id": 6164,
+    "english": "I think it suits my taste.",
+    "korean": "입에 맞는 것 같아요."
+  },
+  {
+    "id": 6200,
+    "english": "It's so delicious!",
+    "korean": "맛있어 죽겠다."
+  },
+  {
+    "id": 6201,
+    "english": "The portions are really big.",
+    "korean": "양이 진짜 많아요."
+  },
+  {
+    "id": 6233,
+    "english": "It's okay to eat anything.",
+    "korean": "아무거나 먹어도 괜찮아요."
+  },
+  {
+    "id": 6297,
+    "english": "The chili pepper is too spicy.",
+    "korean": "고추가 너무 매워요."
+  },
+  {
+    "id": 6393,
+    "english": "I'll have the same.",
+    "korean": "저도 같은 걸로 주세요."
+  },
+  {
+    "id": 6394,
+    "english": "Could I get more kimchi?",
+    "korean": "김치 좀 더 주세요."
+  },
+  {
+    "id": 6395,
+    "english": "That was delicious, thank you.",
+    "korean": "정말 맛있었어요. 잘 먹었습니다."
+  },
+  {
+    "id": 6396,
+    "english": "Please make it less spicy.",
+    "korean": "덜 맵게 해 주세요."
+  },
+  {
+    "id": 6397,
+    "english": "I'd like to pay now.",
+    "korean": "계산할게요."
+  },
+  {
+    "id": 6398,
+    "english": "Let's split the bill.",
+    "korean": "나눠서 계산해요."
+  },
+  {
+    "id": 6399,
+    "english": "Cooking at home is cheaper.",
+    "korean": "집에서 해 먹는 게 더 싸요."
+  },
+  {
+    "id": 6400,
+    "english": "I eat lunch at the cafeteria.",
+    "korean": "구내식당에서 점심을 먹어요."
+  },
+  {
+    "id": 6626,
+    "english": "Two people, please.",
+    "korean": "두 명이에요."
+  },
+  {
+    "id": 6627,
+    "english": "Do you have a table for four?",
+    "korean": "네 명 자리 있어요?"
+  },
+  {
+    "id": 6628,
+    "english": "What do you recommend?",
+    "korean": "뭐가 맛있어요?"
+  },
+  {
+    "id": 6629,
+    "english": "What is the most popular dish?",
+    "korean": "제일 인기 있는 메뉴가 뭐예요?"
+  },
+  {
+    "id": 6630,
+    "english": "I'll have this one.",
+    "korean": "이걸로 주세요."
+  },
+  {
+    "id": 6631,
+    "english": "Two of these, please.",
+    "korean": "이거 두 개 주세요."
+  },
+  {
+    "id": 6632,
+    "english": "One more, please.",
+    "korean": "하나 더 주세요."
+  },
+  {
+    "id": 6633,
+    "english": "Please bring some water.",
+    "korean": "물 좀 주세요."
+  },
+  {
+    "id": 6634,
+    "english": "Please bring more side dishes.",
+    "korean": "반찬 좀 더 주세요."
+  },
+  {
+    "id": 6635,
+    "english": "Are the side dishes refillable?",
+    "korean": "반찬 리필돼요?"
+  },
+  {
+    "id": 6636,
+    "english": "Please don't make it spicy.",
+    "korean": "맵지 않게 해 주세요."
+  },
+  {
+    "id": 6637,
+    "english": "I can't eat spicy food.",
+    "korean": "매운 음식을 못 먹어요."
+  },
+  {
+    "id": 6638,
+    "english": "I don't eat beef.",
+    "korean": "저는 소고기를 안 먹어요."
+  },
+  {
+    "id": 6639,
+    "english": "Is there meat in this?",
+    "korean": "이거 고기 들어 있어요?"
+  },
+  {
+    "id": 6640,
+    "english": "Does this contain peanuts?",
+    "korean": "이거 땅콩 들어 있어요?"
+  },
+  {
+    "id": 6641,
+    "english": "May I have a spoon and chopsticks?",
+    "korean": "숟가락이랑 젓가락 주세요."
+  },
+  {
+    "id": 6642,
+    "english": "May I have a fork?",
+    "korean": "포크 있어요?"
+  },
+  {
+    "id": 6643,
+    "english": "May I have another plate?",
+    "korean": "접시 하나 주세요."
+  },
+  {
+    "id": 6644,
+    "english": "Could you cut this with scissors?",
+    "korean": "가위로 잘라 주실 수 있어요?"
+  },
+  {
+    "id": 6645,
+    "english": "Could you grill the meat for me?",
+    "korean": "고기 좀 구워 주세요."
+  },
+  {
+    "id": 6646,
+    "english": "The meat is ready.",
+    "korean": "고기 다 익었어요."
+  },
+  {
+    "id": 6647,
+    "english": "Please bring the bill.",
+    "korean": "계산서 주세요."
+  },
+  {
+    "id": 6648,
+    "english": "I'll pay at the counter.",
+    "korean": "계산대에서 계산할게요."
+  },
+  {
+    "id": 6649,
+    "english": "Can we pay separately?",
+    "korean": "따로 계산할 수 있어요?"
+  },
+  {
+    "id": 6650,
+    "english": "It's my treat.",
+    "korean": "제가 살게요."
+  },
+  {
+    "id": 6651,
+    "english": "Do you accept cards?",
+    "korean": "카드 돼요?"
+  },
+  {
+    "id": 6652,
+    "english": "Can I get a receipt?",
+    "korean": "영수증 주세요."
+  },
+  {
+    "id": 6653,
+    "english": "Please pack the leftovers.",
+    "korean": "남은 음식 포장해 주세요."
+  },
+  {
+    "id": 6654,
+    "english": "Can I get this to go?",
+    "korean": "포장해 주세요."
+  },
+  {
+    "id": 6655,
+    "english": "The food is delicious.",
+    "korean": "음식이 맛있어요."
+  },
+  {
+    "id": 6656,
+    "english": "It's too salty.",
+    "korean": "너무 짜요."
+  },
+  {
+    "id": 6657,
+    "english": "It's too sweet.",
+    "korean": "너무 달아요."
+  },
+  {
+    "id": 6658,
+    "english": "It's too hot to eat.",
+    "korean": "너무 뜨거워요."
+  },
+  {
+    "id": 6659,
+    "english": "The food has gone cold.",
+    "korean": "음식이 식었어요."
+  },
+  {
+    "id": 6660,
+    "english": "I didn't order this.",
+    "korean": "이건 주문 안 했어요."
+  },
+  {
+    "id": 6661,
+    "english": "My order hasn't come yet.",
+    "korean": "주문한 음식이 아직 안 나왔어요."
+  },
+  {
+    "id": 6662,
+    "english": "What is in this dish?",
+    "korean": "이 음식에는 뭐가 들어가요?"
+  },
+  {
+    "id": 6663,
+    "english": "Is this halal?",
+    "korean": "이거 할랄이에요?"
+  },
+  {
+    "id": 6664,
+    "english": "Rice, please.",
+    "korean": "밥 주세요."
+  },
+  {
+    "id": 6665,
+    "english": "One more bowl of rice, please.",
+    "korean": "밥 한 공기 더 주세요."
+  },
+  {
+    "id": 6666,
+    "english": "Is there a no-meat option?",
+    "korean": "고기 없는 메뉴 있어요?"
+  }
+]

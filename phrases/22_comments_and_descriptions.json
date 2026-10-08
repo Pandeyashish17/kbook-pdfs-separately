@@ -1,0 +1,1392 @@
+[
+  {
+    "id": 13,
+    "english": "It's good.",
+    "korean": "좋아요."
+  },
+  {
+    "id": 17,
+    "english": "That's a good idea.",
+    "korean": "좋은 생각이에요."
+  },
+  {
+    "id": 40,
+    "english": "This is the best I can do.",
+    "korean": "이게 최선이에요."
+  },
+  {
+    "id": 44,
+    "english": "That's too fast.",
+    "korean": "너무 빨라요."
+  },
+  {
+    "id": 67,
+    "english": "This is my first time here.",
+    "korean": "이곳이 처음이에요."
+  },
+  {
+    "id": 78,
+    "english": "This is the best.",
+    "korean": "이게 최고예요."
+  },
+  {
+    "id": 110,
+    "english": "You look so cool.",
+    "korean": "당신은 너무 멋져요."
+  },
+  {
+    "id": 135,
+    "english": "That's fun.",
+    "korean": "재미있어요."
+  },
+  {
+    "id": 172,
+    "english": "It's too hard.",
+    "korean": "너무 어려워요."
+  },
+  {
+    "id": 186,
+    "english": "That's so creepy.",
+    "korean": "너무 소름끼치네요."
+  },
+  {
+    "id": 187,
+    "english": "It's a secret.",
+    "korean": "그건 비밀이에요."
+  },
+  {
+    "id": 193,
+    "english": "It's very cold.",
+    "korean": "너무 추워요."
+  },
+  {
+    "id": 194,
+    "english": "It's too hot.",
+    "korean": "너무 더워요."
+  },
+  {
+    "id": 203,
+    "english": "It's so funny.",
+    "korean": "너무 웃기네요."
+  },
+  {
+    "id": 206,
+    "english": "It's not your fault.",
+    "korean": "당신 잘못이 아니에요."
+  },
+  {
+    "id": 212,
+    "english": "This is too small.",
+    "korean": "이건 너무 작아요."
+  },
+  {
+    "id": 213,
+    "english": "This is too big.",
+    "korean": "이건 너무 커요."
+  },
+  {
+    "id": 222,
+    "english": "That's what I need.",
+    "korean": "그건 제가 필요한 거예요."
+  },
+  {
+    "id": 253,
+    "english": "It's your turn.",
+    "korean": "그쪽 차례입니다."
+  },
+  {
+    "id": 268,
+    "english": "That's hilarious.",
+    "korean": "아주 우스워요."
+  },
+  {
+    "id": 289,
+    "english": "That's not true.",
+    "korean": "사실이 아니에요."
+  },
+  {
+    "id": 320,
+    "english": "That's a waste of time.",
+    "korean": "그것은 시간 낭비예요."
+  },
+  {
+    "id": 363,
+    "english": "It's none of my business.",
+    "korean": "저랑은 상관없어요."
+  },
+  {
+    "id": 369,
+    "english": "It's time now.",
+    "korean": "이제 때가 됐습니다."
+  },
+  {
+    "id": 376,
+    "english": "It is very hot.",
+    "korean": "정말 더워요."
+  },
+  {
+    "id": 386,
+    "english": "It's just my imagination.",
+    "korean": "그냥 상상일뿐입니다."
+  },
+  {
+    "id": 396,
+    "english": "You are my everything.",
+    "korean": "당신의 나의 전부예요."
+  },
+  {
+    "id": 449,
+    "english": "That's not what I mean.",
+    "korean": "제가 한 말은 그런 뜻이 아니에요."
+  },
+  {
+    "id": 452,
+    "english": "It's over there.",
+    "korean": "저쪽이에요."
+  },
+  {
+    "id": 471,
+    "english": "It's pouring outside.",
+    "korean": "밖에 비가 쏟아져요."
+  },
+  {
+    "id": 479,
+    "english": "That's very famous.",
+    "korean": "굉장히 유명합니다."
+  },
+  {
+    "id": 493,
+    "english": "That's exactly right.",
+    "korean": "바로 그거예요."
+  },
+  {
+    "id": 498,
+    "english": "It's getting colder.",
+    "korean": "점점 추워지고 있어요."
+  },
+  {
+    "id": 511,
+    "english": "It's too loud here.",
+    "korean": "여기 너무 시끄러워요."
+  },
+  {
+    "id": 515,
+    "english": "It's getting better.",
+    "korean": "점점 좋아지고 있어요."
+  },
+  {
+    "id": 522,
+    "english": "It's really important.",
+    "korean": "정말 중요해요."
+  },
+  {
+    "id": 523,
+    "english": "It's heavier than I thought.",
+    "korean": "생각보다 무거워요."
+  },
+  {
+    "id": 548,
+    "english": "It's not my style.",
+    "korean": "제 스타일은 아니에요."
+  },
+  {
+    "id": 554,
+    "english": "It's colder than I expected.",
+    "korean": "생각보다 추워요."
+  },
+  {
+    "id": 575,
+    "english": "It's better to wait.",
+    "korean": "기다리는게 나아요."
+  },
+  {
+    "id": 578,
+    "english": "It's better to ask first.",
+    "korean": "먼저 물어보는 게 좋아요."
+  },
+  {
+    "id": 579,
+    "english": "It's my tree today.",
+    "korean": "오늘은 제가 살게요."
+  },
+  {
+    "id": 587,
+    "english": "It's too bright here.",
+    "korean": "여긴 너무 밝아요."
+  },
+  {
+    "id": 591,
+    "english": "It's easier than I thought.",
+    "korean": "생각보다 쉬워요."
+  },
+  {
+    "id": 616,
+    "english": "It's my first time here.",
+    "korean": "이곳이 처음이에요."
+  },
+  {
+    "id": 649,
+    "english": "It's a long story.",
+    "korean": "길어요."
+  },
+  {
+    "id": 754,
+    "english": "It's too noisy at night.",
+    "korean": "밤에 너무 시끄러워요."
+  },
+  {
+    "id": 803,
+    "english": "This is not what I ordered.",
+    "korean": "제가 주문한 게 아니에요."
+  },
+  {
+    "id": 812,
+    "english": "This is too salty.",
+    "korean": "너무 짜요."
+  },
+  {
+    "id": 813,
+    "english": "This is too sweet.",
+    "korean": "너무 달아요."
+  },
+  {
+    "id": 934,
+    "english": "It's freezing outside.",
+    "korean": "밖이 너무 추워요."
+  },
+  {
+    "id": 972,
+    "english": "There is a cultural difference.",
+    "korean": "문화적인 차이가 있어요."
+  },
+  {
+    "id": 986,
+    "english": "There is a fire.",
+    "korean": "불이 났어요."
+  },
+  {
+    "id": 997,
+    "english": "It's on the second floor.",
+    "korean": "2층에 있어요."
+  },
+  {
+    "id": 998,
+    "english": "It's in the basement.",
+    "korean": "지하에 있어요."
+  },
+  {
+    "id": 1001,
+    "english": "It's behind the building.",
+    "korean": "건물 뒤에 있어요."
+  },
+  {
+    "id": 1260,
+    "english": "This is cold, it was not delivered hot.",
+    "korean": "이거 식었어요 뜨겁게 안 왔어요."
+  },
+  {
+    "id": 1294,
+    "english": "That's a good point.",
+    "korean": "좋은 말씀이에요."
+  },
+  {
+    "id": 1298,
+    "english": "That's one way to look at it.",
+    "korean": "그렇게 볼 수도 있네요."
+  },
+  {
+    "id": 1333,
+    "english": "That's impressive.",
+    "korean": "대단하네요."
+  },
+  {
+    "id": 1555,
+    "english": "That is interesting.",
+    "korean": "흥미롭네요."
+  },
+  {
+    "id": 1557,
+    "english": "That is a fair point.",
+    "korean": "맞는 말이에요."
+  },
+  {
+    "id": 1560,
+    "english": "It is hard to say.",
+    "korean": "말하기가 어렵네요."
+  },
+  {
+    "id": 1636,
+    "english": "It is big.",
+    "korean": "커요."
+  },
+  {
+    "id": 1637,
+    "english": "It is small.",
+    "korean": "작아요."
+  },
+  {
+    "id": 1638,
+    "english": "It is heavy.",
+    "korean": "무거워요."
+  },
+  {
+    "id": 1640,
+    "english": "It is short.",
+    "korean": "짧아요."
+  },
+  {
+    "id": 1641,
+    "english": "It is fast.",
+    "korean": "빨라요."
+  },
+  {
+    "id": 1642,
+    "english": "It is slow.",
+    "korean": "느려요."
+  },
+  {
+    "id": 1644,
+    "english": "It is old and worn.",
+    "korean": "오래됐어요."
+  },
+  {
+    "id": 1646,
+    "english": "It is dirty.",
+    "korean": "지저분해요."
+  },
+  {
+    "id": 1647,
+    "english": "It is broken.",
+    "korean": "고장났어요."
+  },
+  {
+    "id": 1651,
+    "english": "It is uncomfortable.",
+    "korean": "불편해요."
+  },
+  {
+    "id": 1652,
+    "english": "It is noisy.",
+    "korean": "시끄러워요."
+  },
+  {
+    "id": 1653,
+    "english": "It is very quiet.",
+    "korean": "조용해요."
+  },
+  {
+    "id": 1654,
+    "english": "It is bright in here.",
+    "korean": "밝아요."
+  },
+  {
+    "id": 1655,
+    "english": "It is dark in here.",
+    "korean": "어두워요."
+  },
+  {
+    "id": 1656,
+    "english": "It is completely full.",
+    "korean": "가득 찼어요."
+  },
+  {
+    "id": 1657,
+    "english": "It is totally empty.",
+    "korean": "비어있어요."
+  },
+  {
+    "id": 1659,
+    "english": "It is not enough.",
+    "korean": "부족해요."
+  },
+  {
+    "id": 1674,
+    "english": "That is what I thought too.",
+    "korean": "저도 그렇게 생각했어요."
+  },
+  {
+    "id": 1678,
+    "english": "It is now or never.",
+    "korean": "지금이 아니면 기회가 없어요."
+  },
+  {
+    "id": 1679,
+    "english": "That is just life.",
+    "korean": "그게 인생이에요."
+  },
+  {
+    "id": 1754,
+    "english": "There are about twenty people here.",
+    "korean": "여기 약 스무 명 있어요."
+  },
+  {
+    "id": 2081,
+    "english": "There is a chemical spill.",
+    "korean": "화학물질이 쏟아졌어요."
+  },
+  {
+    "id": 2248,
+    "english": "There is no need to rush.",
+    "korean": "서두를 필요 없어요."
+  },
+  {
+    "id": 2286,
+    "english": "That is news to me.",
+    "korean": "처음 듣는 얘기네요."
+  },
+  {
+    "id": 2290,
+    "english": "That is good to hear.",
+    "korean": "듣기 좋네요."
+  },
+  {
+    "id": 2291,
+    "english": "That is unfortunate.",
+    "korean": "안타깝네요."
+  },
+  {
+    "id": 2295,
+    "english": "That is amazing.",
+    "korean": "대박이에요."
+  },
+  {
+    "id": 2317,
+    "english": "We are behind on today's quota.",
+    "korean": "오늘 할당량이 뒤처지고 있어요."
+  },
+  {
+    "id": 2322,
+    "english": "There is a blockage in the pipe.",
+    "korean": "파이프가 막혔어요."
+  },
+  {
+    "id": 2498,
+    "english": "That is a lot to take in.",
+    "korean": "한꺼번에 너무 많아요."
+  },
+  {
+    "id": 2501,
+    "english": "That is not how I see it.",
+    "korean": "저는 그렇게 보지 않아요."
+  },
+  {
+    "id": 2508,
+    "english": "That is really helpful to know.",
+    "korean": "알아두면 정말 유용하네요."
+  },
+  {
+    "id": 2700,
+    "english": "It's a mess.",
+    "korean": "난리났어요."
+  },
+  {
+    "id": 2707,
+    "english": "That's legendary.",
+    "korean": "레전드예요."
+  },
+  {
+    "id": 2708,
+    "english": "That's so cheesy.",
+    "korean": "오글거려요."
+  },
+  {
+    "id": 2712,
+    "english": "That's so random.",
+    "korean": "뜬금없어요."
+  },
+  {
+    "id": 2713,
+    "english": "This is insane.",
+    "korean": "미쳤어요."
+  },
+  {
+    "id": 2714,
+    "english": "That's totally unfair.",
+    "korean": "억울해요."
+  },
+  {
+    "id": 2716,
+    "english": "You're so cool.",
+    "korean": "완전 쿨해요."
+  },
+  {
+    "id": 2718,
+    "english": "This is so awkward.",
+    "korean": "분위기가 어색해요."
+  },
+  {
+    "id": 2720,
+    "english": "That's so touching.",
+    "korean": "감동 받았어요."
+  },
+  {
+    "id": 2722,
+    "english": "You're hilarious.",
+    "korean": "진짜 웃기네요."
+  },
+  {
+    "id": 2729,
+    "english": "It's giving me anxiety.",
+    "korean": "불안하게 만들어요."
+  },
+  {
+    "id": 2770,
+    "english": "There is no smoke without fire.",
+    "korean": "아니 땐 굴뚝에 연기 나지 않아요."
+  },
+  {
+    "id": 2805,
+    "english": "That's so extra.",
+    "korean": "오버하네요."
+  },
+  {
+    "id": 2806,
+    "english": "You're being dramatic.",
+    "korean": "호들갑 떨지 마세요."
+  },
+  {
+    "id": 2809,
+    "english": "You're such a pushover.",
+    "korean": "호구잖아요."
+  },
+  {
+    "id": 2811,
+    "english": "That's so basic.",
+    "korean": "평범하네요."
+  },
+  {
+    "id": 2812,
+    "english": "He is all talk.",
+    "korean": "입만 살아있어요."
+  },
+  {
+    "id": 2819,
+    "english": "This is a total waste of time.",
+    "korean": "이건 완전 시간 낭비예요."
+  },
+  {
+    "id": 2830,
+    "english": "You're so sneaky.",
+    "korean": "은근히 교활하네요."
+  },
+  {
+    "id": 2833,
+    "english": "You are so transparent.",
+    "korean": "숨길 수가 없네요."
+  },
+  {
+    "id": 2834,
+    "english": "You are glowing today.",
+    "korean": "오늘 빛나네요."
+  },
+  {
+    "id": 2886,
+    "english": "That is unbelievable.",
+    "korean": "믿기지 않아요."
+  },
+  {
+    "id": 2899,
+    "english": "That is so inspiring.",
+    "korean": "정말 감동적이에요."
+  },
+  {
+    "id": 2901,
+    "english": "That is the last thing I expected to hear.",
+    "korean": "그건 정말 예상 못 한 말이에요."
+  },
+  {
+    "id": 2904,
+    "english": "That is quite the story.",
+    "korean": "정말 대단한 이야기예요."
+  },
+  {
+    "id": 3014,
+    "english": "That is my final offer.",
+    "korean": "이게 제 마지막 제안이에요."
+  },
+  {
+    "id": 3042,
+    "english": "You are stronger than you think.",
+    "korean": "생각보다 훨씬 강해요."
+  },
+  {
+    "id": 3048,
+    "english": "You are your own worst critic.",
+    "korean": "스스로가 가장 가혹한 비평가예요."
+  },
+  {
+    "id": 3050,
+    "english": "You are doing better than you think.",
+    "korean": "생각보다 잘 하고 있어요."
+  },
+  {
+    "id": 3058,
+    "english": "It is none of my business really.",
+    "korean": "제가 상관할 바는 아닌데요."
+  },
+  {
+    "id": 3097,
+    "english": "It is getting late.",
+    "korean": "늦어지고 있어요."
+  },
+  {
+    "id": 3108,
+    "english": "That is so fire.",
+    "korean": "완전 핫해요."
+  },
+  {
+    "id": 3109,
+    "english": "That is top tier.",
+    "korean": "최상위 클래스예요."
+  },
+  {
+    "id": 3126,
+    "english": "They are so toxic.",
+    "korean": "완전 나쁜 영향을 줘요."
+  },
+  {
+    "id": 3137,
+    "english": "That is a mood.",
+    "korean": "공감돼요."
+  },
+  {
+    "id": 3157,
+    "english": "We are on the same wavelength.",
+    "korean": "우리 코드가 잘 맞아요."
+  },
+  {
+    "id": 3232,
+    "english": "This is better than I expected.",
+    "korean": "생각보다 훨씬 맛있어요."
+  },
+  {
+    "id": 3233,
+    "english": "This is exactly what I needed.",
+    "korean": "이게 딱 필요했어요."
+  },
+  {
+    "id": 3256,
+    "english": "That is spot on.",
+    "korean": "딱 맞는 말이에요."
+  },
+  {
+    "id": 3304,
+    "english": "You are killing me.",
+    "korean": "저 죽이네요."
+  },
+  {
+    "id": 3307,
+    "english": "This is too much to handle.",
+    "korean": "감당이 안 돼요."
+  },
+  {
+    "id": 3382,
+    "english": "We are working at height today.",
+    "korean": "오늘 고소 작업을 해요."
+  },
+  {
+    "id": 3420,
+    "english": "We are behind schedule by two weeks.",
+    "korean": "2주가 일정에 뒤처져 있어요."
+  },
+  {
+    "id": 3603,
+    "english": "We are installing the side shell.",
+    "korean": "측면 외판을 설치하고 있어요."
+  },
+  {
+    "id": 3641,
+    "english": "It is important to switch off.",
+    "korean": "전환하는 게 중요해요."
+  },
+  {
+    "id": 3710,
+    "english": "We are all just people trying our best.",
+    "korean": "우리 모두 최선을 다하는 사람들이에요."
+  },
+  {
+    "id": 3756,
+    "english": "This is broken.",
+    "korean": "이게 망가졌어요."
+  },
+  {
+    "id": 3757,
+    "english": "This is not working.",
+    "korean": "이게 작동이 안 돼요."
+  },
+  {
+    "id": 3836,
+    "english": "It is slippery here.",
+    "korean": "여기 미끄러워요."
+  },
+  {
+    "id": 3867,
+    "english": "It is a bit cold this morning.",
+    "korean": "오늘 아침에 좀 춥네요."
+  },
+  {
+    "id": 3875,
+    "english": "This is so good.",
+    "korean": "이거 너무 맛있어요."
+  },
+  {
+    "id": 3902,
+    "english": "It is hot and fresh when it arrives.",
+    "korean": "도착할 때 뜨겁고 신선해요."
+  },
+  {
+    "id": 3924,
+    "english": "Sounds like a plan.",
+    "korean": "좋은 계획이네요."
+  },
+  {
+    "id": 3940,
+    "english": "That is what we do here for each other.",
+    "korean": "여기서 서로 그렇게 해요."
+  },
+  {
+    "id": 3977,
+    "english": "It is very hot in here today.",
+    "korean": "오늘 여기 정말 덥네요."
+  },
+  {
+    "id": 3984,
+    "english": "It is hard to see in this area.",
+    "korean": "이 구역에서는 잘 보이지 않아요."
+  },
+  {
+    "id": 4001,
+    "english": "You are getting better every day.",
+    "korean": "날마다 발전하고 있어요."
+  },
+  {
+    "id": 4053,
+    "english": "It is really hot today.",
+    "korean": "오늘 정말 덥네요."
+  },
+  {
+    "id": 4107,
+    "english": "This is too heavy for one person.",
+    "korean": "이건 혼자 들기 너무 무거워요."
+  },
+  {
+    "id": 4118,
+    "english": "That is perfect.",
+    "korean": "딱 좋아요."
+  },
+  {
+    "id": 4124,
+    "english": "This is why teamwork matters.",
+    "korean": "팀워크가 중요한 이유예요."
+  },
+  {
+    "id": 4161,
+    "english": "You look a little pale today.",
+    "korean": "오늘 좀 창백해 보여요."
+  },
+  {
+    "id": 4226,
+    "english": "That is nice.",
+    "korean": "좋네요."
+  },
+  {
+    "id": 4227,
+    "english": "That is too bad.",
+    "korean": "안됐네요."
+  },
+  {
+    "id": 4240,
+    "english": "That is hard to say.",
+    "korean": "말하기 어렵네요."
+  },
+  {
+    "id": 4269,
+    "english": "It is a bit crooked.",
+    "korean": "조금 삐뚤어요."
+  },
+  {
+    "id": 4278,
+    "english": "That is enough.",
+    "korean": "그 정도면 충분해요."
+  },
+  {
+    "id": 4285,
+    "english": "Here is the problem.",
+    "korean": "문제가 여기 있어요."
+  },
+  {
+    "id": 4311,
+    "english": "It is overheating.",
+    "korean": "과열되고 있어요."
+  },
+  {
+    "id": 4329,
+    "english": "You are busy I can ask someone else.",
+    "korean": "바쁘면 다른 사람한테 물어볼게요."
+  },
+  {
+    "id": 4382,
+    "english": "That is all that matters.",
+    "korean": "그것만으로 충분해요."
+  },
+  {
+    "id": 4400,
+    "english": "It is a little different but good.",
+    "korean": "좀 다르지만 맛있어요."
+  },
+  {
+    "id": 4438,
+    "english": "That is all you need to do.",
+    "korean": "그게 전부예요."
+  },
+  {
+    "id": 4546,
+    "english": "It is good to have you back.",
+    "korean": "돌아와서 좋아요."
+  },
+  {
+    "id": 4606,
+    "english": "That is surprising.",
+    "korean": "놀랍네요."
+  },
+  {
+    "id": 4609,
+    "english": "That is bad news.",
+    "korean": "안 좋은 소식이네요."
+  },
+  {
+    "id": 4613,
+    "english": "We are all here for you.",
+    "korean": "우리 모두 당신 곁에 있어요."
+  },
+  {
+    "id": 4665,
+    "english": "That is the last one.",
+    "korean": "이게 마지막이에요."
+  },
+  {
+    "id": 4703,
+    "english": "It is different but good.",
+    "korean": "다르지만 맛있어요."
+  },
+  {
+    "id": 4764,
+    "english": "That is better.",
+    "korean": "더 나아졌어요."
+  },
+  {
+    "id": 4783,
+    "english": "That is a long time.",
+    "korean": "정말 오래 걸리네요."
+  },
+  {
+    "id": 4789,
+    "english": "We are building something real.",
+    "korean": "진짜 무언가를 만들고 있어요."
+  },
+  {
+    "id": 4846,
+    "english": "That is the formal hello.",
+    "korean": "그건 공식적인 인사예요."
+  },
+  {
+    "id": 4878,
+    "english": "That is enough for me.",
+    "korean": "저한테는 충분해요."
+  },
+  {
+    "id": 4891,
+    "english": "It is where I recharge.",
+    "korean": "거기서 재충전해요."
+  },
+  {
+    "id": 4930,
+    "english": "That is actually good for the brain.",
+    "korean": "사실 그게 두뇌에 좋아요."
+  },
+  {
+    "id": 4935,
+    "english": "There is someone new starting today.",
+    "korean": "오늘 새 분이 시작해요."
+  },
+  {
+    "id": 4962,
+    "english": "It is okay it is not the end of the world.",
+    "korean": "괜찮아요 세상이 끝난 건 아니잖아요."
+  },
+  {
+    "id": 4966,
+    "english": "That is all we can do.",
+    "korean": "우리가 할 수 있는 게 그거예요."
+  },
+  {
+    "id": 4973,
+    "english": "That is useful.",
+    "korean": "유용하네요."
+  },
+  {
+    "id": 4990,
+    "english": "That is a wrap for today.",
+    "korean": "오늘은 이걸로 마무리해요."
+  },
+  {
+    "id": 5010,
+    "english": "You look fresh today.",
+    "korean": "오늘 생기있어 보여요."
+  },
+  {
+    "id": 5061,
+    "english": "That is our priority every day.",
+    "korean": "그게 매일 우리의 우선순위예요."
+  },
+  {
+    "id": 5101,
+    "english": "There is always something happening.",
+    "korean": "항상 뭔가 일어나고 있어요."
+  },
+  {
+    "id": 5115,
+    "english": "That is perfect.",
+    "korean": "완벽해요."
+  },
+  {
+    "id": 5152,
+    "english": "That is the only way.",
+    "korean": "그게 유일한 방법이에요."
+  },
+  {
+    "id": 5186,
+    "english": "We are lucky to have you here.",
+    "korean": "당신이 여기 있어서 운이 좋아요."
+  },
+  {
+    "id": 5196,
+    "english": "We are fortunate.",
+    "korean": "우리는 운이 좋아요."
+  },
+  {
+    "id": 5204,
+    "english": "That is nothing.",
+    "korean": "별것 아니네요."
+  },
+  {
+    "id": 5208,
+    "english": "It is easy for you.",
+    "korean": "당신한테는 쉽죠."
+  },
+  {
+    "id": 5273,
+    "english": "That is better.",
+    "korean": "그게 낫네요."
+  },
+  {
+    "id": 5285,
+    "english": "It is very sweet and good.",
+    "korean": "달고 맛있어요."
+  },
+  {
+    "id": 5328,
+    "english": "It is about a chef who falls in love.",
+    "korean": "사랑에 빠지는 요리사 이야기예요."
+  },
+  {
+    "id": 5343,
+    "english": "That is a full day then.",
+    "korean": "그럼 꽉 찬 하루네요."
+  },
+  {
+    "id": 5369,
+    "english": "That is the worst feeling.",
+    "korean": "그게 제일 불편한 느낌이에요."
+  },
+  {
+    "id": 5390,
+    "english": "You are always there when I need you.",
+    "korean": "필요할 때 항상 곁에 있어줘요."
+  },
+  {
+    "id": 5425,
+    "english": "This is so good today.",
+    "korean": "오늘 이거 정말 맛있어요."
+  },
+  {
+    "id": 5429,
+    "english": "You are right I rush everything.",
+    "korean": "맞아요 뭐든 서두르네요."
+  },
+  {
+    "id": 5447,
+    "english": "That is a good feeling to have.",
+    "korean": "그런 느낌이 드는 게 좋아요."
+  },
+  {
+    "id": 5448,
+    "english": "This is harder than I thought.",
+    "korean": "생각보다 어렵네요."
+  },
+  {
+    "id": 5456,
+    "english": "That is it for today.",
+    "korean": "오늘은 이걸로 끝이에요."
+  },
+  {
+    "id": 5459,
+    "english": "That is the best kind of tired.",
+    "korean": "그게 최고의 피곤함이에요."
+  },
+  {
+    "id": 5470,
+    "english": "It is a lot to take in.",
+    "korean": "많이 받아들여야 해요."
+  },
+  {
+    "id": 5476,
+    "english": "You are doing better than I did.",
+    "korean": "저보다 잘하고 있어요."
+  },
+  {
+    "id": 5498,
+    "english": "You are easy to talk to.",
+    "korean": "당신이랑 얘기하기 편해요."
+  },
+  {
+    "id": 5518,
+    "english": "That is a great attitude.",
+    "korean": "훌륭한 태도예요."
+  },
+  {
+    "id": 5519,
+    "english": "It is the only way to get better.",
+    "korean": "그게 더 나아지는 유일한 방법이에요."
+  },
+  {
+    "id": 5542,
+    "english": "That is not too bad.",
+    "korean": "그렇게 나쁘지 않아요."
+  },
+  {
+    "id": 5544,
+    "english": "That is true stay busy.",
+    "korean": "맞아요 바쁘게 지내요."
+  },
+  {
+    "id": 5557,
+    "english": "That is the best kind.",
+    "korean": "그게 최고예요."
+  },
+  {
+    "id": 5565,
+    "english": "That is not enough.",
+    "korean": "충분하지 않아요."
+  },
+  {
+    "id": 5586,
+    "english": "That is the best kind of week.",
+    "korean": "그게 최고의 한 주예요."
+  },
+  {
+    "id": 5615,
+    "english": "Looks good to me.",
+    "korean": "저한테는 좋아 보여요."
+  },
+  {
+    "id": 5631,
+    "english": "That is what makes this place good.",
+    "korean": "그게 여기를 좋게 만드는 거예요."
+  },
+  {
+    "id": 5756,
+    "english": "That is the winning combination.",
+    "korean": "그게 이기는 조합이에요."
+  },
+  {
+    "id": 5774,
+    "english": "That is fair.",
+    "korean": "공평하네요."
+  },
+  {
+    "id": 5777,
+    "english": "You are better than you think.",
+    "korean": "생각보다 잘 해요."
+  },
+  {
+    "id": 5780,
+    "english": "You are too hard on yourself.",
+    "korean": "자신한테 너무 가혹해요."
+  },
+  {
+    "id": 5784,
+    "english": "It is working.",
+    "korean": "효과가 있어요."
+  },
+  {
+    "id": 5785,
+    "english": "It is quiet today.",
+    "korean": "오늘 조용하네요."
+  },
+  {
+    "id": 5840,
+    "english": "We are lucky.",
+    "korean": "우리 운이 좋아요."
+  },
+  {
+    "id": 5854,
+    "english": "That is what I am here for.",
+    "korean": "그게 제가 여기 있는 이유잖아요."
+  },
+  {
+    "id": 5855,
+    "english": "You are very thoughtful.",
+    "korean": "정말 배려심이 깊어요."
+  },
+  {
+    "id": 5863,
+    "english": "There are many strays around here.",
+    "korean": "여기 근처에 길고양이가 많아요."
+  },
+  {
+    "id": 5865,
+    "english": "That is kind.",
+    "korean": "친절하네요."
+  },
+  {
+    "id": 5873,
+    "english": "That is so true.",
+    "korean": "정말 그렇네요."
+  },
+  {
+    "id": 5885,
+    "english": "That is the perfect evening.",
+    "korean": "완벽한 저녁이에요."
+  },
+  {
+    "id": 5917,
+    "english": "There was an accident on the way.",
+    "korean": "오는 길에 사고가 있었어요."
+  },
+  {
+    "id": 5949,
+    "english": "We are lucky we do.",
+    "korean": "우리가 그러니까 운이 좋아요."
+  },
+  {
+    "id": 5951,
+    "english": "It is so blue today.",
+    "korean": "오늘 정말 파랗네요."
+  },
+  {
+    "id": 5957,
+    "english": "That is why we appreciate today.",
+    "korean": "그래서 오늘을 소중히 여기는 거예요."
+  },
+  {
+    "id": 5986,
+    "english": "She is well she misses me.",
+    "korean": "잘 계세요 저를 그리워하세요."
+  },
+  {
+    "id": 5987,
+    "english": "That is sweet.",
+    "korean": "정말 보기 좋아요."
+  },
+  {
+    "id": 5991,
+    "english": "That is a good habit.",
+    "korean": "좋은 습관이에요."
+  },
+  {
+    "id": 6002,
+    "english": "It is not too hard.",
+    "korean": "그렇게 어렵지 않아요."
+  },
+  {
+    "id": 6015,
+    "english": "It is heavy I can manage.",
+    "korean": "무거워요 할 수 있어요."
+  },
+  {
+    "id": 6025,
+    "english": "That is wonderful to hear.",
+    "korean": "그거 정말 듣기 좋네요."
+  },
+  {
+    "id": 6071,
+    "english": "Feels so much better.",
+    "korean": "훨씬 나아진 것 같아요."
+  },
+  {
+    "id": 6078,
+    "english": "That is what we do here.",
+    "korean": "여기서 우리가 하는 거잖아요."
+  },
+  {
+    "id": 6084,
+    "english": "We are good for each other.",
+    "korean": "우리 서로에게 좋은 영향을 줘요."
+  },
+  {
+    "id": 6100,
+    "english": "You are full of useful tips.",
+    "korean": "유용한 팁이 정말 많네요."
+  },
+  {
+    "id": 6111,
+    "english": "You are smiling today.",
+    "korean": "오늘 웃고 있네요."
+  },
+  {
+    "id": 6119,
+    "english": "That is what life is made of.",
+    "korean": "삶이 그런 것들로 이루어져 있잖아요."
+  },
+  {
+    "id": 6134,
+    "english": "That is exactly why I came.",
+    "korean": "그게 정확히 제가 온 이유예요."
+  },
+  {
+    "id": 6154,
+    "english": "It seems kind of strange.",
+    "korean": "뭔가 이상해요."
+  },
+  {
+    "id": 6198,
+    "english": "That's funny.",
+    "korean": "웃겨."
+  },
+  {
+    "id": 6295,
+    "english": "That person can't read the room.",
+    "korean": "저 사람은 눈치가 없어요."
+  },
+  {
+    "id": 6486,
+    "english": "This place is quiet.",
+    "korean": "여기는 조용해요."
+  },
+  {
+    "id": 6487,
+    "english": "It's very crowded.",
+    "korean": "사람이 너무 많아요."
+  },
+  {
+    "id": 6488,
+    "english": "The food here is cheap.",
+    "korean": "여기 음식은 싸요."
+  },
+  {
+    "id": 6489,
+    "english": "It's getting dark.",
+    "korean": "어두워지고 있어요."
+  },
+  {
+    "id": 6490,
+    "english": "The air is fresh.",
+    "korean": "공기가 상쾌해요."
+  },
+  {
+    "id": 6974,
+    "english": "It's very beautiful.",
+    "korean": "정말 아름다워요."
+  },
+  {
+    "id": 6975,
+    "english": "It's very big.",
+    "korean": "정말 커요."
+  },
+  {
+    "id": 6976,
+    "english": "It's very small.",
+    "korean": "정말 작아요."
+  },
+  {
+    "id": 6977,
+    "english": "It's very clean.",
+    "korean": "정말 깨끗해요."
+  },
+  {
+    "id": 6978,
+    "english": "It's dirty.",
+    "korean": "더러워요."
+  },
+  {
+    "id": 6979,
+    "english": "It's crowded.",
+    "korean": "사람이 많아요."
+  },
+  {
+    "id": 6980,
+    "english": "It's convenient.",
+    "korean": "편리해요."
+  },
+  {
+    "id": 6981,
+    "english": "It's cheap.",
+    "korean": "싸요."
+  },
+  {
+    "id": 6982,
+    "english": "It's expensive.",
+    "korean": "비싸요."
+  },
+  {
+    "id": 6983,
+    "english": "It's light.",
+    "korean": "가벼워요."
+  },
+  {
+    "id": 6984,
+    "english": "It's easy.",
+    "korean": "쉬워요."
+  },
+  {
+    "id": 6985,
+    "english": "It's difficult.",
+    "korean": "어려워요."
+  },
+  {
+    "id": 6986,
+    "english": "It's boring.",
+    "korean": "지루해요."
+  },
+  {
+    "id": 6987,
+    "english": "It's dangerous.",
+    "korean": "위험해요."
+  },
+  {
+    "id": 6988,
+    "english": "It's safe.",
+    "korean": "안전해요."
+  },
+  {
+    "id": 6989,
+    "english": "It's new.",
+    "korean": "새것이에요."
+  },
+  {
+    "id": 6990,
+    "english": "It looks good on you.",
+    "korean": "잘 어울려요."
+  },
+  {
+    "id": 6991,
+    "english": "It's the same.",
+    "korean": "똑같아요."
+  },
+  {
+    "id": 6992,
+    "english": "It's different.",
+    "korean": "달라요."
+  },
+  {
+    "id": 6993,
+    "english": "It's interesting.",
+    "korean": "흥미로워요."
+  },
+  {
+    "id": 6994,
+    "english": "It's famous.",
+    "korean": "유명해요."
+  }
+]

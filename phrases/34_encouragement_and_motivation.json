@@ -1,0 +1,512 @@
+[
+  {
+    "id": 101,
+    "english": "Don't give up.",
+    "korean": "포기하지 마세요."
+  },
+  {
+    "id": 126,
+    "english": "Don't worry.",
+    "korean": "걱정하지 마세요."
+  },
+  {
+    "id": 225,
+    "english": "Don't worry about it.",
+    "korean": "신경 쓰지 마세요."
+  },
+  {
+    "id": 342,
+    "english": "Keep it up.",
+    "korean": "계속 힘내요."
+  },
+  {
+    "id": 1204,
+    "english": "My dream is to start my own business.",
+    "korean": "제 꿈은 사업을 하는 거예요."
+  },
+  {
+    "id": 1328,
+    "english": "Take it easy.",
+    "korean": "천천히 해요."
+  },
+  {
+    "id": 1329,
+    "english": "One step at a time.",
+    "korean": "한 걸음씩 해요."
+  },
+  {
+    "id": 1330,
+    "english": "You can do it.",
+    "korean": "할 수 있어요."
+  },
+  {
+    "id": 1331,
+    "english": "Keep going.",
+    "korean": "계속해요."
+  },
+  {
+    "id": 1570,
+    "english": "You are improving every day.",
+    "korean": "매일 실력이 늘고 있어요."
+  },
+  {
+    "id": 1720,
+    "english": "I will never give up.",
+    "korean": "절대 포기하지 않을 거예요."
+  },
+  {
+    "id": 1727,
+    "english": "I am building a better future.",
+    "korean": "더 나은 미래를 만들어가고 있어요."
+  },
+  {
+    "id": 1741,
+    "english": "Take it easy today.",
+    "korean": "오늘은 천천히 해요."
+  },
+  {
+    "id": 1884,
+    "english": "I feel very grateful to be here.",
+    "korean": "여기 있어서 정말 감사한 마음이에요."
+  },
+  {
+    "id": 1887,
+    "english": "There are hard days but I keep going.",
+    "korean": "힘든 날도 있지만 계속 나아가요."
+  },
+  {
+    "id": 1890,
+    "english": "I feel lonely but I stay strong.",
+    "korean": "외롭지만 강하게 지내요."
+  },
+  {
+    "id": 1892,
+    "english": "Every challenge makes me grow.",
+    "korean": "모든 도전이 저를 성장시켜요."
+  },
+  {
+    "id": 1893,
+    "english": "I am thankful for the opportunities here.",
+    "korean": "여기서의 기회들에 감사해요."
+  },
+  {
+    "id": 1894,
+    "english": "I feel hopeful about the future.",
+    "korean": "미래에 대해 희망적이에요."
+  },
+  {
+    "id": 1897,
+    "english": "I feel satisfied with my progress.",
+    "korean": "제 발전에 만족해요."
+  },
+  {
+    "id": 1909,
+    "english": "I hope I am not disturbing you.",
+    "korean": "방해가 아니었으면 좋겠어요."
+  },
+  {
+    "id": 1991,
+    "english": "I am truly grateful for your kindness.",
+    "korean": "친절하게 대해주셔서 정말 감사해요."
+  },
+  {
+    "id": 2176,
+    "english": "You deserve all the success.",
+    "korean": "이 모든 성공이 당연해요."
+  },
+  {
+    "id": 2180,
+    "english": "Success means different things to different people.",
+    "korean": "성공은 사람마다 다른 의미예요."
+  },
+  {
+    "id": 2190,
+    "english": "I am thankful for every day I have.",
+    "korean": "매일매일 감사해요."
+  },
+  {
+    "id": 2194,
+    "english": "Mistakes help us grow.",
+    "korean": "실수가 우리를 성장시켜요."
+  },
+  {
+    "id": 2199,
+    "english": "I will be more patient from now on.",
+    "korean": "앞으로는 더 인내심을 가질게요."
+  },
+  {
+    "id": 2246,
+    "english": "I hope things get better for you.",
+    "korean": "상황이 나아지길 바라요."
+  },
+  {
+    "id": 2481,
+    "english": "I feel a deep sense of purpose.",
+    "korean": "깊은 목적 의식을 느껴요."
+  },
+  {
+    "id": 2486,
+    "english": "I choose to stay positive.",
+    "korean": "긍정적으로 생각하려고 해요."
+  },
+  {
+    "id": 2487,
+    "english": "Progress takes time and patience.",
+    "korean": "발전에는 시간과 인내가 필요해요."
+  },
+  {
+    "id": 2671,
+    "english": "Every day I remind myself of my goal.",
+    "korean": "매일 제 목표를 되새겨요."
+  },
+  {
+    "id": 2672,
+    "english": "I keep a list of things I am grateful for.",
+    "korean": "감사한 것들의 목록을 만들어요."
+  },
+  {
+    "id": 2674,
+    "english": "I am proud of every small step I take.",
+    "korean": "제가 내딛는 모든 작은 발걸음이 자랑스러워요."
+  },
+  {
+    "id": 2774,
+    "english": "Fortune favors the brave.",
+    "korean": "용감한 자에게 행운이 따라요."
+  },
+  {
+    "id": 2898,
+    "english": "That takes a lot of courage.",
+    "korean": "정말 용기 있는 행동이에요."
+  },
+  {
+    "id": 2941,
+    "english": "I had a strange dream last night.",
+    "korean": "어젯밤에 이상한 꿈을 꿨어요."
+  },
+  {
+    "id": 3293,
+    "english": "I can build a better future here.",
+    "korean": "여기서 더 나은 미래를 만들 수 있어요."
+  },
+  {
+    "id": 3520,
+    "english": "Zero accidents is our goal.",
+    "korean": "무재해가 우리의 목표예요."
+  },
+  {
+    "id": 3585,
+    "english": "I am proud of what I build.",
+    "korean": "제가 만드는 것이 자랑스러워요."
+  },
+  {
+    "id": 3683,
+    "english": "That is still progress from before.",
+    "korean": "그래도 이전보다는 발전한 거예요."
+  },
+  {
+    "id": 3690,
+    "english": "Small progress every day adds up.",
+    "korean": "매일 작은 발전이 쌓여요."
+  },
+  {
+    "id": 3707,
+    "english": "I will never forget the kindness shown to me here.",
+    "korean": "여기서 받은 친절을 절대 잊지 않을 거예요."
+  },
+  {
+    "id": 3737,
+    "english": "I want to be that kind of motivation for others too.",
+    "korean": "저도 다른 사람들에게 그런 동기부여가 되고 싶어요."
+  },
+  {
+    "id": 3807,
+    "english": "I want to improve every day.",
+    "korean": "매일 발전하고 싶어요."
+  },
+  {
+    "id": 3939,
+    "english": "I will never forget your kindness.",
+    "korean": "그 친절을 잊지 않을 거예요."
+  },
+  {
+    "id": 3948,
+    "english": "I feel like I am improving.",
+    "korean": "발전하고 있는 것 같아요."
+  },
+  {
+    "id": 3998,
+    "english": "Keep it up.",
+    "korean": "계속 잘 해요."
+  },
+  {
+    "id": 4007,
+    "english": "I believe in you.",
+    "korean": "믿어요."
+  },
+  {
+    "id": 4097,
+    "english": "I will keep trying.",
+    "korean": "계속 해볼게요."
+  },
+  {
+    "id": 4100,
+    "english": "Small progress is still progress.",
+    "korean": "작은 발전도 발전이에요."
+  },
+  {
+    "id": 4150,
+    "english": "I hope I feel better by tomorrow.",
+    "korean": "내일까지 나아지면 좋겠어요."
+  },
+  {
+    "id": 4198,
+    "english": "We should be proud.",
+    "korean": "우리는 자랑스러워야 해요."
+  },
+  {
+    "id": 4208,
+    "english": "I understand why they are proud.",
+    "korean": "왜 자부심을 가지는지 이해해요."
+  },
+  {
+    "id": 4350,
+    "english": "I know you can do it.",
+    "korean": "할 수 있을 거예요."
+  },
+  {
+    "id": 4376,
+    "english": "I feel motivated.",
+    "korean": "의욕이 생겨요."
+  },
+  {
+    "id": 4378,
+    "english": "Do not give up.",
+    "korean": "포기하지 마요."
+  },
+  {
+    "id": 4461,
+    "english": "I had a strange dream.",
+    "korean": "이상한 꿈을 꿨어요."
+  },
+  {
+    "id": 4515,
+    "english": "Let us keep it up.",
+    "korean": "계속 잘 해봐요."
+  },
+  {
+    "id": 4529,
+    "english": "I am almost at my goal.",
+    "korean": "목표에 거의 다 왔어요."
+  },
+  {
+    "id": 4530,
+    "english": "It took a lot of discipline.",
+    "korean": "정말 많은 자제력이 필요했어요."
+  },
+  {
+    "id": 4534,
+    "english": "That is my biggest motivation.",
+    "korean": "그게 제 가장 큰 동기예요."
+  },
+  {
+    "id": 4600,
+    "english": "I want to inspire others to do the same.",
+    "korean": "다른 사람들도 같이 하도록 격려하고 싶어요."
+  },
+  {
+    "id": 4610,
+    "english": "I hope everything is okay.",
+    "korean": "다 괜찮길 바라요."
+  },
+  {
+    "id": 4615,
+    "english": "Stay positive.",
+    "korean": "긍정적으로 생각해요."
+  },
+  {
+    "id": 4657,
+    "english": "We are making good progress.",
+    "korean": "잘 진행되고 있어요."
+  },
+  {
+    "id": 4681,
+    "english": "Do not worry it happens.",
+    "korean": "걱정 마요 그럴 수 있어요."
+  },
+  {
+    "id": 4719,
+    "english": "I want to improve.",
+    "korean": "발전하고 싶어요."
+  },
+  {
+    "id": 4793,
+    "english": "That is something to be proud of.",
+    "korean": "자랑스러워할 만한 일이에요."
+  },
+  {
+    "id": 4812,
+    "english": "I want to make them even more proud.",
+    "korean": "더 자랑스럽게 해드리고 싶어요."
+  },
+  {
+    "id": 4965,
+    "english": "We just keep going.",
+    "korean": "그냥 계속 가요."
+  },
+  {
+    "id": 5147,
+    "english": "We are proud of what we deliver.",
+    "korean": "우리가 내놓는 것이 자랑스러워요."
+  },
+  {
+    "id": 5438,
+    "english": "Today was a success.",
+    "korean": "오늘 성공적이었어요."
+  },
+  {
+    "id": 5471,
+    "english": "Do not worry it gets easier.",
+    "korean": "걱정 마요 쉬워질 거예요."
+  },
+  {
+    "id": 5482,
+    "english": "I hope the rest of the week goes well.",
+    "korean": "이번 주 나머지도 잘 되길 바라요."
+  },
+  {
+    "id": 5573,
+    "english": "I know but try your best.",
+    "korean": "알아요 근데 최선을 다해봐요."
+  },
+  {
+    "id": 5686,
+    "english": "Keep going it will only get better.",
+    "korean": "계속해요 더 좋아질 거예요."
+  },
+  {
+    "id": 5706,
+    "english": "I feel motivated today.",
+    "korean": "오늘 동기부여가 돼요."
+  },
+  {
+    "id": 5761,
+    "english": "Let us be proud of this.",
+    "korean": "이거 자랑스러워해요."
+  },
+  {
+    "id": 5771,
+    "english": "I will get it do not worry.",
+    "korean": "제가 할게요 걱정 마요."
+  },
+  {
+    "id": 5778,
+    "english": "Believe in yourself more.",
+    "korean": "자신을 더 믿어요."
+  },
+  {
+    "id": 5975,
+    "english": "Keep going do not start again.",
+    "korean": "계속해요 다시 시작하지 마요."
+  },
+  {
+    "id": 6132,
+    "english": "That is a smart goal.",
+    "korean": "스마트한 목표예요."
+  },
+  {
+    "id": 6167,
+    "english": "Please don't get too flustered.",
+    "korean": "너무 당황하지 마세요."
+  },
+  {
+    "id": 6217,
+    "english": "I've seen how hard you've studied and how hard you've worked all this time.",
+    "korean": "죽어라 공부하고 열심히 산 거 내가 다 봤으니까."
+  },
+  {
+    "id": 6508,
+    "english": "Don't be nervous.",
+    "korean": "긴장하지 마세요."
+  },
+  {
+    "id": 6509,
+    "english": "It's okay to make mistakes.",
+    "korean": "실수해도 괜찮아요."
+  },
+  {
+    "id": 6510,
+    "english": "Keep going, you're almost there.",
+    "korean": "조금만 더 힘내세요."
+  },
+  {
+    "id": 7253,
+    "english": "Cheer up.",
+    "korean": "힘내세요."
+  },
+  {
+    "id": 7254,
+    "english": "You're doing great.",
+    "korean": "잘하고 있어요."
+  },
+  {
+    "id": 7255,
+    "english": "Everything will be fine.",
+    "korean": "다 잘될 거예요."
+  },
+  {
+    "id": 7256,
+    "english": "It will get better.",
+    "korean": "점점 나아질 거예요."
+  },
+  {
+    "id": 7257,
+    "english": "Try again.",
+    "korean": "다시 해 보세요."
+  },
+  {
+    "id": 7258,
+    "english": "You learn by making mistakes.",
+    "korean": "실수하면서 배우는 거예요."
+  },
+  {
+    "id": 7259,
+    "english": "Practice makes you better.",
+    "korean": "연습하면 잘할 수 있어요."
+  },
+  {
+    "id": 7260,
+    "english": "Your hard work will pay off.",
+    "korean": "노력은 결실을 맺을 거예요."
+  },
+  {
+    "id": 7261,
+    "english": "Don't be afraid.",
+    "korean": "두려워하지 마세요."
+  },
+  {
+    "id": 7262,
+    "english": "Be proud of yourself.",
+    "korean": "스스로 자랑스러워하세요."
+  },
+  {
+    "id": 7263,
+    "english": "Let's do it together.",
+    "korean": "같이 해 봐요."
+  },
+  {
+    "id": 7264,
+    "english": "I'm cheering for you.",
+    "korean": "응원할게요."
+  },
+  {
+    "id": 7265,
+    "english": "You have come a long way.",
+    "korean": "정말 많이 발전했어요."
+  },
+  {
+    "id": 7266,
+    "english": "Good luck on your exam.",
+    "korean": "시험 잘 보세요."
+  }
+]

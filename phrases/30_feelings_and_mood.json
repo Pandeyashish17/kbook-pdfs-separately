@@ -1,0 +1,712 @@
+[
+  {
+    "id": 109,
+    "english": "I like you.",
+    "korean": "당신이 마음에 들어요."
+  },
+  {
+    "id": 131,
+    "english": "I missed you.",
+    "korean": "보고 싶었어요."
+  },
+  {
+    "id": 179,
+    "english": "I love animals.",
+    "korean": "저는 동물을 사랑해요."
+  },
+  {
+    "id": 184,
+    "english": "I'm so curious.",
+    "korean": "너무 궁금해요."
+  },
+  {
+    "id": 215,
+    "english": "I like pink.",
+    "korean": "저는 분홍색이 좋아요."
+  },
+  {
+    "id": 235,
+    "english": "I hate bugs.",
+    "korean": "벌레가 너무 싫어요."
+  },
+  {
+    "id": 300,
+    "english": "That makes me sad.",
+    "korean": "그게 슬프네요."
+  },
+  {
+    "id": 366,
+    "english": "You look happy.",
+    "korean": "행복해 보이네요."
+  },
+  {
+    "id": 519,
+    "english": "I don't feel good.",
+    "korean": "몸 상태가 좋지 않아요."
+  },
+  {
+    "id": 625,
+    "english": "I like you.",
+    "korean": "당신이 마음에 들어요."
+  },
+  {
+    "id": 709,
+    "english": "I missed my stop.",
+    "korean": "정류장을 놓쳤어요."
+  },
+  {
+    "id": 1088,
+    "english": "I feel overwhelmed.",
+    "korean": "너무 벅차요."
+  },
+  {
+    "id": 1092,
+    "english": "I feel more confident now.",
+    "korean": "이제 더 자신감이 생겼어요."
+  },
+  {
+    "id": 1099,
+    "english": "I am laughing.",
+    "korean": "웃고 있어요."
+  },
+  {
+    "id": 1154,
+    "english": "Happy Lunar New Year.",
+    "korean": "설날 잘 보내세요."
+  },
+  {
+    "id": 1515,
+    "english": "I love BTS.",
+    "korean": "BTS를 정말 좋아해요."
+  },
+  {
+    "id": 1563,
+    "english": "That makes me uncomfortable.",
+    "korean": "그건 좀 불편해요."
+  },
+  {
+    "id": 1631,
+    "english": "I love watching sunsets.",
+    "korean": "노을 보는 걸 좋아해요."
+  },
+  {
+    "id": 1650,
+    "english": "It is comfortable.",
+    "korean": "편해요."
+  },
+  {
+    "id": 1819,
+    "english": "I enjoy reading in my free time.",
+    "korean": "여가 시간에 책 읽는 걸 좋아해요."
+  },
+  {
+    "id": 1821,
+    "english": "I enjoy photography.",
+    "korean": "사진 찍는 걸 즐겨요."
+  },
+  {
+    "id": 1825,
+    "english": "I like watching documentaries.",
+    "korean": "다큐멘터리 보는 걸 좋아해요."
+  },
+  {
+    "id": 1828,
+    "english": "I enjoy gardening.",
+    "korean": "원예를 즐겨요."
+  },
+  {
+    "id": 1830,
+    "english": "I like journaling every night.",
+    "korean": "매일 밤 일기를 써요."
+  },
+  {
+    "id": 1831,
+    "english": "I enjoy meditating in the morning.",
+    "korean": "아침에 명상하는 걸 즐겨요."
+  },
+  {
+    "id": 1895,
+    "english": "Sometimes I feel overwhelmed but I manage.",
+    "korean": "가끔 벅차지만 잘 이겨내요."
+  },
+  {
+    "id": 2100,
+    "english": "I like perilla leaves as a wrap.",
+    "korean": "깻잎으로 싸먹는 게 좋아요."
+  },
+  {
+    "id": 2102,
+    "english": "I love the smoky flavor of this.",
+    "korean": "이 훈제 맛이 너무 좋아요."
+  },
+  {
+    "id": 2418,
+    "english": "I feel chest tightness.",
+    "korean": "가슴이 답답해요."
+  },
+  {
+    "id": 2477,
+    "english": "I feel more confident with each passing day.",
+    "korean": "날이 갈수록 자신감이 생겨요."
+  },
+  {
+    "id": 2686,
+    "english": "I was so worried.",
+    "korean": "정말 걱정했어요."
+  },
+  {
+    "id": 2703,
+    "english": "That's so frustrating.",
+    "korean": "열받아요."
+  },
+  {
+    "id": 2827,
+    "english": "You scared me half to death.",
+    "korean": "깜짝 놀랐잖아요."
+  },
+  {
+    "id": 2893,
+    "english": "I am so glad it worked out.",
+    "korean": "잘 됐다니 정말 다행이에요."
+  },
+  {
+    "id": 2900,
+    "english": "I feel for you.",
+    "korean": "안쓰럽네요."
+  },
+  {
+    "id": 2944,
+    "english": "I feel so well rested today.",
+    "korean": "오늘 정말 개운하게 잤어요."
+  },
+  {
+    "id": 2981,
+    "english": "I found a new café I love.",
+    "korean": "좋아하는 새 카페를 찾았어요."
+  },
+  {
+    "id": 3088,
+    "english": "I feel settled in now.",
+    "korean": "이제 자리를 잡은 것 같아요."
+  },
+  {
+    "id": 3091,
+    "english": "I am less afraid of the unknown.",
+    "korean": "미지의 것에 대한 두려움이 줄었어요."
+  },
+  {
+    "id": 3150,
+    "english": "I feel so much better now.",
+    "korean": "이제 훨씬 나아진 것 같아요."
+  },
+  {
+    "id": 3263,
+    "english": "I feel the same way.",
+    "korean": "저도 같은 느낌이에요."
+  },
+  {
+    "id": 3272,
+    "english": "I feel guilty for taking time off.",
+    "korean": "휴가를 쓰면 죄책감이 느껴져요."
+  },
+  {
+    "id": 3278,
+    "english": "I feel recharged now.",
+    "korean": "이제 재충전됐어요."
+  },
+  {
+    "id": 3504,
+    "english": "I feel stronger every week.",
+    "korean": "매주 더 강해지는 것 같아요."
+  },
+  {
+    "id": 3704,
+    "english": "I feel accepted here now.",
+    "korean": "이제 여기서 받아들여지는 것 같아요."
+  },
+  {
+    "id": 3930,
+    "english": "I was so nervous on the first day.",
+    "korean": "첫날 정말 긴장했어요."
+  },
+  {
+    "id": 3934,
+    "english": "I cried a little the first week.",
+    "korean": "첫 주에 좀 울었어요."
+  },
+  {
+    "id": 3944,
+    "english": "I feel a bit low today.",
+    "korean": "오늘 좀 기운이 없어요."
+  },
+  {
+    "id": 3947,
+    "english": "I feel strong today.",
+    "korean": "오늘 힘이 나요."
+  },
+  {
+    "id": 3953,
+    "english": "I feel at peace today.",
+    "korean": "오늘 마음이 편안해요."
+  },
+  {
+    "id": 3954,
+    "english": "I feel a bit stressed.",
+    "korean": "좀 스트레스받아요."
+  },
+  {
+    "id": 3955,
+    "english": "I feel better after talking to you.",
+    "korean": "당신이랑 얘기하고 나니 기분이 나아졌어요."
+  },
+  {
+    "id": 3957,
+    "english": "I feel lucky to be here.",
+    "korean": "여기 있어서 운이 좋은 것 같아요."
+  },
+  {
+    "id": 3958,
+    "english": "I feel confident now.",
+    "korean": "이제 자신감이 생겼어요."
+  },
+  {
+    "id": 3996,
+    "english": "I feel much better now.",
+    "korean": "이제 훨씬 나아졌어요."
+  },
+  {
+    "id": 4019,
+    "english": "I feel safe here.",
+    "korean": "여기서 안전하다고 느껴요."
+  },
+  {
+    "id": 4024,
+    "english": "I like the four seasons here.",
+    "korean": "여기 사계절이 좋아요."
+  },
+  {
+    "id": 4032,
+    "english": "I am happy with my choice to come here.",
+    "korean": "여기 오기로 한 선택이 좋아요."
+  },
+  {
+    "id": 4087,
+    "english": "I like working with you.",
+    "korean": "당신이랑 일하는 게 좋아요."
+  },
+  {
+    "id": 4182,
+    "english": "I love both places in different ways.",
+    "korean": "두 곳 다 다른 이유로 좋아요."
+  },
+  {
+    "id": 4374,
+    "english": "I feel weak today.",
+    "korean": "오늘 힘이 없어요."
+  },
+  {
+    "id": 4377,
+    "english": "I feel like giving up.",
+    "korean": "포기하고 싶어요."
+  },
+  {
+    "id": 4433,
+    "english": "I was nervous at first.",
+    "korean": "처음엔 긴장했어요."
+  },
+  {
+    "id": 4466,
+    "english": "I feel more awake now.",
+    "korean": "이제 좀 깼어요."
+  },
+  {
+    "id": 4541,
+    "english": "Happy to see you.",
+    "korean": "만나서 반가워요."
+  },
+  {
+    "id": 4561,
+    "english": "Happy to help.",
+    "korean": "도움이 되어서 기뻐요."
+  },
+  {
+    "id": 4581,
+    "english": "I feel accepted here.",
+    "korean": "여기서 받아들여지는 것 같아요."
+  },
+  {
+    "id": 4592,
+    "english": "They made me stronger.",
+    "korean": "그것들이 저를 더 강하게 만들었어요."
+  },
+  {
+    "id": 4616,
+    "english": "I am glad you told me.",
+    "korean": "말해줘서 기뻐요."
+  },
+  {
+    "id": 4722,
+    "english": "I feel supported by you.",
+    "korean": "당신의 지지를 받는 것 같아요."
+  },
+  {
+    "id": 4788,
+    "english": "That makes me feel good.",
+    "korean": "그 생각을 하면 기분이 좋아요."
+  },
+  {
+    "id": 4811,
+    "english": "That makes me happy.",
+    "korean": "그게 저를 행복하게 해요."
+  },
+  {
+    "id": 4899,
+    "english": "That might be why I feel tired.",
+    "korean": "그래서 피곤한 것 같아요."
+  },
+  {
+    "id": 4904,
+    "english": "My back feels better when I stretch.",
+    "korean": "스트레칭하면 허리가 나아요."
+  },
+  {
+    "id": 4908,
+    "english": "I already feel better.",
+    "korean": "벌써 나아진 것 같아요."
+  },
+  {
+    "id": 4950,
+    "english": "We are happy to have you here.",
+    "korean": "함께하게 되어서 기뻐요."
+  },
+  {
+    "id": 4983,
+    "english": "Their faces are so happy.",
+    "korean": "얼굴이 정말 기뻐 보여요."
+  },
+  {
+    "id": 5011,
+    "english": "I feel fresh today.",
+    "korean": "오늘 기분이 상쾌해요."
+  },
+  {
+    "id": 5082,
+    "english": "I know but I like the quiet night time.",
+    "korean": "알아요 근데 밤의 고요함이 좋아요."
+  },
+  {
+    "id": 5165,
+    "english": "Happy to be here but miss there.",
+    "korean": "여기 있어서 기쁜데 거기가 그리운 거요."
+  },
+  {
+    "id": 5181,
+    "english": "I am glad to hear that.",
+    "korean": "그 말 들으니 기뻐요."
+  },
+  {
+    "id": 5192,
+    "english": "I feel the same about all of you.",
+    "korean": "저도 여러분 모두에게 같은 마음이에요."
+  },
+  {
+    "id": 5333,
+    "english": "You will not be disappointed.",
+    "korean": "실망하지 않을 거예요."
+  },
+  {
+    "id": 5446,
+    "english": "I feel that too.",
+    "korean": "저도 그런 느낌이에요."
+  },
+  {
+    "id": 5499,
+    "english": "Same I feel comfortable with you.",
+    "korean": "저도요 당신이랑 편안해요."
+  },
+  {
+    "id": 5530,
+    "english": "You are right I feel weak now.",
+    "korean": "맞아요 지금 힘이 없어요."
+  },
+  {
+    "id": 5551,
+    "english": "Good glad you are okay.",
+    "korean": "다행이에요 괜찮아서요."
+  },
+  {
+    "id": 5582,
+    "english": "Happy to help anytime.",
+    "korean": "언제든지 도와드릴게요."
+  },
+  {
+    "id": 5587,
+    "english": "I feel like we accomplished a lot.",
+    "korean": "많이 이룬 것 같아요."
+  },
+  {
+    "id": 5593,
+    "english": "I love weeks like this.",
+    "korean": "이런 주가 정말 좋아요."
+  },
+  {
+    "id": 5597,
+    "english": "I like working with my hands.",
+    "korean": "손으로 일하는 게 좋아요."
+  },
+  {
+    "id": 5654,
+    "english": "Gratitude keeps you happy.",
+    "korean": "감사함이 행복하게 해줘요."
+  },
+  {
+    "id": 5700,
+    "english": "I feel great today.",
+    "korean": "오늘 기분이 정말 좋아요."
+  },
+  {
+    "id": 5703,
+    "english": "I feel calm today.",
+    "korean": "오늘 차분해요."
+  },
+  {
+    "id": 5704,
+    "english": "I feel focused today.",
+    "korean": "오늘 집중이 잘 돼요."
+  },
+  {
+    "id": 5705,
+    "english": "I feel distracted today.",
+    "korean": "오늘 집중이 안 돼요."
+  },
+  {
+    "id": 5708,
+    "english": "I feel strong today.",
+    "korean": "오늘 강한 느낌이에요."
+  },
+  {
+    "id": 5718,
+    "english": "And I love it.",
+    "korean": "그게 좋아요."
+  },
+  {
+    "id": 5736,
+    "english": "I like knowing what my day looks like.",
+    "korean": "하루가 어떨지 아는 게 좋아요."
+  },
+  {
+    "id": 5737,
+    "english": "Me too makes me feel prepared.",
+    "korean": "저도요 준비된 느낌이에요."
+  },
+  {
+    "id": 5787,
+    "english": "I like it actually.",
+    "korean": "사실 좋아요."
+  },
+  {
+    "id": 5799,
+    "english": "Me too when I think too far ahead I get stressed.",
+    "korean": "저도요 너무 앞을 생각하면 스트레스받아요."
+  },
+  {
+    "id": 5830,
+    "english": "I like that saying.",
+    "korean": "그 말 좋아요."
+  },
+  {
+    "id": 5893,
+    "english": "I feel it too.",
+    "korean": "저도 느껴요."
+  },
+  {
+    "id": 5954,
+    "english": "I love days like this.",
+    "korean": "이런 날이 좋아요."
+  },
+  {
+    "id": 6006,
+    "english": "Now I feel sleepy.",
+    "korean": "이제 졸려요."
+  },
+  {
+    "id": 6095,
+    "english": "Comfortable socks make the day better.",
+    "korean": "편한 양말이 하루를 더 좋게 해줘요."
+  },
+  {
+    "id": 6148,
+    "english": "I'm upset.",
+    "korean": "나 삐졌어."
+  },
+  {
+    "id": 6149,
+    "english": "I feel hurt and upset.",
+    "korean": "속상해요."
+  },
+  {
+    "id": 6151,
+    "english": "Life is so boring.",
+    "korean": "인생이 너무 무료해요."
+  },
+  {
+    "id": 6166,
+    "english": "You look flustered.",
+    "korean": "당황한 것 같아요."
+  },
+  {
+    "id": 6168,
+    "english": "I'm excited.",
+    "korean": "설레요."
+  },
+  {
+    "id": 6176,
+    "english": "My heart is pounding with excitement.",
+    "korean": "가슴이 두근두근해요."
+  },
+  {
+    "id": 6192,
+    "english": "Because I'm shy.",
+    "korean": "부끄러워서."
+  },
+  {
+    "id": 6193,
+    "english": "I'm really touched.",
+    "korean": "진짜 감동이에요."
+  },
+  {
+    "id": 6194,
+    "english": "I was really moved.",
+    "korean": "진짜 감동받았어요."
+  },
+  {
+    "id": 6195,
+    "english": "It's so awkward.",
+    "korean": "너무 어색해요."
+  },
+  {
+    "id": 6199,
+    "english": "I can't be bothered.",
+    "korean": "귀찮아."
+  },
+  {
+    "id": 6205,
+    "english": "I'm so embarrassed.",
+    "korean": "너무 창피해요."
+  },
+  {
+    "id": 6517,
+    "english": "I feel relaxed today.",
+    "korean": "오늘은 마음이 편해요."
+  },
+  {
+    "id": 6518,
+    "english": "I'm a little worried.",
+    "korean": "조금 걱정돼요."
+  },
+  {
+    "id": 6519,
+    "english": "I'm really looking forward to it.",
+    "korean": "정말 기대돼요."
+  },
+  {
+    "id": 6520,
+    "english": "I'm so happy today.",
+    "korean": "오늘 정말 행복해요."
+  },
+  {
+    "id": 7180,
+    "english": "I'm in a good mood.",
+    "korean": "기분이 좋아요."
+  },
+  {
+    "id": 7181,
+    "english": "I'm in a bad mood.",
+    "korean": "기분이 안 좋아요."
+  },
+  {
+    "id": 7182,
+    "english": "I feel sad.",
+    "korean": "슬퍼요."
+  },
+  {
+    "id": 7183,
+    "english": "I feel anxious.",
+    "korean": "불안해요."
+  },
+  {
+    "id": 7184,
+    "english": "I'm worried.",
+    "korean": "걱정돼요."
+  },
+  {
+    "id": 7185,
+    "english": "I'm disappointed.",
+    "korean": "실망했어요."
+  },
+  {
+    "id": 7186,
+    "english": "I'm proud of you.",
+    "korean": "자랑스러워요."
+  },
+  {
+    "id": 7187,
+    "english": "I'm grateful.",
+    "korean": "감사해요."
+  },
+  {
+    "id": 7188,
+    "english": "I feel relieved.",
+    "korean": "안심이 돼요."
+  },
+  {
+    "id": 7189,
+    "english": "I feel embarrassed.",
+    "korean": "창피해요."
+  },
+  {
+    "id": 7190,
+    "english": "I'm bored.",
+    "korean": "심심해요."
+  },
+  {
+    "id": 7191,
+    "english": "I feel lonely in Korea.",
+    "korean": "한국에서 외로워요."
+  },
+  {
+    "id": 7192,
+    "english": "I'm exhausted.",
+    "korean": "너무 지쳤어요."
+  },
+  {
+    "id": 7193,
+    "english": "I feel energetic.",
+    "korean": "힘이 나요."
+  },
+  {
+    "id": 7194,
+    "english": "I feel confident.",
+    "korean": "자신 있어요."
+  },
+  {
+    "id": 7195,
+    "english": "I'm scared.",
+    "korean": "무서워요."
+  },
+  {
+    "id": 7196,
+    "english": "I'm a little shy.",
+    "korean": "조금 부끄러워요."
+  },
+  {
+    "id": 7197,
+    "english": "I'm touched.",
+    "korean": "감동했어요."
+  },
+  {
+    "id": 7198,
+    "english": "I feel at ease.",
+    "korean": "마음이 편해요."
+  }
+]

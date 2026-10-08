@@ -1,0 +1,177 @@
+[
+  {
+    "id": 7516,
+    "english": "Is there a convenience store nearby?",
+    "korean": "근처에 편의점 있어요?"
+  },
+  {
+    "id": 7517,
+    "english": "Do you have a microwave?",
+    "korean": "전자레인지 있어요?"
+  },
+  {
+    "id": 7518,
+    "english": "Please heat this up.",
+    "korean": "이거 데워 주세요."
+  },
+  {
+    "id": 7519,
+    "english": "Please heat up the lunchbox.",
+    "korean": "도시락 데워 주세요."
+  },
+  {
+    "id": 7520,
+    "english": "May I use the hot water here?",
+    "korean": "여기서 뜨거운 물 써도 돼요?"
+  },
+  {
+    "id": 7521,
+    "english": "One cup of ramen, please.",
+    "korean": "컵라면 하나 주세요."
+  },
+  {
+    "id": 7522,
+    "english": "Is this a 1+1 deal?",
+    "korean": "1+1 행사예요?"
+  },
+  {
+    "id": 7523,
+    "english": "Is this a 2+1 deal?",
+    "korean": "2+1 행사예요?"
+  },
+  {
+    "id": 7524,
+    "english": "Do you have a membership card?",
+    "korean": "멤버십 카드 있으세요?"
+  },
+  {
+    "id": 7525,
+    "english": "I don't have a membership.",
+    "korean": "멤버십 없어요."
+  },
+  {
+    "id": 7526,
+    "english": "I'll pay by card.",
+    "korean": "카드로 계산할게요."
+  },
+  {
+    "id": 7527,
+    "english": "Can I top up my T-money here?",
+    "korean": "여기서 티머니 충전돼요?"
+  },
+  {
+    "id": 7528,
+    "english": "One iced Americano, please.",
+    "korean": "아이스 아메리카노 한 잔 주세요."
+  },
+  {
+    "id": 7529,
+    "english": "One hot latte, please.",
+    "korean": "따뜻한 라떼 한 잔 주세요."
+  },
+  {
+    "id": 7530,
+    "english": "Two coffees, please.",
+    "korean": "커피 두 잔 주세요."
+  },
+  {
+    "id": 7531,
+    "english": "A large size, please.",
+    "korean": "큰 사이즈로 주세요."
+  },
+  {
+    "id": 7532,
+    "english": "A small size, please.",
+    "korean": "작은 사이즈로 주세요."
+  },
+  {
+    "id": 7533,
+    "english": "Less ice, please.",
+    "korean": "얼음 적게 주세요."
+  },
+  {
+    "id": 7534,
+    "english": "No sugar, please.",
+    "korean": "설탕 빼 주세요."
+  },
+  {
+    "id": 7535,
+    "english": "Less sweet, please.",
+    "korean": "덜 달게 해 주세요."
+  },
+  {
+    "id": 7536,
+    "english": "Takeout, please.",
+    "korean": "테이크아웃이요."
+  },
+  {
+    "id": 7537,
+    "english": "I'll drink it here.",
+    "korean": "여기서 마실게요."
+  },
+  {
+    "id": 7538,
+    "english": "Do you have decaf?",
+    "korean": "디카페인 있어요?"
+  },
+  {
+    "id": 7539,
+    "english": "Do you have soy milk?",
+    "korean": "두유 있어요?"
+  },
+  {
+    "id": 7540,
+    "english": "May I have a straw?",
+    "korean": "빨대 주세요."
+  },
+  {
+    "id": 7541,
+    "english": "May I have a drink carrier?",
+    "korean": "캐리어 주세요."
+  },
+  {
+    "id": 7542,
+    "english": "Is my drink ready?",
+    "korean": "제 음료 나왔어요?"
+  },
+  {
+    "id": 7543,
+    "english": "May I have a glass of water?",
+    "korean": "물 한 잔 주세요."
+  },
+  {
+    "id": 7544,
+    "english": "May I sit here for a while?",
+    "korean": "여기 좀 앉아 있어도 돼요?"
+  },
+  {
+    "id": 7545,
+    "english": "Is there a power outlet?",
+    "korean": "콘센트 있어요?"
+  },
+  {
+    "id": 7546,
+    "english": "What is your best seller?",
+    "korean": "제일 잘 나가는 메뉴가 뭐예요?"
+  },
+  {
+    "id": 7547,
+    "english": "What is the restroom code?",
+    "korean": "화장실 비밀번호가 뭐예요?"
+  },
+  {
+    "id": 7548,
+    "english": "Please order at the kiosk.",
+    "korean": "키오스크로 주문해 주세요."
+  },
+  {
+    "id": 7549,
+    "english": "How do I use the kiosk?",
+    "korean": "키오스크 어떻게 써요?"
+  },
+  {
+    "id": 7550,
+    "english": "I'll pay at the kiosk.",
+    "korean": "키오스크에서 결제할게요."
+  }
+]

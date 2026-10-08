@@ -1,0 +1,1427 @@
+[
+  {
+    "id": 157,
+    "english": "I think we should stop here for today.",
+    "korean": "오늘은 여기까지 해야겠어요."
+  },
+  {
+    "id": 180,
+    "english": "It smells so bad.",
+    "korean": "냄새가 너무 심해요."
+  },
+  {
+    "id": 197,
+    "english": "This story is really interesting.",
+    "korean": "이야기가 정말 재밌어요."
+  },
+  {
+    "id": 223,
+    "english": "Better than nothing.",
+    "korean": "없는 거보단 낫죠."
+  },
+  {
+    "id": 247,
+    "english": "The sooner the better.",
+    "korean": "빠를수록 좋아요."
+  },
+  {
+    "id": 261,
+    "english": "That sounds great.",
+    "korean": "그거 좋은데요."
+  },
+  {
+    "id": 276,
+    "english": "We have a lot in common.",
+    "korean": "우린 공통점이 많아요."
+  },
+  {
+    "id": 301,
+    "english": "Good for you.",
+    "korean": "잘됐군요."
+  },
+  {
+    "id": 318,
+    "english": "I'm trying my best.",
+    "korean": "저는 최선을 다하고 있어요."
+  },
+  {
+    "id": 336,
+    "english": "I have an idea.",
+    "korean": "내게 생각이 있어요."
+  },
+  {
+    "id": 377,
+    "english": "It looks very nice.",
+    "korean": "아주 좋아 보입니다."
+  },
+  {
+    "id": 408,
+    "english": "I think I understand.",
+    "korean": "나는 이해하는 것 같아요."
+  },
+  {
+    "id": 423,
+    "english": "I'm not so good at it.",
+    "korean": "잘 못해요."
+  },
+  {
+    "id": 426,
+    "english": "I have a bad cold.",
+    "korean": "저는 심한 감기에 걸렸어요."
+  },
+  {
+    "id": 487,
+    "english": "Same as usual.",
+    "korean": "평소와 다름없습니다."
+  },
+  {
+    "id": 501,
+    "english": "I'm feeling better.",
+    "korean": "기분 좀 나아졌어요."
+  },
+  {
+    "id": 560,
+    "english": "I have good news.",
+    "korean": "좋은 소식이 있어요."
+  },
+  {
+    "id": 655,
+    "english": "recommend a good place.",
+    "korean": "좋은 곳 추천해 주세요."
+  },
+  {
+    "id": 864,
+    "english": "I am feeling better now.",
+    "korean": "이제 좀 나아졌어요."
+  },
+  {
+    "id": 936,
+    "english": "The yellow dust is bad today.",
+    "korean": "오늘 황사가 심해요."
+  },
+  {
+    "id": 1016,
+    "english": "I think I am going the wrong way.",
+    "korean": "잘못 가고 있는 것 같아요."
+  },
+  {
+    "id": 1089,
+    "english": "Things are getting better.",
+    "korean": "점점 나아지고 있어요."
+  },
+  {
+    "id": 1205,
+    "english": "I am a hard worker.",
+    "korean": "저는 열심히 일하는 사람이에요."
+  },
+  {
+    "id": 1217,
+    "english": "I think there's a mistake here.",
+    "korean": "여기 실수가 있는 것 같아요."
+  },
+  {
+    "id": 1249,
+    "english": "Wishing you all the best.",
+    "korean": "모든 일이 잘 되기를 바랍니다."
+  },
+  {
+    "id": 1300,
+    "english": "I have a different opinion.",
+    "korean": "다른 의견이 있어요."
+  },
+  {
+    "id": 1325,
+    "english": "That must be hard.",
+    "korean": "힘들겠다."
+  },
+  {
+    "id": 1326,
+    "english": "That must be nice.",
+    "korean": "좋겠다."
+  },
+  {
+    "id": 1327,
+    "english": "Good for you.",
+    "korean": "잘됐네요."
+  },
+  {
+    "id": 1340,
+    "english": "It could be worse.",
+    "korean": "이 정도면 괜찮아요."
+  },
+  {
+    "id": 1432,
+    "english": "This broth is really good.",
+    "korean": "국물이 정말 맛있어요."
+  },
+  {
+    "id": 1474,
+    "english": "My vision has gotten worse.",
+    "korean": "시력이 나빠졌어요."
+  },
+  {
+    "id": 1552,
+    "english": "In my opinion.",
+    "korean": "제 생각에는요."
+  },
+  {
+    "id": 1553,
+    "english": "I think that is a great idea.",
+    "korean": "정말 좋은 생각인 것 같아요."
+  },
+  {
+    "id": 1554,
+    "english": "I am not sure I agree.",
+    "korean": "동의하기가 좀 어렵네요."
+  },
+  {
+    "id": 1564,
+    "english": "I think you are right.",
+    "korean": "당신 말이 맞는 것 같아요."
+  },
+  {
+    "id": 1680,
+    "english": "Things happen for a reason.",
+    "korean": "다 이유가 있어요."
+  },
+  {
+    "id": 1682,
+    "english": "I am doing the best I can.",
+    "korean": "제가 할 수 있는 최선을 다하고 있어요."
+  },
+  {
+    "id": 1691,
+    "english": "All the best to you.",
+    "korean": "잘 되길 바라요."
+  },
+  {
+    "id": 1708,
+    "english": "I think I misunderstood you.",
+    "korean": "제가 잘못 이해한 것 같아요."
+  },
+  {
+    "id": 1721,
+    "english": "I believe in myself.",
+    "korean": "나 자신을 믿어요."
+  },
+  {
+    "id": 1739,
+    "english": "That must be really hard for you.",
+    "korean": "진짜 힘들겠다."
+  },
+  {
+    "id": 1740,
+    "english": "That must be really nice.",
+    "korean": "진짜 좋겠다."
+  },
+  {
+    "id": 1784,
+    "english": "I prefer cardio over weights.",
+    "korean": "웨이트보다 유산소를 더 좋아해요."
+  },
+  {
+    "id": 1827,
+    "english": "I collect coins from different countries.",
+    "korean": "여러 나라 동전을 모아요."
+  },
+  {
+    "id": 1948,
+    "english": "That looks great thank you.",
+    "korean": "정말 좋아 보여요 감사해요."
+  },
+  {
+    "id": 1968,
+    "english": "The medical system here is good.",
+    "korean": "여기 의료 시스템이 좋아요."
+  },
+  {
+    "id": 1988,
+    "english": "The GPS is taking me the wrong way.",
+    "korean": "GPS가 잘못된 방향으로 안내하고 있어요."
+  },
+  {
+    "id": 2032,
+    "english": "The atmosphere here is really nice.",
+    "korean": "여기 분위기가 정말 좋아요."
+  },
+  {
+    "id": 2047,
+    "english": "Something went wrong.",
+    "korean": "뭔가 잘못됐어요."
+  },
+  {
+    "id": 2050,
+    "english": "I think there is a misunderstanding.",
+    "korean": "오해가 있는 것 같아요."
+  },
+  {
+    "id": 2065,
+    "english": "I am not sure but I think.",
+    "korean": "확실하지는 않지만 생각에는요."
+  },
+  {
+    "id": 2085,
+    "english": "I think the equipment is overheating.",
+    "korean": "장비가 과열되는 것 같아요."
+  },
+  {
+    "id": 2186,
+    "english": "Every day I try to be better than yesterday.",
+    "korean": "매일 어제보다 더 나은 사람이 되려고 해요."
+  },
+  {
+    "id": 2215,
+    "english": "I prefer direct communication.",
+    "korean": "직접적인 소통을 선호해요."
+  },
+  {
+    "id": 2219,
+    "english": "Reading between the lines is hard for me.",
+    "korean": "숨은 의미를 파악하는 게 어려워요."
+  },
+  {
+    "id": 2321,
+    "english": "The output looks good today.",
+    "korean": "오늘 생산 결과가 좋아 보여요."
+  },
+  {
+    "id": 2380,
+    "english": "The service here is very good.",
+    "korean": "여기 서비스가 정말 좋아요."
+  },
+  {
+    "id": 2440,
+    "english": "Group harmony is very important here.",
+    "korean": "집단 화합이 여기서 매우 중요해요."
+  },
+  {
+    "id": 2446,
+    "english": "Red ink is considered bad luck here.",
+    "korean": "빨간 잉크로 이름 쓰는 건 불길하다고 해요."
+  },
+  {
+    "id": 2455,
+    "english": "I heard Donggung and Wolji are beautiful at night.",
+    "korean": "동궁과 월지가 야경이 아름답다고 들었어요."
+  },
+  {
+    "id": 2491,
+    "english": "Difficult roads lead to beautiful destinations.",
+    "korean": "힘든 길이 아름다운 목적지로 이어져요."
+  },
+  {
+    "id": 2626,
+    "english": "Everyone had a great time.",
+    "korean": "모두 정말 즐거운 시간이었어요."
+  },
+  {
+    "id": 2677,
+    "english": "The hardest moments build the best character.",
+    "korean": "가장 힘든 순간들이 최고의 인격을 만들어요."
+  },
+  {
+    "id": 2688,
+    "english": "Better than I expected.",
+    "korean": "생각보다 좋아요."
+  },
+  {
+    "id": 2689,
+    "english": "Worse than I expected.",
+    "korean": "생각보다 안 좋아요."
+  },
+  {
+    "id": 2696,
+    "english": "Two heads are better than one.",
+    "korean": "두 사람이 함께하면 더 좋아요."
+  },
+  {
+    "id": 2738,
+    "english": "My bad completely.",
+    "korean": "완전히 제 잘못이에요."
+  },
+  {
+    "id": 2758,
+    "english": "Two is better than one.",
+    "korean": "백지장도 맞들면 나아요."
+  },
+  {
+    "id": 2864,
+    "english": "Correct me if I am wrong.",
+    "korean": "제가 틀렸으면 말씀해 주세요."
+  },
+  {
+    "id": 2890,
+    "english": "That must have been so hard.",
+    "korean": "정말 힘들었겠어요."
+  },
+  {
+    "id": 2985,
+    "english": "We have a lot in common.",
+    "korean": "공통점이 많아요."
+  },
+  {
+    "id": 3034,
+    "english": "Maybe you should talk to someone.",
+    "korean": "누군가에게 얘기해보는 게 좋을 것 같아요."
+  },
+  {
+    "id": 3037,
+    "english": "The worst that can happen is a no.",
+    "korean": "최악의 경우 거절당하는 거잖아요."
+  },
+  {
+    "id": 3076,
+    "english": "I am terrible at time management.",
+    "korean": "시간 관리를 정말 못해요."
+  },
+  {
+    "id": 3116,
+    "english": "That slaps so hard.",
+    "korean": "이거 완전 미쳐요."
+  },
+  {
+    "id": 3122,
+    "english": "I am falling hard.",
+    "korean": "완전 빠지고 있어요."
+  },
+  {
+    "id": 3139,
+    "english": "Same energy.",
+    "korean": "비슷한 느낌이에요."
+  },
+  {
+    "id": 3168,
+    "english": "Better safe than sorry.",
+    "korean": "나중에 후회하는 것보다 조심하는 게 나아요."
+  },
+  {
+    "id": 3243,
+    "english": "The presentation is beautiful.",
+    "korean": "플레이팅이 아름다워요."
+  },
+  {
+    "id": 3288,
+    "english": "Customer service is very good here.",
+    "korean": "여기 고객 서비스가 정말 좋아요."
+  },
+  {
+    "id": 3345,
+    "english": "Fridays are the best.",
+    "korean": "금요일이 최고예요."
+  },
+  {
+    "id": 3355,
+    "english": "I deserve something nice tonight.",
+    "korean": "오늘 밤에 뭔가 좋은 걸 먹어야겠어요."
+  },
+  {
+    "id": 3668,
+    "english": "Hard skills and soft skills both matter.",
+    "korean": "기술적 능력과 대인 관계 능력 모두 중요해요."
+  },
+  {
+    "id": 3682,
+    "english": "I understood maybe thirty percent.",
+    "korean": "한 30퍼센트 정도 이해했어요."
+  },
+  {
+    "id": 3728,
+    "english": "Today was one of those good days.",
+    "korean": "오늘은 기분 좋은 날 중 하나였어요."
+  },
+  {
+    "id": 3771,
+    "english": "Today was a good day.",
+    "korean": "오늘 하루 잘 됐어요."
+  },
+  {
+    "id": 3772,
+    "english": "Today was difficult.",
+    "korean": "오늘 힘들었어요."
+  },
+  {
+    "id": 3786,
+    "english": "Same spot as yesterday.",
+    "korean": "어제 같은 자리요."
+  },
+  {
+    "id": 3871,
+    "english": "This smells really good.",
+    "korean": "냄새가 정말 좋네요."
+  },
+  {
+    "id": 3980,
+    "english": "The ventilation is not great here.",
+    "korean": "환기가 잘 안 되네요."
+  },
+  {
+    "id": 4031,
+    "english": "Life here is different but good.",
+    "korean": "여기 생활은 다르지만 좋아요."
+  },
+  {
+    "id": 4099,
+    "english": "Every day I get a little better.",
+    "korean": "매일 조금씩 나아지고 있어요."
+  },
+  {
+    "id": 4101,
+    "english": "You never make me feel bad for asking.",
+    "korean": "물어봐도 기분 나빠하지 않으시네요."
+  },
+  {
+    "id": 4146,
+    "english": "I have a cold I think.",
+    "korean": "감기에 걸린 것 같아요."
+  },
+  {
+    "id": 4190,
+    "english": "Better slow and correct than fast and wrong.",
+    "korean": "느리더라도 제대로 하는 게 빠르게 잘못하는 것보다 좋아요."
+  },
+  {
+    "id": 4203,
+    "english": "Tomorrow I will do even better.",
+    "korean": "내일은 더 잘할 거예요."
+  },
+  {
+    "id": 4214,
+    "english": "I manage time better now.",
+    "korean": "이제 시간 관리를 더 잘해요."
+  },
+  {
+    "id": 4239,
+    "english": "Good question.",
+    "korean": "좋은 질문이에요."
+  },
+  {
+    "id": 4248,
+    "english": "Same as yesterday.",
+    "korean": "어제랑 똑같아요."
+  },
+  {
+    "id": 4283,
+    "english": "I think there is a problem.",
+    "korean": "문제가 있는 것 같아요."
+  },
+  {
+    "id": 4294,
+    "english": "Everything looks good.",
+    "korean": "다 좋아 보여요."
+  },
+  {
+    "id": 4328,
+    "english": "I would not ask if it was not important.",
+    "korean": "중요하지 않으면 안 물어볼게요."
+  },
+  {
+    "id": 4335,
+    "english": "I think I can fix this.",
+    "korean": "이걸 고칠 수 있을 것 같아요."
+  },
+  {
+    "id": 4394,
+    "english": "It does not look good today.",
+    "korean": "오늘 별로 안 좋아 보여요."
+  },
+  {
+    "id": 4432,
+    "english": "See it is easy.",
+    "korean": "봐요 쉽잖아요."
+  },
+  {
+    "id": 4464,
+    "english": "Mornings are hard for me.",
+    "korean": "아침이 저한테 힘들어요."
+  },
+  {
+    "id": 4473,
+    "english": "Good things are coming.",
+    "korean": "좋은 일이 올 거예요."
+  },
+  {
+    "id": 4537,
+    "english": "Same as always.",
+    "korean": "항상 똑같아요."
+  },
+  {
+    "id": 4583,
+    "english": "I am a different person now.",
+    "korean": "이제 다른 사람이 된 것 같아요."
+  },
+  {
+    "id": 4589,
+    "english": "I handle hard situations better now.",
+    "korean": "이제 어려운 상황을 더 잘 처리해요."
+  },
+  {
+    "id": 4593,
+    "english": "I believe in myself more now.",
+    "korean": "이제 자신을 더 믿어요."
+  },
+  {
+    "id": 4597,
+    "english": "And I am better for it.",
+    "korean": "그래서 더 나아진 거예요."
+  },
+  {
+    "id": 4624,
+    "english": "Same time tomorrow.",
+    "korean": "내일 같은 시간에요."
+  },
+  {
+    "id": 4629,
+    "english": "Bad idea.",
+    "korean": "안 좋은 생각이에요."
+  },
+  {
+    "id": 4631,
+    "english": "There must be a better way.",
+    "korean": "더 좋은 방법이 있을 거예요."
+  },
+  {
+    "id": 4652,
+    "english": "Same positions as yesterday.",
+    "korean": "어제랑 같은 자리로요."
+  },
+  {
+    "id": 4670,
+    "english": "We make a good pair.",
+    "korean": "우리 잘 맞아요."
+  },
+  {
+    "id": 4676,
+    "english": "Maybe you can see the problem.",
+    "korean": "혹시 문제를 찾을 수 있을 것 같아서요."
+  },
+  {
+    "id": 4702,
+    "english": "Mm this is interesting.",
+    "korean": "음 흥미롭네요."
+  },
+  {
+    "id": 4728,
+    "english": "Better than yesterday.",
+    "korean": "어제보다 나았어요."
+  },
+  {
+    "id": 4729,
+    "english": "Not my best day.",
+    "korean": "최고의 날은 아니었어요."
+  },
+  {
+    "id": 4761,
+    "english": "Same again.",
+    "korean": "또 같은 거요."
+  },
+  {
+    "id": 4762,
+    "english": "Different this time.",
+    "korean": "이번엔 다르게요."
+  },
+  {
+    "id": 4772,
+    "english": "See that was not so hard.",
+    "korean": "봐요 그렇게 어렵지 않죠."
+  },
+  {
+    "id": 4774,
+    "english": "Simple is best.",
+    "korean": "단순한 게 최고예요."
+  },
+  {
+    "id": 4791,
+    "english": "Maybe I will see it on the news someday.",
+    "korean": "언젠가 뉴스에서 볼 수도 있어요."
+  },
+  {
+    "id": 4798,
+    "english": "And sometimes those places are great.",
+    "korean": "그리고 때로는 그 곳이 정말 좋아요."
+  },
+  {
+    "id": 4813,
+    "english": "I am working hard for that.",
+    "korean": "그러려고 열심히 하고 있어요."
+  },
+  {
+    "id": 4886,
+    "english": "Simple living is good living.",
+    "korean": "단순한 생활이 좋은 생활이에요."
+  },
+  {
+    "id": 4892,
+    "english": "Quiet time is important.",
+    "korean": "조용한 시간이 중요해요."
+  },
+  {
+    "id": 4934,
+    "english": "Good point.",
+    "korean": "좋은 말이에요."
+  },
+  {
+    "id": 4946,
+    "english": "Small things matter a lot to new people.",
+    "korean": "새로 온 분들한테는 작은 것도 중요해요."
+  },
+  {
+    "id": 4963,
+    "english": "We have been through worse.",
+    "korean": "더 힘든 것도 겪었잖아요."
+  },
+  {
+    "id": 4964,
+    "english": "Better days are ahead.",
+    "korean": "더 좋은 날이 올 거예요."
+  },
+  {
+    "id": 4985,
+    "english": "That reaction is the best reward.",
+    "korean": "그 반응이 최고의 보상이에요."
+  },
+  {
+    "id": 4998,
+    "english": "Good we are all set.",
+    "korean": "좋아요 다 됐어요."
+  },
+  {
+    "id": 5001,
+    "english": "Do something nice for yourself tonight.",
+    "korean": "오늘 밤 자신한테 좋은 걸 해줘요."
+  },
+  {
+    "id": 5015,
+    "english": "Today will be a good day.",
+    "korean": "오늘은 좋은 날이 될 거예요."
+  },
+  {
+    "id": 5025,
+    "english": "Too bad we are working.",
+    "korean": "일하는 게 아쉽네요."
+  },
+  {
+    "id": 5044,
+    "english": "Good now your hands will be warm.",
+    "korean": "이제 손이 따뜻하겠네요."
+  },
+  {
+    "id": 5053,
+    "english": "We share the good results too.",
+    "korean": "좋은 결과도 함께 나눠요."
+  },
+  {
+    "id": 5058,
+    "english": "We focus on what matters.",
+    "korean": "중요한 것에 집중해요."
+  },
+  {
+    "id": 5063,
+    "english": "Simple but powerful.",
+    "korean": "단순하지만 강력해요."
+  },
+  {
+    "id": 5073,
+    "english": "Great idea I need it badly.",
+    "korean": "좋은 생각이에요 정말 필요해요."
+  },
+  {
+    "id": 5100,
+    "english": "This place never gets boring.",
+    "korean": "여기는 절대 지루하지 않아요."
+  },
+  {
+    "id": 5119,
+    "english": "Good stop there.",
+    "korean": "잘했어요 거기서 멈춰요."
+  },
+  {
+    "id": 5151,
+    "english": "By doing our best every single day.",
+    "korean": "매일매일 최선을 다함으로써요."
+  },
+  {
+    "id": 5154,
+    "english": "Simple values.",
+    "korean": "단순한 가치들이에요."
+  },
+  {
+    "id": 5156,
+    "english": "I believe that with all my heart.",
+    "korean": "진심으로 그렇게 믿어요."
+  },
+  {
+    "id": 5161,
+    "english": "Same with cold nights.",
+    "korean": "추운 밤도 그래요."
+  },
+  {
+    "id": 5173,
+    "english": "And that is a beautiful thing.",
+    "korean": "그게 아름다운 일이에요."
+  },
+  {
+    "id": 5179,
+    "english": "Something good must be happening.",
+    "korean": "좋은 일이 있는 게 틀림없어요."
+  },
+  {
+    "id": 5180,
+    "english": "I am just in a good place.",
+    "korean": "그냥 요즘 잘 지내고 있어요."
+  },
+  {
+    "id": 5182,
+    "english": "You deserve good things.",
+    "korean": "좋은 것들을 받을 자격이 있어요."
+  },
+  {
+    "id": 5190,
+    "english": "Good I will hold you to that.",
+    "korean": "좋아요 꼭 그렇게 해요."
+  },
+  {
+    "id": 5206,
+    "english": "Easy.",
+    "korean": "쉬워요."
+  },
+  {
+    "id": 5221,
+    "english": "Simple problems need simple solutions.",
+    "korean": "단순한 문제에는 단순한 해결책이 필요해요."
+  },
+  {
+    "id": 5224,
+    "english": "Next time think simple first.",
+    "korean": "다음엔 먼저 단순하게 생각해요."
+  },
+  {
+    "id": 5225,
+    "english": "Good advice.",
+    "korean": "좋은 조언이에요."
+  },
+  {
+    "id": 5228,
+    "english": "Right better than any book.",
+    "korean": "맞아요 어떤 책보다 나아요."
+  },
+  {
+    "id": 5231,
+    "english": "Ha true but let us not break things today.",
+    "korean": "하 맞아요 근데 오늘은 망가뜨리지 말아요."
+  },
+  {
+    "id": 5238,
+    "english": "Same honestly.",
+    "korean": "솔직히 저도요."
+  },
+  {
+    "id": 5248,
+    "english": "All the more reason to rest now.",
+    "korean": "그러니까 지금 더 쉬어야 해요."
+  },
+  {
+    "id": 5252,
+    "english": "Better than nothing I guess.",
+    "korean": "없는 것보다는 낫죠."
+  },
+  {
+    "id": 5264,
+    "english": "I think we do this part first.",
+    "korean": "이 부분을 먼저 하는 것 같아요."
+  },
+  {
+    "id": 5265,
+    "english": "Right that sounds correct.",
+    "korean": "맞아요 그게 맞는 것 같아요."
+  },
+  {
+    "id": 5301,
+    "english": "Good choice I make that too.",
+    "korean": "좋은 선택이에요 저도 그거 만들어요."
+  },
+  {
+    "id": 5306,
+    "english": "Good point.",
+    "korean": "좋은 지적이에요."
+  },
+  {
+    "id": 5308,
+    "english": "I disagree a little.",
+    "korean": "조금 다른 생각이에요."
+  },
+  {
+    "id": 5313,
+    "english": "Different views help us do better.",
+    "korean": "다른 시각이 더 잘할 수 있게 해줘요."
+  },
+  {
+    "id": 5314,
+    "english": "Good talk.",
+    "korean": "좋은 대화였어요."
+  },
+  {
+    "id": 5329,
+    "english": "Oh I think I know that one.",
+    "korean": "아 그거 알 것 같아요."
+  },
+  {
+    "id": 5331,
+    "english": "Yes it is so good.",
+    "korean": "네 정말 재밌어요."
+  },
+  {
+    "id": 5337,
+    "english": "Good let me find out myself.",
+    "korean": "좋아요 직접 알아볼게요."
+  },
+  {
+    "id": 5346,
+    "english": "Good let us go.",
+    "korean": "좋아요 가요."
+  },
+  {
+    "id": 5351,
+    "english": "We stand all day it is hard.",
+    "korean": "하루 종일 서있는 게 힘들어요."
+  },
+  {
+    "id": 5362,
+    "english": "Good thing we are inside.",
+    "korean": "안에 있어서 다행이에요."
+  },
+  {
+    "id": 5385,
+    "english": "Good teamwork.",
+    "korean": "좋은 팀워크예요."
+  },
+  {
+    "id": 5406,
+    "english": "The best feeling.",
+    "korean": "최고의 느낌이에요."
+  },
+  {
+    "id": 5408,
+    "english": "Everyone is in a good mood.",
+    "korean": "모두 기분이 좋아요."
+  },
+  {
+    "id": 5411,
+    "english": "All good.",
+    "korean": "다 좋아요."
+  },
+  {
+    "id": 5414,
+    "english": "Good to go.",
+    "korean": "준비됐어요."
+  },
+  {
+    "id": 5426,
+    "english": "Better than yesterday.",
+    "korean": "어제보다 나아요."
+  },
+  {
+    "id": 5444,
+    "english": "Same I would not want to be anywhere else.",
+    "korean": "저도요 다른 데 있고 싶지 않아요."
+  },
+  {
+    "id": 5457,
+    "english": "Good day overall.",
+    "korean": "전반적으로 좋은 하루였어요."
+  },
+  {
+    "id": 5462,
+    "english": "Same time same place.",
+    "korean": "같은 시간 같은 장소에서요."
+  },
+  {
+    "id": 5481,
+    "english": "Everyone deserves a good start.",
+    "korean": "누구나 좋은 시작을 받을 자격이 있어요."
+  },
+  {
+    "id": 5488,
+    "english": "Fresh produce is the best.",
+    "korean": "신선한 식재료가 최고예요."
+  },
+  {
+    "id": 5492,
+    "english": "Pajeon probably.",
+    "korean": "파전이었을 거예요."
+  },
+  {
+    "id": 5505,
+    "english": "Simple rule.",
+    "korean": "단순한 규칙이에요."
+  },
+  {
+    "id": 5528,
+    "english": "I know it is bad for you.",
+    "korean": "알아요 몸에 안 좋죠."
+  },
+  {
+    "id": 5535,
+    "english": "Good keep that promise.",
+    "korean": "좋아요 그 약속 지켜요."
+  },
+  {
+    "id": 5554,
+    "english": "Today is a great day.",
+    "korean": "오늘 정말 좋은 날이에요."
+  },
+  {
+    "id": 5558,
+    "english": "Good moods are contagious.",
+    "korean": "좋은 기분은 전염돼요."
+  },
+  {
+    "id": 5606,
+    "english": "I cut in the wrong place.",
+    "korean": "잘못된 곳을 잘랐어요."
+  },
+  {
+    "id": 5618,
+    "english": "Good eye I will fix that.",
+    "korean": "눈이 좋네요 고칠게요."
+  },
+  {
+    "id": 5619,
+    "english": "Now it looks better.",
+    "korean": "이제 더 좋아 보여요."
+  },
+  {
+    "id": 5620,
+    "english": "Yes much better thank you.",
+    "korean": "네 훨씬 낫네요 감사해요."
+  },
+  {
+    "id": 5632,
+    "english": "I agree it is special.",
+    "korean": "동의해요 특별해요."
+  },
+  {
+    "id": 5635,
+    "english": "Every day we hit it is a good day.",
+    "korean": "매일 달성하면 좋은 날이에요."
+  },
+  {
+    "id": 5649,
+    "english": "That sounds awful.",
+    "korean": "끔찍하게 들려요."
+  },
+  {
+    "id": 5651,
+    "english": "Good decision.",
+    "korean": "좋은 결정이었어요."
+  },
+  {
+    "id": 5652,
+    "english": "This place is much better.",
+    "korean": "이곳이 훨씬 나아요."
+  },
+  {
+    "id": 5655,
+    "english": "Simple but true.",
+    "korean": "단순하지만 사실이에요."
+  },
+  {
+    "id": 5656,
+    "english": "I believe that too.",
+    "korean": "저도 그렇게 믿어요."
+  },
+  {
+    "id": 5657,
+    "english": "This part is really hard.",
+    "korean": "이 부분이 정말 어렵네요."
+  },
+  {
+    "id": 5665,
+    "english": "That sounds really good.",
+    "korean": "정말 맛있겠네요."
+  },
+  {
+    "id": 5673,
+    "english": "Ha maybe one day.",
+    "korean": "하 언젠가는요."
+  },
+  {
+    "id": 5676,
+    "english": "More compliments for better lunches.",
+    "korean": "더 좋은 점심을 위해 칭찬 더요."
+  },
+  {
+    "id": 5680,
+    "english": "Completely different person.",
+    "korean": "완전히 다른 사람이 됐어요."
+  },
+  {
+    "id": 5688,
+    "english": "Good attitude.",
+    "korean": "좋은 태도예요."
+  },
+  {
+    "id": 5690,
+    "english": "I believe that.",
+    "korean": "그렇게 믿어요."
+  },
+  {
+    "id": 5694,
+    "english": "Same time same place.",
+    "korean": "같은 시간 같은 곳에서요."
+  },
+  {
+    "id": 5711,
+    "english": "Good day all around.",
+    "korean": "전반적으로 좋은 날이었어요."
+  },
+  {
+    "id": 5713,
+    "english": "Same here everything went smoothly.",
+    "korean": "저도요 다 순조로웠어요."
+  },
+  {
+    "id": 5714,
+    "english": "Those days are the best.",
+    "korean": "그런 날이 최고예요."
+  },
+  {
+    "id": 5730,
+    "english": "Good same as always.",
+    "korean": "좋아요 항상 똑같아요."
+  },
+  {
+    "id": 5743,
+    "english": "Good idea fresh air is nice.",
+    "korean": "좋은 생각이에요 신선한 공기가 좋잖아요."
+  },
+  {
+    "id": 5748,
+    "english": "Simple pleasures.",
+    "korean": "소소한 즐거움이에요."
+  },
+  {
+    "id": 5758,
+    "english": "Better than I expected.",
+    "korean": "예상보다 좋아요."
+  },
+  {
+    "id": 5775,
+    "english": "All good now.",
+    "korean": "이제 다 됐어요."
+  },
+  {
+    "id": 5816,
+    "english": "Better to ask than to do it wrong.",
+    "korean": "잘못하는 것보다 물어보는 게 낫죠."
+  },
+  {
+    "id": 5820,
+    "english": "Good now let us proceed.",
+    "korean": "좋아요 이제 계속해요."
+  },
+  {
+    "id": 5825,
+    "english": "Good nice and slow.",
+    "korean": "좋아요 천천히 조심스럽게요."
+  },
+  {
+    "id": 5834,
+    "english": "We have a good reputation.",
+    "korean": "평판이 좋아요."
+  },
+  {
+    "id": 5837,
+    "english": "Simple things but they matter.",
+    "korean": "단순한 것들이지만 중요해요."
+  },
+  {
+    "id": 5848,
+    "english": "Good to go.",
+    "korean": "준비 완료예요."
+  },
+  {
+    "id": 5853,
+    "english": "True thank you for offering.",
+    "korean": "맞아요 제안해줘서 감사해요."
+  },
+  {
+    "id": 5871,
+    "english": "Ha that is probably it.",
+    "korean": "하 그게 맞을 거예요."
+  },
+  {
+    "id": 5875,
+    "english": "Simple joys.",
+    "korean": "소소한 행복이에요."
+  },
+  {
+    "id": 5876,
+    "english": "The best kind.",
+    "korean": "최고의 종류예요."
+  },
+  {
+    "id": 5880,
+    "english": "Ha same.",
+    "korean": "하 저도요."
+  },
+  {
+    "id": 5886,
+    "english": "Simple and peaceful.",
+    "korean": "단순하고 평화로워요."
+  },
+  {
+    "id": 5894,
+    "english": "Better worker better person.",
+    "korean": "더 좋은 일꾼 더 좋은 사람이요."
+  },
+  {
+    "id": 5900,
+    "english": "Good heart good life.",
+    "korean": "좋은 마음 좋은 삶이에요."
+  },
+  {
+    "id": 5911,
+    "english": "Good trick try it sometime.",
+    "korean": "좋은 방법이에요 한번 해봐요."
+  },
+  {
+    "id": 5942,
+    "english": "Nothing special you.",
+    "korean": "별거 없어요 당신은요."
+  },
+  {
+    "id": 5943,
+    "english": "Same nothing going on.",
+    "korean": "저도요 별일 없어요."
+  },
+  {
+    "id": 5944,
+    "english": "Quiet day is a good day.",
+    "korean": "조용한 날이 좋은 날이에요."
+  },
+  {
+    "id": 5947,
+    "english": "Simple and honest.",
+    "korean": "단순하고 정직하게요."
+  },
+  {
+    "id": 5956,
+    "english": "Tomorrow might be different.",
+    "korean": "내일은 다를 수도 있어요."
+  },
+  {
+    "id": 5968,
+    "english": "Good it is bad for you.",
+    "korean": "좋아요 몸에 안 좋잖아요."
+  },
+  {
+    "id": 6009,
+    "english": "Good tip I will try that.",
+    "korean": "좋은 팁이에요 해볼게요."
+  },
+  {
+    "id": 6034,
+    "english": "Good rest is important.",
+    "korean": "잘 쉬는 게 중요해요."
+  },
+  {
+    "id": 6042,
+    "english": "That must be nice to have that support.",
+    "korean": "그런 지원이 있어서 좋겠네요."
+  },
+  {
+    "id": 6060,
+    "english": "Nothing fancy just simple moves.",
+    "korean": "복잡한 것 없이 간단한 동작이요."
+  },
+  {
+    "id": 6069,
+    "english": "Good idea use downtime well.",
+    "korean": "좋은 생각이에요 여유 시간을 잘 써요."
+  },
+  {
+    "id": 6080,
+    "english": "I know you would do the same.",
+    "korean": "당신도 그렇게 할 거 알아요."
+  },
+  {
+    "id": 6082,
+    "english": "Good to have someone like you around.",
+    "korean": "당신 같은 사람이 곁에 있어서 좋아요."
+  },
+  {
+    "id": 6083,
+    "english": "Same to you honestly.",
+    "korean": "솔직히 저도 그래요."
+  },
+  {
+    "id": 6094,
+    "english": "Little things matter.",
+    "korean": "작은 것들이 중요해요."
+  },
+  {
+    "id": 6096,
+    "english": "That sounds so simple but true.",
+    "korean": "너무 단순하게 들리지만 사실이에요."
+  },
+  {
+    "id": 6098,
+    "english": "Good insoles save your feet.",
+    "korean": "좋은 안창이 발을 지켜줘요."
+  },
+  {
+    "id": 6112,
+    "english": "Good things are happening.",
+    "korean": "좋은 일이 있어요."
+  },
+  {
+    "id": 6114,
+    "english": "Little things are the best things.",
+    "korean": "작은 것들이 최고예요."
+  },
+  {
+    "id": 6118,
+    "english": "Simple but perfect.",
+    "korean": "단순하지만 완벽해요."
+  },
+  {
+    "id": 6125,
+    "english": "Good do not forget that.",
+    "korean": "좋아요 잊지 마요."
+  },
+  {
+    "id": 6136,
+    "english": "Simple but powerful plan.",
+    "korean": "단순하지만 강력한 계획이에요."
+  },
+  {
+    "id": 6141,
+    "english": "To be honest, I don't really know.",
+    "korean": "솔직히 잘 모르겠어요."
+  },
+  {
+    "id": 6143,
+    "english": "To be honest, I don't like it much.",
+    "korean": "솔직히 말하면 저는 별로예요."
+  },
+  {
+    "id": 6152,
+    "english": "Actually, I don't know either.",
+    "korean": "사실 저도 잘 몰라요."
+  },
+  {
+    "id": 6197,
+    "english": "It's not really my thing.",
+    "korean": "별로야."
+  },
+  {
+    "id": 6210,
+    "english": "I like it because it's pretty.",
+    "korean": "예뻐서 좋아요."
+  },
+  {
+    "id": 6515,
+    "english": "I prefer coffee to tea.",
+    "korean": "차보다 커피를 더 좋아해요."
+  },
+  {
+    "id": 6516,
+    "english": "It depends on the person.",
+    "korean": "사람마다 달라요."
+  },
+  {
+    "id": 7199,
+    "english": "I think so too.",
+    "korean": "저도 그렇게 생각해요."
+  },
+  {
+    "id": 7200,
+    "english": "I think it's good.",
+    "korean": "좋은 것 같아요."
+  },
+  {
+    "id": 7201,
+    "english": "I think it's too difficult.",
+    "korean": "너무 어려운 것 같아요."
+  },
+  {
+    "id": 7202,
+    "english": "I prefer this one.",
+    "korean": "이게 더 좋아요."
+  },
+  {
+    "id": 7203,
+    "english": "I like it.",
+    "korean": "마음에 들어요."
+  },
+  {
+    "id": 7204,
+    "english": "I don't like it.",
+    "korean": "마음에 안 들어요."
+  },
+  {
+    "id": 7205,
+    "english": "That makes sense.",
+    "korean": "말이 되네요."
+  },
+  {
+    "id": 7206,
+    "english": "That doesn't make sense.",
+    "korean": "말이 안 돼요."
+  },
+  {
+    "id": 7207,
+    "english": "You're right.",
+    "korean": "맞는 말이에요."
+  },
+  {
+    "id": 7208,
+    "english": "You may be right.",
+    "korean": "맞을 수도 있어요."
+  },
+  {
+    "id": 7209,
+    "english": "What do you think?",
+    "korean": "어떻게 생각해요?"
+  },
+  {
+    "id": 7210,
+    "english": "Do you agree?",
+    "korean": "동의해요?"
+  },
+  {
+    "id": 7211,
+    "english": "Opinions differ from person to person.",
+    "korean": "사람마다 생각이 달라요."
+  },
+  {
+    "id": 7212,
+    "english": "I have a different idea.",
+    "korean": "저는 다른 생각이 있어요."
+  },
+  {
+    "id": 7213,
+    "english": "It's worth trying.",
+    "korean": "해 볼 만해요."
+  },
+  {
+    "id": 7214,
+    "english": "It's not worth it.",
+    "korean": "그럴 가치가 없어요."
+  },
+  {
+    "id": 7215,
+    "english": "I'm in favor of it.",
+    "korean": "저는 찬성해요."
+  },
+  {
+    "id": 7216,
+    "english": "I'm against it.",
+    "korean": "저는 반대해요."
+  },
+  {
+    "id": 7217,
+    "english": "Honestly speaking...",
+    "korean": "솔직히 말하면..."
+  }
+]

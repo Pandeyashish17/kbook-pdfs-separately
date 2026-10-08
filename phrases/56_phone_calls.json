@@ -1,0 +1,122 @@
+[
+  {
+    "id": 7987,
+    "english": "Hello. (on the phone)",
+    "korean": "여보세요."
+  },
+  {
+    "id": 7988,
+    "english": "Who is calling?",
+    "korean": "누구세요?"
+  },
+  {
+    "id": 7989,
+    "english": "May I speak to Mr. Kim?",
+    "korean": "김 선생님 좀 바꿔 주세요."
+  },
+  {
+    "id": 7990,
+    "english": "He is not here right now.",
+    "korean": "지금 안 계세요."
+  },
+  {
+    "id": 7991,
+    "english": "Please leave a message.",
+    "korean": "메시지를 남겨 주세요."
+  },
+  {
+    "id": 7992,
+    "english": "Please tell him I called.",
+    "korean": "제가 전화했다고 전해 주세요."
+  },
+  {
+    "id": 7993,
+    "english": "I'll call again later.",
+    "korean": "나중에 다시 전화할게요."
+  },
+  {
+    "id": 7994,
+    "english": "Can you hear me?",
+    "korean": "제 말 들려요?"
+  },
+  {
+    "id": 7995,
+    "english": "I can't hear you.",
+    "korean": "안 들려요."
+  },
+  {
+    "id": 7996,
+    "english": "The connection is bad.",
+    "korean": "전화 상태가 안 좋아요."
+  },
+  {
+    "id": 7997,
+    "english": "You have the wrong number.",
+    "korean": "잘못 거셨어요."
+  },
+  {
+    "id": 7998,
+    "english": "I'm in a meeting right now.",
+    "korean": "지금 회의 중이에요."
+  },
+  {
+    "id": 7999,
+    "english": "May I call you later?",
+    "korean": "나중에 전화해도 돼요?"
+  },
+  {
+    "id": 8000,
+    "english": "Is this a good time to talk?",
+    "korean": "지금 통화 괜찮으세요?"
+  },
+  {
+    "id": 8001,
+    "english": "Please text me.",
+    "korean": "문자 주세요."
+  },
+  {
+    "id": 8002,
+    "english": "I'm calling about the room.",
+    "korean": "방 때문에 전화드렸어요."
+  },
+  {
+    "id": 8003,
+    "english": "I'm calling about my order.",
+    "korean": "주문 건으로 전화드렸어요."
+  },
+  {
+    "id": 8004,
+    "english": "I'm calling to make a reservation.",
+    "korean": "예약하려고 전화했어요."
+  },
+  {
+    "id": 8005,
+    "english": "Please speak slowly on the phone.",
+    "korean": "전화로 천천히 말해 주세요."
+  },
+  {
+    "id": 8006,
+    "english": "Please speak in easy Korean.",
+    "korean": "쉬운 한국어로 말해 주세요."
+  },
+  {
+    "id": 8007,
+    "english": "Please repeat the number.",
+    "korean": "전화번호를 다시 말해 주세요."
+  },
+  {
+    "id": 8008,
+    "english": "Let me write it down.",
+    "korean": "적을게요."
+  },
+  {
+    "id": 8009,
+    "english": "Thank you for calling.",
+    "korean": "전화 주셔서 감사합니다."
+  },
+  {
+    "id": 8010,
+    "english": "I'll hang up now.",
+    "korean": "끊을게요."
+  }
+]

@@ -1,0 +1,407 @@
+[
+  {
+    "id": 145,
+    "english": "Where did you put the luggage?",
+    "korean": "여행 가방을 어디에 두었나요?"
+  },
+  {
+    "id": 387,
+    "english": "Do you like to travel?",
+    "korean": "여행 좋아하세요?"
+  },
+  {
+    "id": 526,
+    "english": "I'm planning a trip.",
+    "korean": "여행 계획 중이에요."
+  },
+  {
+    "id": 945,
+    "english": "The cherry blossoms are blooming.",
+    "korean": "벚꽃이 피었어요."
+  },
+  {
+    "id": 946,
+    "english": "I love the fall foliage.",
+    "korean": "단풍이 정말 예뻐요."
+  },
+  {
+    "id": 957,
+    "english": "Have you been to Gyeongju?",
+    "korean": "경주에 가본 적 있어요?"
+  },
+  {
+    "id": 1159,
+    "english": "I want to visit a temple.",
+    "korean": "절에 가보고 싶어요."
+  },
+  {
+    "id": 1165,
+    "english": "I want to visit Gyeongbokgung Palace.",
+    "korean": "경복궁에 가보고 싶어요."
+  },
+  {
+    "id": 1170,
+    "english": "I heard Busan is beautiful.",
+    "korean": "부산이 아름답다고 들었어요."
+  },
+  {
+    "id": 1171,
+    "english": "I want to go to Jeju Island.",
+    "korean": "제주도에 가보고 싶어요."
+  },
+  {
+    "id": 1210,
+    "english": "I want to travel all over Korea.",
+    "korean": "한국 전역을 여행하고 싶어요."
+  },
+  {
+    "id": 1363,
+    "english": "How many vacation days do I have left?",
+    "korean": "연차가 며칠 남았어요?"
+  },
+  {
+    "id": 1404,
+    "english": "Gyeongju is a historic city.",
+    "korean": "경주는 역사적인 도시예요."
+  },
+  {
+    "id": 1405,
+    "english": "Have you been to Bulguksa temple?",
+    "korean": "불국사에 가봤어요?"
+  },
+  {
+    "id": 1408,
+    "english": "What is there to do in Gyeongju?",
+    "korean": "경주에서 뭘 할 수 있어요?"
+  },
+  {
+    "id": 1415,
+    "english": "Are there any festivals in Gyeongju?",
+    "korean": "경주에 축제가 있어요?"
+  },
+  {
+    "id": 1616,
+    "english": "Let's go to the beach.",
+    "korean": "해변에 가요."
+  },
+  {
+    "id": 1626,
+    "english": "I want to visit a museum.",
+    "korean": "박물관에 가보고 싶어요."
+  },
+  {
+    "id": 1629,
+    "english": "The national park is beautiful.",
+    "korean": "국립공원이 아름다워요."
+  },
+  {
+    "id": 1635,
+    "english": "I want to try river rafting.",
+    "korean": "래프팅을 해보고 싶어요."
+  },
+  {
+    "id": 1736,
+    "english": "I want to travel all over Korea someday.",
+    "korean": "언젠가 한국 전역을 여행하고 싶어요."
+  },
+  {
+    "id": 1817,
+    "english": "I want to see the sea from Gyeongju.",
+    "korean": "경주에서 바다를 보고 싶어요."
+  },
+  {
+    "id": 1933,
+    "english": "What should I not miss in Gyeongju?",
+    "korean": "경주에서 꼭 봐야 할 것이 뭐예요?"
+  },
+  {
+    "id": 2007,
+    "english": "The Lotte Giants are from Busan.",
+    "korean": "롯데 자이언츠는 부산 팀이에요."
+  },
+  {
+    "id": 2112,
+    "english": "Many Koreans visit Nepal for trekking.",
+    "korean": "많은 한국 사람들이 트레킹하러 네팔에 와요."
+  },
+  {
+    "id": 2448,
+    "english": "There are tumuli everywhere in Gyeongju.",
+    "korean": "경주 곳곳에 고분이 있어요."
+  },
+  {
+    "id": 2450,
+    "english": "The Gyeongju National Museum is impressive.",
+    "korean": "국립 경주 박물관이 인상적이에요."
+  },
+  {
+    "id": 2457,
+    "english": "Pohang is close to Gyeongju for seafood.",
+    "korean": "포항이 경주 근처에 있어서 해산물이 유명해요."
+  },
+  {
+    "id": 2459,
+    "english": "The sunrise at Gampo is stunning.",
+    "korean": "감포 일출이 정말 장관이에요."
+  },
+  {
+    "id": 2460,
+    "english": "Gyeongju has great traditional markets.",
+    "korean": "경주에 좋은 전통 시장이 있어요."
+  },
+  {
+    "id": 2635,
+    "english": "I heard the Cheomseongdae is the oldest observatory in Asia.",
+    "korean": "첨성대가 아시아에서 가장 오래된 천문대라고 들었어요."
+  },
+  {
+    "id": 2636,
+    "english": "The royal tombs in Gyeongju are fascinating.",
+    "korean": "경주의 왕릉이 정말 흥미로워요."
+  },
+  {
+    "id": 2637,
+    "english": "I want to see the golden crowns in the museum.",
+    "korean": "박물관에서 금관을 보고 싶어요."
+  },
+  {
+    "id": 2640,
+    "english": "Gyeongju is very peaceful compared to Seoul.",
+    "korean": "경주는 서울에 비해 정말 조용해요."
+  },
+  {
+    "id": 2642,
+    "english": "The night view of Anapji is stunning.",
+    "korean": "안압지의 야경이 정말 아름다워요."
+  },
+  {
+    "id": 2643,
+    "english": "I want to cycle along the Hyeongsan River.",
+    "korean": "형산강을 따라 자전거를 타고 싶어요."
+  },
+  {
+    "id": 2646,
+    "english": "People in Gyeongju are very warm and friendly.",
+    "korean": "경주 사람들이 정말 따뜻하고 친절해요."
+  },
+  {
+    "id": 2647,
+    "english": "I feel very comfortable living in Gyeongju.",
+    "korean": "경주에서 사는 게 정말 편해요."
+  },
+  {
+    "id": 2652,
+    "english": "Many Koreans visit Lumbini as pilgrims.",
+    "korean": "많은 한국 사람들이 성지 순례로 룸비니에 와요."
+  },
+  {
+    "id": 2879,
+    "english": "If you could travel anywhere where would you go?",
+    "korean": "어디든 갈 수 있다면 어디 가고 싶어요?"
+  },
+  {
+    "id": 3176,
+    "english": "Knock it out of the park.",
+    "korean": "완전히 성공해요."
+  },
+  {
+    "id": 3281,
+    "english": "I need a longer vacation.",
+    "korean": "더 긴 휴가가 필요해요."
+  },
+  {
+    "id": 3647,
+    "english": "One day I will have enough vacation time.",
+    "korean": "언젠가는 충분한 휴가가 생길 거예요."
+  },
+  {
+    "id": 4573,
+    "english": "Have you traveled around Korea?",
+    "korean": "한국을 여행했어요?"
+  },
+  {
+    "id": 4647,
+    "english": "She is on vacation today.",
+    "korean": "그 분 오늘 휴가예요."
+  },
+  {
+    "id": 4749,
+    "english": "Do not trip.",
+    "korean": "걸려 넘어지지 마요."
+  },
+  {
+    "id": 4804,
+    "english": "Many tourists visit Nepal.",
+    "korean": "많은 관광객이 네팔에 와요."
+  },
+  {
+    "id": 5026,
+    "english": "At least the view is nice.",
+    "korean": "그래도 경치가 좋잖아요."
+  },
+  {
+    "id": 6117,
+    "english": "Beautiful sunrise on the way here.",
+    "korean": "오는 길에 예쁜 일출을 봤어요."
+  },
+  {
+    "id": 6501,
+    "english": "I want to visit Busan.",
+    "korean": "부산에 가 보고 싶어요."
+  },
+  {
+    "id": 6502,
+    "english": "How was your trip?",
+    "korean": "여행 어땠어요?"
+  },
+  {
+    "id": 6503,
+    "english": "I took many photos.",
+    "korean": "사진을 많이 찍었어요."
+  },
+  {
+    "id": 6504,
+    "english": "Is there a nice place nearby?",
+    "korean": "근처에 좋은 곳이 있어요?"
+  },
+  {
+    "id": 7289,
+    "english": "Where is the tourist information center?",
+    "korean": "관광 안내소가 어디예요?"
+  },
+  {
+    "id": 7290,
+    "english": "Where is a good place to visit?",
+    "korean": "가 볼 만한 곳이 어디예요?"
+  },
+  {
+    "id": 7291,
+    "english": "Can you recommend a place?",
+    "korean": "장소를 추천해 주실 수 있어요?"
+  },
+  {
+    "id": 7292,
+    "english": "How much is the entrance fee?",
+    "korean": "입장료가 얼마예요?"
+  },
+  {
+    "id": 7293,
+    "english": "Can I take photos here?",
+    "korean": "여기서 사진 찍어도 돼요?"
+  },
+  {
+    "id": 7294,
+    "english": "Is there a guided tour?",
+    "korean": "가이드 투어 있어요?"
+  },
+  {
+    "id": 7295,
+    "english": "I want to visit Jeju Island.",
+    "korean": "제주도에 가고 싶어요."
+  },
+  {
+    "id": 7296,
+    "english": "I want to see Gyeongbokgung Palace.",
+    "korean": "경복궁을 보고 싶어요."
+  },
+  {
+    "id": 7297,
+    "english": "Let's go to Namsan Tower.",
+    "korean": "남산타워에 가요."
+  },
+  {
+    "id": 7298,
+    "english": "Let's go to the beach in Busan.",
+    "korean": "부산 바다에 가요."
+  },
+  {
+    "id": 7299,
+    "english": "How do I get to Myeongdong?",
+    "korean": "명동에 어떻게 가요?"
+  },
+  {
+    "id": 7300,
+    "english": "I'd like to book a hotel.",
+    "korean": "호텔을 예약하고 싶어요."
+  },
+  {
+    "id": 7301,
+    "english": "Do you have any rooms available?",
+    "korean": "빈방 있어요?"
+  },
+  {
+    "id": 7302,
+    "english": "How much is a room per night?",
+    "korean": "하룻밤에 얼마예요?"
+  },
+  {
+    "id": 7303,
+    "english": "What time is check-in?",
+    "korean": "체크인은 몇 시예요?"
+  },
+  {
+    "id": 7304,
+    "english": "What time is check-out?",
+    "korean": "체크아웃은 몇 시예요?"
+  },
+  {
+    "id": 7305,
+    "english": "Is breakfast included?",
+    "korean": "조식 포함이에요?"
+  },
+  {
+    "id": 7306,
+    "english": "I'd like to stay for two nights.",
+    "korean": "이틀 묵고 싶어요."
+  },
+  {
+    "id": 7307,
+    "english": "Can I leave my luggage here?",
+    "korean": "짐을 여기에 맡겨도 돼요?"
+  },
+  {
+    "id": 7308,
+    "english": "Where is the luggage storage?",
+    "korean": "짐 보관소가 어디예요?"
+  },
+  {
+    "id": 7309,
+    "english": "Do you have a map?",
+    "korean": "지도 있어요?"
+  },
+  {
+    "id": 7310,
+    "english": "The view is amazing.",
+    "korean": "경치가 정말 좋아요."
+  },
+  {
+    "id": 7311,
+    "english": "It's a famous tourist spot.",
+    "korean": "유명한 관광지예요."
+  },
+  {
+    "id": 7312,
+    "english": "I'm traveling alone.",
+    "korean": "혼자 여행하고 있어요."
+  },
+  {
+    "id": 7313,
+    "english": "Let's take a photo here.",
+    "korean": "여기서 사진 찍어요."
+  },
+  {
+    "id": 7314,
+    "english": "Where is the ticket office?",
+    "korean": "매표소가 어디예요?"
+  },
+  {
+    "id": 7315,
+    "english": "Do you have a student discount?",
+    "korean": "학생 할인 있어요?"
+  },
+  {
+    "id": 7316,
+    "english": "Where can I buy souvenirs?",
+    "korean": "기념품은 어디서 살 수 있어요?"
+  }
+]

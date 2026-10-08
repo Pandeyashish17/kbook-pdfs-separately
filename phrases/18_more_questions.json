@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 39,
+    "english": "Do you need anything else?",
+    "korean": "더 필요한 건 있어요?"
+  },
+  {
+    "id": 62,
+    "english": "How may I help you?",
+    "korean": "무엇을 도와드릴까요?"
+  },
+  {
+    "id": 91,
+    "english": "Is this the latest model?",
+    "korean": "이게 최신 모델인가요?"
+  },
+  {
+    "id": 93,
+    "english": "What colors do you have?",
+    "korean": "어떤 색상이 있나요?"
+  },
+  {
+    "id": 96,
+    "english": "How do you use this?",
+    "korean": "이것은 어떻게 사용하나요?"
+  },
+  {
+    "id": 113,
+    "english": "Are you free this evening?",
+    "korean": "저녁에 시간 있어요?"
+  },
+  {
+    "id": 117,
+    "english": "What did you do yesterday?",
+    "korean": "어제 뭐 했어요?"
+  },
+  {
+    "id": 155,
+    "english": "Is it better to leave now?",
+    "korean": "지금 출발하는게 나을까요?"
+  },
+  {
+    "id": 160,
+    "english": "What do you do when stressed?",
+    "korean": "스트레스 받을 때 무엇을 하나요?"
+  },
+  {
+    "id": 161,
+    "english": "Do you have a new goal?",
+    "korean": "새의 목표가 있나요?"
+  },
+  {
+    "id": 163,
+    "english": "What is your favorite color?",
+    "korean": "좋아하는 색깔이 뭐예요?"
+  },
+  {
+    "id": 217,
+    "english": "Do you have any brighter colors?",
+    "korean": "더 밝은 색상 없나요?"
+  },
+  {
+    "id": 250,
+    "english": "What do you use it for?",
+    "korean": "어디에 쓰는 거예요?"
+  },
+  {
+    "id": 262,
+    "english": "What are you up to?",
+    "korean": "무슨 짓을 하고 있는 겁니까?"
+  },
+  {
+    "id": 263,
+    "english": "What are you talking about?",
+    "korean": "무슨 말씀하시는 거예요?"
+  },
+  {
+    "id": 308,
+    "english": "Are you free this evening?",
+    "korean": "오늘 저녁에 시간 있어요?"
+  },
+  {
+    "id": 329,
+    "english": "Have you ever seen a panda?",
+    "korean": "팬더를 본 적이 있습니까?"
+  },
+  {
+    "id": 402,
+    "english": "Are there any seats available?",
+    "korean": "남는 좌석이 있을까요?"
+  },
+  {
+    "id": 403,
+    "english": "Do you know what I mean?",
+    "korean": "내 말 무슨 뜻인지 알겠어요?"
+  },
+  {
+    "id": 405,
+    "english": "Why don't you like him?",
+    "korean": "왜 그를 좋아하지 않나요?"
+  },
+  {
+    "id": 428,
+    "english": "What are you mad about?",
+    "korean": "뭐 때문에 화가 났어요?"
+  },
+  {
+    "id": 438,
+    "english": "How many do you need?",
+    "korean": "몇 개가 필요하시나요?"
+  },
+  {
+    "id": 441,
+    "english": "What should I give her?",
+    "korean": "그녀에게 뭘 줘야 할까요?"
+  },
+  {
+    "id": 459,
+    "english": "What is your dog's name?",
+    "korean": "강아지 이름이 뭐예요?"
+  },
+  {
+    "id": 472,
+    "english": "Who are you talking to?",
+    "korean": "누구에게 얘기하고 있어요?"
+  },
+  {
+    "id": 476,
+    "english": "Do you have a pencil?",
+    "korean": "연필 같은 거 있나요?"
+  },
+  {
+    "id": 480,
+    "english": "What was that just now?",
+    "korean": "방금 뭐였어요?"
+  },
+  {
+    "id": 485,
+    "english": "Where should I throw this away?",
+    "korean": "어디에 버리면 되나요?"
+  },
+  {
+    "id": 544,
+    "english": "What is the plan for today?",
+    "korean": "오늘 계획이 뭐예요?"
+  },
+  {
+    "id": 614,
+    "english": "How may I help you?",
+    "korean": "무엇을 도와드릴까요?"
+  },
+  {
+    "id": 624,
+    "english": "What colors do you have?",
+    "korean": "어떤 색상이 있나요?"
+  },
+  {
+    "id": 682,
+    "english": "What is my schedule today?",
+    "korean": "오늘 일정이 어떻게 돼요?"
+  },
+  {
+    "id": 706,
+    "english": "How many stops is it?",
+    "korean": "몇 정거장이에요?"
+  },
+  {
+    "id": 713,
+    "english": "Which line do I take?",
+    "korean": "몇 호선 타야 해요?"
+  },
+  {
+    "id": 748,
+    "english": "Is there a curfew here?",
+    "korean": "여기 통금이 있어요?"
+  },
+  {
+    "id": 759,
+    "english": "Do you have a larger size?",
+    "korean": "더 큰 사이즈 있어요?"
+  },
+  {
+    "id": 760,
+    "english": "Do you have a smaller size?",
+    "korean": "더 작은 사이즈 있어요?"
+  },
+  {
+    "id": 764,
+    "english": "Do you accept credit cards?",
+    "korean": "카드 결제 되나요?"
+  },
+  {
+    "id": 770,
+    "english": "Do you have this in stock?",
+    "korean": "재고 있어요?"
+  },
+  {
+    "id": 771,
+    "english": "When will it be back in stock?",
+    "korean": "언제 재입고 돼요?"
+  },
+  {
+    "id": 779,
+    "english": "Do you have any recommendations?",
+    "korean": "추천 상품 있어요?"
+  },
+  {
+    "id": 780,
+    "english": "Is this the newest model?",
+    "korean": "이게 최신 모델이에요?"
+  },
+  {
+    "id": 781,
+    "english": "What is the warranty period?",
+    "korean": "보증 기간이 얼마나 돼요?"
+  },
+  {
+    "id": 818,
+    "english": "What are the business hours?",
+    "korean": "영업 시간이 어떻게 돼요?"
+  },
+  {
+    "id": 846,
+    "english": "How many times a day do I take this?",
+    "korean": "하루에 몇 번 먹어야 해요?"
+  },
+  {
+    "id": 860,
+    "english": "How long is the wait?",
+    "korean": "얼마나 기다려야 해요?"
+  },
+  {
+    "id": 882,
+    "english": "What is the fee for this?",
+    "korean": "수수료가 얼마예요?"
+  },
+  {
+    "id": 926,
+    "english": "What is the polite way to say this?",
+    "korean": "이걸 정중하게 어떻게 말해요?"
+  },
+  {
+    "id": 938,
+    "english": "Should I wear a mask outside?",
+    "korean": "밖에서 마스크 써야 해요?"
+  },
+  {
+    "id": 1002,
+    "english": "Is it far from here?",
+    "korean": "여기서 멀어요?"
+  },
+  {
+    "id": 1056,
+    "english": "How do I use this equipment?",
+    "korean": "이 기구 어떻게 사용해요?"
+  },
+  {
+    "id": 1166,
+    "english": "What is the admission fee?",
+    "korean": "입장료가 얼마예요?"
+  },
+  {
+    "id": 1176,
+    "english": "Do you heat this up?",
+    "korean": "이거 데워 드릴까요?"
+  },
+  {
+    "id": 1179,
+    "english": "Do you have plastic cutlery?",
+    "korean": "일회용 수저 있어요?"
+  },
+  {
+    "id": 1187,
+    "english": "Are you open 24 hours?",
+    "korean": "24시간 영업해요?"
+  },
+  {
+    "id": 1233,
+    "english": "Did you get a haircut?",
+    "korean": "머리 잘랐어요?"
+  },
+  {
+    "id": 1279,
+    "english": "Is there an interpreter available?",
+    "korean": "통역사가 있나요?"
+  },
+  {
+    "id": 1372,
+    "english": "How many pieces do I need to make?",
+    "korean": "몇 개 만들어야 해요?"
+  },
+  {
+    "id": 1386,
+    "english": "Who is on duty today?",
+    "korean": "오늘 당번이 누구예요?"
+  },
+  {
+    "id": 1397,
+    "english": "How long does the transfer take?",
+    "korean": "이체가 얼마나 걸려요?"
+  },
+  {
+    "id": 1483,
+    "english": "What are the side effects?",
+    "korean": "부작용이 뭐예요?"
+  },
+  {
+    "id": 1583,
+    "english": "What is the expiry date?",
+    "korean": "유통기한이 언제예요?"
+  },
+  {
+    "id": 1593,
+    "english": "Do you have curry powder?",
+    "korean": "카레 가루 있어요?"
+  },
+  {
+    "id": 1661,
+    "english": "How do you two know each other?",
+    "korean": "어떻게 알게 됐어요?"
+  },
+  {
+    "id": 1667,
+    "english": "What is she like as a person?",
+    "korean": "그 분 어떤 사람이에요?"
+  },
+  {
+    "id": 1703,
+    "english": "Is that correct what I said?",
+    "korean": "맞나요?"
+  },
+  {
+    "id": 1704,
+    "english": "Did I get that right?",
+    "korean": "제가 제대로 이해한 거예요?"
+  },
+  {
+    "id": 1757,
+    "english": "Is there a non-smoking section?",
+    "korean": "금연석이 있어요?"
+  },
+  {
+    "id": 1818,
+    "english": "What do you do in your free time?",
+    "korean": "여가 시간에 뭐 해요?"
+  },
+  {
+    "id": 1866,
+    "english": "Who should I contact about this?",
+    "korean": "이것에 대해 누구에게 연락해야 해요?"
+  },
+  {
+    "id": 1873,
+    "english": "Can someone demonstrate this for me?",
+    "korean": "누가 시범을 보여줄 수 있어요?"
+  },
+  {
+    "id": 1907,
+    "english": "Is there anything I can do to help?",
+    "korean": "제가 도울 수 있는 게 있나요?"
+  },
+  {
+    "id": 1930,
+    "english": "What is the cheapest way to get around?",
+    "korean": "가장 저렴하게 이동하는 방법이 뭐예요?"
+  },
+  {
+    "id": 1956,
+    "english": "What are the restricted items?",
+    "korean": "반입 금지 물품이 뭐예요?"
+  },
+  {
+    "id": 2020,
+    "english": "What size do you have?",
+    "korean": "사이즈가 뭐뭐 있어요?"
+  },
+  {
+    "id": 2030,
+    "english": "How long can I stay here?",
+    "korean": "얼마나 오래 있어도 돼요?"
+  },
+  {
+    "id": 2031,
+    "english": "Is there an outlet I can use?",
+    "korean": "사용할 수 있는 콘센트 있어요?"
+  },
+  {
+    "id": 2038,
+    "english": "Is there a dryer available too?",
+    "korean": "건조기도 있어요?"
+  },
+  {
+    "id": 2045,
+    "english": "Is there an iron I can use?",
+    "korean": "사용할 수 있는 다리미 있어요?"
+  },
+  {
+    "id": 2061,
+    "english": "Would it be okay if I?",
+    "korean": "제가 해도 될까요?"
+  },
+  {
+    "id": 2066,
+    "english": "Do you happen to know?",
+    "korean": "혹시 아세요?"
+  },
+  {
+    "id": 2136,
+    "english": "Do I need a flu shot here?",
+    "korean": "여기서 독감 예방접종을 맞아야 해요?"
+  },
+  {
+    "id": 2149,
+    "english": "Is Naver better than Google here?",
+    "korean": "여기서 네이버가 구글보다 좋아요?"
+  },
+  {
+    "id": 2157,
+    "english": "How do I use Toss for payments?",
+    "korean": "토스로 어떻게 결제해요?"
+  },
+  {
+    "id": 2177,
+    "english": "What is your dream in life?",
+    "korean": "인생의 꿈이 뭐예요?"
+  },
+  {
+    "id": 2182,
+    "english": "What is most important to you in life?",
+    "korean": "삶에서 가장 중요한 게 뭐예요?"
+  },
+  {
+    "id": 2210,
+    "english": "Do you have this in black?",
+    "korean": "이거 검정색 있어요?"
+  },
+  {
+    "id": 2227,
+    "english": "What should I wear today?",
+    "korean": "오늘 뭘 입어야 할까요?"
+  },
+  {
+    "id": 2336,
+    "english": "Is there a curfew on weekends too?",
+    "korean": "주말에도 통금이 있어요?"
+  },
+  {
+    "id": 2342,
+    "english": "Where do I report maintenance issues?",
+    "korean": "유지보수 문제는 어디에 신고해요?"
+  },
+  {
+    "id": 2344,
+    "english": "Is there a curfew during weekdays?",
+    "korean": "평일에도 통금이 있어요?"
+  },
+  {
+    "id": 2346,
+    "english": "Is there a shared refrigerator?",
+    "korean": "공용 냉장고가 있어요?"
+  },
+  {
+    "id": 2348,
+    "english": "How many transfers do I need?",
+    "korean": "환승을 몇 번 해야 해요?"
+  },
+  {
+    "id": 2390,
+    "english": "What is the minimum balance required?",
+    "korean": "최소 잔액이 얼마예요?"
+  },
+  {
+    "id": 2397,
+    "english": "How long does an international transfer take?",
+    "korean": "국제 이체가 얼마나 걸려요?"
+  },
+  {
+    "id": 2404,
+    "english": "What are the benefits of this account?",
+    "korean": "이 계좌의 혜택이 뭐예요?"
+  },
+  {
+    "id": 2405,
+    "english": "How do I close my account?",
+    "korean": "계좌를 해지하려면 어떻게 해요?"
+  },
+  {
+    "id": 2416,
+    "english": "Do I need stitches for this cut?",
+    "korean": "이 상처에 봉합이 필요해요?"
+  },
+  {
+    "id": 2515,
+    "english": "Is there a photocopier I can use?",
+    "korean": "사용할 수 있는 복사기가 있어요?"
+  },
+  {
+    "id": 2518,
+    "english": "Do you have an envelope I can use?",
+    "korean": "봉투 하나 쓸 수 있어요?"
+  },
+  {
+    "id": 2530,
+    "english": "Do you have this in a different style?",
+    "korean": "이거 다른 스타일로 있어요?"
+  },
+  {
+    "id": 2532,
+    "english": "Do you carry thermal underwear?",
+    "korean": "기모 속옷 있어요?"
+  },
+  {
+    "id": 2539,
+    "english": "Do you have any discounted items?",
+    "korean": "할인 상품 있어요?"
+  },
+  {
+    "id": 2569,
+    "english": "Is a shoe rack available?",
+    "korean": "신발장이 있어요?"
+  },
+  {
+    "id": 2614,
+    "english": "How many sessions of therapy do I need?",
+    "korean": "치료를 몇 회 받아야 해요?"
+  },
+  {
+    "id": 2618,
+    "english": "Should I see a therapist?",
+    "korean": "상담사를 만나봐야 할까요?"
+  },
+  {
+    "id": 2619,
+    "english": "Is there a counseling service available?",
+    "korean": "상담 서비스가 있어요?"
+  },
+  {
+    "id": 2691,
+    "english": "Where there is a will there is a way?",
+    "korean": "뜻이 있는 곳에 길이 있어요?"
+  },
+  {
+    "id": 2826,
+    "english": "Where did that come from?",
+    "korean": "그게 갑자기 왜요?"
+  },
+  {
+    "id": 2842,
+    "english": "What I meant to say was?",
+    "korean": "제가 말하려던 게요?"
+  },
+  {
+    "id": 2865,
+    "english": "What do you do on your days off?",
+    "korean": "쉬는 날에 주로 뭐 하세요?"
+  },
+  {
+    "id": 2866,
+    "english": "Do you live alone or with roommates?",
+    "korean": "혼자 사세요 아니면 룸메이트랑 같이 사세요?"
+  },
+  {
+    "id": 2867,
+    "english": "Have you always lived in this area?",
+    "korean": "항상 이 지역에 사셨어요?"
+  },
+  {
+    "id": 2868,
+    "english": "Do you have any plans this evening?",
+    "korean": "오늘 저녁에 계획 있어요?"
+  },
+  {
+    "id": 2870,
+    "english": "Do you prefer indoors or outdoors?",
+    "korean": "실내가 좋아요 야외가 좋아요?"
+  },
+  {
+    "id": 2871,
+    "english": "Are you a morning person or night person?",
+    "korean": "아침형 인간이에요 저녁형 인간이에요?"
+  },
+  {
+    "id": 2875,
+    "english": "Have you tried bungee jumping?",
+    "korean": "번지점프 해본 적 있어요?"
+  },
+  {
+    "id": 2876,
+    "english": "What is the bravest thing you have ever done?",
+    "korean": "지금까지 가장 용감하게 했던 일이 뭐예요?"
+  },
+  {
+    "id": 2877,
+    "english": "Do you believe in luck?",
+    "korean": "운을 믿어요?"
+  },
+  {
+    "id": 2878,
+    "english": "What makes you laugh the most?",
+    "korean": "뭐가 제일 웃겨요?"
+  },
+  {
+    "id": 2880,
+    "english": "What is your biggest fear?",
+    "korean": "가장 큰 두려움이 뭐예요?"
+  },
+  {
+    "id": 2881,
+    "english": "What motivates you every day?",
+    "korean": "매일 동기부여가 되는 게 뭐예요?"
+  },
+  {
+    "id": 2882,
+    "english": "Are you an introvert or extrovert?",
+    "korean": "내향적이에요 외향적이에요?"
+  },
+  {
+    "id": 2884,
+    "english": "What was the last book you read?",
+    "korean": "마지막으로 읽은 책이 뭐예요?"
+  },
+  {
+    "id": 2887,
+    "english": "Are you serious right now?",
+    "korean": "진짜예요?"
+  },
+  {
+    "id": 2889,
+    "english": "How did that even happen?",
+    "korean": "그게 어떻게 된 거예요?"
+  },
+  {
+    "id": 2906,
+    "english": "Did you see the meme I sent?",
+    "korean": "제가 보낸 밈 봤어요?"
+  },
+  {
+    "id": 2910,
+    "english": "Why are you leaving me on read?",
+    "korean": "왜 읽씹 해요?"
+  },
+  {
+    "id": 3033,
+    "english": "Have you thought about trying this?",
+    "korean": "이렇게 해보는 건 어떨까요?"
+  },
+  {
+    "id": 3045,
+    "english": "What is meant to be will be?",
+    "korean": "될 일은 돼요?"
+  },
+  {
+    "id": 3051,
+    "english": "Did you hear about what happened?",
+    "korean": "무슨 일 있었는지 들었어요?"
+  },
+  {
+    "id": 3169,
+    "english": "When in Rome do as the Romans do?",
+    "korean": "로마에 가면 로마 법을 따르세요?"
+  },
+  {
+    "id": 3322,
+    "english": "Have you ever been to Japan?",
+    "korean": "일본에 가본 적 있어요?"
+  },
+  {
+    "id": 3325,
+    "english": "Have you heard that new album?",
+    "korean": "그 새 앨범 들었어요?"
+  },
+  {
+    "id": 3330,
+    "english": "Do you think I should go?",
+    "korean": "제가 가야 할 것 같아요?"
+  },
+  {
+    "id": 3331,
+    "english": "Do you think this looks good on me?",
+    "korean": "이게 저한테 잘 어울려요?"
+  },
+  {
+    "id": 3332,
+    "english": "Did you finish watching that show?",
+    "korean": "그 드라마 다 봤어요?"
+  },
+  {
+    "id": 3334,
+    "english": "Did you hear the news?",
+    "korean": "뉴스 들었어요?"
+  },
+  {
+    "id": 3337,
+    "english": "Are you feeling better today?",
+    "korean": "오늘은 좀 나아졌어요?"
+  },
+  {
+    "id": 3339,
+    "english": "Are you ready to order?",
+    "korean": "주문할 준비 됐어요?"
+  },
+  {
+    "id": 3555,
+    "english": "Did you make this yourself?",
+    "korean": "직접 만드셨어요?"
+  },
+  {
+    "id": 3561,
+    "english": "It did not turn out quite right?",
+    "korean": "제대로 되지 않았어요?"
+  },
+  {
+    "id": 3743,
+    "english": "Where do I start today?",
+    "korean": "오늘 어디서 시작해요?"
+  },
+  {
+    "id": 3755,
+    "english": "How do I fix this?",
+    "korean": "이거 어떻게 고쳐요?"
+  },
+  {
+    "id": 3759,
+    "english": "Where do I get this?",
+    "korean": "이거 어디서 가져와요?"
+  },
+  {
+    "id": 3805,
+    "english": "What should I do next?",
+    "korean": "다음에 뭘 하면 될까요?"
+  },
+  {
+    "id": 3806,
+    "english": "Should I help someone else?",
+    "korean": "다른 사람 도와드릴까요?"
+  },
+  {
+    "id": 3870,
+    "english": "Do you want to try some of mine?",
+    "korean": "제 것 좀 드실래요?"
+  },
+  {
+    "id": 3888,
+    "english": "Are you done for the day?",
+    "korean": "오늘 일 다 끝났어요?"
+  },
+  {
+    "id": 3889,
+    "english": "Which way are you going?",
+    "korean": "어느 방향으로 가요?"
+  },
+  {
+    "id": 3893,
+    "english": "Do you want to stop somewhere?",
+    "korean": "어디 들렀다 갈래요?"
+  },
+  {
+    "id": 3919,
+    "english": "Is that too far for you?",
+    "korean": "너무 멀지 않아요?"
+  },
+  {
+    "id": 3925,
+    "english": "How long have you been working here?",
+    "korean": "여기서 얼마나 됐어요?"
+  },
+  {
+    "id": 3959,
+    "english": "Do you have a moment?",
+    "korean": "잠깐 시간 있어요?"
+  },
+  {
+    "id": 3963,
+    "english": "What do I do after this?",
+    "korean": "이거 다음엔 뭘 해요?"
+  },
+  {
+    "id": 3964,
+    "english": "Where should I put this?",
+    "korean": "이거 어디 놔요?"
+  },
+  {
+    "id": 3965,
+    "english": "Who should I give this to?",
+    "korean": "이거 누구한테 줘요?"
+  },
+  {
+    "id": 3967,
+    "english": "Is this the right way?",
+    "korean": "이게 맞는 방법이에요?"
+  },
+  {
+    "id": 3968,
+    "english": "Am I doing this right?",
+    "korean": "제가 제대로 하고 있어요?"
+  },
+  {
+    "id": 3969,
+    "english": "Is there a better way to do this?",
+    "korean": "더 좋은 방법이 있어요?"
+  },
+  {
+    "id": 3971,
+    "english": "Do I need permission for this?",
+    "korean": "이거 허락이 필요해요?"
+  },
+  {
+    "id": 3973,
+    "english": "How long will this take?",
+    "korean": "이거 얼마나 걸려요?"
+  },
+  {
+    "id": 3974,
+    "english": "Do you need anything from me?",
+    "korean": "저한테 필요한 게 있어요?"
+  },
+  {
+    "id": 4052,
+    "english": "Is it cold outside today?",
+    "korean": "오늘 밖에 추워요?"
+  },
+  {
+    "id": 4088,
+    "english": "You always do things right?",
+    "korean": "항상 제대로 하네요?"
+  },
+  {
+    "id": 4247,
+    "english": "What are we doing today?",
+    "korean": "오늘 뭐 해요?"
+  },
+  {
+    "id": 4280,
+    "english": "Does this look right to you?",
+    "korean": "이게 맞아 보여요?"
+  },
+  {
+    "id": 4286,
+    "english": "How do we fix this?",
+    "korean": "이걸 어떻게 고쳐요?"
+  },
+  {
+    "id": 4318,
+    "english": "How is your day going?",
+    "korean": "하루 어때요?"
+  },
+  {
+    "id": 4424,
+    "english": "What do you want to know?",
+    "korean": "뭐가 궁금해요?"
+  },
+  {
+    "id": 4425,
+    "english": "How do I do this step?",
+    "korean": "이 단계를 어떻게 해요?"
+  },
+  {
+    "id": 4501,
+    "english": "When one of us struggles we all help?",
+    "korean": "한 명이 힘들면 모두 도와요?"
+  },
+  {
+    "id": 4566,
+    "english": "What is hard about living here?",
+    "korean": "여기 사는 게 뭐가 힘들어요?"
+  },
+  {
+    "id": 4571,
+    "english": "What do you miss the most?",
+    "korean": "뭐가 제일 그리워요?"
+  },
+  {
+    "id": 4575,
+    "english": "What was your favorite place?",
+    "korean": "어디가 제일 좋았어요?"
+  },
+  {
+    "id": 4611,
+    "english": "Is there anything we can do?",
+    "korean": "우리가 할 수 있는 게 있어요?"
+  },
+  {
+    "id": 4643,
+    "english": "Who is not here today?",
+    "korean": "오늘 누가 안 왔어요?"
+  },
+  {
+    "id": 4651,
+    "english": "Who wants to do what today?",
+    "korean": "오늘 누가 뭐 할래요?"
+  },
+  {
+    "id": 4710,
+    "english": "What should I do next?",
+    "korean": "다음에 뭘 할까요?"
+  },
+  {
+    "id": 4712,
+    "english": "Is this the right way to do it?",
+    "korean": "이렇게 하는 게 맞아요?"
+  },
+  {
+    "id": 4717,
+    "english": "Is there anything else I should know?",
+    "korean": "제가 더 알아야 할 게 있어요?"
+  },
+  {
+    "id": 4732,
+    "english": "What are you doing tonight?",
+    "korean": "오늘 밤에 뭐 해요?"
+  },
+  {
+    "id": 4750,
+    "english": "Are you okay over there?",
+    "korean": "저기 괜찮아요?"
+  },
+  {
+    "id": 4841,
+    "english": "How do I say excuse me?",
+    "korean": "실례합니다는 어떻게 해요?"
+  },
+  {
+    "id": 4849,
+    "english": "How do I say I am sorry?",
+    "korean": "죄송합니다는 어떻게 해요?"
+  },
+  {
+    "id": 4955,
+    "english": "What do we do now?",
+    "korean": "이제 어떻게 해요?"
+  },
+  {
+    "id": 5054,
+    "english": "When we win we all win?",
+    "korean": "이기면 모두 이기는 거예요?"
+  },
+  {
+    "id": 5088,
+    "english": "Why is it off limits?",
+    "korean": "왜 출입 금지예요?"
+  },
+  {
+    "id": 5092,
+    "english": "What is that thing over there?",
+    "korean": "저기 저게 뭐예요?"
+  },
+  {
+    "id": 5162,
+    "english": "When you smell something familiar?",
+    "korean": "익숙한 냄새가 날 때도요?"
+  },
+  {
+    "id": 5210,
+    "english": "How long did it take you to get this fast?",
+    "korean": "이렇게 빨라지는 데 얼마나 걸렸어요?"
+  },
+  {
+    "id": 5218,
+    "english": "Have you tried turning it off and on?",
+    "korean": "껐다 켜봤어요?"
+  },
+  {
+    "id": 5260,
+    "english": "Where did we leave off yesterday?",
+    "korean": "어제 어디까지 했죠?"
+  },
+  {
+    "id": 5263,
+    "english": "Do you remember what comes next?",
+    "korean": "다음에 뭐 하는지 기억해요?"
+  },
+  {
+    "id": 5323,
+    "english": "Did you watch anything good lately?",
+    "korean": "요즘 뭐 재미있는 거 봤어요?"
+  },
+  {
+    "id": 5334,
+    "english": "Is it sad or happy ending?",
+    "korean": "슬픈 결말이에요 행복한 결말이에요?"
+  },
+  {
+    "id": 5341,
+    "english": "How long will that take?",
+    "korean": "그게 얼마나 걸려요?"
+  },
+  {
+    "id": 5372,
+    "english": "Is that a lot or a little?",
+    "korean": "많은 거예요 적은 거예요?"
+  },
+  {
+    "id": 5373,
+    "english": "Should take about an hour?",
+    "korean": "한 시간 정도 걸릴 것 같아요?"
+  },
+  {
+    "id": 5397,
+    "english": "Did you enjoy it at least?",
+    "korean": "그래도 즐거웠어요?"
+  },
+  {
+    "id": 5453,
+    "english": "How long did it take you?",
+    "korean": "당신은 얼마나 걸렸어요?"
+  },
+  {
+    "id": 5469,
+    "english": "How is your first week going?",
+    "korean": "첫 주 어때요?"
+  },
+  {
+    "id": 5538,
+    "english": "Where did the morning go?",
+    "korean": "오전이 어디 갔는지 몰라요?"
+  },
+  {
+    "id": 5563,
+    "english": "How many hours did you get?",
+    "korean": "몇 시간 잤어요?"
+  },
+  {
+    "id": 5569,
+    "english": "What were you thinking about?",
+    "korean": "무슨 생각을 하고 있었어요?"
+  },
+  {
+    "id": 5584,
+    "english": "How has your week been?",
+    "korean": "이번 주 어땠어요?"
+  },
+  {
+    "id": 5596,
+    "english": "What do you like about it?",
+    "korean": "뭐가 좋아요?"
+  },
+  {
+    "id": 5612,
+    "english": "What matters is how you fix it?",
+    "korean": "어떻게 고치느냐가 중요해요?"
+  },
+  {
+    "id": 5614,
+    "english": "What do you think about this?",
+    "korean": "이거 어떻게 생각해요?"
+  },
+  {
+    "id": 5624,
+    "english": "You look tired are you okay?",
+    "korean": "피곤해 보여요 괜찮아요?"
+  },
+  {
+    "id": 5645,
+    "english": "What more can you ask for?",
+    "korean": "그 이상 뭘 바라겠어요?"
+  },
+  {
+    "id": 5697,
+    "english": "When am I ever late?",
+    "korean": "제가 늦은 적 있었어요?"
+  },
+  {
+    "id": 5715,
+    "english": "When there are no problems?",
+    "korean": "문제가 없을 때요?"
+  },
+  {
+    "id": 5726,
+    "english": "Where have you been hiding?",
+    "korean": "어디 숨어 있었어요?"
+  },
+  {
+    "id": 5791,
+    "english": "What do you do when it is slow?",
+    "korean": "느릴 때 뭐 해요?"
+  },
+  {
+    "id": 5878,
+    "english": "What is the first thing you do?",
+    "korean": "집에 가면 제일 먼저 뭐 해요?"
+  },
+  {
+    "id": 5926,
+    "english": "Where do I get a replacement?",
+    "korean": "교체는 어디서 받아요?"
+  },
+  {
+    "id": 5941,
+    "english": "Did you hear any news today?",
+    "korean": "오늘 뭔 소식 들었어요?"
+  },
+  {
+    "id": 5997,
+    "english": "Oh did you like it?",
+    "korean": "오 좋았어요?"
+  },
+  {
+    "id": 6046,
+    "english": "What did you do last night?",
+    "korean": "어젯밤에 뭐 했어요?"
+  },
+  {
+    "id": 6085,
+    "english": "When did it start feeling normal?",
+    "korean": "언제부터 정상으로 느껴지기 시작했어요?"
+  },
+  {
+    "id": 6128,
+    "english": "What are your plans long term?",
+    "korean": "장기적인 계획이 뭐예요?"
+  },
+  {
+    "id": 6889,
+    "english": "Do you know where it is?",
+    "korean": "어디 있는지 알아요?"
+  },
+  {
+    "id": 6890,
+    "english": "Can you tell me why?",
+    "korean": "이유를 알려 주실 수 있어요?"
+  },
+  {
+    "id": 6891,
+    "english": "How did you know?",
+    "korean": "어떻게 알았어요?"
+  },
+  {
+    "id": 6892,
+    "english": "Who told you?",
+    "korean": "누가 말해 줬어요?"
+  },
+  {
+    "id": 6893,
+    "english": "Which one do you want?",
+    "korean": "어느 걸 원해요?"
+  },
+  {
+    "id": 6894,
+    "english": "How often do you go?",
+    "korean": "얼마나 자주 가요?"
+  },
+  {
+    "id": 6895,
+    "english": "How long have you lived here?",
+    "korean": "여기 산 지 얼마나 됐어요?"
+  },
+  {
+    "id": 6896,
+    "english": "What are you looking for?",
+    "korean": "뭘 찾고 있어요?"
+  },
+  {
+    "id": 6897,
+    "english": "What time should we meet?",
+    "korean": "몇 시에 만날까요?"
+  },
+  {
+    "id": 6898,
+    "english": "Where shall we meet?",
+    "korean": "어디서 만날까요?"
+  },
+  {
+    "id": 6899,
+    "english": "Who is coming?",
+    "korean": "누가 와요?"
+  },
+  {
+    "id": 6900,
+    "english": "Is anyone else coming?",
+    "korean": "다른 사람도 와요?"
+  },
+  {
+    "id": 6901,
+    "english": "Is something wrong?",
+    "korean": "무슨 일 있어요?"
+  },
+  {
+    "id": 6902,
+    "english": "What did you say?",
+    "korean": "뭐라고 하셨어요?"
+  },
+  {
+    "id": 6903,
+    "english": "How was your day?",
+    "korean": "오늘 하루 어땠어요?"
+  },
+  {
+    "id": 6904,
+    "english": "What did you eat?",
+    "korean": "뭐 먹었어요?"
+  },
+  {
+    "id": 6905,
+    "english": "Have you eaten?",
+    "korean": "밥 먹었어요?"
+  },
+  {
+    "id": 6906,
+    "english": "Where did you buy it?",
+    "korean": "어디서 샀어요?"
+  }
+]

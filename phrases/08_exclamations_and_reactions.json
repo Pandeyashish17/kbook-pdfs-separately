@@ -1,0 +1,467 @@
+[
+  {
+    "id": 103,
+    "english": "Wonderful!",
+    "korean": "훌륭해요!"
+  },
+  {
+    "id": 105,
+    "english": "That's really sad!",
+    "korean": "정말 슬프네요!"
+  },
+  {
+    "id": 177,
+    "english": "What a coincidence!",
+    "korean": "정말 우연의 일치해요!"
+  },
+  {
+    "id": 226,
+    "english": "That's impossible!",
+    "korean": "그건 불가능합니다!"
+  },
+  {
+    "id": 230,
+    "english": "Hurry up!",
+    "korean": "서두르세요!"
+  },
+  {
+    "id": 257,
+    "english": "Leave me alone!",
+    "korean": "혼자 있게 해주세요!"
+  },
+  {
+    "id": 271,
+    "english": "Watch out!",
+    "korean": "조심하세요!"
+  },
+  {
+    "id": 353,
+    "english": "Stop laughing!",
+    "korean": "그만 웃어요!"
+  },
+  {
+    "id": 430,
+    "english": "That's cool!",
+    "korean": "멋지네요!"
+  },
+  {
+    "id": 454,
+    "english": "So cute!",
+    "korean": "너무 귀여워요!"
+  },
+  {
+    "id": 505,
+    "english": "What a wonderful day!",
+    "korean": "멋진 하루였어요!"
+  },
+  {
+    "id": 520,
+    "english": "That's unbelievable!",
+    "korean": "믿을 수 없어요!"
+  },
+  {
+    "id": 596,
+    "english": "Be careful next time!",
+    "korean": "다음에는 조심할게요!"
+  },
+  {
+    "id": 1332,
+    "english": "Well done!",
+    "korean": "잘했어요!"
+  },
+  {
+    "id": 1336,
+    "english": "Hang in there!",
+    "korean": "조금만 더 버텨요!"
+  },
+  {
+    "id": 1673,
+    "english": "What a small world!",
+    "korean": "세상 참 좁네요!"
+  },
+  {
+    "id": 2174,
+    "english": "What a great achievement!",
+    "korean": "정말 대단한 성취예요!"
+  },
+  {
+    "id": 2283,
+    "english": "Oh really!",
+    "korean": "아 그래요!"
+  },
+  {
+    "id": 2292,
+    "english": "What a shame!",
+    "korean": "아깝네요!"
+  },
+  {
+    "id": 2294,
+    "english": "Seriously!",
+    "korean": "진짜요!"
+  },
+  {
+    "id": 2679,
+    "english": "Oh that is interesting!",
+    "korean": "오 그거 흥미롭네요!"
+  },
+  {
+    "id": 2685,
+    "english": "What a relief!",
+    "korean": "다행이에요!"
+  },
+  {
+    "id": 2698,
+    "english": "That's crazy awesome!",
+    "korean": "대박이다!"
+  },
+  {
+    "id": 2699,
+    "english": "Oh my goodness!",
+    "korean": "어머나!"
+  },
+  {
+    "id": 2701,
+    "english": "So embarrassing!",
+    "korean": "쪽팔려요!"
+  },
+  {
+    "id": 2709,
+    "english": "Stop being cringe!",
+    "korean": "오글거리게 하지 마세요!"
+  },
+  {
+    "id": 2723,
+    "english": "Stop playing around!",
+    "korean": "장난치지 마세요!"
+  },
+  {
+    "id": 2741,
+    "english": "Stop overthinking it!",
+    "korean": "너무 생각하지 마세요!"
+  },
+  {
+    "id": 2807,
+    "english": "Stop being so petty!",
+    "korean": "쩨쩨하게 굴지 마세요!"
+  },
+  {
+    "id": 2815,
+    "english": "Stop being nosy!",
+    "korean": "오지랖 부리지 마세요!"
+  },
+  {
+    "id": 2829,
+    "english": "Stop sneaking up on me!",
+    "korean": "몰래 접근하지 마세요!"
+  },
+  {
+    "id": 2888,
+    "english": "No way that actually happened!",
+    "korean": "진짜로 그런 일이 있었어요!"
+  },
+  {
+    "id": 3113,
+    "english": "Stop flexing!",
+    "korean": "자랑 그만해요!"
+  },
+  {
+    "id": 3216,
+    "english": "Oh right I was saying!",
+    "korean": "아 맞다 제가 말하던 게요!"
+  },
+  {
+    "id": 3302,
+    "english": "Oh come on!",
+    "korean": "아이 왜 그래요!"
+  },
+  {
+    "id": 3774,
+    "english": "Be careful please!",
+    "korean": "조심해요!"
+  },
+  {
+    "id": 3831,
+    "english": "Be careful it is hot!",
+    "korean": "뜨거우니 조심하세요!"
+  },
+  {
+    "id": 3832,
+    "english": "Be careful it is sharp!",
+    "korean": "날카로우니 조심하세요!"
+  },
+  {
+    "id": 3833,
+    "english": "Be careful it is heavy!",
+    "korean": "무거우니 조심하세요!"
+  },
+  {
+    "id": 3837,
+    "english": "Watch out above you!",
+    "korean": "위를 조심하세요!"
+  },
+  {
+    "id": 3839,
+    "english": "Get out of the way!",
+    "korean": "비켜요!"
+  },
+  {
+    "id": 4012,
+    "english": "Good job today everyone!",
+    "korean": "오늘 모두 수고했어요!"
+  },
+  {
+    "id": 4061,
+    "english": "Perfect weather for work outside!",
+    "korean": "밖에서 일하기 좋은 날씨네요!"
+  },
+  {
+    "id": 4073,
+    "english": "Hurry please!",
+    "korean": "빨리요!"
+  },
+  {
+    "id": 4223,
+    "english": "Wow!",
+    "korean": "와!"
+  },
+  {
+    "id": 4224,
+    "english": "Oh no!",
+    "korean": "이런!"
+  },
+  {
+    "id": 4263,
+    "english": "Careful it is heavy!",
+    "korean": "조심해요 무거워요!"
+  },
+  {
+    "id": 4296,
+    "english": "Good job we passed!",
+    "korean": "잘했어요 통과됐어요!"
+  },
+  {
+    "id": 4441,
+    "english": "Be careful of puddles!",
+    "korean": "물웅덩이 조심해요!"
+  },
+  {
+    "id": 4552,
+    "english": "Oh I see!",
+    "korean": "아 그렇군요!"
+  },
+  {
+    "id": 4607,
+    "english": "Really I had no idea!",
+    "korean": "정말요 전혀 몰랐어요!"
+  },
+  {
+    "id": 4678,
+    "english": "Oh I see the issue!",
+    "korean": "아 문제가 뭔지 알겠어요!"
+  },
+  {
+    "id": 4727,
+    "english": "Really tiring today!",
+    "korean": "오늘 정말 피곤했어요!"
+  },
+  {
+    "id": 4757,
+    "english": "Hurry up a little!",
+    "korean": "좀 서둘러요!"
+  },
+  {
+    "id": 4856,
+    "english": "Finally payday!",
+    "korean": "드디어 월급날이에요!"
+  },
+  {
+    "id": 5023,
+    "english": "Beautiful day outside!",
+    "korean": "밖에 날씨가 참 좋아요!"
+  },
+  {
+    "id": 5095,
+    "english": "How heavy can it lift!",
+    "korean": "얼마나 무거운 걸 들 수 있어요!"
+  },
+  {
+    "id": 5103,
+    "english": "Come on let us go!",
+    "korean": "자 가요!"
+  },
+  {
+    "id": 5112,
+    "english": "Stop here!",
+    "korean": "여기서 멈춰요!"
+  },
+  {
+    "id": 5214,
+    "english": "Really that soon!",
+    "korean": "정말요 그렇게 빨리요!"
+  },
+  {
+    "id": 5268,
+    "english": "Great let us do it!",
+    "korean": "좋아요 합시다!"
+  },
+  {
+    "id": 5348,
+    "english": "Finally I needed that!",
+    "korean": "드디어 그게 필요했어요!"
+  },
+  {
+    "id": 5477,
+    "english": "Really that is encouraging!",
+    "korean": "정말요 힘이 나네요!"
+  },
+  {
+    "id": 5486,
+    "english": "Really fun and cheap!",
+    "korean": "정말 재밌고 저렴했어요!"
+  },
+  {
+    "id": 5510,
+    "english": "Really show me!",
+    "korean": "정말요 보여줘요!"
+  },
+  {
+    "id": 5513,
+    "english": "Oh wow that is smart!",
+    "korean": "오 와 그거 스마트하네요!"
+  },
+  {
+    "id": 5642,
+    "english": "Perfect I love that place!",
+    "korean": "완벽해요 거기 정말 좋아해요!"
+  },
+  {
+    "id": 5669,
+    "english": "Wow this is actually delicious!",
+    "korean": "와 이거 진짜 맛있네요!"
+  },
+  {
+    "id": 5674,
+    "english": "Seriously you are talented!",
+    "korean": "진지하게 말해요 재능이 있어요!"
+  },
+  {
+    "id": 5767,
+    "english": "Oops sorry!",
+    "korean": "앗 죄송해요!"
+  },
+  {
+    "id": 5788,
+    "english": "Nice change from the noise!",
+    "korean": "소음에서 벗어나서 좋아요!"
+  },
+  {
+    "id": 5821,
+    "english": "Be careful with that!",
+    "korean": "그거 조심해요!"
+  },
+  {
+    "id": 5858,
+    "english": "Oh really cute!",
+    "korean": "오 정말 귀여웠겠다!"
+  },
+  {
+    "id": 5859,
+    "english": "So cute and fluffy!",
+    "korean": "너무 귀엽고 보들보들했어요!"
+  },
+  {
+    "id": 5952,
+    "english": "Perfect working weather!",
+    "korean": "일하기 딱 좋은 날씨예요!"
+  },
+  {
+    "id": 6109,
+    "english": "Really you think so!",
+    "korean": "정말 그렇게 생각해요!"
+  },
+  {
+    "id": 6138,
+    "english": "That was amazing!",
+    "korean": "완전 예술이었어요!"
+  },
+  {
+    "id": 6170,
+    "english": "It's the best!",
+    "korean": "최고예요!"
+  },
+  {
+    "id": 6389,
+    "english": "Look at that!",
+    "korean": "저것 좀 보세요!"
+  },
+  {
+    "id": 6390,
+    "english": "That was close!",
+    "korean": "큰일 날 뻔했어요!"
+  },
+  {
+    "id": 6391,
+    "english": "Oh, I forgot!",
+    "korean": "아, 깜빡했어요!"
+  },
+  {
+    "id": 6392,
+    "english": "What a surprise!",
+    "korean": "깜짝 놀랐어요!"
+  },
+  {
+    "id": 6615,
+    "english": "No way!",
+    "korean": "말도 안 돼!"
+  },
+  {
+    "id": 6616,
+    "english": "That's amazing!",
+    "korean": "대단해요!"
+  },
+  {
+    "id": 6617,
+    "english": "That's great!",
+    "korean": "정말 좋네요!"
+  },
+  {
+    "id": 6618,
+    "english": "Congratulations!",
+    "korean": "축하합니다!"
+  },
+  {
+    "id": 6619,
+    "english": "I'm so surprised.",
+    "korean": "정말 놀랐어요."
+  },
+  {
+    "id": 6620,
+    "english": "That's funny.",
+    "korean": "웃기네요."
+  },
+  {
+    "id": 6621,
+    "english": "What a pity.",
+    "korean": "아쉽네요."
+  },
+  {
+    "id": 6622,
+    "english": "That's too bad.",
+    "korean": "안됐네요."
+  },
+  {
+    "id": 6623,
+    "english": "Cheers!",
+    "korean": "건배!"
+  },
+  {
+    "id": 6624,
+    "english": "Fighting! (You can do it!)",
+    "korean": "파이팅!"
+  },
+  {
+    "id": 6625,
+    "english": "Awesome.",
+    "korean": "멋져요."
+  }
+]

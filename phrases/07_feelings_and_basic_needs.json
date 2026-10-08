@@ -1,0 +1,427 @@
+[
+  {
+    "id": 9,
+    "english": "I'm hungry.",
+    "korean": "배고파요."
+  },
+  {
+    "id": 10,
+    "english": "I'm thirsty.",
+    "korean": "목말라요."
+  },
+  {
+    "id": 11,
+    "english": "I'm tired.",
+    "korean": "피곤해요."
+  },
+  {
+    "id": 48,
+    "english": "I'm going home.",
+    "korean": "집에 가요."
+  },
+  {
+    "id": 125,
+    "english": "I'm happy about it.",
+    "korean": "기쁘게 생각해요."
+  },
+  {
+    "id": 171,
+    "english": "I'm so upset.",
+    "korean": "너무 속상해요."
+  },
+  {
+    "id": 185,
+    "english": "I'm sweating too much.",
+    "korean": "땀이 너무나요."
+  },
+  {
+    "id": 191,
+    "english": "I'm so sleepy.",
+    "korean": "잠이 너무 오네요."
+  },
+  {
+    "id": 249,
+    "english": "I'm really tired.",
+    "korean": "정말 피곤해요."
+  },
+  {
+    "id": 324,
+    "english": "I'm really tired.",
+    "korean": "정말 피곤해요."
+  },
+  {
+    "id": 330,
+    "english": "I'm fine thanks.",
+    "korean": "전 괜찮아요 감사합니다."
+  },
+  {
+    "id": 383,
+    "english": "I'm going home.",
+    "korean": "집에 갈 거예요."
+  },
+  {
+    "id": 397,
+    "english": "I'm so excited.",
+    "korean": "너무 기대됩니다."
+  },
+  {
+    "id": 467,
+    "english": "I am freezing.",
+    "korean": "너무 추워요."
+  },
+  {
+    "id": 517,
+    "english": "I'm a little confused.",
+    "korean": "조금 헷갈려요."
+  },
+  {
+    "id": 584,
+    "english": "I'm worried about tomorrow.",
+    "korean": "내일이 걱정돼요."
+  },
+  {
+    "id": 599,
+    "english": "I'm ready to leave.",
+    "korean": "나갈 준비하고 있어요."
+  },
+  {
+    "id": 835,
+    "english": "I feel dizzy.",
+    "korean": "어지러워요."
+  },
+  {
+    "id": 836,
+    "english": "I feel nauseous.",
+    "korean": "메스꺼워요."
+  },
+  {
+    "id": 968,
+    "english": "I feel lonely sometimes.",
+    "korean": "가끔 외로워요."
+  },
+  {
+    "id": 982,
+    "english": "I am lost.",
+    "korean": "길을 잃었어요."
+  },
+  {
+    "id": 1085,
+    "english": "I am homesick.",
+    "korean": "향수병이 있어요."
+  },
+  {
+    "id": 1086,
+    "english": "I feel stressed.",
+    "korean": "스트레스를 받아요."
+  },
+  {
+    "id": 1091,
+    "english": "I am nervous about tomorrow.",
+    "korean": "내일이 긴장돼요."
+  },
+  {
+    "id": 1093,
+    "english": "I am proud of myself.",
+    "korean": "제 자신이 자랑스러워요."
+  },
+  {
+    "id": 1094,
+    "english": "I feel happy today.",
+    "korean": "오늘 기분이 좋아요."
+  },
+  {
+    "id": 1095,
+    "english": "I am disappointed.",
+    "korean": "실망했어요."
+  },
+  {
+    "id": 1096,
+    "english": "I am angry right now.",
+    "korean": "지금 화가 나요."
+  },
+  {
+    "id": 1102,
+    "english": "I feel at home here now.",
+    "korean": "이제 여기가 편안해요."
+  },
+  {
+    "id": 1103,
+    "english": "I am excited about this.",
+    "korean": "이거 정말 기대돼요."
+  },
+  {
+    "id": 1201,
+    "english": "I am good at my work.",
+    "korean": "일을 잘 하는 편이에요."
+  },
+  {
+    "id": 1338,
+    "english": "I'm proud of you.",
+    "korean": "자랑스러워요."
+  },
+  {
+    "id": 1427,
+    "english": "I am full.",
+    "korean": "배불러요."
+  },
+  {
+    "id": 1466,
+    "english": "I feel more comfortable here now.",
+    "korean": "이제 여기서 더 편안해요."
+  },
+  {
+    "id": 1888,
+    "english": "I feel nervous in new situations.",
+    "korean": "새로운 상황에서 긴장돼요."
+  },
+  {
+    "id": 2115,
+    "english": "I am proud to be Nepali.",
+    "korean": "네팔 사람인 것이 자랑스러워요."
+  },
+  {
+    "id": 2175,
+    "english": "I am so happy for you.",
+    "korean": "정말 잘됐어요."
+  },
+  {
+    "id": 2684,
+    "english": "I feel so relieved.",
+    "korean": "정말 안심이 돼요."
+  },
+  {
+    "id": 2702,
+    "english": "I'm so annoyed.",
+    "korean": "짜증나요."
+  },
+  {
+    "id": 2715,
+    "english": "I'm so jealous.",
+    "korean": "부러워 죽겠어요."
+  },
+  {
+    "id": 3464,
+    "english": "I am absolutely starving.",
+    "korean": "정말 배가 너무 고파요."
+  },
+  {
+    "id": 3576,
+    "english": "I am too tired to cook.",
+    "korean": "너무 피곤해서 요리 못 하겠어요."
+  },
+  {
+    "id": 3769,
+    "english": "I am very tired today.",
+    "korean": "오늘 정말 피곤해요."
+  },
+  {
+    "id": 3788,
+    "english": "I am ready to work.",
+    "korean": "일할 준비됐어요."
+  },
+  {
+    "id": 3852,
+    "english": "I am still sleepy.",
+    "korean": "아직도 졸려요."
+  },
+  {
+    "id": 3856,
+    "english": "I am already hungry.",
+    "korean": "벌써 배가 고파요."
+  },
+  {
+    "id": 3945,
+    "english": "I feel proud of my work.",
+    "korean": "제 일이 자랑스러워요."
+  },
+  {
+    "id": 3951,
+    "english": "I feel excited about my future.",
+    "korean": "제 미래가 기대돼요."
+  },
+  {
+    "id": 3952,
+    "english": "I feel ready for anything.",
+    "korean": "무엇이든 준비됐어요."
+  },
+  {
+    "id": 4102,
+    "english": "I feel comfortable asking you.",
+    "korean": "당신한테는 편하게 물어볼 수 있어요."
+  },
+  {
+    "id": 4145,
+    "english": "I feel sick today.",
+    "korean": "오늘 몸이 안 좋아요."
+  },
+  {
+    "id": 4242,
+    "english": "I am a little late sorry.",
+    "korean": "조금 늦었어요 죄송해요."
+  },
+  {
+    "id": 4252,
+    "english": "I am ready now.",
+    "korean": "이제 준비됐어요."
+  },
+  {
+    "id": 4372,
+    "english": "I am proud of today.",
+    "korean": "오늘이 자랑스러워요."
+  },
+  {
+    "id": 4375,
+    "english": "I feel bored.",
+    "korean": "심심해요."
+  },
+  {
+    "id": 4383,
+    "english": "I am very hungry.",
+    "korean": "정말 배고파요."
+  },
+  {
+    "id": 4474,
+    "english": "I feel good about today.",
+    "korean": "오늘이 좋을 것 같아요."
+  },
+  {
+    "id": 4513,
+    "english": "I am proud of us.",
+    "korean": "우리가 자랑스러워요."
+  },
+  {
+    "id": 4536,
+    "english": "I am fine how about you?",
+    "korean": "잘 있어요 당신은요?"
+  },
+  {
+    "id": 4752,
+    "english": "I am fine thank you.",
+    "korean": "괜찮아요 고마워요."
+  },
+  {
+    "id": 4866,
+    "english": "I am proud of that.",
+    "korean": "그게 자랑스러워요."
+  },
+  {
+    "id": 5014,
+    "english": "I feel ready for anything.",
+    "korean": "무엇이든 할 준비가 됐어요."
+  },
+  {
+    "id": 5030,
+    "english": "I am a little cold.",
+    "korean": "조금 추워요."
+  },
+  {
+    "id": 5065,
+    "english": "I am exhausted today.",
+    "korean": "오늘 너무 지쳤어요."
+  },
+  {
+    "id": 5135,
+    "english": "I am already excited.",
+    "korean": "벌써 기대돼요."
+  },
+  {
+    "id": 5277,
+    "english": "I am so hungry right now.",
+    "korean": "지금 너무 배고파요."
+  },
+  {
+    "id": 5441,
+    "english": "I am proud of us today.",
+    "korean": "오늘 우리가 자랑스러워요."
+  },
+  {
+    "id": 5550,
+    "english": "I am fine just surprised.",
+    "korean": "괜찮아요 그냥 놀랐어요."
+  },
+  {
+    "id": 5701,
+    "english": "I feel tired today.",
+    "korean": "오늘 피곤해요."
+  },
+  {
+    "id": 5702,
+    "english": "I feel nervous today.",
+    "korean": "오늘 긴장돼요."
+  },
+  {
+    "id": 5707,
+    "english": "I feel ready today.",
+    "korean": "오늘 준비됐어요."
+  },
+  {
+    "id": 5709,
+    "english": "I feel okay today.",
+    "korean": "오늘 괜찮아요."
+  },
+  {
+    "id": 5759,
+    "english": "I am really happy with this.",
+    "korean": "이게 정말 마음에 들어요."
+  },
+  {
+    "id": 6385,
+    "english": "I'm sleepy.",
+    "korean": "졸려요."
+  },
+  {
+    "id": 6386,
+    "english": "I'm cold.",
+    "korean": "추워요."
+  },
+  {
+    "id": 6387,
+    "english": "I'm hot.",
+    "korean": "더워요."
+  },
+  {
+    "id": 6388,
+    "english": "I want to use the bathroom.",
+    "korean": "화장실에 가고 싶어요."
+  },
+  {
+    "id": 6607,
+    "english": "I need a break.",
+    "korean": "쉬고 싶어요."
+  },
+  {
+    "id": 6608,
+    "english": "I'm homesick.",
+    "korean": "고향이 그리워요."
+  },
+  {
+    "id": 6609,
+    "english": "I miss my family.",
+    "korean": "가족이 보고 싶어요."
+  },
+  {
+    "id": 6610,
+    "english": "I feel lonely.",
+    "korean": "외로워요."
+  },
+  {
+    "id": 6611,
+    "english": "I'm nervous.",
+    "korean": "긴장돼요."
+  },
+  {
+    "id": 6612,
+    "english": "I'm happy.",
+    "korean": "행복해요."
+  },
+  {
+    "id": 6613,
+    "english": "I feel better now.",
+    "korean": "이제 좀 나아요."
+  },
+  {
+    "id": 6614,
+    "english": "I need some water.",
+    "korean": "물이 필요해요."
+  }
+]

@@ -1,0 +1,1092 @@
+[
+  {
+    "id": 5,
+    "english": "What time is it?",
+    "korean": "몇시예요?"
+  },
+  {
+    "id": 54,
+    "english": "It looks like it's going to rain.",
+    "korean": "비가 올 것 같아요."
+  },
+  {
+    "id": 55,
+    "english": "The weather is really nice.",
+    "korean": "날씨가 정말 좋아요."
+  },
+  {
+    "id": 70,
+    "english": "How is the weather?",
+    "korean": "날씨가 어때요?"
+  },
+  {
+    "id": 84,
+    "english": "What time does it start?",
+    "korean": "몇 시에 시작해요?"
+  },
+  {
+    "id": 116,
+    "english": "What are you doing this weekend?",
+    "korean": "이번 주말에 뭐할 거예요?"
+  },
+  {
+    "id": 119,
+    "english": "Are you free next week?",
+    "korean": "다음주에 시간 있어요?"
+  },
+  {
+    "id": 153,
+    "english": "Shall we watch a movie this weekend?",
+    "korean": "이번 주말에 영화를 볼까요?"
+  },
+  {
+    "id": 162,
+    "english": "What is your favorite season?",
+    "korean": "가장 좋아하는 계절은 무엇인가요?"
+  },
+  {
+    "id": 244,
+    "english": "What day is today?",
+    "korean": "오늘 무슨 요일이죠?"
+  },
+  {
+    "id": 288,
+    "english": "It's cloudy.",
+    "korean": "구름낀 날씨예요."
+  },
+  {
+    "id": 345,
+    "english": "I hope it will be sunny.",
+    "korean": "날씨가 화창했으면 좋겠습니다."
+  },
+  {
+    "id": 372,
+    "english": "It might rain tomorrow.",
+    "korean": "내일 비가 올지도 모릅니다."
+  },
+  {
+    "id": 385,
+    "english": "What is today's temperature?",
+    "korean": "오늘 기온이 어떻게 되나요?"
+  },
+  {
+    "id": 398,
+    "english": "Is it raining now?",
+    "korean": "지금 비가 오나요?"
+  },
+  {
+    "id": 418,
+    "english": "Is it still raining?",
+    "korean": "아직 비가 오나요?"
+  },
+  {
+    "id": 435,
+    "english": "What time should I pick you up?",
+    "korean": "몇 시에 데리러 가면 될까요?"
+  },
+  {
+    "id": 451,
+    "english": "It's almost spring.",
+    "korean": "봄이 다 되어갑니다."
+  },
+  {
+    "id": 518,
+    "english": "What time do you close?",
+    "korean": "몇 시에 문 닫아요?"
+  },
+  {
+    "id": 540,
+    "english": "I forgot to bring my umbrella.",
+    "korean": "우산을 가져오는 걸 깜빡했어요."
+  },
+  {
+    "id": 600,
+    "english": "I brought an umbrella.",
+    "korean": "우산 가져왔어요."
+  },
+  {
+    "id": 606,
+    "english": "I will be about 5 minutes late.",
+    "korean": "5분 정도 늦을 것 같아요."
+  },
+  {
+    "id": 612,
+    "english": "It looks like it will rain.",
+    "korean": "비가 올 것 같아요."
+  },
+  {
+    "id": 626,
+    "english": "What are you going to do this weekend?",
+    "korean": "이번 주말에 뭐 할 거예요?"
+  },
+  {
+    "id": 637,
+    "english": "It's cloudy.",
+    "korean": "구름 낀 날씨예요."
+  },
+  {
+    "id": 652,
+    "english": "It's really windy today.",
+    "korean": "오늘은 바람이 많이 불어요."
+  },
+  {
+    "id": 658,
+    "english": "What time does work start?",
+    "korean": "몇 시에 출근해요?"
+  },
+  {
+    "id": 659,
+    "english": "What time do we finish?",
+    "korean": "몇 시에 퇴근해요?"
+  },
+  {
+    "id": 745,
+    "english": "What time is curfew?",
+    "korean": "통금 시간이 몇 시예요?"
+  },
+  {
+    "id": 927,
+    "english": "It's raining heavily.",
+    "korean": "비가 많이 와요."
+  },
+  {
+    "id": 928,
+    "english": "There is a typhoon warning.",
+    "korean": "태풍 경보가 있어요."
+  },
+  {
+    "id": 929,
+    "english": "It's very humid today.",
+    "korean": "오늘 많이 습해요."
+  },
+  {
+    "id": 930,
+    "english": "I need an umbrella.",
+    "korean": "우산이 필요해요."
+  },
+  {
+    "id": 931,
+    "english": "The weather is unpredictable.",
+    "korean": "날씨가 변덕스러워요."
+  },
+  {
+    "id": 932,
+    "english": "It is snowing.",
+    "korean": "눈이 와요."
+  },
+  {
+    "id": 935,
+    "english": "Summer in Korea is very hot.",
+    "korean": "한국 여름은 정말 더워요."
+  },
+  {
+    "id": 939,
+    "english": "It will be windy tomorrow.",
+    "korean": "내일 바람이 많이 불 거예요."
+  },
+  {
+    "id": 940,
+    "english": "Is it going to rain this week?",
+    "korean": "이번 주에 비 와요?"
+  },
+  {
+    "id": 941,
+    "english": "The monsoon season has started.",
+    "korean": "장마철이 시작됐어요."
+  },
+  {
+    "id": 943,
+    "english": "What season is it now?",
+    "korean": "지금 무슨 계절이에요?"
+  },
+  {
+    "id": 944,
+    "english": "Autumn in Korea is beautiful.",
+    "korean": "한국 가을은 정말 아름다워요."
+  },
+  {
+    "id": 950,
+    "english": "I have been here for one month.",
+    "korean": "온 지 한 달 됐어요."
+  },
+  {
+    "id": 953,
+    "english": "Are you free this Saturday?",
+    "korean": "이번 토요일에 시간 있어요?"
+  },
+  {
+    "id": 1003,
+    "english": "It's about 5 minutes on foot.",
+    "korean": "걸어서 5분 정도 걸려요."
+  },
+  {
+    "id": 1071,
+    "english": "What month is it?",
+    "korean": "지금 몇 월이에요?"
+  },
+  {
+    "id": 1082,
+    "english": "My day off is Sunday.",
+    "korean": "쉬는 날이 일요일이에요."
+  },
+  {
+    "id": 1083,
+    "english": "There are 4 weeks in a month.",
+    "korean": "한 달에 4주 있어요."
+  },
+  {
+    "id": 1168,
+    "english": "Let's take a weekend trip.",
+    "korean": "주말 여행 가요."
+  },
+  {
+    "id": 1169,
+    "english": "Is there a festival this weekend?",
+    "korean": "이번 주말에 축제 있어요?"
+  },
+  {
+    "id": 1186,
+    "english": "What time do you open?",
+    "korean": "몇 시에 열어요?"
+  },
+  {
+    "id": 1221,
+    "english": "Where do I clock in?",
+    "korean": "출근 체크는 어디서 해요?"
+  },
+  {
+    "id": 1222,
+    "english": "I forgot to clock in.",
+    "korean": "출근 체크를 못 했어요."
+  },
+  {
+    "id": 1238,
+    "english": "How was your weekend?",
+    "korean": "주말 어떠셨어요?"
+  },
+  {
+    "id": 1239,
+    "english": "I had a great weekend.",
+    "korean": "주말을 잘 보냈어요."
+  },
+  {
+    "id": 1241,
+    "english": "I went on a trip last weekend.",
+    "korean": "지난 주말에 여행 갔다 왔어요."
+  },
+  {
+    "id": 1243,
+    "english": "I'm glad it's Friday.",
+    "korean": "금요일이라서 기뻐요."
+  },
+  {
+    "id": 1247,
+    "english": "I hope next year is better.",
+    "korean": "내년에는 더 좋을 것 같아요."
+  },
+  {
+    "id": 1383,
+    "english": "The temperature in here is very high.",
+    "korean": "여기 온도가 매우 높아요."
+  },
+  {
+    "id": 1509,
+    "english": "I want to move out next month.",
+    "korean": "다음 달에 이사 나가고 싶어요."
+  },
+  {
+    "id": 1524,
+    "english": "I will be ready in 5 minutes.",
+    "korean": "5분 안에 준비할게요."
+  },
+  {
+    "id": 1527,
+    "english": "We have 10 minutes left.",
+    "korean": "10분 남았어요."
+  },
+  {
+    "id": 1528,
+    "english": "The shift starts in 30 minutes.",
+    "korean": "30분 후에 교대 시작해요."
+  },
+  {
+    "id": 1623,
+    "english": "There is a baseball game this weekend.",
+    "korean": "이번 주말에 야구 경기 있어요."
+  },
+  {
+    "id": 1796,
+    "english": "Let us play badminton this Sunday.",
+    "korean": "이번 일요일에 배드민턴 칩시다."
+  },
+  {
+    "id": 1801,
+    "english": "I lost two kilograms this month.",
+    "korean": "이번 달에 2킬로 빠졌어요."
+  },
+  {
+    "id": 1803,
+    "english": "The cherry blossoms are beautiful this year.",
+    "korean": "올해 벚꽃이 정말 예뻐요."
+  },
+  {
+    "id": 1804,
+    "english": "When do the autumn leaves peak?",
+    "korean": "단풍이 언제 절정이에요?"
+  },
+  {
+    "id": 1809,
+    "english": "Summer here is very hot and humid.",
+    "korean": "여름이 정말 덥고 습해요."
+  },
+  {
+    "id": 1810,
+    "english": "The winter here is dry and cold.",
+    "korean": "겨울이 건조하고 추워요."
+  },
+  {
+    "id": 1811,
+    "english": "I love spring in Korea.",
+    "korean": "한국의 봄이 정말 좋아요."
+  },
+  {
+    "id": 1812,
+    "english": "The rainy season just started.",
+    "korean": "장마철이 막 시작됐어요."
+  },
+  {
+    "id": 1813,
+    "english": "There was a heavy storm last night.",
+    "korean": "어젯밤에 폭풍이 심했어요."
+  },
+  {
+    "id": 1912,
+    "english": "When is Chuseok this year?",
+    "korean": "올해 추석이 언제예요?"
+  },
+  {
+    "id": 1913,
+    "english": "When is Seollal this year?",
+    "korean": "올해 설날이 언제예요?"
+  },
+  {
+    "id": 1920,
+    "english": "Is there a holiday next week?",
+    "korean": "다음 주에 공휴일이 있어요?"
+  },
+  {
+    "id": 2017,
+    "english": "The weather is perfect today.",
+    "korean": "오늘 날씨가 딱 좋아요."
+  },
+  {
+    "id": 2229,
+    "english": "Should I bring an umbrella?",
+    "korean": "우산 가져가야 해요?"
+  },
+  {
+    "id": 2230,
+    "english": "It is perfect hoodie weather.",
+    "korean": "후드티 입기 좋은 날씨네요."
+  },
+  {
+    "id": 2232,
+    "english": "The wind is really strong today.",
+    "korean": "오늘 바람이 정말 세요."
+  },
+  {
+    "id": 2233,
+    "english": "It is foggy this morning.",
+    "korean": "오늘 아침에 안개가 껴요."
+  },
+  {
+    "id": 2234,
+    "english": "Snow is forecast for tomorrow.",
+    "korean": "내일 눈이 올 예보예요."
+  },
+  {
+    "id": 2236,
+    "english": "I should leave earlier due to snow.",
+    "korean": "눈 때문에 일찍 출발해야겠어요."
+  },
+  {
+    "id": 2240,
+    "english": "I love when the weather is like this.",
+    "korean": "이런 날씨가 정말 좋아요."
+  },
+  {
+    "id": 2449,
+    "english": "I visited Anapji Pond last weekend.",
+    "korean": "지난 주말에 안압지에 갔다 왔어요."
+  },
+  {
+    "id": 2458,
+    "english": "I went to Gampo Beach last week.",
+    "korean": "지난주에 감포 해수욕장에 갔어요."
+  },
+  {
+    "id": 2558,
+    "english": "The temperature is too high for this process.",
+    "korean": "이 공정에서 온도가 너무 높아요."
+  },
+  {
+    "id": 2644,
+    "english": "Gyeongju in autumn is incredibly beautiful.",
+    "korean": "가을 경주가 정말 아름다워요."
+  },
+  {
+    "id": 2649,
+    "english": "I want to explore more of Gyeongju this weekend.",
+    "korean": "이번 주말에 경주를 더 돌아보고 싶어요."
+  },
+  {
+    "id": 2666,
+    "english": "I meditate every morning for ten minutes.",
+    "korean": "매일 아침 10분씩 명상해요."
+  },
+  {
+    "id": 3007,
+    "english": "I came here last week too.",
+    "korean": "지난주에도 왔었어요."
+  },
+  {
+    "id": 3072,
+    "english": "Let me put it in my calendar.",
+    "korean": "달력에 적어놓을게요."
+  },
+  {
+    "id": 3074,
+    "english": "I scheduled it for next week.",
+    "korean": "다음 주로 일정을 잡았어요."
+  },
+  {
+    "id": 3174,
+    "english": "Throw caution to the wind.",
+    "korean": "위험을 무릅쓰고 해봐요."
+  },
+  {
+    "id": 3190,
+    "english": "I started journaling this month.",
+    "korean": "이번 달부터 일기를 쓰기 시작했어요."
+  },
+  {
+    "id": 3192,
+    "english": "I set a goal to read one book a month.",
+    "korean": "한 달에 한 권 읽는 게 목표예요."
+  },
+  {
+    "id": 3280,
+    "english": "The weekend went by too fast.",
+    "korean": "주말이 너무 빨리 지나갔어요."
+  },
+  {
+    "id": 3327,
+    "english": "Do you know what time it is?",
+    "korean": "지금 몇 시인지 알아요?"
+  },
+  {
+    "id": 3329,
+    "english": "Do you think it will rain today?",
+    "korean": "오늘 비 올 것 같아요?"
+  },
+  {
+    "id": 3344,
+    "english": "I survived another Monday.",
+    "korean": "또 월요일을 버텨냈어요."
+  },
+  {
+    "id": 3346,
+    "english": "TGIF thank goodness it is Friday.",
+    "korean": "드디어 금요일이에요."
+  },
+  {
+    "id": 3349,
+    "english": "I need this weekend so badly.",
+    "korean": "이번 주말이 정말 필요해요."
+  },
+  {
+    "id": 3415,
+    "english": "The sea trial is scheduled for Friday.",
+    "korean": "금요일에 시운전이 예정되어 있어요."
+  },
+  {
+    "id": 3471,
+    "english": "I overspent last month.",
+    "korean": "지난달에 너무 많이 썼어요."
+  },
+  {
+    "id": 3472,
+    "english": "I am trying to save more this month.",
+    "korean": "이번 달에 더 많이 저축하려고 해요."
+  },
+  {
+    "id": 3630,
+    "english": "When are you free this week?",
+    "korean": "이번 주에 언제 시간 있어요?"
+  },
+  {
+    "id": 3631,
+    "english": "How about Saturday evening?",
+    "korean": "토요일 저녁은 어때요?"
+  },
+  {
+    "id": 3644,
+    "english": "Monday comes too fast.",
+    "korean": "월요일이 너무 빨리 와요."
+  },
+  {
+    "id": 3645,
+    "english": "Where did the weekend go?",
+    "korean": "주말이 어디 갔는지 모르겠어요?"
+  },
+  {
+    "id": 3648,
+    "english": "I have five vacation days left this year.",
+    "korean": "올해 연차가 5일 남았어요."
+  },
+  {
+    "id": 3764,
+    "english": "Give me five more minutes.",
+    "korean": "5분만 더 주세요."
+  },
+  {
+    "id": 3865,
+    "english": "It only takes twenty minutes on foot.",
+    "korean": "걸어서 20분밖에 안 걸려요."
+  },
+  {
+    "id": 3866,
+    "english": "The weather is nice today.",
+    "korean": "오늘 날씨가 좋네요."
+  },
+  {
+    "id": 3882,
+    "english": "We have thirty minutes left.",
+    "korean": "30분 남았어요."
+  },
+  {
+    "id": 3905,
+    "english": "What are you doing this weekend?",
+    "korean": "이번 주말에 뭐 해요?"
+  },
+  {
+    "id": 3907,
+    "english": "I want to rest this weekend.",
+    "korean": "이번 주말엔 쉬고 싶어요."
+  },
+  {
+    "id": 3923,
+    "english": "Let me know by Friday.",
+    "korean": "금요일까지 알려줘요."
+  },
+  {
+    "id": 3933,
+    "english": "The first month was the hardest.",
+    "korean": "첫 달이 제일 힘들었어요."
+  },
+  {
+    "id": 3976,
+    "english": "What time do we start tomorrow?",
+    "korean": "내일 몇 시에 시작해요?"
+  },
+  {
+    "id": 4025,
+    "english": "Spring here is very beautiful.",
+    "korean": "여기 봄이 정말 아름다워요."
+  },
+  {
+    "id": 4026,
+    "english": "Winter is colder than I expected.",
+    "korean": "겨울이 생각보다 추워요."
+  },
+  {
+    "id": 4035,
+    "english": "I will be back in five minutes.",
+    "korean": "5분 후에 올게요."
+  },
+  {
+    "id": 4050,
+    "english": "Almost the end of the month.",
+    "korean": "월말이 거의 다 됐어요."
+  },
+  {
+    "id": 4055,
+    "english": "It might rain later.",
+    "korean": "나중에 비가 올 수도 있어요."
+  },
+  {
+    "id": 4056,
+    "english": "Do you have an umbrella?",
+    "korean": "우산 있어요?"
+  },
+  {
+    "id": 4057,
+    "english": "I forgot my umbrella.",
+    "korean": "우산을 깜빡했어요."
+  },
+  {
+    "id": 4059,
+    "english": "The rain stopped now.",
+    "korean": "이제 비가 그쳤어요."
+  },
+  {
+    "id": 4065,
+    "english": "The weather forecast says snow tomorrow.",
+    "korean": "내일 눈이 온다고 해요."
+  },
+  {
+    "id": 4066,
+    "english": "I hope it does not snow too much.",
+    "korean": "눈이 너무 많이 안 왔으면 좋겠어요."
+  },
+  {
+    "id": 4245,
+    "english": "Where do I clock in?",
+    "korean": "출퇴근 체크 어디서 해요?"
+  },
+  {
+    "id": 4251,
+    "english": "Give me two minutes.",
+    "korean": "2분만 주세요."
+  },
+  {
+    "id": 4354,
+    "english": "Ten more minutes.",
+    "korean": "10분만 더요."
+  },
+  {
+    "id": 4444,
+    "english": "It is foggy this morning.",
+    "korean": "오늘 아침에 안개가 꼈어요."
+  },
+  {
+    "id": 4449,
+    "english": "Good weather for working outside.",
+    "korean": "밖에서 일하기 좋은 날씨예요."
+  },
+  {
+    "id": 4454,
+    "english": "The wind is strong today.",
+    "korean": "오늘 바람이 강해요."
+  },
+  {
+    "id": 4456,
+    "english": "Do not leave things out in the wind.",
+    "korean": "바람에 물건을 내두지 마요."
+  },
+  {
+    "id": 4457,
+    "english": "It might rain this afternoon.",
+    "korean": "오후에 비가 올 수도 있어요."
+  },
+  {
+    "id": 4458,
+    "english": "Let us finish before the rain comes.",
+    "korean": "비 오기 전에 끝내요."
+  },
+  {
+    "id": 4477,
+    "english": "How was your weekend?",
+    "korean": "주말 어땠어요?"
+  },
+  {
+    "id": 4493,
+    "english": "Already Monday again.",
+    "korean": "벌써 또 월요일이에요."
+  },
+  {
+    "id": 4495,
+    "english": "Let us get through this week.",
+    "korean": "이번 주를 버텨봐요."
+  },
+  {
+    "id": 4656,
+    "english": "About thirty more minutes.",
+    "korean": "30분 정도 더요."
+  },
+  {
+    "id": 4693,
+    "english": "Five minutes is not enough.",
+    "korean": "5분은 너무 짧아요."
+  },
+  {
+    "id": 4865,
+    "english": "This month I saved more than last month.",
+    "korean": "이번 달에 지난달보다 더 저축했어요."
+  },
+  {
+    "id": 4867,
+    "english": "Every month I try to do better.",
+    "korean": "매달 더 잘하려고 해요."
+  },
+  {
+    "id": 5034,
+    "english": "You should layer up in this weather.",
+    "korean": "이 날씨엔 옷을 겹쳐 입어야 해요."
+  },
+  {
+    "id": 5074,
+    "english": "We deserve it after this week.",
+    "korean": "이번 주 일하고 나면 당연히 받아야 해요."
+  },
+  {
+    "id": 5090,
+    "english": "We go there next week.",
+    "korean": "다음 주에 우리가 거기 가요."
+  },
+  {
+    "id": 5130,
+    "english": "We should go this Friday after work.",
+    "korean": "이번 금요일 퇴근 후에 가요."
+  },
+  {
+    "id": 5138,
+    "english": "Friday cannot come fast enough.",
+    "korean": "금요일이 빨리 왔으면 좋겠어요."
+  },
+  {
+    "id": 5205,
+    "english": "Done in ten minutes.",
+    "korean": "10분이면 끝나요."
+  },
+  {
+    "id": 5232,
+    "english": "Can you believe it is Friday already?",
+    "korean": "벌써 금요일이라니 믿기지 않아요?"
+  },
+  {
+    "id": 5233,
+    "english": "This week went so fast.",
+    "korean": "이번 주가 정말 빠르게 지나갔어요."
+  },
+  {
+    "id": 5236,
+    "english": "Then the weekend.",
+    "korean": "그러면 주말이에요."
+  },
+  {
+    "id": 5243,
+    "english": "Do not think about work over the weekend.",
+    "korean": "주말에 일 생각하지 마요."
+  },
+  {
+    "id": 5247,
+    "english": "We have another big week next week.",
+    "korean": "다음 주도 바쁜 주예요."
+  },
+  {
+    "id": 5279,
+    "english": "Thirty more minutes.",
+    "korean": "30분 더요."
+  },
+  {
+    "id": 5356,
+    "english": "I will go this weekend.",
+    "korean": "이번 주말에 갈게요."
+  },
+  {
+    "id": 5361,
+    "english": "It started raining.",
+    "korean": "비가 오기 시작했어요."
+  },
+  {
+    "id": 5364,
+    "english": "That was us last week.",
+    "korean": "지난주엔 우리가 그랬잖아요."
+  },
+  {
+    "id": 5366,
+    "english": "At least we had rain gear.",
+    "korean": "그래도 우비가 있었잖아요."
+  },
+  {
+    "id": 5395,
+    "english": "Monday already.",
+    "korean": "벌써 월요일이에요."
+  },
+  {
+    "id": 5396,
+    "english": "The weekend was too short.",
+    "korean": "주말이 너무 짧았어요."
+  },
+  {
+    "id": 5400,
+    "english": "Then another weekend.",
+    "korean": "그러면 또 주말이잖아요."
+  },
+  {
+    "id": 5402,
+    "english": "Wednesday is the middle of the week.",
+    "korean": "수요일이 주 중간이에요."
+  },
+  {
+    "id": 5405,
+    "english": "Thursday means tomorrow is Friday.",
+    "korean": "목요일이면 내일이 금요일이에요."
+  },
+  {
+    "id": 5407,
+    "english": "Friday afternoon is the best time of the week.",
+    "korean": "금요일 오후가 최고의 시간이에요."
+  },
+  {
+    "id": 5432,
+    "english": "Fifteen minutes left.",
+    "korean": "15분 남았어요."
+  },
+  {
+    "id": 5454,
+    "english": "About a month to feel comfortable.",
+    "korean": "편안해지는 데 한 달 정도요."
+  },
+  {
+    "id": 5455,
+    "english": "Okay I can handle a month.",
+    "korean": "한 달이면 견딜 수 있겠어요."
+  },
+  {
+    "id": 5484,
+    "english": "Did you go anywhere this weekend?",
+    "korean": "이번 주말에 어디 갔어요?"
+  },
+  {
+    "id": 5536,
+    "english": "What time is it now?",
+    "korean": "지금 몇 시예요?"
+  },
+  {
+    "id": 5537,
+    "english": "Already two o clock.",
+    "korean": "벌써 두 시예요."
+  },
+  {
+    "id": 5589,
+    "english": "The team was great this week.",
+    "korean": "이번 주 팀이 정말 좋았어요."
+  },
+  {
+    "id": 5626,
+    "english": "Almost the weekend.",
+    "korean": "주말이 거의 다 됐어요."
+  },
+  {
+    "id": 5740,
+    "english": "Let us wait a few minutes.",
+    "korean": "몇 분만 기다려요."
+  },
+  {
+    "id": 5742,
+    "english": "The weather is nice enough.",
+    "korean": "날씨가 좋으니까요."
+  },
+  {
+    "id": 5805,
+    "english": "Meeting in ten minutes.",
+    "korean": "10분 후에 회의예요."
+  },
+  {
+    "id": 5842,
+    "english": "Two minutes.",
+    "korean": "2분이요."
+  },
+  {
+    "id": 6038,
+    "english": "I have plans this Saturday.",
+    "korean": "이번 토요일에 계획이 있어요."
+  },
+  {
+    "id": 6059,
+    "english": "Five minutes is enough.",
+    "korean": "5분이면 충분해요."
+  },
+  {
+    "id": 6086,
+    "english": "After the first month I think.",
+    "korean": "첫 달 이후부터인 것 같아요."
+  },
+  {
+    "id": 6101,
+    "english": "I improved this week.",
+    "korean": "이번 주에 실력이 늘었어요."
+  },
+  {
+    "id": 6415,
+    "english": "It's cold today.",
+    "korean": "오늘 추워요."
+  },
+  {
+    "id": 6416,
+    "english": "The weather is nice.",
+    "korean": "날씨가 좋아요."
+  },
+  {
+    "id": 6417,
+    "english": "It's so humid.",
+    "korean": "너무 습해요."
+  },
+  {
+    "id": 6418,
+    "english": "It snowed last night.",
+    "korean": "어젯밤에 눈이 왔어요."
+  },
+  {
+    "id": 6419,
+    "english": "What time do we meet?",
+    "korean": "몇 시에 만나요?"
+  },
+  {
+    "id": 6420,
+    "english": "It's already late.",
+    "korean": "벌써 늦었어요."
+  },
+  {
+    "id": 6421,
+    "english": "See you at seven.",
+    "korean": "일곱 시에 봬요."
+  },
+  {
+    "id": 6422,
+    "english": "Please bring an umbrella.",
+    "korean": "우산 가져가세요."
+  },
+  {
+    "id": 6733,
+    "english": "What day is it today?",
+    "korean": "오늘 무슨 요일이에요?"
+  },
+  {
+    "id": 6734,
+    "english": "What is today's date?",
+    "korean": "오늘 며칠이에요?"
+  },
+  {
+    "id": 6735,
+    "english": "It's three o'clock.",
+    "korean": "세 시예요."
+  },
+  {
+    "id": 6736,
+    "english": "It's half past five.",
+    "korean": "다섯 시 반이에요."
+  },
+  {
+    "id": 6737,
+    "english": "See you tomorrow.",
+    "korean": "내일 봐요."
+  },
+  {
+    "id": 6738,
+    "english": "I'll be there in ten minutes.",
+    "korean": "십 분 후에 도착해요."
+  },
+  {
+    "id": 6739,
+    "english": "I'm free on Sunday.",
+    "korean": "일요일에 시간 있어요."
+  },
+  {
+    "id": 6740,
+    "english": "I'm busy this weekend.",
+    "korean": "이번 주말에 바빠요."
+  },
+  {
+    "id": 6741,
+    "english": "Today is a holiday.",
+    "korean": "오늘은 휴일이에요."
+  },
+  {
+    "id": 6742,
+    "english": "It's raining.",
+    "korean": "비가 와요."
+  },
+  {
+    "id": 6743,
+    "english": "It's sunny.",
+    "korean": "날씨가 맑아요."
+  },
+  {
+    "id": 6744,
+    "english": "It's windy.",
+    "korean": "바람이 불어요."
+  },
+  {
+    "id": 6745,
+    "english": "It's very hot today.",
+    "korean": "오늘 너무 더워요."
+  },
+  {
+    "id": 6746,
+    "english": "It's freezing today.",
+    "korean": "오늘 너무 추워요."
+  },
+  {
+    "id": 6747,
+    "english": "How is the weather tomorrow?",
+    "korean": "내일 날씨 어때요?"
+  },
+  {
+    "id": 6748,
+    "english": "Will it rain tomorrow?",
+    "korean": "내일 비 와요?"
+  },
+  {
+    "id": 6749,
+    "english": "It's the rainy season.",
+    "korean": "장마철이에요."
+  },
+  {
+    "id": 6750,
+    "english": "The fine dust is bad today.",
+    "korean": "오늘 미세먼지가 심해요."
+  },
+  {
+    "id": 6751,
+    "english": "There is yellow dust today.",
+    "korean": "오늘 황사가 심해요."
+  },
+  {
+    "id": 6752,
+    "english": "Autumn is my favorite season.",
+    "korean": "가을을 제일 좋아해요."
+  },
+  {
+    "id": 6753,
+    "english": "Winter in Korea is very cold.",
+    "korean": "한국의 겨울은 정말 추워요."
+  },
+  {
+    "id": 6754,
+    "english": "My birthday is in March.",
+    "korean": "제 생일은 3월이에요."
+  },
+  {
+    "id": 6755,
+    "english": "It's October 8th.",
+    "korean": "10월 8일이에요."
+  },
+  {
+    "id": 6756,
+    "english": "I came to Korea last year.",
+    "korean": "작년에 한국에 왔어요."
+  },
+  {
+    "id": 6757,
+    "english": "How long have you been in Korea?",
+    "korean": "한국에 온 지 얼마나 됐어요?"
+  },
+  {
+    "id": 6758,
+    "english": "I've been here for one year.",
+    "korean": "여기 온 지 일 년 됐어요."
+  },
+  {
+    "id": 6759,
+    "english": "What time does it close?",
+    "korean": "몇 시에 닫아요?"
+  },
+  {
+    "id": 6760,
+    "english": "I'm one hour late.",
+    "korean": "한 시간 늦었어요."
+  }
+]

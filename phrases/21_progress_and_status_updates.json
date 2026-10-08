@@ -1,0 +1,727 @@
+[
+  {
+    "id": 237,
+    "english": "We're almost there.",
+    "korean": "거의 다 왔어요."
+  },
+  {
+    "id": 241,
+    "english": "Still undecided.",
+    "korean": "아직 안 정해졌어요."
+  },
+  {
+    "id": 332,
+    "english": "I don't like talking right now.",
+    "korean": "지금은 얘기하고 싶지 않아요."
+  },
+  {
+    "id": 343,
+    "english": "One more please.",
+    "korean": "하나 더 주세요."
+  },
+  {
+    "id": 420,
+    "english": "It will get better soon.",
+    "korean": "곧 좋아질 겁니다."
+  },
+  {
+    "id": 461,
+    "english": "I almost forgot.",
+    "korean": "까먹을 뻔했네요."
+  },
+  {
+    "id": 464,
+    "english": "You don't have to finish it all.",
+    "korean": "다 드시지 않으셔도 돼요."
+  },
+  {
+    "id": 474,
+    "english": "Here's another one.",
+    "korean": "여기 또 있습니다."
+  },
+  {
+    "id": 542,
+    "english": "I'm almost finished.",
+    "korean": "끝났어요 거의 다 끝났어요."
+  },
+  {
+    "id": 570,
+    "english": "It's been a while since we met.",
+    "korean": "우리 만난 지 오래됐어요."
+  },
+  {
+    "id": 642,
+    "english": "I don't feel like talking right now.",
+    "korean": "지금은 얘기하고 싶지 않아요."
+  },
+  {
+    "id": 692,
+    "english": "The project is almost done.",
+    "korean": "프로젝트가 거의 끝났어요."
+  },
+  {
+    "id": 804,
+    "english": "I haven't received my order yet.",
+    "korean": "주문한 게 아직 안 나왔어요."
+  },
+  {
+    "id": 823,
+    "english": "One more of the same please.",
+    "korean": "같은 걸로 하나 더 주세요."
+  },
+  {
+    "id": 852,
+    "english": "I have been feeling weak lately.",
+    "korean": "요즘 몸이 약해진 것 같아요."
+  },
+  {
+    "id": 1245,
+    "english": "I can't believe it's already December.",
+    "korean": "벌써 12월이라니 믿기지 않아요."
+  },
+  {
+    "id": 1529,
+    "english": "I have been waiting for an hour.",
+    "korean": "한 시간 기다렸어요."
+  },
+  {
+    "id": 1576,
+    "english": "I could not have done it without you.",
+    "korean": "당신 없이는 못 했을 거예요."
+  },
+  {
+    "id": 1579,
+    "english": "You are always on time.",
+    "korean": "항상 시간을 잘 지키시네요."
+  },
+  {
+    "id": 1658,
+    "english": "It is enough for now.",
+    "korean": "충분해요."
+  },
+  {
+    "id": 1889,
+    "english": "I am more confident than before.",
+    "korean": "전보다 더 자신감이 생겼어요."
+  },
+  {
+    "id": 1943,
+    "english": "The same style as before please.",
+    "korean": "전과 같은 스타일로 해 주세요."
+  },
+  {
+    "id": 2058,
+    "english": "The problem has been resolved.",
+    "korean": "문제가 해결됐어요."
+  },
+  {
+    "id": 2138,
+    "english": "I have been feeling fatigued lately.",
+    "korean": "요즘 계속 피곤해요."
+  },
+  {
+    "id": 2268,
+    "english": "I am about to go out.",
+    "korean": "막 나가려던 참이에요."
+  },
+  {
+    "id": 2272,
+    "english": "I have not done it yet.",
+    "korean": "아직 안 했어요."
+  },
+  {
+    "id": 2273,
+    "english": "I am still doing it.",
+    "korean": "아직 하고 있어요."
+  },
+  {
+    "id": 2274,
+    "english": "I am done with it.",
+    "korean": "다 했어요."
+  },
+  {
+    "id": 2494,
+    "english": "I have not heard of that before.",
+    "korean": "그건 처음 들어봐요."
+  },
+  {
+    "id": 2615,
+    "english": "I have been feeling very anxious lately.",
+    "korean": "요즘 불안감이 심해요."
+  },
+  {
+    "id": 2697,
+    "english": "You never know until you try.",
+    "korean": "해보기 전에는 모르는 거예요."
+  },
+  {
+    "id": 2759,
+    "english": "Strike while the iron is hot.",
+    "korean": "쇠뿔도 단김에 빼라는 말이 있어요."
+  },
+  {
+    "id": 2764,
+    "english": "Easier said than done.",
+    "korean": "말이 쉽지 행동이 어려워요."
+  },
+  {
+    "id": 2816,
+    "english": "I am so done with this.",
+    "korean": "진짜 지쳤어요."
+  },
+  {
+    "id": 2895,
+    "english": "I would have done the same thing.",
+    "korean": "저도 그렇게 했을 것 같아요."
+  },
+  {
+    "id": 3077,
+    "english": "I always leave things until the last minute.",
+    "korean": "항상 마지막까지 미루는 편이에요."
+  },
+  {
+    "id": 3130,
+    "english": "I am in my feelings right now.",
+    "korean": "지금 감성에 젖어있어요."
+  },
+  {
+    "id": 3145,
+    "english": "I am going through it right now.",
+    "korean": "지금 힘든 시간을 보내고 있어요."
+  },
+  {
+    "id": 3212,
+    "english": "Hear me out before you judge.",
+    "korean": "판단하기 전에 일단 들어봐요."
+  },
+  {
+    "id": 3225,
+    "english": "Before I forget.",
+    "korean": "잊기 전에요."
+  },
+  {
+    "id": 3234,
+    "english": "I am in heaven right now.",
+    "korean": "지금 천국이에요."
+  },
+  {
+    "id": 3279,
+    "english": "I am ready to tackle the week.",
+    "korean": "이제 한 주를 버틸 준비가 됐어요."
+  },
+  {
+    "id": 3306,
+    "english": "I cannot even right now.",
+    "korean": "지금 이런 상황이 말이 안 돼요."
+  },
+  {
+    "id": 3313,
+    "english": "I spoke too soon.",
+    "korean": "너무 일찍 말했어요."
+  },
+  {
+    "id": 3353,
+    "english": "The finish line is in sight.",
+    "korean": "다 끝나가요."
+  },
+  {
+    "id": 3375,
+    "english": "The plasma cutter is ready.",
+    "korean": "플라즈마 절단기가 준비됐어요."
+  },
+  {
+    "id": 3385,
+    "english": "The fall protection is secured.",
+    "korean": "추락 방지 장치가 고정됐어요."
+  },
+  {
+    "id": 3451,
+    "english": "I finally fell asleep around two.",
+    "korean": "겨우 두 시쯤 잠들었어요."
+  },
+  {
+    "id": 3469,
+    "english": "Payday is almost here.",
+    "korean": "월급날이 거의 다 됐어요."
+  },
+  {
+    "id": 3492,
+    "english": "I am already counting down the days.",
+    "korean": "벌써 날짜를 세고 있어요."
+  },
+  {
+    "id": 3501,
+    "english": "My legs are killing me after leg day.",
+    "korean": "하체 운동 후에 다리가 정말 아파요."
+  },
+  {
+    "id": 3597,
+    "english": "The ballast tanks are being installed.",
+    "korean": "밸러스트 탱크가 설치되고 있어요."
+  },
+  {
+    "id": 3598,
+    "english": "The cargo hold is almost complete.",
+    "korean": "화물창이 거의 완성됐어요."
+  },
+  {
+    "id": 3612,
+    "english": "The electrical panel is being installed.",
+    "korean": "전기 패널이 설치되고 있어요."
+  },
+  {
+    "id": 3620,
+    "english": "I fell asleep before halftime.",
+    "korean": "전반전도 끝나기 전에 잠들었어요."
+  },
+  {
+    "id": 3632,
+    "english": "I have plans in the morning but free after noon.",
+    "korean": "오전에 약속이 있는데 오후엔 괜찮아요."
+  },
+  {
+    "id": 3762,
+    "english": "I am coming right now.",
+    "korean": "지금 바로 갈게요."
+  },
+  {
+    "id": 3763,
+    "english": "I am almost done.",
+    "korean": "거의 다 됐어요."
+  },
+  {
+    "id": 3860,
+    "english": "I almost overslept.",
+    "korean": "거의 늦잠 잘 뻔했어요."
+  },
+  {
+    "id": 3906,
+    "english": "I have no plans yet.",
+    "korean": "아직 계획이 없어요."
+  },
+  {
+    "id": 3999,
+    "english": "Almost there just a bit more.",
+    "korean": "거의 다 왔어요 조금만 더요."
+  },
+  {
+    "id": 4081,
+    "english": "All done.",
+    "korean": "다 됐어요."
+  },
+  {
+    "id": 4109,
+    "english": "On three, ready.",
+    "korean": "셋에 들어요 준비됐어요."
+  },
+  {
+    "id": 4222,
+    "english": "And it is not finished yet.",
+    "korean": "그리고 아직 끝나지 않았어요."
+  },
+  {
+    "id": 4271,
+    "english": "That looks right now.",
+    "korean": "이제 맞아 보여요."
+  },
+  {
+    "id": 4319,
+    "english": "Pretty good so far.",
+    "korean": "지금까지는 꽤 좋아요."
+  },
+  {
+    "id": 4324,
+    "english": "Still a lot left to do.",
+    "korean": "아직 할 일이 많이 남았어요."
+  },
+  {
+    "id": 4332,
+    "english": "Okay I am ready now.",
+    "korean": "자 이제 준비됐어요."
+  },
+  {
+    "id": 4353,
+    "english": "Almost time to go.",
+    "korean": "거의 다 됐네요."
+  },
+  {
+    "id": 4356,
+    "english": "I still have a little left.",
+    "korean": "아직 조금 남았어요."
+  },
+  {
+    "id": 4430,
+    "english": "Almost you are close.",
+    "korean": "거의 다 됐어요 가까워요."
+  },
+  {
+    "id": 4448,
+    "english": "It is a nice day finally.",
+    "korean": "드디어 좋은 날씨네요."
+  },
+  {
+    "id": 4500,
+    "english": "We all look after each other.",
+    "korean": "우리 서로 챙겨요."
+  },
+  {
+    "id": 4557,
+    "english": "Consider it done.",
+    "korean": "된 거나 마찬가지예요."
+  },
+  {
+    "id": 4587,
+    "english": "I do not panic as much as before.",
+    "korean": "전보다 당황하지 않아요."
+  },
+  {
+    "id": 4641,
+    "english": "I ran to make it on time.",
+    "korean": "제때 오려고 뛰었어요."
+  },
+  {
+    "id": 4663,
+    "english": "Five more pieces and we are done.",
+    "korean": "다섯 개만 더 하면 끝나요."
+  },
+  {
+    "id": 4675,
+    "english": "I have been trying for a while.",
+    "korean": "한동안 해봤는데요."
+  },
+  {
+    "id": 4760,
+    "english": "One more time.",
+    "korean": "한 번 더요."
+  },
+  {
+    "id": 4765,
+    "english": "Still not right.",
+    "korean": "아직 안 맞아요."
+  },
+  {
+    "id": 4767,
+    "english": "Almost perfect.",
+    "korean": "거의 완벽해요."
+  },
+  {
+    "id": 4857,
+    "english": "I have been waiting for this.",
+    "korean": "이날을 기다렸어요."
+  },
+  {
+    "id": 5004,
+    "english": "Tomorrow is another chance to do great.",
+    "korean": "내일은 잘 할 수 있는 또 다른 기회예요."
+  },
+  {
+    "id": 5049,
+    "english": "Together we finished it.",
+    "korean": "같이 끝냈어요."
+  },
+  {
+    "id": 5089,
+    "english": "They are working there right now.",
+    "korean": "지금 거기서 작업 중이에요."
+  },
+  {
+    "id": 5099,
+    "english": "Me too even after a long time.",
+    "korean": "저도요 오래 됐어도 그래요."
+  },
+  {
+    "id": 5120,
+    "english": "We are done here.",
+    "korean": "여기는 다 됐어요."
+  },
+  {
+    "id": 5169,
+    "english": "You still miss it but you cope better.",
+    "korean": "여전히 그립지만 더 잘 대처하게 돼요."
+  },
+  {
+    "id": 5178,
+    "english": "You seem happier lately.",
+    "korean": "요즘 더 행복해 보여요."
+  },
+  {
+    "id": 5198,
+    "english": "Not quite almost there.",
+    "korean": "아직이요 거의 다 됐어요."
+  },
+  {
+    "id": 5213,
+    "english": "You start seeing improvement after two weeks.",
+    "korean": "2주 후면 발전을 보기 시작해요."
+  },
+  {
+    "id": 5235,
+    "english": "One more day left.",
+    "korean": "하루만 더요."
+  },
+  {
+    "id": 5240,
+    "english": "After a week like this.",
+    "korean": "이런 주 다음에는요."
+  },
+  {
+    "id": 5254,
+    "english": "Same I am still half asleep.",
+    "korean": "저도요 아직 반쯤 자고 있어요."
+  },
+  {
+    "id": 5303,
+    "english": "Already planning to.",
+    "korean": "이미 그럴 생각이었어요."
+  },
+  {
+    "id": 5338,
+    "english": "We finish what we started yesterday.",
+    "korean": "어제 시작한 걸 끝내요."
+  },
+  {
+    "id": 5359,
+    "english": "Break is almost over.",
+    "korean": "쉬는 시간이 거의 끝났어요."
+  },
+  {
+    "id": 5389,
+    "english": "I could not have done it without you.",
+    "korean": "당신 없었으면 못 했을 거예요."
+  },
+  {
+    "id": 5436,
+    "english": "Full and ready.",
+    "korean": "배부르고 준비됐어요."
+  },
+  {
+    "id": 5445,
+    "english": "This is where I belong right now.",
+    "korean": "지금 제가 있어야 할 곳이에요."
+  },
+  {
+    "id": 5467,
+    "english": "Tomorrow is another good day.",
+    "korean": "내일도 좋은 날이에요."
+  },
+  {
+    "id": 5545,
+    "english": "Before you know it we are done.",
+    "korean": "어느새 끝나 있을 거예요."
+  },
+  {
+    "id": 5572,
+    "english": "Easier said than done.",
+    "korean": "말이 쉽지요."
+  },
+  {
+    "id": 5580,
+    "english": "Here it is back already.",
+    "korean": "벌써 돌려줬네요."
+  },
+  {
+    "id": 5630,
+    "english": "We look after each other here.",
+    "korean": "여기서 서로 챙겨요."
+  },
+  {
+    "id": 5658,
+    "english": "I know but we are almost past it.",
+    "korean": "알아요 근데 거의 지나가고 있어요."
+  },
+  {
+    "id": 5692,
+    "english": "Already.",
+    "korean": "벌써요."
+  },
+  {
+    "id": 5710,
+    "english": "Another day done.",
+    "korean": "또 하루가 끝났어요."
+  },
+  {
+    "id": 5843,
+    "english": "Almost.",
+    "korean": "거의요."
+  },
+  {
+    "id": 5844,
+    "english": "Waiting.",
+    "korean": "기다리고 있어요."
+  },
+  {
+    "id": 5887,
+    "english": "Another week is behind us.",
+    "korean": "또 한 주가 지나갔어요."
+  },
+  {
+    "id": 5889,
+    "english": "Before you know it a year passes.",
+    "korean": "어느새 일 년이 지나가요."
+  },
+  {
+    "id": 5963,
+    "english": "You have done this before.",
+    "korean": "전에 해봤잖아요."
+  },
+  {
+    "id": 5970,
+    "english": "That is hard to do well done.",
+    "korean": "그게 힘들잖아요 잘 했어요."
+  },
+  {
+    "id": 5972,
+    "english": "But I finally did it.",
+    "korean": "근데 결국 했어요."
+  },
+  {
+    "id": 6018,
+    "english": "Ready on three.",
+    "korean": "셋에 해요 준비됐어요."
+  },
+  {
+    "id": 6028,
+    "english": "One good day leads to another.",
+    "korean": "하루 잘 하면 다음 날도 잘 되잖아요."
+  },
+  {
+    "id": 6079,
+    "english": "Still I appreciate it.",
+    "korean": "그래도 감사해요."
+  },
+  {
+    "id": 6092,
+    "english": "Finally your old ones had holes.",
+    "korean": "드디어요 예전 것에 구멍이 났잖아요."
+  },
+  {
+    "id": 6105,
+    "english": "Soon it will feel automatic.",
+    "korean": "곧 자동으로 느껴질 거예요."
+  },
+  {
+    "id": 6108,
+    "english": "You are already halfway there.",
+    "korean": "이미 반쯤 왔어요."
+  },
+  {
+    "id": 6124,
+    "english": "Not yet doing it now.",
+    "korean": "아직이요 지금 하고 있어요."
+  },
+  {
+    "id": 6527,
+    "english": "I'm almost finished.",
+    "korean": "거의 다 했어요."
+  },
+  {
+    "id": 6528,
+    "english": "It's not ready yet.",
+    "korean": "아직 준비 안 됐어요."
+  },
+  {
+    "id": 6529,
+    "english": "It's taking a little longer.",
+    "korean": "조금 더 걸려요."
+  },
+  {
+    "id": 6954,
+    "english": "I'm on my way.",
+    "korean": "가는 중이에요."
+  },
+  {
+    "id": 6955,
+    "english": "I'm working on it.",
+    "korean": "하는 중이에요."
+  },
+  {
+    "id": 6956,
+    "english": "It's not finished yet.",
+    "korean": "아직 안 끝났어요."
+  },
+  {
+    "id": 6957,
+    "english": "It's finished.",
+    "korean": "끝났어요."
+  },
+  {
+    "id": 6958,
+    "english": "It's in progress.",
+    "korean": "진행 중이에요."
+  },
+  {
+    "id": 6959,
+    "english": "I'll finish it by tomorrow.",
+    "korean": "내일까지 끝낼게요."
+  },
+  {
+    "id": 6960,
+    "english": "I'll report back to you.",
+    "korean": "다시 보고드릴게요."
+  },
+  {
+    "id": 6961,
+    "english": "I'll let you know when it's done.",
+    "korean": "끝나면 알려 드릴게요."
+  },
+  {
+    "id": 6962,
+    "english": "Everything is going well.",
+    "korean": "다 잘 되고 있어요."
+  },
+  {
+    "id": 6963,
+    "english": "A problem came up.",
+    "korean": "문제가 생겼어요."
+  },
+  {
+    "id": 6964,
+    "english": "It's delayed.",
+    "korean": "지연되고 있어요."
+  },
+  {
+    "id": 6965,
+    "english": "It's ready.",
+    "korean": "준비됐어요."
+  },
+  {
+    "id": 6966,
+    "english": "I'm still waiting.",
+    "korean": "아직 기다리고 있어요."
+  },
+  {
+    "id": 6967,
+    "english": "We are on schedule.",
+    "korean": "일정대로 진행 중이에요."
+  },
+  {
+    "id": 6968,
+    "english": "We are behind schedule.",
+    "korean": "일정보다 늦어지고 있어요."
+  },
+  {
+    "id": 6969,
+    "english": "Please check the status.",
+    "korean": "진행 상황을 확인해 주세요."
+  },
+  {
+    "id": 6970,
+    "english": "I've sent it.",
+    "korean": "보냈어요."
+  },
+  {
+    "id": 6971,
+    "english": "I've received it.",
+    "korean": "받았어요."
+  },
+  {
+    "id": 6972,
+    "english": "It's under review.",
+    "korean": "검토 중이에요."
+  },
+  {
+    "id": 6973,
+    "english": "It's been approved.",
+    "korean": "승인됐어요."
+  }
+]

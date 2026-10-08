@@ -1,0 +1,937 @@
+[
+  {
+    "id": 705,
+    "english": "Which bus goes to the factory?",
+    "korean": "공장 가는 버스가 몇 번이에요?"
+  },
+  {
+    "id": 739,
+    "english": "How do I use the washing machine?",
+    "korean": "세탁기를 어떻게 사용해요?"
+  },
+  {
+    "id": 774,
+    "english": "It's defective.",
+    "korean": "불량품이에요."
+  },
+  {
+    "id": 937,
+    "english": "The air quality is poor.",
+    "korean": "공기 질이 안 좋아요."
+  },
+  {
+    "id": 1055,
+    "english": "Can I use this machine?",
+    "korean": "이 기구 써도 돼요?"
+  },
+  {
+    "id": 1218,
+    "english": "The machine stopped working.",
+    "korean": "기계가 멈췄어요."
+  },
+  {
+    "id": 1219,
+    "english": "We're running low on materials.",
+    "korean": "재료가 부족해요."
+  },
+  {
+    "id": 1226,
+    "english": "Where is the safety equipment?",
+    "korean": "안전 장비가 어디 있어요?"
+  },
+  {
+    "id": 1227,
+    "english": "I need protective gear.",
+    "korean": "보호 장비가 필요해요."
+  },
+  {
+    "id": 1228,
+    "english": "Please be careful near the machines.",
+    "korean": "기계 근처에서 조심하세요."
+  },
+  {
+    "id": 1230,
+    "english": "Please wear your safety helmet.",
+    "korean": "안전모를 착용해 주세요."
+  },
+  {
+    "id": 1306,
+    "english": "Is there a vending machine here?",
+    "korean": "여기 자판기 있어요?"
+  },
+  {
+    "id": 1322,
+    "english": "Is there a fax machine here?",
+    "korean": "여기 팩스기 있어요?"
+  },
+  {
+    "id": 1347,
+    "english": "We have a quality issue.",
+    "korean": "품질 문제가 있어요."
+  },
+  {
+    "id": 1348,
+    "english": "This product is defective.",
+    "korean": "이 제품이 불량이에요."
+  },
+  {
+    "id": 1349,
+    "english": "Please inspect this carefully.",
+    "korean": "꼼꼼하게 검사해 주세요."
+  },
+  {
+    "id": 1350,
+    "english": "The production line stopped.",
+    "korean": "생산 라인이 멈췄어요."
+  },
+  {
+    "id": 1351,
+    "english": "We need to speed up production.",
+    "korean": "생산 속도를 높여야 해요."
+  },
+  {
+    "id": 1353,
+    "english": "The measurement is wrong.",
+    "korean": "치수가 잘못됐어요."
+  },
+  {
+    "id": 1356,
+    "english": "I need safety gloves.",
+    "korean": "안전 장갑이 필요해요."
+  },
+  {
+    "id": 1357,
+    "english": "Please wear your safety shoes.",
+    "korean": "안전화를 신어 주세요."
+  },
+  {
+    "id": 1368,
+    "english": "I need a safety briefing.",
+    "korean": "안전 교육이 필요해요."
+  },
+  {
+    "id": 1369,
+    "english": "When is the next safety drill?",
+    "korean": "다음 안전 훈련이 언제예요?"
+  },
+  {
+    "id": 1374,
+    "english": "There is a jam in the machine.",
+    "korean": "기계가 걸렸어요."
+  },
+  {
+    "id": 1376,
+    "english": "The machine needs oil.",
+    "korean": "기계에 오일이 필요해요."
+  },
+  {
+    "id": 1380,
+    "english": "I don't know how to operate this machine.",
+    "korean": "이 기계 조작을 모르겠어요."
+  },
+  {
+    "id": 1498,
+    "english": "Is there a washing machine?",
+    "korean": "세탁기가 있어요?"
+  },
+  {
+    "id": 1759,
+    "english": "Does this contain nuts?",
+    "korean": "이거 견과류 들어있어요?"
+  },
+  {
+    "id": 1806,
+    "english": "The air quality is bad today.",
+    "korean": "오늘 대기질이 나빠요."
+  },
+  {
+    "id": 1822,
+    "english": "I like drawing and painting.",
+    "korean": "그림 그리는 걸 좋아해요."
+  },
+  {
+    "id": 1872,
+    "english": "I need more training on this machine.",
+    "korean": "이 기계 교육을 더 받아야 해요."
+  },
+  {
+    "id": 1957,
+    "english": "Can I track the shipment?",
+    "korean": "배송을 추적할 수 있어요?"
+  },
+  {
+    "id": 1984,
+    "english": "Is the factory near here?",
+    "korean": "공장이 근처에 있어요?"
+  },
+  {
+    "id": 2035,
+    "english": "How do I use this washing machine?",
+    "korean": "이 세탁기 어떻게 써요?"
+  },
+  {
+    "id": 2075,
+    "english": "Someone is injured on the factory floor.",
+    "korean": "공장에서 누군가 다쳤어요."
+  },
+  {
+    "id": 2076,
+    "english": "We need to stop the machine now.",
+    "korean": "지금 당장 기계를 멈춰야 해요."
+  },
+  {
+    "id": 2082,
+    "english": "Do not touch that without gloves.",
+    "korean": "장갑 없이 그거 만지지 마세요."
+  },
+  {
+    "id": 2083,
+    "english": "We must follow safety protocols.",
+    "korean": "안전 수칙을 따라야 해요."
+  },
+  {
+    "id": 2084,
+    "english": "Please call the safety officer.",
+    "korean": "안전 관리자를 불러 주세요."
+  },
+  {
+    "id": 2087,
+    "english": "Please do not operate that machine.",
+    "korean": "그 기계를 작동시키지 마세요."
+  },
+  {
+    "id": 2213,
+    "english": "I need safety vests for work.",
+    "korean": "작업용 안전 조끼가 필요해요."
+  },
+  {
+    "id": 2307,
+    "english": "What is the production target for this week?",
+    "korean": "이번 주 생산 목표가 얼마예요?"
+  },
+  {
+    "id": 2308,
+    "english": "I need more raw materials.",
+    "korean": "원자재가 더 필요해요."
+  },
+  {
+    "id": 2309,
+    "english": "The conveyor belt is jammed.",
+    "korean": "컨베이어 벨트가 막혔어요."
+  },
+  {
+    "id": 2310,
+    "english": "Please check the quality before packaging.",
+    "korean": "포장 전에 품질 확인해 주세요."
+  },
+  {
+    "id": 2312,
+    "english": "I need to sign the work order.",
+    "korean": "작업 지시서에 서명해야 해요."
+  },
+  {
+    "id": 2313,
+    "english": "My protective gear is broken.",
+    "korean": "보호 장구가 망가졌어요."
+  },
+  {
+    "id": 2314,
+    "english": "The welding area is off limits.",
+    "korean": "용접 구역은 출입 금지예요."
+  },
+  {
+    "id": 2320,
+    "english": "Please calibrate this machine.",
+    "korean": "이 기계를 교정해 주세요."
+  },
+  {
+    "id": 2324,
+    "english": "The forklift needs servicing.",
+    "korean": "지게차 점검이 필요해요."
+  },
+  {
+    "id": 2330,
+    "english": "There is mold on the wall.",
+    "korean": "벽에 곰팡이가 생겼어요."
+  },
+  {
+    "id": 2366,
+    "english": "Is there a parking lot near the factory?",
+    "korean": "공장 근처에 주차장이 있어요?"
+  },
+  {
+    "id": 2533,
+    "english": "I need work gloves.",
+    "korean": "작업용 장갑이 필요해요."
+  },
+  {
+    "id": 2535,
+    "english": "I need a good quality backpack.",
+    "korean": "좋은 품질의 배낭이 필요해요."
+  },
+  {
+    "id": 2545,
+    "english": "The machine is making a strange noise.",
+    "korean": "기계에서 이상한 소리가 나요."
+  },
+  {
+    "id": 2547,
+    "english": "The bolt is too tight.",
+    "korean": "볼트가 너무 꽉 조여져 있어요."
+  },
+  {
+    "id": 2548,
+    "english": "Please tighten this screw.",
+    "korean": "이 나사를 조여 주세요."
+  },
+  {
+    "id": 2549,
+    "english": "The pressure gauge is reading too high.",
+    "korean": "압력계 수치가 너무 높아요."
+  },
+  {
+    "id": 2550,
+    "english": "We ran out of materials on the line.",
+    "korean": "라인에서 재료가 다 떨어졌어요."
+  },
+  {
+    "id": 2553,
+    "english": "The packaging machine is slow today.",
+    "korean": "오늘 포장 기계가 느려요."
+  },
+  {
+    "id": 2556,
+    "english": "I found a defective item on the line.",
+    "korean": "라인에서 불량품을 발견했어요."
+  },
+  {
+    "id": 2557,
+    "english": "This batch needs to be reinspected.",
+    "korean": "이 배치는 재검사가 필요해요."
+  },
+  {
+    "id": 3361,
+    "english": "Today we are welding the steel plates.",
+    "korean": "오늘 철판 용접 작업을 해요."
+  },
+  {
+    "id": 3370,
+    "english": "We need to weld this joint carefully.",
+    "korean": "이 이음새를 조심스럽게 용접해야 해요."
+  },
+  {
+    "id": 3371,
+    "english": "The welding inspection passed.",
+    "korean": "용접 검사가 통과됐어요."
+  },
+  {
+    "id": 3372,
+    "english": "Please check the weld quality.",
+    "korean": "용접 품질을 확인해 주세요."
+  },
+  {
+    "id": 3373,
+    "english": "The steel plate thickness is 20mm.",
+    "korean": "철판 두께가 20밀리미터예요."
+  },
+  {
+    "id": 3374,
+    "english": "We need to cut this steel to size.",
+    "korean": "이 철판을 규격에 맞게 잘라야 해요."
+  },
+  {
+    "id": 3376,
+    "english": "Please grind down this rough edge.",
+    "korean": "이 거친 모서리를 갈아주세요."
+  },
+  {
+    "id": 3377,
+    "english": "The grinding wheel needs to be replaced.",
+    "korean": "연삭 휠을 교체해야 해요."
+  },
+  {
+    "id": 3381,
+    "english": "Please check the scaffolding safety.",
+    "korean": "비계 안전 점검을 해주세요."
+  },
+  {
+    "id": 3384,
+    "english": "The safety net is in place.",
+    "korean": "안전망이 설치되어 있어요."
+  },
+  {
+    "id": 3386,
+    "english": "I need a welding mask.",
+    "korean": "용접 마스크가 필요해요."
+  },
+  {
+    "id": 3387,
+    "english": "My welding gloves are worn out.",
+    "korean": "용접 장갑이 낡았어요."
+  },
+  {
+    "id": 3388,
+    "english": "The welding rod is almost used up.",
+    "korean": "용접봉이 거의 다 됐어요."
+  },
+  {
+    "id": 3389,
+    "english": "Please bring more welding rods.",
+    "korean": "용접봉을 더 가져다 주세요."
+  },
+  {
+    "id": 3390,
+    "english": "The arc welding machine is ready.",
+    "korean": "아크 용접기가 준비됐어요."
+  },
+  {
+    "id": 3391,
+    "english": "Check the gas pressure before welding.",
+    "korean": "용접 전에 가스 압력을 확인하세요."
+  },
+  {
+    "id": 3397,
+    "english": "Call the safety manager right now.",
+    "korean": "지금 당장 안전 관리자를 불러주세요."
+  },
+  {
+    "id": 3399,
+    "english": "We need to apply anti-corrosion coating.",
+    "korean": "방청 코팅을 발라야 해요."
+  },
+  {
+    "id": 3402,
+    "english": "Please measure this pipe diameter.",
+    "korean": "이 파이프 직경을 측정해 주세요."
+  },
+  {
+    "id": 3414,
+    "english": "We passed the class society inspection.",
+    "korean": "선급 검사를 통과했어요."
+  },
+  {
+    "id": 3419,
+    "english": "The production schedule is on track.",
+    "korean": "생산 일정이 순조롭게 진행되고 있어요."
+  },
+  {
+    "id": 3425,
+    "english": "The tolerance is too large.",
+    "korean": "공차가 너무 커요."
+  },
+  {
+    "id": 3426,
+    "english": "We need tighter tolerances here.",
+    "korean": "여기서 더 정밀한 공차가 필요해요."
+  },
+  {
+    "id": 3427,
+    "english": "The blueprint shows this differently.",
+    "korean": "설계도에는 다르게 나와있어요."
+  },
+  {
+    "id": 3428,
+    "english": "Please follow the technical drawing.",
+    "korean": "기술 도면을 따라주세요."
+  },
+  {
+    "id": 3431,
+    "english": "We need to rework this section.",
+    "korean": "이 구역을 재작업해야 해요."
+  },
+  {
+    "id": 3432,
+    "english": "The rework is taking too long.",
+    "korean": "재작업이 너무 오래 걸리고 있어요."
+  },
+  {
+    "id": 3439,
+    "english": "The repair welding is complete.",
+    "korean": "보수 용접이 완료됐어요."
+  },
+  {
+    "id": 3440,
+    "english": "The quality control team approved it.",
+    "korean": "품질 관리 팀이 승인했어요."
+  },
+  {
+    "id": 3441,
+    "english": "The final inspection is tomorrow.",
+    "korean": "내일 최종 검사가 있어요."
+  },
+  {
+    "id": 3442,
+    "english": "Everything is ready for inspection.",
+    "korean": "검사를 위한 모든 준비가 됐어요."
+  },
+  {
+    "id": 3443,
+    "english": "The inspector arrived at the yard.",
+    "korean": "검사관이 조선소에 도착했어요."
+  },
+  {
+    "id": 3444,
+    "english": "Please cooperate with the inspector.",
+    "korean": "검사관과 협조해 주세요."
+  },
+  {
+    "id": 3461,
+    "english": "I had to eat at the vending machine.",
+    "korean": "자판기에서 먹어야 했어요."
+  },
+  {
+    "id": 3507,
+    "english": "Today is a mandatory safety training day.",
+    "korean": "오늘은 필수 안전 교육일이에요."
+  },
+  {
+    "id": 3508,
+    "english": "Everyone must attend the safety briefing.",
+    "korean": "모두 안전 브리핑에 참석해야 해요."
+  },
+  {
+    "id": 3509,
+    "english": "The safety officer is conducting the training.",
+    "korean": "안전 관리자가 교육을 진행하고 있어요."
+  },
+  {
+    "id": 3510,
+    "english": "Please pay attention to the fire drill.",
+    "korean": "소방 훈련에 주의를 기울여 주세요."
+  },
+  {
+    "id": 3514,
+    "english": "Do not use the elevator during a fire drill.",
+    "korean": "소방 훈련 중에는 엘리베이터를 사용하지 마세요."
+  },
+  {
+    "id": 3519,
+    "english": "Safety is everyone's responsibility.",
+    "korean": "안전은 모두의 책임이에요."
+  },
+  {
+    "id": 3521,
+    "english": "Please do not take shortcuts on safety.",
+    "korean": "안전에서 지름길을 택하지 마세요."
+  },
+  {
+    "id": 3524,
+    "english": "PPE stands for personal protective equipment.",
+    "korean": "PPE는 개인보호장비예요."
+  },
+  {
+    "id": 3525,
+    "english": "Hard hat helmet must be worn at all times.",
+    "korean": "항상 안전모를 착용해야 해요."
+  },
+  {
+    "id": 3526,
+    "english": "Safety glasses are mandatory in this area.",
+    "korean": "이 구역에서는 보안경 착용이 필수예요."
+  },
+  {
+    "id": 3527,
+    "english": "Steel-toed boots protect your feet.",
+    "korean": "안전화가 발을 보호해줘요."
+  },
+  {
+    "id": 3528,
+    "english": "Gloves must be worn when handling sharp materials.",
+    "korean": "날카로운 재료를 다룰 때는 장갑을 착용해야 해요."
+  },
+  {
+    "id": 3544,
+    "english": "This coffee machine is broken again.",
+    "korean": "이 커피 머신이 또 고장났어요."
+  },
+  {
+    "id": 3568,
+    "english": "My tolerance for spicy food has increased.",
+    "korean": "매운 음식 내성이 생겼어요."
+  },
+  {
+    "id": 3591,
+    "english": "Where is the welding inspector?",
+    "korean": "용접 검사관이 어디 있어요?"
+  },
+  {
+    "id": 3593,
+    "english": "I am on the steel cutting team.",
+    "korean": "저는 철판 절단 팀이에요."
+  },
+  {
+    "id": 3658,
+    "english": "A welding certificate opens more doors.",
+    "korean": "용접 자격증이 더 많은 기회를 열어줘요."
+  },
+  {
+    "id": 3659,
+    "english": "I want to get the highest welding grade.",
+    "korean": "최고 용접 등급을 취득하고 싶어요."
+  },
+  {
+    "id": 3661,
+    "english": "I took a welding skills test last week.",
+    "korean": "지난주에 용접 기능 시험을 봤어요."
+  },
+  {
+    "id": 3815,
+    "english": "I cut steel today.",
+    "korean": "오늘 철판을 잘랐어요."
+  },
+  {
+    "id": 3816,
+    "english": "I did welding today.",
+    "korean": "오늘 용접을 했어요."
+  },
+  {
+    "id": 3817,
+    "english": "I carried heavy materials today.",
+    "korean": "오늘 무거운 자재를 날랐어요."
+  },
+  {
+    "id": 3828,
+    "english": "Put on your helmet.",
+    "korean": "안전모를 쓰세요."
+  },
+  {
+    "id": 3829,
+    "english": "Wear your gloves.",
+    "korean": "장갑을 끼세요."
+  },
+  {
+    "id": 3830,
+    "english": "Wear your safety shoes.",
+    "korean": "안전화를 신으세요."
+  },
+  {
+    "id": 3848,
+    "english": "Safety first always.",
+    "korean": "항상 안전이 먼저예요."
+  },
+  {
+    "id": 4188,
+    "english": "Quality is better than speed.",
+    "korean": "속도보다 품질이 중요해요."
+  },
+  {
+    "id": 4273,
+    "english": "Measure it first.",
+    "korean": "먼저 재봐요."
+  },
+  {
+    "id": 4292,
+    "english": "The inspector is coming.",
+    "korean": "검사관이 오고 있어요."
+  },
+  {
+    "id": 4302,
+    "english": "Where are the bolts?",
+    "korean": "볼트가 어디 있어요?"
+  },
+  {
+    "id": 4304,
+    "english": "The drill is not working.",
+    "korean": "드릴이 작동이 안 돼요."
+  },
+  {
+    "id": 4309,
+    "english": "The machine is making noise.",
+    "korean": "기계에서 소리가 나요."
+  },
+  {
+    "id": 4361,
+    "english": "Put the tools away.",
+    "korean": "도구를 정리해요."
+  },
+  {
+    "id": 4362,
+    "english": "Turn off the machine.",
+    "korean": "기계를 꺼요."
+  },
+  {
+    "id": 4919,
+    "english": "The safety.",
+    "korean": "안전이요."
+  },
+  {
+    "id": 5040,
+    "english": "Wear your gloves.",
+    "korean": "장갑 끼세요."
+  },
+  {
+    "id": 5046,
+    "english": "Like warm gloves in winter.",
+    "korean": "겨울에 따뜻한 장갑처럼요."
+  },
+  {
+    "id": 5062,
+    "english": "Safety and teamwork.",
+    "korean": "안전과 팀워크요."
+  },
+  {
+    "id": 5097,
+    "english": "These machines are amazing.",
+    "korean": "이 기계들이 정말 대단해요."
+  },
+  {
+    "id": 5377,
+    "english": "But do not rush the quality.",
+    "korean": "근데 품질은 서두르지 마요."
+  },
+  {
+    "id": 5980,
+    "english": "Use the one from the machine.",
+    "korean": "자판기 것 사용해요."
+  },
+  {
+    "id": 5981,
+    "english": "There is a machine near the elevator.",
+    "korean": "엘리베이터 근처에 자판기가 있어요."
+  },
+  {
+    "id": 6457,
+    "english": "This part has a defect.",
+    "korean": "이 부품에 불량이 있어요."
+  },
+  {
+    "id": 6458,
+    "english": "Please check the size again.",
+    "korean": "치수를 다시 확인해 주세요."
+  },
+  {
+    "id": 6459,
+    "english": "The measurement is within tolerance.",
+    "korean": "측정값이 공차 안에 있어요."
+  },
+  {
+    "id": 6460,
+    "english": "Please wear your safety helmet.",
+    "korean": "안전모를 착용하세요."
+  },
+  {
+    "id": 6461,
+    "english": "I'll record the inspection result.",
+    "korean": "검사 결과를 기록할게요."
+  },
+  {
+    "id": 6462,
+    "english": "This one passed and that one failed.",
+    "korean": "이건 합격이고 저건 불합격이에요."
+  },
+  {
+    "id": 6463,
+    "english": "Please separate the defective items.",
+    "korean": "불량품을 따로 분리해 주세요."
+  },
+  {
+    "id": 6464,
+    "english": "The surface is scratched.",
+    "korean": "표면에 흠집이 있어요."
+  },
+  {
+    "id": 6465,
+    "english": "Please calibrate the gauge first.",
+    "korean": "먼저 게이지를 교정하세요."
+  },
+  {
+    "id": 6466,
+    "english": "Do not touch the machine.",
+    "korean": "기계를 만지지 마세요."
+  },
+  {
+    "id": 6467,
+    "english": "I'll check the drawing.",
+    "korean": "도면을 확인할게요."
+  },
+  {
+    "id": 6468,
+    "english": "Please clean the work area.",
+    "korean": "작업장을 청소하세요."
+  },
+  {
+    "id": 7066,
+    "english": "This machine is broken.",
+    "korean": "이 기계가 고장 났어요."
+  },
+  {
+    "id": 7067,
+    "english": "Please turn off the machine.",
+    "korean": "기계를 꺼 주세요."
+  },
+  {
+    "id": 7068,
+    "english": "Please turn on the machine.",
+    "korean": "기계를 켜 주세요."
+  },
+  {
+    "id": 7069,
+    "english": "Please stop the machine.",
+    "korean": "기계를 멈춰 주세요."
+  },
+  {
+    "id": 7070,
+    "english": "How do I operate this machine?",
+    "korean": "이 기계는 어떻게 작동해요?"
+  },
+  {
+    "id": 7071,
+    "english": "I need a tool.",
+    "korean": "공구가 필요해요."
+  },
+  {
+    "id": 7072,
+    "english": "Where are the tools?",
+    "korean": "공구는 어디에 있어요?"
+  },
+  {
+    "id": 7073,
+    "english": "Where is the warehouse?",
+    "korean": "창고가 어디예요?"
+  },
+  {
+    "id": 7074,
+    "english": "Please check the quality.",
+    "korean": "품질을 확인해 주세요."
+  },
+  {
+    "id": 7075,
+    "english": "This one is defective.",
+    "korean": "이건 불량이에요."
+  },
+  {
+    "id": 7076,
+    "english": "How many defects are there?",
+    "korean": "불량이 몇 개예요?"
+  },
+  {
+    "id": 7077,
+    "english": "We have to produce 500 units today.",
+    "korean": "오늘 500개를 생산해야 해요."
+  },
+  {
+    "id": 7078,
+    "english": "We are short of materials.",
+    "korean": "자재가 부족해요."
+  },
+  {
+    "id": 7079,
+    "english": "The materials have arrived.",
+    "korean": "자재가 도착했어요."
+  },
+  {
+    "id": 7080,
+    "english": "Please pack the products.",
+    "korean": "제품을 포장해 주세요."
+  },
+  {
+    "id": 7081,
+    "english": "Please label the boxes.",
+    "korean": "박스에 라벨을 붙여 주세요."
+  },
+  {
+    "id": 7082,
+    "english": "Please check the measurements.",
+    "korean": "치수를 확인해 주세요."
+  },
+  {
+    "id": 7083,
+    "english": "It's too long.",
+    "korean": "너무 길어요."
+  },
+  {
+    "id": 7084,
+    "english": "It's too short.",
+    "korean": "너무 짧아요."
+  },
+  {
+    "id": 7085,
+    "english": "Cut it to this length.",
+    "korean": "이 길이로 잘라 주세요."
+  },
+  {
+    "id": 7086,
+    "english": "Measure it again.",
+    "korean": "다시 재 주세요."
+  },
+  {
+    "id": 7087,
+    "english": "Please use the forklift.",
+    "korean": "지게차를 사용하세요."
+  },
+  {
+    "id": 7088,
+    "english": "Be careful with the forklift.",
+    "korean": "지게차 조심하세요."
+  },
+  {
+    "id": 7089,
+    "english": "Please wear safety glasses.",
+    "korean": "보안경을 쓰세요."
+  },
+  {
+    "id": 7090,
+    "english": "Please wear ear protection.",
+    "korean": "귀마개를 착용하세요."
+  },
+  {
+    "id": 7091,
+    "english": "Where is the production line?",
+    "korean": "생산 라인이 어디예요?"
+  },
+  {
+    "id": 7092,
+    "english": "Which line am I on?",
+    "korean": "저는 어느 라인이에요?"
+  },
+  {
+    "id": 7093,
+    "english": "The line has stopped.",
+    "korean": "라인이 멈췄어요."
+  },
+  {
+    "id": 7094,
+    "english": "Please start the line.",
+    "korean": "라인을 시작하세요."
+  },
+  {
+    "id": 7095,
+    "english": "This is the inspection area.",
+    "korean": "여기는 검사 구역이에요."
+  },
+  {
+    "id": 7096,
+    "english": "Did it pass or fail?",
+    "korean": "합격이에요, 불합격이에요?"
+  },
+  {
+    "id": 7097,
+    "english": "Please do it again.",
+    "korean": "다시 해 주세요."
+  },
+  {
+    "id": 7098,
+    "english": "Keep the work area clean.",
+    "korean": "작업장을 깨끗하게 유지하세요."
+  },
+  {
+    "id": 7099,
+    "english": "Put it back where it was.",
+    "korean": "있던 자리에 다시 놓으세요."
+  },
+  {
+    "id": 7100,
+    "english": "Please move the pallet.",
+    "korean": "팔레트를 옮겨 주세요."
+  },
+  {
+    "id": 7101,
+    "english": "Let's lift it together.",
+    "korean": "같이 들어요."
+  },
+  {
+    "id": 7102,
+    "english": "It's too heavy to lift alone.",
+    "korean": "혼자 들기엔 너무 무거워요."
+  }
+]

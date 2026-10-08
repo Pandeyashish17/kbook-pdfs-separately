@@ -1,0 +1,552 @@
+[
+  {
+    "id": 2,
+    "english": "Thank you.",
+    "korean": "감사합니다."
+  },
+  {
+    "id": 4,
+    "english": "Sorry.",
+    "korean": "죄송합니다."
+  },
+  {
+    "id": 71,
+    "english": "Sorry for being late.",
+    "korean": "늦어서 죄송합니다."
+  },
+  {
+    "id": 73,
+    "english": "Thank you for waiting.",
+    "korean": "기다려 주셔서 감사합니다."
+  },
+  {
+    "id": 132,
+    "english": "Excuse me.",
+    "korean": "저기요."
+  },
+  {
+    "id": 169,
+    "english": "Thank you for understanding.",
+    "korean": "이해해주셔서 감사해요."
+  },
+  {
+    "id": 188,
+    "english": "I'm sorry to hear that.",
+    "korean": "그거 참 안 됐군요."
+  },
+  {
+    "id": 211,
+    "english": "Sorry I'm too busy.",
+    "korean": "죄송해요 너무 바빠요."
+  },
+  {
+    "id": 295,
+    "english": "No problem.",
+    "korean": "문제 없어요."
+  },
+  {
+    "id": 297,
+    "english": "My pleasure.",
+    "korean": "천만해요."
+  },
+  {
+    "id": 368,
+    "english": "I apologize.",
+    "korean": "사과드릴게요."
+  },
+  {
+    "id": 370,
+    "english": "Thank you for your cooperation.",
+    "korean": "협조해 주셔서 감사해요."
+  },
+  {
+    "id": 414,
+    "english": "Sorry but I won't make it in time.",
+    "korean": "죄송하지만 제 시간에 도착하지 못할 것 같아요."
+  },
+  {
+    "id": 422,
+    "english": "Don't mention it.",
+    "korean": "천만해요."
+  },
+  {
+    "id": 527,
+    "english": "Sorry to keep you waiting.",
+    "korean": "기다리게 해서 미안해요."
+  },
+  {
+    "id": 566,
+    "english": "Thank you for your help.",
+    "korean": "도와줘서 고마워요."
+  },
+  {
+    "id": 635,
+    "english": "Sorry, I'm tied up.",
+    "korean": "죄송해요 너무 바빠요."
+  },
+  {
+    "id": 646,
+    "english": "Sorry, but I won't make it in time.",
+    "korean": "죄송하지만 제 시간에 도착하지 못할 것 같아요."
+  },
+  {
+    "id": 865,
+    "english": "Thank you doctor.",
+    "korean": "의사 선생님 감사합니다."
+  },
+  {
+    "id": 1090,
+    "english": "I am grateful to be here.",
+    "korean": "여기 있어서 감사해요."
+  },
+  {
+    "id": 1101,
+    "english": "I am grateful for your help.",
+    "korean": "도와줘서 정말 감사해요."
+  },
+  {
+    "id": 1115,
+    "english": "Thank you so much for your help.",
+    "korean": "도와주셔서 정말 감사해요."
+  },
+  {
+    "id": 1121,
+    "english": "Thank you for your hard work.",
+    "korean": "수고하셨습니다."
+  },
+  {
+    "id": 1126,
+    "english": "Sorry to bother you.",
+    "korean": "귀찮게 해서 죄송해요."
+  },
+  {
+    "id": 1127,
+    "english": "Sorry for the inconvenience.",
+    "korean": "불편을 드려서 죄송해요."
+  },
+  {
+    "id": 1129,
+    "english": "Thank you for telling me.",
+    "korean": "말씀해 주셔서 감사해요."
+  },
+  {
+    "id": 1138,
+    "english": "I appreciate your patience.",
+    "korean": "기다려 주셔서 감사해요."
+  },
+  {
+    "id": 1285,
+    "english": "Please forgive me.",
+    "korean": "용서해 주세요."
+  },
+  {
+    "id": 1574,
+    "english": "I appreciate everything you do.",
+    "korean": "모든 게 감사해요."
+  },
+  {
+    "id": 1612,
+    "english": "Sorry I missed your call.",
+    "korean": "전화 못 받아서 죄송해요."
+  },
+  {
+    "id": 1701,
+    "english": "Sorry I got confused just now.",
+    "korean": "죄송해요 헷갈렸어요."
+  },
+  {
+    "id": 1723,
+    "english": "I am grateful for this opportunity.",
+    "korean": "이 기회에 감사해요."
+  },
+  {
+    "id": 1977,
+    "english": "Excuse me can you help me find this place?",
+    "korean": "저기요 이 장소를 찾는 것 좀 도와주실 수 있어요?"
+  },
+  {
+    "id": 1994,
+    "english": "Thank you for always being patient with me.",
+    "korean": "항상 인내심을 가지고 대해주셔서 감사해요."
+  },
+  {
+    "id": 1996,
+    "english": "I appreciate your time.",
+    "korean": "시간 내주셔서 감사해요."
+  },
+  {
+    "id": 2002,
+    "english": "Thank you from the bottom of my heart.",
+    "korean": "진심으로 감사드려요."
+  },
+  {
+    "id": 2059,
+    "english": "Thank you for being so understanding.",
+    "korean": "이해해 주셔서 정말 감사해요."
+  },
+  {
+    "id": 2222,
+    "english": "I appreciate your patience with my Korean.",
+    "korean": "서툰 한국어에 인내해 주셔서 감사해요."
+  },
+  {
+    "id": 2245,
+    "english": "I am sorry to hear that happened.",
+    "korean": "그런 일이 생겨서 유감이에요."
+  },
+  {
+    "id": 2473,
+    "english": "I appreciate the opportunity Korea has given me.",
+    "korean": "한국이 준 기회에 감사해요."
+  },
+  {
+    "id": 2507,
+    "english": "I appreciate you telling me that.",
+    "korean": "그 말씀 감사해요."
+  },
+  {
+    "id": 2510,
+    "english": "Thanks for the heads up.",
+    "korean": "미리 알려줘서 고마워요."
+  },
+  {
+    "id": 2911,
+    "english": "Sorry I forgot to reply.",
+    "korean": "답장하는 거 깜빡했어요."
+  },
+  {
+    "id": 3083,
+    "english": "I appreciate what I had back home more.",
+    "korean": "고국에 있던 것들이 더 소중하게 느껴져요."
+  },
+  {
+    "id": 3104,
+    "english": "Thanks for having me.",
+    "korean": "초대해줘서 고마워요."
+  },
+  {
+    "id": 3105,
+    "english": "Thanks for the meal.",
+    "korean": "잘 먹었습니다."
+  },
+  {
+    "id": 3148,
+    "english": "Thanks for listening.",
+    "korean": "들어줘서 고마워요."
+  },
+  {
+    "id": 3300,
+    "english": "I am grateful for every experience.",
+    "korean": "모든 경험에 감사해요."
+  },
+  {
+    "id": 3554,
+    "english": "Thank you that smells amazing.",
+    "korean": "감사해요 냄새가 정말 좋네요."
+  },
+  {
+    "id": 3665,
+    "english": "I am grateful for every mentor I have.",
+    "korean": "모든 멘토에게 감사해요."
+  },
+  {
+    "id": 3797,
+    "english": "Sorry it will not happen again.",
+    "korean": "죄송해요 다시는 안 그럴게요."
+  },
+  {
+    "id": 3798,
+    "english": "Thank you for teaching me.",
+    "korean": "가르쳐 주셔서 감사해요."
+  },
+  {
+    "id": 4074,
+    "english": "Thank you very much.",
+    "korean": "정말 감사해요."
+  },
+  {
+    "id": 4075,
+    "english": "Sorry about that.",
+    "korean": "죄송해요."
+  },
+  {
+    "id": 4076,
+    "english": "Excuse me please.",
+    "korean": "실례해요."
+  },
+  {
+    "id": 4218,
+    "english": "Thank you Korea for everything.",
+    "korean": "모든 것에 감사해요 한국."
+  },
+  {
+    "id": 4288,
+    "english": "It is fine do not worry.",
+    "korean": "괜찮아요 걱정하지 마세요."
+  },
+  {
+    "id": 4401,
+    "english": "Thank you for sharing.",
+    "korean": "나눠줘서 고마워요."
+  },
+  {
+    "id": 4555,
+    "english": "No worries.",
+    "korean": "걱정 마요."
+  },
+  {
+    "id": 4591,
+    "english": "I am grateful for the tough times.",
+    "korean": "힘든 시간에도 감사해요."
+  },
+  {
+    "id": 4618,
+    "english": "Thank you for trusting me.",
+    "korean": "저를 믿어줘서 고마워요."
+  },
+  {
+    "id": 4639,
+    "english": "Sorry I am a little late.",
+    "korean": "좀 늦었어요 죄송해요."
+  },
+  {
+    "id": 4682,
+    "english": "Thank you for spotting it.",
+    "korean": "발견해줘서 고마워요."
+  },
+  {
+    "id": 4686,
+    "english": "No need we help each other here.",
+    "korean": "필요 없어요 여기서 서로 도우면 되죠."
+  },
+  {
+    "id": 4714,
+    "english": "Thank you for the feedback.",
+    "korean": "피드백 감사해요."
+  },
+  {
+    "id": 4720,
+    "english": "I appreciate your guidance.",
+    "korean": "지도해 주셔서 감사해요."
+  },
+  {
+    "id": 4723,
+    "english": "Thank you for being patient with me.",
+    "korean": "저한테 인내심을 가져주셔서 감사해요."
+  },
+  {
+    "id": 4848,
+    "english": "It is okay you are learning.",
+    "korean": "괜찮아요 배우고 있잖아요."
+  },
+  {
+    "id": 4901,
+    "english": "Thank you I will.",
+    "korean": "고마워요 마실게요."
+  },
+  {
+    "id": 5032,
+    "english": "Thank you so much.",
+    "korean": "정말 고마워요."
+  },
+  {
+    "id": 5177,
+    "english": "Thank you for saying that.",
+    "korean": "그 말 해줘서 고마워요."
+  },
+  {
+    "id": 5271,
+    "english": "Sorry the machine is loud.",
+    "korean": "죄송해요 기계 소리가 커요."
+  },
+  {
+    "id": 5286,
+    "english": "Thank you I love it.",
+    "korean": "고마워요 맛있어요."
+  },
+  {
+    "id": 5319,
+    "english": "Thank you that means a lot.",
+    "korean": "감사해요 그 말이 큰 힘이 돼요."
+  },
+  {
+    "id": 5387,
+    "english": "Thank you for everything today.",
+    "korean": "오늘 모든 것에 감사해요."
+  },
+  {
+    "id": 5479,
+    "english": "Thank you for making me feel welcome.",
+    "korean": "환영받는 느낌이 들게 해줘서 고마워요."
+  },
+  {
+    "id": 5483,
+    "english": "Thank you I am sure it will.",
+    "korean": "감사해요 분명 잘 될 거예요."
+  },
+  {
+    "id": 5549,
+    "english": "Sorry about that.",
+    "korean": "미안해요."
+  },
+  {
+    "id": 5605,
+    "english": "It is okay what happened.",
+    "korean": "괜찮아요 어떻게 됐어요."
+  },
+  {
+    "id": 5610,
+    "english": "Thank you I feel bad about it.",
+    "korean": "감사해요 마음이 안 좋아요."
+  },
+  {
+    "id": 5653,
+    "english": "I am grateful for it every day.",
+    "korean": "매일 감사해요."
+  },
+  {
+    "id": 5675,
+    "english": "Thank you that made my day.",
+    "korean": "감사해요 기분이 좋아졌어요."
+  },
+  {
+    "id": 5724,
+    "english": "Thanks for today.",
+    "korean": "오늘 감사했어요."
+  },
+  {
+    "id": 5764,
+    "english": "No need I just do my job.",
+    "korean": "필요 없어요 그냥 제 일을 할 뿐이에요."
+  },
+  {
+    "id": 5815,
+    "english": "Thank you for telling me.",
+    "korean": "말해줘서 감사해요."
+  },
+  {
+    "id": 5929,
+    "english": "Thank you I will go now.",
+    "korean": "감사해요 지금 갈게요."
+  },
+  {
+    "id": 5977,
+    "english": "Thank you I am so thirsty.",
+    "korean": "감사해요 너무 목이 말라요."
+  },
+  {
+    "id": 6156,
+    "english": "Anyways, thank you.",
+    "korean": "아무튼 고마워요."
+  },
+  {
+    "id": 6264,
+    "english": "No problem.",
+    "korean": "아니에요."
+  },
+  {
+    "id": 6265,
+    "english": "It's okay.",
+    "korean": "괜찮아요."
+  },
+  {
+    "id": 6266,
+    "english": "Don't mention it.",
+    "korean": "별말씀을요."
+  },
+  {
+    "id": 6267,
+    "english": "I am deeply sorry.",
+    "korean": "송구합니다."
+  },
+  {
+    "id": 6268,
+    "english": "I'm sorry.",
+    "korean": "미안합니다."
+  },
+  {
+    "id": 6269,
+    "english": "I apologize.",
+    "korean": "사과드립니다."
+  },
+  {
+    "id": 6362,
+    "english": "I'm sorry for the trouble.",
+    "korean": "불편을 드려서 죄송합니다."
+  },
+  {
+    "id": 6363,
+    "english": "Thank you for teaching me.",
+    "korean": "가르쳐 주셔서 감사합니다."
+  },
+  {
+    "id": 6364,
+    "english": "Thank you for your kindness.",
+    "korean": "친절하게 해 주셔서 감사합니다."
+  },
+  {
+    "id": 6365,
+    "english": "It was my mistake.",
+    "korean": "제 실수예요."
+  },
+  {
+    "id": 6545,
+    "english": "I really appreciate it.",
+    "korean": "정말 고맙습니다."
+  },
+  {
+    "id": 6546,
+    "english": "Thanks for helping me today.",
+    "korean": "오늘 도와주셔서 감사해요."
+  },
+  {
+    "id": 6547,
+    "english": "I will eat well.",
+    "korean": "잘 먹겠습니다."
+  },
+  {
+    "id": 6548,
+    "english": "Excuse me, may I pass?",
+    "korean": "잠시만요, 지나갈게요."
+  },
+  {
+    "id": 6549,
+    "english": "I'm sorry, I made a mistake.",
+    "korean": "죄송해요, 제가 실수했어요."
+  },
+  {
+    "id": 6550,
+    "english": "It was my fault.",
+    "korean": "제 잘못이에요."
+  },
+  {
+    "id": 6551,
+    "english": "Don't worry about it.",
+    "korean": "신경 쓰지 마세요."
+  },
+  {
+    "id": 6552,
+    "english": "You're welcome.",
+    "korean": "천만에요."
+  },
+  {
+    "id": 6553,
+    "english": "Thank you for inviting me.",
+    "korean": "초대해 주셔서 감사해요."
+  },
+  {
+    "id": 6554,
+    "english": "Thank you for being so kind.",
+    "korean": "친절하게 대해 주셔서 감사해요."
+  },
+  {
+    "id": 6555,
+    "english": "Excuse me for a moment.",
+    "korean": "잠깐 실례하겠습니다."
+  },
+  {
+    "id": 6556,
+    "english": "Sorry, I didn't see you.",
+    "korean": "죄송해요, 못 봤어요."
+  }
+]

@@ -1,0 +1,1697 @@
+[
+  {
+    "id": 6,
+    "english": "How much is this?",
+    "korean": "이거 얼마예요?"
+  },
+  {
+    "id": 66,
+    "english": "Can I exchange this?",
+    "korean": "이것을 교환할 수 있나요?"
+  },
+  {
+    "id": 81,
+    "english": "How much is this?",
+    "korean": "이게 얼마예요?"
+  },
+  {
+    "id": 82,
+    "english": "Can you give me a discount?",
+    "korean": "할인해 주실 수 있나요?"
+  },
+  {
+    "id": 94,
+    "english": "Can I get a receipt?",
+    "korean": "영수증을 받을 수 있나요?"
+  },
+  {
+    "id": 152,
+    "english": "Can I borrow your phone charger?",
+    "korean": "휴대폰 충전기를 빌릴 수 있나요?"
+  },
+  {
+    "id": 154,
+    "english": "I'll lend you an umbrella if it rains.",
+    "korean": "비가 오면 우산을 빌려드릴게요."
+  },
+  {
+    "id": 199,
+    "english": "My wallet is gone.",
+    "korean": "제 지갑이 없어졌어요."
+  },
+  {
+    "id": 218,
+    "english": "I'll buy next time.",
+    "korean": "다음 번에는 제가 사겠습니다."
+  },
+  {
+    "id": 302,
+    "english": "That's really a bargain.",
+    "korean": "정말 싸네요."
+  },
+  {
+    "id": 362,
+    "english": "One more coat please.",
+    "korean": "코트 하나 더 주세요."
+  },
+  {
+    "id": 497,
+    "english": "I forgot my wallet.",
+    "korean": "지갑을 깜빡했어요."
+  },
+  {
+    "id": 529,
+    "english": "It's a bit expensive.",
+    "korean": "좀 비싸네요."
+  },
+  {
+    "id": 545,
+    "english": "It's cheaper than I expected.",
+    "korean": "생각보다 싸네요."
+  },
+  {
+    "id": 572,
+    "english": "I left my wallet at home.",
+    "korean": "지갑을 집에 두고 왔어요."
+  },
+  {
+    "id": 598,
+    "english": "Can you recommend a good flower shop?",
+    "korean": "좋은 꽃 가게를 추천해 주세요."
+  },
+  {
+    "id": 607,
+    "english": "It's cheaper on weekdays.",
+    "korean": "평일이 더 저렴해요."
+  },
+  {
+    "id": 620,
+    "english": "How much is this?",
+    "korean": "이게 얼마예요?"
+  },
+  {
+    "id": 621,
+    "english": "Can you give me a discount?",
+    "korean": "할인해 주실 수 있나요?"
+  },
+  {
+    "id": 628,
+    "english": "Can I borrow a phone charger?",
+    "korean": "휴대폰 충전기를 빌릴 수 있나요?"
+  },
+  {
+    "id": 629,
+    "english": "I'll lend you an umbrella if it rains.",
+    "korean": "비가 오면 우산을 빌려드릴게요."
+  },
+  {
+    "id": 651,
+    "english": "I forgot my wallet.",
+    "korean": "지갑을 깜빡했어요."
+  },
+  {
+    "id": 654,
+    "english": "I'm going shopping later.",
+    "korean": "이따 쇼핑하러 갈 거예요."
+  },
+  {
+    "id": 710,
+    "english": "Where can I buy a bus card?",
+    "korean": "버스 카드 어디서 살 수 있어요?"
+  },
+  {
+    "id": 711,
+    "english": "How do I top up my transit card?",
+    "korean": "교통카드 어떻게 충전해요?"
+  },
+  {
+    "id": 717,
+    "english": "How much is the taxi fare?",
+    "korean": "택시 요금이 얼마예요?"
+  },
+  {
+    "id": 741,
+    "english": "Can I hang my clothes here?",
+    "korean": "여기 옷 널어도 돼요?"
+  },
+  {
+    "id": 765,
+    "english": "Can I pay by cash?",
+    "korean": "현금으로 계산할 수 있어요?"
+  },
+  {
+    "id": 766,
+    "english": "Do you have a bag?",
+    "korean": "봉투 있어요?"
+  },
+  {
+    "id": 767,
+    "english": "Can I get a plastic bag?",
+    "korean": "비닐봉투 주실 수 있어요?"
+  },
+  {
+    "id": 768,
+    "english": "Is there a discount?",
+    "korean": "할인이 있나요?"
+  },
+  {
+    "id": 769,
+    "english": "This is on sale.",
+    "korean": "이거 세일 중이에요."
+  },
+  {
+    "id": 772,
+    "english": "I would like to make an exchange.",
+    "korean": "교환하고 싶어요."
+  },
+  {
+    "id": 775,
+    "english": "I want a refund.",
+    "korean": "환불해 주세요."
+  },
+  {
+    "id": 777,
+    "english": "Where is the checkout counter?",
+    "korean": "계산대가 어디예요?"
+  },
+  {
+    "id": 783,
+    "english": "How much is the total?",
+    "korean": "합계가 얼마예요?"
+  },
+  {
+    "id": 784,
+    "english": "Can I get a discount if I buy two?",
+    "korean": "두 개 사면 할인해 줄 수 있어요?"
+  },
+  {
+    "id": 785,
+    "english": "Please give me a receipt.",
+    "korean": "영수증 주세요."
+  },
+  {
+    "id": 786,
+    "english": "I need to buy groceries.",
+    "korean": "장을 봐야 해요."
+  },
+  {
+    "id": 787,
+    "english": "Where is the supermarket?",
+    "korean": "슈퍼마켓이 어디예요?"
+  },
+  {
+    "id": 788,
+    "english": "Do you sell medicine here?",
+    "korean": "여기서 약도 팔아요?"
+  },
+  {
+    "id": 809,
+    "english": "I will pay for everyone.",
+    "korean": "제가 다 낼게요."
+  },
+  {
+    "id": 870,
+    "english": "I want to transfer money.",
+    "korean": "돈을 이체하고 싶어요."
+  },
+  {
+    "id": 871,
+    "english": "What is the exchange rate today?",
+    "korean": "오늘 환율이 얼마예요?"
+  },
+  {
+    "id": 872,
+    "english": "Can I exchange foreign currency here?",
+    "korean": "여기서 외화 환전할 수 있어요?"
+  },
+  {
+    "id": 873,
+    "english": "I want to exchange this to Korean won.",
+    "korean": "이걸 원화로 바꾸고 싶어요."
+  },
+  {
+    "id": 875,
+    "english": "My card is not working.",
+    "korean": "카드가 안 돼요."
+  },
+  {
+    "id": 877,
+    "english": "My card was declined.",
+    "korean": "카드가 거절됐어요."
+  },
+  {
+    "id": 879,
+    "english": "Can I pay in installments?",
+    "korean": "할부로 결제할 수 있어요?"
+  },
+  {
+    "id": 881,
+    "english": "I need a receipt for this transaction.",
+    "korean": "거래 영수증이 필요해요."
+  },
+  {
+    "id": 883,
+    "english": "My card was lost.",
+    "korean": "카드를 잃어버렸어요."
+  },
+  {
+    "id": 884,
+    "english": "I need to cancel my card.",
+    "korean": "카드를 정지시켜야 해요."
+  },
+  {
+    "id": 885,
+    "english": "I received my salary.",
+    "korean": "월급을 받았어요."
+  },
+  {
+    "id": 886,
+    "english": "I need a SIM card.",
+    "korean": "유심 카드가 필요해요."
+  },
+  {
+    "id": 887,
+    "english": "Where can I buy a SIM card?",
+    "korean": "유심 카드 어디서 살 수 있어요?"
+  },
+  {
+    "id": 888,
+    "english": "How much is the monthly plan?",
+    "korean": "월정액이 얼마예요?"
+  },
+  {
+    "id": 906,
+    "english": "Where is the phone repair shop?",
+    "korean": "폰 수리점이 어디예요?"
+  },
+  {
+    "id": 952,
+    "english": "Let's exchange phone numbers.",
+    "korean": "전화번호 교환해요."
+  },
+  {
+    "id": 966,
+    "english": "I want to visit a traditional market.",
+    "korean": "전통 시장에 가보고 싶어요."
+  },
+  {
+    "id": 981,
+    "english": "My bag was stolen.",
+    "korean": "가방을 도둑맞았어요."
+  },
+  {
+    "id": 1020,
+    "english": "How much does it cost to send this?",
+    "korean": "이거 보내는 데 얼마예요?"
+  },
+  {
+    "id": 1021,
+    "english": "How long will delivery take?",
+    "korean": "배송이 얼마나 걸려요?"
+  },
+  {
+    "id": 1051,
+    "english": "How much is the monthly membership?",
+    "korean": "한 달 회비가 얼마예요?"
+  },
+  {
+    "id": 1084,
+    "english": "I get paid twice a month.",
+    "korean": "한 달에 두 번 월급 받아요."
+  },
+  {
+    "id": 1113,
+    "english": "Can you lend me some money?",
+    "korean": "돈 좀 빌려줄 수 있어요?"
+  },
+  {
+    "id": 1114,
+    "english": "I will pay you back.",
+    "korean": "나중에 갚을게요."
+  },
+  {
+    "id": 1117,
+    "english": "I owe you one.",
+    "korean": "신세 졌어요."
+  },
+  {
+    "id": 1139,
+    "english": "Should I take off my shoes here?",
+    "korean": "여기서 신발을 벗어야 해요?"
+  },
+  {
+    "id": 1149,
+    "english": "Should I bring a gift?",
+    "korean": "선물을 가져가야 해요?"
+  },
+  {
+    "id": 1150,
+    "english": "What gift should I bring?",
+    "korean": "무슨 선물을 가져가면 좋을까요?"
+  },
+  {
+    "id": 1151,
+    "english": "I want to try Korean traditional clothing.",
+    "korean": "한복을 입어보고 싶어요."
+  },
+  {
+    "id": 1167,
+    "english": "Where can I buy souvenirs?",
+    "korean": "기념품 어디서 살 수 있어요?"
+  },
+  {
+    "id": 1182,
+    "english": "Do you sell stamps here?",
+    "korean": "여기서 우표 팔아요?"
+  },
+  {
+    "id": 1188,
+    "english": "Do you have a loyalty card?",
+    "korean": "포인트 카드 있어요?"
+  },
+  {
+    "id": 1202,
+    "english": "I want to save money.",
+    "korean": "돈을 모으고 싶어요."
+  },
+  {
+    "id": 1252,
+    "english": "I want to order delivery.",
+    "korean": "배달 시키고 싶어요."
+  },
+  {
+    "id": 1253,
+    "english": "What app do you use for delivery?",
+    "korean": "배달 앱 뭐 써요?"
+  },
+  {
+    "id": 1256,
+    "english": "Delivery fee is too expensive.",
+    "korean": "배달비가 너무 비싸요."
+  },
+  {
+    "id": 1257,
+    "english": "How long until delivery arrives?",
+    "korean": "배달이 얼마나 걸려요?"
+  },
+  {
+    "id": 1258,
+    "english": "The delivery is late.",
+    "korean": "배달이 늦어요."
+  },
+  {
+    "id": 1283,
+    "english": "It won't happen again.",
+    "korean": "다시는 그런 일 없을 거예요."
+  },
+  {
+    "id": 1317,
+    "english": "Can I borrow your scissors?",
+    "korean": "가위 빌릴 수 있어요?"
+  },
+  {
+    "id": 1339,
+    "english": "That's not a big deal.",
+    "korean": "별거 아니에요."
+  },
+  {
+    "id": 1367,
+    "english": "Is overtime paid extra?",
+    "korean": "야근 수당이 나와요?"
+  },
+  {
+    "id": 1377,
+    "english": "Where do I store the finished products?",
+    "korean": "완제품은 어디에 보관해요?"
+  },
+  {
+    "id": 1391,
+    "english": "I want to set up automatic payment.",
+    "korean": "자동이체를 설정하고 싶어요."
+  },
+  {
+    "id": 1400,
+    "english": "I need to report my card lost.",
+    "korean": "카드 분실 신고를 해야 해요."
+  },
+  {
+    "id": 1451,
+    "english": "Do you sell Band-Aids here?",
+    "korean": "여기서 반창고 팔아요?"
+  },
+  {
+    "id": 1492,
+    "english": "How much is the monthly rent?",
+    "korean": "월세가 얼마예요?"
+  },
+  {
+    "id": 1495,
+    "english": "Who do I pay rent to?",
+    "korean": "월세를 누구한테 내요?"
+  },
+  {
+    "id": 1502,
+    "english": "How do I pay the electricity bill?",
+    "korean": "전기세는 어떻게 내요?"
+  },
+  {
+    "id": 1505,
+    "english": "Do I need special trash bags?",
+    "korean": "전용 쓰레기봉투가 필요해요?"
+  },
+  {
+    "id": 1506,
+    "english": "Where do I buy designated trash bags?",
+    "korean": "지정 쓰레기봉투 어디서 사요?"
+  },
+  {
+    "id": 1547,
+    "english": "Is there a language exchange program?",
+    "korean": "언어 교환 프로그램이 있어요?"
+  },
+  {
+    "id": 1580,
+    "english": "How much is one kilogram of this?",
+    "korean": "이거 1킬로에 얼마예요?"
+  },
+  {
+    "id": 1596,
+    "english": "How much are these apples?",
+    "korean": "이 사과 얼마예요?"
+  },
+  {
+    "id": 1598,
+    "english": "Please put it in a bag separately.",
+    "korean": "따로 봉투에 넣어 주세요."
+  },
+  {
+    "id": 1599,
+    "english": "Is there a discount for bulk buying?",
+    "korean": "많이 사면 할인되나요?"
+  },
+  {
+    "id": 1624,
+    "english": "I want to go shopping at the market.",
+    "korean": "시장에 쇼핑하러 가고 싶어요."
+  },
+  {
+    "id": 1643,
+    "english": "It is brand new.",
+    "korean": "새거예요."
+  },
+  {
+    "id": 1648,
+    "english": "It is expensive.",
+    "korean": "비싸요."
+  },
+  {
+    "id": 1649,
+    "english": "It is cheap.",
+    "korean": "싸요."
+  },
+  {
+    "id": 1735,
+    "english": "I want to save as much money as possible.",
+    "korean": "돈을 최대한 모으고 싶어요."
+  },
+  {
+    "id": 1747,
+    "english": "One thousand won.",
+    "korean": "천 원이에요."
+  },
+  {
+    "id": 1748,
+    "english": "Ten thousand won.",
+    "korean": "만 원이에요."
+  },
+  {
+    "id": 1749,
+    "english": "Fifty thousand won.",
+    "korean": "오만 원이에요."
+  },
+  {
+    "id": 1750,
+    "english": "One hundred thousand won.",
+    "korean": "십만 원이에요."
+  },
+  {
+    "id": 1770,
+    "english": "We would like to pay separately.",
+    "korean": "따로따로 계산할게요."
+  },
+  {
+    "id": 1781,
+    "english": "How much can you bench press?",
+    "korean": "벤치프레스 몇 킬로 돼요?"
+  },
+  {
+    "id": 1848,
+    "english": "I am trying to save money.",
+    "korean": "돈을 저축하려고 해요."
+  },
+  {
+    "id": 1849,
+    "english": "I set a monthly budget.",
+    "korean": "월별 예산을 세워요."
+  },
+  {
+    "id": 1850,
+    "english": "I try not to spend too much.",
+    "korean": "너무 많이 쓰지 않으려고 해요."
+  },
+  {
+    "id": 1853,
+    "english": "I want to open a savings account.",
+    "korean": "저축 계좌를 만들고 싶어요."
+  },
+  {
+    "id": 1857,
+    "english": "Which app is best for sending money abroad?",
+    "korean": "해외 송금에 어떤 앱이 좋아요?"
+  },
+  {
+    "id": 1858,
+    "english": "I try to save half my salary.",
+    "korean": "월급의 절반을 저축하려고 해요."
+  },
+  {
+    "id": 1860,
+    "english": "I want to invest some of my savings.",
+    "korean": "저축의 일부를 투자하고 싶어요."
+  },
+  {
+    "id": 1861,
+    "english": "Is the cost of living high here?",
+    "korean": "여기 물가가 높아요?"
+  },
+  {
+    "id": 1923,
+    "english": "Flights are expensive during holidays.",
+    "korean": "명절에는 항공권이 비싸요."
+  },
+  {
+    "id": 1929,
+    "english": "Where is the best place to buy clothes?",
+    "korean": "옷 사기 좋은 곳이 어디예요?"
+  },
+  {
+    "id": 1937,
+    "english": "What is a good gift to bring back from Korea?",
+    "korean": "한국에서 가져갈 만한 좋은 선물이 뭐예요?"
+  },
+  {
+    "id": 1944,
+    "english": "How much does a haircut cost?",
+    "korean": "이발 요금이 얼마예요?"
+  },
+  {
+    "id": 1952,
+    "english": "What is the cheapest shipping option?",
+    "korean": "가장 저렴한 배송 방법이 뭐예요?"
+  },
+  {
+    "id": 2000,
+    "english": "I owe you so much.",
+    "korean": "신세를 정말 많이 졌어요."
+  },
+  {
+    "id": 2036,
+    "english": "How much does it cost per load?",
+    "korean": "한 번 세탁에 얼마예요?"
+  },
+  {
+    "id": 2039,
+    "english": "My clothes shrank in the wash.",
+    "korean": "옷이 빨래하다가 줄었어요."
+  },
+  {
+    "id": 2041,
+    "english": "Where can I buy laundry detergent?",
+    "korean": "세탁 세제 어디서 사요?"
+  },
+  {
+    "id": 2042,
+    "english": "Can I hang clothes here to dry?",
+    "korean": "여기서 옷을 널어도 돼요?"
+  },
+  {
+    "id": 2043,
+    "english": "My white shirt turned pink.",
+    "korean": "흰 셔츠가 분홍색으로 됐어요."
+  },
+  {
+    "id": 2044,
+    "english": "I need to iron this shirt.",
+    "korean": "이 셔츠를 다려야 해요."
+  },
+  {
+    "id": 2125,
+    "english": "How much is a one-way KTX ticket?",
+    "korean": "KTX 편도 요금이 얼마예요?"
+  },
+  {
+    "id": 2127,
+    "english": "Can I buy the ticket at the station?",
+    "korean": "역에서 표를 살 수 있어요?"
+  },
+  {
+    "id": 2128,
+    "english": "Is there a discount for workers?",
+    "korean": "근로자 할인이 있어요?"
+  },
+  {
+    "id": 2129,
+    "english": "I have a T-money card.",
+    "korean": "T머니 카드가 있어요."
+  },
+  {
+    "id": 2130,
+    "english": "Can I use T-money on the bus?",
+    "korean": "버스에서 T머니 쓸 수 있어요?"
+  },
+  {
+    "id": 2131,
+    "english": "My T-money card has no balance.",
+    "korean": "T머니 카드에 잔액이 없어요."
+  },
+  {
+    "id": 2132,
+    "english": "Where can I top up my T-money card?",
+    "korean": "T머니 카드 충전 어디서 해요?"
+  },
+  {
+    "id": 2144,
+    "english": "How much will the consultation cost?",
+    "korean": "진찰비가 얼마예요?"
+  },
+  {
+    "id": 2151,
+    "english": "Coupang is great for online shopping.",
+    "korean": "쿠팡이 온라인 쇼핑에 정말 좋아요."
+  },
+  {
+    "id": 2152,
+    "english": "Baemin is my go-to delivery app.",
+    "korean": "배민을 주로 써요."
+  },
+  {
+    "id": 2200,
+    "english": "I need to buy a new phone case.",
+    "korean": "새 폰 케이스를 사야 해요."
+  },
+  {
+    "id": 2203,
+    "english": "My shoes are worn out.",
+    "korean": "신발이 다 낡았어요."
+  },
+  {
+    "id": 2204,
+    "english": "I need to buy new work boots.",
+    "korean": "새 작업화를 사야 해요."
+  },
+  {
+    "id": 2205,
+    "english": "Where can I buy affordable clothes?",
+    "korean": "저렴한 옷 어디서 살 수 있어요?"
+  },
+  {
+    "id": 2206,
+    "english": "I found a great bargain today.",
+    "korean": "오늘 정말 싸게 샀어요."
+  },
+  {
+    "id": 2207,
+    "english": "This shirt fits perfectly.",
+    "korean": "이 셔츠가 딱 맞아요."
+  },
+  {
+    "id": 2212,
+    "english": "Do you sell work uniforms here?",
+    "korean": "여기서 작업복 팔아요?"
+  },
+  {
+    "id": 2214,
+    "english": "Where is the nearest market?",
+    "korean": "가장 가까운 시장이 어디예요?"
+  },
+  {
+    "id": 2228,
+    "english": "Is it cold enough for a coat?",
+    "korean": "코트 입을 만큼 추워요?"
+  },
+  {
+    "id": 2258,
+    "english": "I buy things from Daiso for cheap.",
+    "korean": "다이소에서 싸게 물건을 사요."
+  },
+  {
+    "id": 2259,
+    "english": "I found great deals at the traditional market.",
+    "korean": "재래시장에서 저렴하게 샀어요."
+  },
+  {
+    "id": 2260,
+    "english": "Delivery apps save me a lot of time.",
+    "korean": "배달 앱이 시간을 많이 절약해줘요."
+  },
+  {
+    "id": 2335,
+    "english": "Where do I store my bicycle?",
+    "korean": "자전거를 어디에 보관해요?"
+  },
+  {
+    "id": 2361,
+    "english": "How much is the toll fee?",
+    "korean": "통행료가 얼마예요?"
+  },
+  {
+    "id": 2398,
+    "english": "I need to pay my phone bill.",
+    "korean": "휴대폰 요금을 내야 해요."
+  },
+  {
+    "id": 2399,
+    "english": "I want to set up automatic bill payment.",
+    "korean": "자동 납부를 설정하고 싶어요."
+  },
+  {
+    "id": 2403,
+    "english": "Can I get a debit card?",
+    "korean": "체크카드를 만들 수 있어요?"
+  },
+  {
+    "id": 2444,
+    "english": "Gift giving is important in Korean culture.",
+    "korean": "한국 문화에서 선물 주기가 중요해요."
+  },
+  {
+    "id": 2456,
+    "english": "Is the Gyeongju World Culture Expo Park worth visiting?",
+    "korean": "경주 세계 문화 엑스포 공원이 가볼 만해요?"
+  },
+  {
+    "id": 2484,
+    "english": "Every sacrifice is worth it.",
+    "korean": "모든 희생이 그만한 가치가 있어요."
+  },
+  {
+    "id": 2511,
+    "english": "Can I borrow a pen for a moment?",
+    "korean": "잠깐 펜 빌릴 수 있어요?"
+  },
+  {
+    "id": 2513,
+    "english": "Can you lend me an umbrella?",
+    "korean": "우산 빌려줄 수 있어요?"
+  },
+  {
+    "id": 2517,
+    "english": "Where can I buy stamps?",
+    "korean": "우표 어디서 살 수 있어요?"
+  },
+  {
+    "id": 2536,
+    "english": "Do you sell electric kettles?",
+    "korean": "전기 주전자 팔아요?"
+  },
+  {
+    "id": 2540,
+    "english": "I want to see the sale items.",
+    "korean": "세일 상품을 보고 싶어요."
+  },
+  {
+    "id": 2541,
+    "english": "Can I pay with a foreign card?",
+    "korean": "해외 카드로 결제할 수 있어요?"
+  },
+  {
+    "id": 2542,
+    "english": "Is there a student discount?",
+    "korean": "학생 할인이 있어요?"
+  },
+  {
+    "id": 2543,
+    "english": "Do you offer a group discount?",
+    "korean": "단체 할인이 있어요?"
+  },
+  {
+    "id": 2574,
+    "english": "Is there a place to store my bicycle inside?",
+    "korean": "자전거를 실내에 보관할 수 있는 곳이 있어요?"
+  },
+  {
+    "id": 2581,
+    "english": "I left my bag on the bus.",
+    "korean": "버스에 가방을 두고 내렸어요."
+  },
+  {
+    "id": 2625,
+    "english": "The seniors paid for everything.",
+    "korean": "선배들이 다 내줬어요."
+  },
+  {
+    "id": 2633,
+    "english": "Cultural exchange makes us all richer.",
+    "korean": "문화 교류는 우리 모두를 풍요롭게 해요."
+  },
+  {
+    "id": 2678,
+    "english": "I know this hard work will pay off someday.",
+    "korean": "이 노력이 언젠가 결실을 맺을 거라는 것을 알아요."
+  },
+  {
+    "id": 2748,
+    "english": "Don't put the cart before the horse.",
+    "korean": "우물에서 숭늉 찾지 마세요."
+  },
+  {
+    "id": 2775,
+    "english": "I need to go grocery shopping today.",
+    "korean": "오늘 장을 봐야 해요."
+  },
+  {
+    "id": 2798,
+    "english": "My shoes are by the door.",
+    "korean": "신발이 문 앞에 있어요."
+  },
+  {
+    "id": 2803,
+    "english": "I need to pay the utility bills.",
+    "korean": "공과금을 내야 해요."
+  },
+  {
+    "id": 2804,
+    "english": "The electricity bill is high this month.",
+    "korean": "이번 달 전기세가 많이 나왔어요."
+  },
+  {
+    "id": 2934,
+    "english": "I need to buy body wash.",
+    "korean": "바디 워시를 사야 해요."
+  },
+  {
+    "id": 2937,
+    "english": "I spent too long in the shower.",
+    "korean": "샤워를 너무 오래 했어요."
+  },
+  {
+    "id": 2951,
+    "english": "That was so worth the calories.",
+    "korean": "그 칼로리가 아깝지 않았어요."
+  },
+  {
+    "id": 2975,
+    "english": "I spent three hours on it.",
+    "korean": "세 시간 동안 했어요."
+  },
+  {
+    "id": 2993,
+    "english": "I miss spending time with them.",
+    "korean": "같이 시간 보내는 게 그리워요."
+  },
+  {
+    "id": 3002,
+    "english": "Can you go any lower on the price?",
+    "korean": "가격을 더 내려줄 수 있어요?"
+  },
+  {
+    "id": 3003,
+    "english": "That seems too expensive.",
+    "korean": "너무 비싼 것 같아요."
+  },
+  {
+    "id": 3004,
+    "english": "What is your best price?",
+    "korean": "최저 가격이 얼마예요?"
+  },
+  {
+    "id": 3005,
+    "english": "I will buy two if you give me a deal.",
+    "korean": "가격을 깎아주시면 두 개 살게요."
+  },
+  {
+    "id": 3008,
+    "english": "This is slightly damaged can I get a discount.",
+    "korean": "약간 흠집이 있는데 할인 받을 수 있어요."
+  },
+  {
+    "id": 3010,
+    "english": "I only have this much cash.",
+    "korean": "현금이 이것밖에 없어요."
+  },
+  {
+    "id": 3011,
+    "english": "Can I pay half now half later?",
+    "korean": "반은 지금 반은 나중에 내도 될까요?"
+  },
+  {
+    "id": 3012,
+    "english": "I will recommend your shop to friends.",
+    "korean": "친구들한테 여기 추천할게요."
+  },
+  {
+    "id": 3013,
+    "english": "Is this price negotiable?",
+    "korean": "가격 흥정 가능해요?"
+  },
+  {
+    "id": 3015,
+    "english": "Deal you have a deal.",
+    "korean": "좋아요 그렇게 해요."
+  },
+  {
+    "id": 3032,
+    "english": "If I were in your shoes.",
+    "korean": "제가 당신 입장이라면요."
+  },
+  {
+    "id": 3035,
+    "english": "It might be worth a shot.",
+    "korean": "한번 시도해볼 만해요."
+  },
+  {
+    "id": 3200,
+    "english": "I bring my own bag to the store.",
+    "korean": "가게에 갈 때 장바구니를 들고 가요."
+  },
+  {
+    "id": 3240,
+    "english": "This is worth every penny.",
+    "korean": "돈이 아깝지 않아요."
+  },
+  {
+    "id": 3276,
+    "english": "I spent the day doing nothing.",
+    "korean": "하루 종일 아무것도 안 했어요."
+  },
+  {
+    "id": 3328,
+    "english": "Do you know if the store is open?",
+    "korean": "가게 열려있는지 알아요?"
+  },
+  {
+    "id": 3417,
+    "english": "The delivery ceremony is being prepared.",
+    "korean": "인도식 준비가 되고 있어요."
+  },
+  {
+    "id": 3468,
+    "english": "I get paid on the fifteenth.",
+    "korean": "15일에 월급이 나와요."
+  },
+  {
+    "id": 3470,
+    "english": "I need to budget better this month.",
+    "korean": "이번 달은 더 잘 절약해야 해요."
+  },
+  {
+    "id": 3473,
+    "english": "My salary just hit my account.",
+    "korean": "방금 월급이 입금됐어요."
+  },
+  {
+    "id": 3474,
+    "english": "I transferred money home immediately.",
+    "korean": "바로 집에 송금했어요."
+  },
+  {
+    "id": 3503,
+    "english": "Worth it though.",
+    "korean": "그래도 해볼 만해요."
+  },
+  {
+    "id": 3571,
+    "english": "I need to stop by the store first.",
+    "korean": "먼저 가게에 들러야 해요."
+  },
+  {
+    "id": 3575,
+    "english": "I ordered delivery tonight.",
+    "korean": "오늘 밤에 배달을 시켰어요."
+  },
+  {
+    "id": 3588,
+    "english": "That is a feeling money cannot buy.",
+    "korean": "그건 돈으로 살 수 없는 느낌이에요."
+  },
+  {
+    "id": 3609,
+    "english": "We are ahead of the delivery schedule.",
+    "korean": "인도 일정보다 앞서가고 있어요."
+  },
+  {
+    "id": 3623,
+    "english": "I already know who won sorry.",
+    "korean": "이미 누가 이겼는지 알아요 미안해요."
+  },
+  {
+    "id": 3652,
+    "english": "The pay here is much better than back home.",
+    "korean": "여기 급여가 고국보다 훨씬 좋아요."
+  },
+  {
+    "id": 3653,
+    "english": "The work is tough but the money is worth it.",
+    "korean": "일은 힘들지만 돈이 그만한 가치가 있어요."
+  },
+  {
+    "id": 3675,
+    "english": "I change into comfortable clothes immediately.",
+    "korean": "바로 편한 옷으로 갈아입어요."
+  },
+  {
+    "id": 3738,
+    "english": "Encouraging others costs nothing.",
+    "korean": "다른 사람을 격려하는 데는 비용이 들지 않아요."
+  },
+  {
+    "id": 3876,
+    "english": "Where did you buy this?",
+    "korean": "이거 어디서 샀어요?"
+  },
+  {
+    "id": 3898,
+    "english": "I will just order delivery.",
+    "korean": "그냥 배달 시킬 거예요."
+  },
+  {
+    "id": 3899,
+    "english": "Delivery is so easy here.",
+    "korean": "여기서 배달이 정말 편리해요."
+  },
+  {
+    "id": 3903,
+    "english": "I love delivery culture in Korea.",
+    "korean": "한국 배달 문화가 정말 좋아요."
+  },
+  {
+    "id": 3913,
+    "english": "I heard there is a nice market nearby.",
+    "korean": "근처에 좋은 시장이 있다고 들었어요."
+  },
+  {
+    "id": 3921,
+    "english": "Adventures are always worth it.",
+    "korean": "모험은 항상 그만한 가치가 있어요."
+  },
+  {
+    "id": 3956,
+    "english": "I feel like today was worth it.",
+    "korean": "오늘 하루가 가치 있었던 것 같아요."
+  },
+  {
+    "id": 4027,
+    "english": "I bought a thick coat for winter.",
+    "korean": "겨울에 두꺼운 코트를 샀어요."
+  },
+  {
+    "id": 4038,
+    "english": "Do you have a charger I can borrow?",
+    "korean": "충전기 빌릴 수 있어요?"
+  },
+  {
+    "id": 4040,
+    "english": "Can I borrow a thousand won?",
+    "korean": "천 원만 빌려줄 수 있어요?"
+  },
+  {
+    "id": 4041,
+    "english": "I will pay you back tomorrow.",
+    "korean": "내일 갚을게요."
+  },
+  {
+    "id": 4042,
+    "english": "I have no cash today.",
+    "korean": "오늘 현금이 없어요."
+  },
+  {
+    "id": 4043,
+    "english": "Can I pay by card here?",
+    "korean": "여기서 카드로 낼 수 있어요?"
+  },
+  {
+    "id": 4046,
+    "english": "I have enough money.",
+    "korean": "돈이 충분해요."
+  },
+  {
+    "id": 4047,
+    "english": "I spent too much this week.",
+    "korean": "이번 주에 너무 많이 썼어요."
+  },
+  {
+    "id": 4048,
+    "english": "I need to be more careful with money.",
+    "korean": "돈을 더 아껴써야 해요."
+  },
+  {
+    "id": 4054,
+    "english": "Bring a jacket today.",
+    "korean": "오늘 겉옷 챙기세요."
+  },
+  {
+    "id": 4069,
+    "english": "Wear warm clothes tomorrow.",
+    "korean": "내일 따뜻하게 입으세요."
+  },
+  {
+    "id": 4131,
+    "english": "The twenty four hour stores are very helpful.",
+    "korean": "24시간 가게가 정말 도움이 돼요."
+  },
+  {
+    "id": 4132,
+    "english": "I bought slippers from Daiso.",
+    "korean": "다이소에서 슬리퍼를 샀어요."
+  },
+  {
+    "id": 4133,
+    "english": "Everything at Daiso is cheap and good.",
+    "korean": "다이소는 싸고 좋아요."
+  },
+  {
+    "id": 4134,
+    "english": "I found a good market near my place.",
+    "korean": "집 근처에 좋은 시장을 찾았어요."
+  },
+  {
+    "id": 4154,
+    "english": "I bought medicine from the pharmacy.",
+    "korean": "약국에서 약을 샀어요."
+  },
+  {
+    "id": 4228,
+    "english": "Poor thing.",
+    "korean": "안됐어요."
+  },
+  {
+    "id": 4315,
+    "english": "This equipment is expensive.",
+    "korean": "이 장비는 비싸요."
+  },
+  {
+    "id": 4417,
+    "english": "I went shopping after work.",
+    "korean": "퇴근 후에 쇼핑을 했어요."
+  },
+  {
+    "id": 4418,
+    "english": "I bought things for the week.",
+    "korean": "한 주 필요한 것들을 샀어요."
+  },
+  {
+    "id": 4442,
+    "english": "My shoes got wet.",
+    "korean": "신발이 젖었어요."
+  },
+  {
+    "id": 4482,
+    "english": "I went to the market.",
+    "korean": "시장에 갔어요."
+  },
+  {
+    "id": 4516,
+    "english": "I am saving money slowly.",
+    "korean": "천천히 돈을 모으고 있어요."
+  },
+  {
+    "id": 4517,
+    "english": "I cut back on spending this month.",
+    "korean": "이번 달에 지출을 줄였어요."
+  },
+  {
+    "id": 4521,
+    "english": "I found a cheaper grocery store.",
+    "korean": "더 저렴한 마트를 찾았어요."
+  },
+  {
+    "id": 4522,
+    "english": "The prices there are much better.",
+    "korean": "거기 가격이 훨씬 좋아요."
+  },
+  {
+    "id": 4523,
+    "english": "I buy in bulk to save money.",
+    "korean": "돈을 아끼려고 대량으로 사요."
+  },
+  {
+    "id": 4524,
+    "english": "I do not buy things I do not need.",
+    "korean": "필요하지 않은 건 사지 않아요."
+  },
+  {
+    "id": 4525,
+    "english": "I think twice before spending.",
+    "korean": "지출 전에 두 번 생각해요."
+  },
+  {
+    "id": 4526,
+    "english": "Every won counts.",
+    "korean": "모든 원이 소중해요."
+  },
+  {
+    "id": 4527,
+    "english": "Small savings add up over time.",
+    "korean": "작은 저축이 시간이 지나면 쌓여요."
+  },
+  {
+    "id": 4528,
+    "english": "I have a savings goal.",
+    "korean": "저축 목표가 있어요."
+  },
+  {
+    "id": 4531,
+    "english": "But it is worth it in the end.",
+    "korean": "근데 결국 그만한 가치가 있어요."
+  },
+  {
+    "id": 4598,
+    "english": "This experience is a gift.",
+    "korean": "이 경험은 선물이에요."
+  },
+  {
+    "id": 4655,
+    "english": "How much longer do you think?",
+    "korean": "얼마나 더 걸릴 것 같아요?"
+  },
+  {
+    "id": 4683,
+    "english": "I would have spent hours on that.",
+    "korean": "몇 시간을 썼을 거예요."
+  },
+  {
+    "id": 4753,
+    "english": "How much longer?",
+    "korean": "얼마나 더요?"
+  },
+  {
+    "id": 4816,
+    "english": "And more money saved.",
+    "korean": "그리고 더 많은 돈을 모아서요."
+  },
+  {
+    "id": 4855,
+    "english": "I got paid today.",
+    "korean": "오늘 월급 받았어요."
+  },
+  {
+    "id": 4860,
+    "english": "Now I have money for the month.",
+    "korean": "이제 한 달 쓸 돈이 있어요."
+  },
+  {
+    "id": 4861,
+    "english": "I try not to spend too much.",
+    "korean": "너무 많이 안 쓰려고 해요."
+  },
+  {
+    "id": 4862,
+    "english": "I keep track of everything I spend.",
+    "korean": "지출을 다 기록해요."
+  },
+  {
+    "id": 4868,
+    "english": "My savings are growing slowly.",
+    "korean": "저축이 천천히 늘고 있어요."
+  },
+  {
+    "id": 4887,
+    "english": "I only buy what I need.",
+    "korean": "필요한 것만 사요."
+  },
+  {
+    "id": 4917,
+    "english": "The convenience stores.",
+    "korean": "편의점이요."
+  },
+  {
+    "id": 4948,
+    "english": "Now I can pay it forward.",
+    "korean": "이제 제가 되돌려줄 수 있어요."
+  },
+  {
+    "id": 4980,
+    "english": "At the store on the bus everywhere.",
+    "korean": "가게에서 버스에서 어디서나요."
+  },
+  {
+    "id": 4997,
+    "english": "Keys phone wallet.",
+    "korean": "열쇠 폰 지갑이요."
+  },
+  {
+    "id": 5031,
+    "english": "Here take my extra jacket.",
+    "korean": "이거 여분 자켓 입어요."
+  },
+  {
+    "id": 5071,
+    "english": "Pretty cheap actually.",
+    "korean": "생각보다 저렴해요."
+  },
+  {
+    "id": 5128,
+    "english": "Really how much does it cost.",
+    "korean": "정말요 얼마예요."
+  },
+  {
+    "id": 5287,
+    "english": "I buy these all the time.",
+    "korean": "항상 이걸 사요."
+  },
+  {
+    "id": 5290,
+    "english": "I know I spend too much there.",
+    "korean": "알아요 거기서 너무 많이 써요."
+  },
+  {
+    "id": 5293,
+    "english": "Maybe I will stop at the store.",
+    "korean": "가게에 들를 수도 있어요."
+  },
+  {
+    "id": 5294,
+    "english": "I need to buy a few things.",
+    "korean": "몇 가지 사야 해요."
+  },
+  {
+    "id": 5352,
+    "english": "Good shoes help a lot.",
+    "korean": "좋은 신발이 정말 도움이 돼요."
+  },
+  {
+    "id": 5353,
+    "english": "I need to buy better work shoes.",
+    "korean": "더 좋은 작업화를 사야겠어요."
+  },
+  {
+    "id": 5354,
+    "english": "Go to the store near the gate.",
+    "korean": "게이트 근처 가게에 가봐요."
+  },
+  {
+    "id": 5355,
+    "english": "They have good ones for cheap.",
+    "korean": "거기 좋은 게 싸게 있어요."
+  },
+  {
+    "id": 5363,
+    "english": "Poor people working outside today.",
+    "korean": "오늘 밖에서 일하는 사람들이 안됐어요."
+  },
+  {
+    "id": 5370,
+    "english": "Buy a better one before next time.",
+    "korean": "다음 번 전에 더 좋은 거 사요."
+  },
+  {
+    "id": 5526,
+    "english": "Okay I will grab something at the store.",
+    "korean": "알겠어요 가게에서 뭔가 살게요."
+  },
+  {
+    "id": 5577,
+    "english": "Can I borrow this for a minute?",
+    "korean": "잠깐 이거 빌릴 수 있어요?"
+  },
+  {
+    "id": 5588,
+    "english": "We did I saw how much you worked.",
+    "korean": "그랬어요 얼마나 일했는지 봤어요."
+  },
+  {
+    "id": 5644,
+    "english": "Good pay good people good work.",
+    "korean": "좋은 급여 좋은 사람들 좋은 일이요."
+  },
+  {
+    "id": 5862,
+    "english": "Poor thing.",
+    "korean": "불쌍해요."
+  },
+  {
+    "id": 5879,
+    "english": "Take off my shoes and lie down.",
+    "korean": "신발 벗고 눕는 거요."
+  },
+  {
+    "id": 5897,
+    "english": "This job gave me more than just money.",
+    "korean": "이 일이 돈 이상을 줬어요."
+  },
+  {
+    "id": 5899,
+    "english": "You cannot put a price on that.",
+    "korean": "그건 돈으로 살 수 없어요."
+  },
+  {
+    "id": 5908,
+    "english": "No time just buy something.",
+    "korean": "시간 없어요 그냥 뭔가 사요."
+  },
+  {
+    "id": 5915,
+    "english": "Next time I will pay attention.",
+    "korean": "다음엔 잘 보고 탈게요."
+  },
+  {
+    "id": 5921,
+    "english": "I tapped my card at the gate.",
+    "korean": "게이트에서 카드를 찍었어요."
+  },
+  {
+    "id": 5922,
+    "english": "My card did not work.",
+    "korean": "카드가 안 됐어요."
+  },
+  {
+    "id": 5925,
+    "english": "I need to get a new card.",
+    "korean": "새 카드를 받아야 해요."
+  },
+  {
+    "id": 6076,
+    "english": "You do not owe me anything.",
+    "korean": "신세진 거 없어요."
+  },
+  {
+    "id": 6091,
+    "english": "I bought new socks today.",
+    "korean": "오늘 양말을 새로 샀어요."
+  },
+  {
+    "id": 6298,
+    "english": "This is the fixed price.",
+    "korean": "이건 정가예요."
+  },
+  {
+    "id": 6401,
+    "english": "Is there a cheaper one?",
+    "korean": "더 싼 거 있어요?"
+  },
+  {
+    "id": 6402,
+    "english": "Can I pay by card?",
+    "korean": "카드로 계산돼요?"
+  },
+  {
+    "id": 6403,
+    "english": "Can I get a discount?",
+    "korean": "좀 깎아 주실래요?"
+  },
+  {
+    "id": 6404,
+    "english": "I'm just looking.",
+    "korean": "그냥 구경하고 있어요."
+  },
+  {
+    "id": 6405,
+    "english": "I want to send money home.",
+    "korean": "고향에 돈을 보내고 싶어요."
+  },
+  {
+    "id": 6406,
+    "english": "I'm saving money.",
+    "korean": "저는 돈을 모으고 있어요."
+  },
+  {
+    "id": 6667,
+    "english": "How much is it in total?",
+    "korean": "전부 얼마예요?"
+  },
+  {
+    "id": 6668,
+    "english": "It's too expensive.",
+    "korean": "너무 비싸요."
+  },
+  {
+    "id": 6669,
+    "english": "Do you have a bigger size?",
+    "korean": "더 큰 사이즈 있어요?"
+  },
+  {
+    "id": 6670,
+    "english": "Do you have a smaller size?",
+    "korean": "더 작은 사이즈 있어요?"
+  },
+  {
+    "id": 6671,
+    "english": "Can I try this on?",
+    "korean": "입어 봐도 돼요?"
+  },
+  {
+    "id": 6672,
+    "english": "Where is the fitting room?",
+    "korean": "탈의실이 어디예요?"
+  },
+  {
+    "id": 6673,
+    "english": "Do you have other colors?",
+    "korean": "다른 색깔도 있어요?"
+  },
+  {
+    "id": 6674,
+    "english": "I'll take this one.",
+    "korean": "이걸로 할게요."
+  },
+  {
+    "id": 6675,
+    "english": "Can I get a refund?",
+    "korean": "환불할 수 있어요?"
+  },
+  {
+    "id": 6676,
+    "english": "I'd like to exchange this.",
+    "korean": "이거 교환하고 싶어요."
+  },
+  {
+    "id": 6677,
+    "english": "I have the receipt.",
+    "korean": "영수증 있어요."
+  },
+  {
+    "id": 6678,
+    "english": "Is there a warranty?",
+    "korean": "보증 기간이 있어요?"
+  },
+  {
+    "id": 6679,
+    "english": "Is tax included?",
+    "korean": "부가세 포함이에요?"
+  },
+  {
+    "id": 6680,
+    "english": "Can I pay by credit card?",
+    "korean": "신용카드로 계산할 수 있어요?"
+  },
+  {
+    "id": 6681,
+    "english": "Can I pay in cash?",
+    "korean": "현금으로 낼 수 있어요?"
+  },
+  {
+    "id": 6682,
+    "english": "Can I pay with my phone?",
+    "korean": "휴대폰으로 결제할 수 있어요?"
+  },
+  {
+    "id": 6683,
+    "english": "Please pay in one lump sum.",
+    "korean": "일시불로 해 주세요."
+  },
+  {
+    "id": 6684,
+    "english": "Please pay in installments.",
+    "korean": "할부로 해 주세요."
+  },
+  {
+    "id": 6685,
+    "english": "Please add points to my card.",
+    "korean": "포인트 적립해 주세요."
+  },
+  {
+    "id": 6686,
+    "english": "Do you have a plastic bag?",
+    "korean": "비닐봉지 있어요?"
+  },
+  {
+    "id": 6687,
+    "english": "I need a bag, please.",
+    "korean": "봉투 주세요."
+  },
+  {
+    "id": 6688,
+    "english": "Is there a sale?",
+    "korean": "세일해요?"
+  },
+  {
+    "id": 6689,
+    "english": "When does the sale end?",
+    "korean": "세일은 언제까지예요?"
+  },
+  {
+    "id": 6690,
+    "english": "Do you sell this online too?",
+    "korean": "온라인에서도 팔아요?"
+  },
+  {
+    "id": 6691,
+    "english": "Is this item in stock?",
+    "korean": "이거 재고 있어요?"
+  },
+  {
+    "id": 6692,
+    "english": "Where is the market?",
+    "korean": "시장이 어디예요?"
+  },
+  {
+    "id": 6693,
+    "english": "Where can I find a supermarket?",
+    "korean": "마트가 어디 있어요?"
+  },
+  {
+    "id": 6694,
+    "english": "Where is the nearest convenience store?",
+    "korean": "가장 가까운 편의점이 어디예요?"
+  },
+  {
+    "id": 6695,
+    "english": "The change is wrong.",
+    "korean": "거스름돈이 틀려요."
+  },
+  {
+    "id": 6696,
+    "english": "I gave you 50,000 won.",
+    "korean": "5만 원 드렸어요."
+  },
+  {
+    "id": 6697,
+    "english": "Can you break this bill?",
+    "korean": "이 돈 좀 바꿔 주실 수 있어요?"
+  },
+  {
+    "id": 6698,
+    "english": "Can you gift wrap it?",
+    "korean": "선물 포장해 주실 수 있어요?"
+  },
+  {
+    "id": 6699,
+    "english": "Please send it to this address.",
+    "korean": "이 주소로 보내 주세요."
+  },
+  {
+    "id": 6700,
+    "english": "I lost my wallet.",
+    "korean": "지갑을 잃어버렸어요."
+  },
+  {
+    "id": 6701,
+    "english": "I'm on a tight budget.",
+    "korean": "예산이 빠듯해요."
+  },
+  {
+    "id": 6702,
+    "english": "Is this a good price?",
+    "korean": "이 가격이 괜찮은 거예요?"
+  }
+]

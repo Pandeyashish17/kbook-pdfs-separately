@@ -1,0 +1,497 @@
+[
+  {
+    "id": 1,
+    "english": "Hello.",
+    "korean": "안녕하세요."
+  },
+  {
+    "id": 22,
+    "english": "Congratulations.",
+    "korean": "축하해요."
+  },
+  {
+    "id": 23,
+    "english": "Stay healthy.",
+    "korean": "건강하세요."
+  },
+  {
+    "id": 24,
+    "english": "How have you been?",
+    "korean": "잘 지냈어요?"
+  },
+  {
+    "id": 25,
+    "english": "Long time no see.",
+    "korean": "오랜만이에요."
+  },
+  {
+    "id": 26,
+    "english": "Take care.",
+    "korean": "조심하세요."
+  },
+  {
+    "id": 27,
+    "english": "Have a good day.",
+    "korean": "좋은 하루 되세요."
+  },
+  {
+    "id": 28,
+    "english": "Be happy.",
+    "korean": "행복하세요."
+  },
+  {
+    "id": 29,
+    "english": "Goodbye.",
+    "korean": "잘 가요."
+  },
+  {
+    "id": 30,
+    "english": "See you next time.",
+    "korean": "다음에 또 봐요."
+  },
+  {
+    "id": 34,
+    "english": "How are you doing?",
+    "korean": "어떻게 지내세요?"
+  },
+  {
+    "id": 35,
+    "english": "Enjoy your meal.",
+    "korean": "맛있게 드세요."
+  },
+  {
+    "id": 60,
+    "english": "Good morning.",
+    "korean": "좋은 아침이에요."
+  },
+  {
+    "id": 61,
+    "english": "Have a good night.",
+    "korean": "좋은 밤 되세요."
+  },
+  {
+    "id": 128,
+    "english": "Good night.",
+    "korean": "안녕히 주무세요."
+  },
+  {
+    "id": 129,
+    "english": "Goodbye (to someone leaving).",
+    "korean": "안녕히 가세요."
+  },
+  {
+    "id": 130,
+    "english": "Goodbye (to someone staying).",
+    "korean": "안녕히 계세요."
+  },
+  {
+    "id": 138,
+    "english": "Happy Birthday.",
+    "korean": "생일 축하해요."
+  },
+  {
+    "id": 195,
+    "english": "See you there.",
+    "korean": "거기서 봐요."
+  },
+  {
+    "id": 201,
+    "english": "Happy New Year.",
+    "korean": "새해복 많이 받으세요."
+  },
+  {
+    "id": 221,
+    "english": "Have a nice weekend.",
+    "korean": "즐거운 주말 보내세요."
+  },
+  {
+    "id": 258,
+    "english": "Take care of your health.",
+    "korean": "몸 조심하세요."
+  },
+  {
+    "id": 279,
+    "english": "See you later.",
+    "korean": "나중에 봐요."
+  },
+  {
+    "id": 286,
+    "english": "Have a good day.",
+    "korean": "좋은 하루 보내세요."
+  },
+  {
+    "id": 334,
+    "english": "I hope you have fun.",
+    "korean": "재미 있으시길 바랍니다."
+  },
+  {
+    "id": 349,
+    "english": "Nice to meet you.",
+    "korean": "만나서 반갑습니다."
+  },
+  {
+    "id": 379,
+    "english": "Welcome again.",
+    "korean": "다시 한번 환영합니다."
+  },
+  {
+    "id": 541,
+    "english": "I hope you have a safe trip.",
+    "korean": "안전한 여행 되세요."
+  },
+  {
+    "id": 613,
+    "english": "Have a good night.",
+    "korean": "좋은 밤 되세요."
+  },
+  {
+    "id": 1120,
+    "english": "Nice to work with you.",
+    "korean": "잘 부탁드립니다."
+  },
+  {
+    "id": 1122,
+    "english": "Please take care of this.",
+    "korean": "잘 부탁합니다."
+  },
+  {
+    "id": 1212,
+    "english": "Good morning everyone.",
+    "korean": "모두 좋은 아침이에요."
+  },
+  {
+    "id": 1213,
+    "english": "Have a safe trip home.",
+    "korean": "조심히 들어가세요."
+  },
+  {
+    "id": 1214,
+    "english": "See you tomorrow at work.",
+    "korean": "내일 출근해서 봐요."
+  },
+  {
+    "id": 1248,
+    "english": "Happy holidays.",
+    "korean": "즐거운 명절 되세요."
+  },
+  {
+    "id": 1523,
+    "english": "See you in a bit.",
+    "korean": "조금 있다 봐요."
+  },
+  {
+    "id": 1600,
+    "english": "Hello this is Ashish speaking.",
+    "korean": "여보세요 저 아시시예요."
+  },
+  {
+    "id": 2163,
+    "english": "Congratulations on your promotion.",
+    "korean": "승진 축하해요."
+  },
+  {
+    "id": 2166,
+    "english": "Congratulations on passing the exam.",
+    "korean": "시험 합격 축하해요."
+  },
+  {
+    "id": 2169,
+    "english": "Congratulations on the new baby.",
+    "korean": "아기 탄생 축하드려요."
+  },
+  {
+    "id": 3111,
+    "english": "Highkey I love this.",
+    "korean": "진심으로 이게 너무 좋아요."
+  },
+  {
+    "id": 3162,
+    "english": "Hit the nail on the head.",
+    "korean": "정확히 맞췄어요."
+  },
+  {
+    "id": 3177,
+    "english": "Hit the ground running.",
+    "korean": "바로 시작해요."
+  },
+  {
+    "id": 3447,
+    "english": "Good morning everyone how did you sleep.",
+    "korean": "모두 좋은 아침이에요 잘 자셨어요."
+  },
+  {
+    "id": 3787,
+    "english": "Good morning sir.",
+    "korean": "안녕하세요 선생님."
+  },
+  {
+    "id": 3849,
+    "english": "Good morning did you sleep well.",
+    "korean": "좋은 아침이에요 잘 주무셨어요."
+  },
+  {
+    "id": 3886,
+    "english": "See you after lunch.",
+    "korean": "점심 먹고 봐요."
+  },
+  {
+    "id": 4085,
+    "english": "Good night everyone.",
+    "korean": "모두 안녕히 주무세요."
+  },
+  {
+    "id": 4086,
+    "english": "See you tomorrow.",
+    "korean": "내일 봐요."
+  },
+  {
+    "id": 4157,
+    "english": "Get well soon.",
+    "korean": "빨리 나으세요."
+  },
+  {
+    "id": 4159,
+    "english": "Take care of yourself first.",
+    "korean": "먼저 몸을 챙기세요."
+  },
+  {
+    "id": 4367,
+    "english": "See you tomorrow morning.",
+    "korean": "내일 아침에 봐요."
+  },
+  {
+    "id": 4369,
+    "english": "Safe trip home.",
+    "korean": "집에 잘 가요."
+  },
+  {
+    "id": 4535,
+    "english": "Hey how are you?",
+    "korean": "안녕 어때요?"
+  },
+  {
+    "id": 4544,
+    "english": "Welcome back.",
+    "korean": "돌아온 걸 환영해요."
+  },
+  {
+    "id": 4548,
+    "english": "Take care when you leave.",
+    "korean": "갈 때 조심해요."
+  },
+  {
+    "id": 4625,
+    "english": "See you at lunch.",
+    "korean": "점심에 봐요."
+  },
+  {
+    "id": 4637,
+    "english": "Good morning did you eat.",
+    "korean": "좋은 아침이에요 밥 먹었어요."
+  },
+  {
+    "id": 4669,
+    "english": "High five.",
+    "korean": "하이파이브요."
+  },
+  {
+    "id": 4708,
+    "english": "Good morning sir how are you.",
+    "korean": "안녕하세요 어떻게 지내세요."
+  },
+  {
+    "id": 4910,
+    "english": "Take care of your body.",
+    "korean": "몸을 잘 챙겨요."
+  },
+  {
+    "id": 4949,
+    "english": "Welcome to the team.",
+    "korean": "팀에 온 걸 환영해요."
+  },
+  {
+    "id": 4976,
+    "english": "See you are already using it.",
+    "korean": "봐요 벌써 쓰고 있잖아요."
+  },
+  {
+    "id": 5000,
+    "english": "Have a good evening.",
+    "korean": "저녁 시간 즐겁게 보내요."
+  },
+  {
+    "id": 5006,
+    "english": "Take care everyone.",
+    "korean": "모두 잘 지내요."
+  },
+  {
+    "id": 5008,
+    "english": "See you in the morning.",
+    "korean": "아침에 봐요."
+  },
+  {
+    "id": 5079,
+    "english": "Sleep well tonight.",
+    "korean": "오늘 밤 푹 자요."
+  },
+  {
+    "id": 5242,
+    "english": "See you Monday.",
+    "korean": "월요일에 봐요."
+  },
+  {
+    "id": 5249,
+    "english": "Enjoy your weekend everyone.",
+    "korean": "모두 즐거운 주말 보내요."
+  },
+  {
+    "id": 5250,
+    "english": "Good morning how did you sleep.",
+    "korean": "좋은 아침이에요 잘 잤어요."
+  },
+  {
+    "id": 5463,
+    "english": "See you then.",
+    "korean": "그때 봐요."
+  },
+  {
+    "id": 5466,
+    "english": "Safe trip.",
+    "korean": "안전하게 가요."
+  },
+  {
+    "id": 5576,
+    "english": "Sleep well and tomorrow will be better.",
+    "korean": "잘 자면 내일은 더 나을 거예요."
+  },
+  {
+    "id": 5699,
+    "english": "Good night then.",
+    "korean": "그럼 안녕히 주무세요."
+  },
+  {
+    "id": 5719,
+    "english": "See you tomorrow bright and early.",
+    "korean": "내일 일찍 봐요."
+  },
+  {
+    "id": 5722,
+    "english": "Good night sleep well.",
+    "korean": "안녕히 주무세요 잘 자요."
+  },
+  {
+    "id": 5827,
+    "english": "See you can do it carefully.",
+    "korean": "봐요 조심스럽게 할 수 있잖아요."
+  },
+  {
+    "id": 6171,
+    "english": "Did you eat?",
+    "korean": "밥 먹었어요?"
+  },
+  {
+    "id": 6270,
+    "english": "I'll head off first.",
+    "korean": "먼저 가보겠습니다."
+  },
+  {
+    "id": 6357,
+    "english": "Welcome home.",
+    "korean": "어서 와요."
+  },
+  {
+    "id": 6358,
+    "english": "Have a good weekend.",
+    "korean": "주말 잘 보내세요."
+  },
+  {
+    "id": 6359,
+    "english": "Get some rest.",
+    "korean": "푹 쉬세요."
+  },
+  {
+    "id": 6360,
+    "english": "Good work today.",
+    "korean": "오늘도 수고하셨어요."
+  },
+  {
+    "id": 6361,
+    "english": "See you tomorrow.",
+    "korean": "내일 봬요."
+  },
+  {
+    "id": 6530,
+    "english": "Sleep well.",
+    "korean": "푹 자요."
+  },
+  {
+    "id": 6531,
+    "english": "Nice to see you again.",
+    "korean": "다시 만나서 반가워요."
+  },
+  {
+    "id": 6532,
+    "english": "Welcome.",
+    "korean": "어서 오세요."
+  },
+  {
+    "id": 6533,
+    "english": "Please come in.",
+    "korean": "들어오세요."
+  },
+  {
+    "id": 6534,
+    "english": "Have a safe trip.",
+    "korean": "조심히 다녀오세요."
+  },
+  {
+    "id": 6535,
+    "english": "Merry Christmas.",
+    "korean": "메리 크리스마스!"
+  },
+  {
+    "id": 6536,
+    "english": "Have a happy Chuseok.",
+    "korean": "즐거운 추석 보내세요."
+  },
+  {
+    "id": 6537,
+    "english": "Good luck.",
+    "korean": "행운을 빌어요."
+  },
+  {
+    "id": 6538,
+    "english": "Please say hello to your family.",
+    "korean": "가족분들께 안부 전해 주세요."
+  },
+  {
+    "id": 6539,
+    "english": "Let's keep in touch.",
+    "korean": "계속 연락해요."
+  },
+  {
+    "id": 6540,
+    "english": "Thank you for your hard work.",
+    "korean": "수고하셨습니다."
+  },
+  {
+    "id": 6541,
+    "english": "I'm leaving now (and coming back).",
+    "korean": "다녀오겠습니다."
+  },
+  {
+    "id": 6542,
+    "english": "I'm back.",
+    "korean": "다녀왔습니다."
+  },
+  {
+    "id": 6543,
+    "english": "Please come again.",
+    "korean": "또 오세요."
+  },
+  {
+    "id": 6544,
+    "english": "I'll get going first.",
+    "korean": "먼저 가 볼게요."
+  }
+]

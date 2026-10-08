@@ -1,0 +1,517 @@
+[
+  {
+    "id": 19,
+    "english": "Please help me.",
+    "korean": "도와주세요."
+  },
+  {
+    "id": 43,
+    "english": "Please say it again.",
+    "korean": "다시 한번 말씀해 주세요."
+  },
+  {
+    "id": 45,
+    "english": "Please speak slowly.",
+    "korean": "천천히 말해주세요."
+  },
+  {
+    "id": 46,
+    "english": "Can you help me with that?",
+    "korean": "그것 좀 도와줄 수 있어요?"
+  },
+  {
+    "id": 49,
+    "english": "What did you say?",
+    "korean": "뭐라고 하셨어요?"
+  },
+  {
+    "id": 56,
+    "english": "Can you help me?",
+    "korean": "좀 도와줄래요?"
+  },
+  {
+    "id": 76,
+    "english": "Can you explain a bit more?",
+    "korean": "조금 더 설명해 주실 수 있나요?"
+  },
+  {
+    "id": 121,
+    "english": "What does that mean?",
+    "korean": "무슨 뜻이에요?"
+  },
+  {
+    "id": 127,
+    "english": "I don't understand well.",
+    "korean": "이해가 잘 안 돼요."
+  },
+  {
+    "id": 214,
+    "english": "What do you mean?",
+    "korean": "무슨 말씀이시죠?"
+  },
+  {
+    "id": 267,
+    "english": "Can you say that again?",
+    "korean": "다시 한번 말씀해 주시겠어요?"
+  },
+  {
+    "id": 411,
+    "english": "Can you show me how?",
+    "korean": "어떻게 하는지 알려주시겠어요?"
+  },
+  {
+    "id": 416,
+    "english": "I don't know how to explain.",
+    "korean": "어떻게 설명해야 할지 모르겠어요."
+  },
+  {
+    "id": 478,
+    "english": "Could you speak a little more slowly?",
+    "korean": "조금만 더 천천히 말씀해 주시겠습니까?"
+  },
+  {
+    "id": 482,
+    "english": "Can you explain what happened?",
+    "korean": "이게 어떻게 된 일인지 말씀해 주시겠습니까?"
+  },
+  {
+    "id": 484,
+    "english": "What does that mean?",
+    "korean": "그게 무슨 의미죠?"
+  },
+  {
+    "id": 492,
+    "english": "Could you help me find this?",
+    "korean": "이거 찾는 것 도와주실래요."
+  },
+  {
+    "id": 563,
+    "english": "I don't understand the rules.",
+    "korean": "규칙을 이해할 수 없어요."
+  },
+  {
+    "id": 609,
+    "english": "Please say it again.",
+    "korean": "다시 한번 말씀해 주세요."
+  },
+  {
+    "id": 610,
+    "english": "Please speak slowly.",
+    "korean": "천천히 말해 주세요."
+  },
+  {
+    "id": 650,
+    "english": "Could you speak a little more slowly?",
+    "korean": "조금만 더 천천히 말씀해 주시겠어요?"
+  },
+  {
+    "id": 671,
+    "english": "Can you explain the task?",
+    "korean": "업무를 설명해 주실 수 있나요?"
+  },
+  {
+    "id": 672,
+    "english": "I don't understand the instructions.",
+    "korean": "지시 사항을 잘 모르겠어요."
+  },
+  {
+    "id": 702,
+    "english": "Can you help me with this report?",
+    "korean": "이 보고서 도와주실 수 있어요?"
+  },
+  {
+    "id": 909,
+    "english": "Can you write that down for me?",
+    "korean": "그거 적어 주실 수 있어요?"
+  },
+  {
+    "id": 910,
+    "english": "Please speak more slowly.",
+    "korean": "더 천천히 말씀해 주세요."
+  },
+  {
+    "id": 913,
+    "english": "Can you speak in simpler words?",
+    "korean": "더 쉬운 말로 해주실 수 있어요?"
+  },
+  {
+    "id": 914,
+    "english": "What does this word mean?",
+    "korean": "이 단어가 무슨 뜻이에요?"
+  },
+  {
+    "id": 916,
+    "english": "Can you repeat that please?",
+    "korean": "다시 한번 말씀해 주실 수 있어요?"
+  },
+  {
+    "id": 917,
+    "english": "I didn't catch that.",
+    "korean": "못 들었어요."
+  },
+  {
+    "id": 925,
+    "english": "Please teach me some Korean.",
+    "korean": "한국어 좀 가르쳐 주세요."
+  },
+  {
+    "id": 951,
+    "english": "Do you speak English?",
+    "korean": "영어 할 줄 아세요?"
+  },
+  {
+    "id": 978,
+    "english": "I need help immediately.",
+    "korean": "지금 당장 도움이 필요해요."
+  },
+  {
+    "id": 1106,
+    "english": "Can you translate this for me?",
+    "korean": "이거 번역해 줄 수 있어요?"
+  },
+  {
+    "id": 1107,
+    "english": "Can you show me how to do this?",
+    "korean": "이거 어떻게 하는지 알려줄 수 있어요?"
+  },
+  {
+    "id": 1108,
+    "english": "I need someone to help me move.",
+    "korean": "이사 도와줄 사람이 필요해요."
+  },
+  {
+    "id": 1225,
+    "english": "Please explain the safety rules.",
+    "korean": "안전 규칙을 설명해 주세요."
+  },
+  {
+    "id": 1278,
+    "english": "I need a translation of this document.",
+    "korean": "이 서류 번역이 필요해요."
+  },
+  {
+    "id": 1280,
+    "english": "Can you help me fill out this form?",
+    "korean": "이 양식 작성하는 거 도와줄 수 있어요?"
+  },
+  {
+    "id": 1394,
+    "english": "Can you help me set up the banking app?",
+    "korean": "뱅킹 앱 설정하는 거 도와줄 수 있어요?"
+  },
+  {
+    "id": 1508,
+    "english": "Can you help me talk to the landlord?",
+    "korean": "집주인한테 얘기하는 거 도와줄 수 있어요?"
+  },
+  {
+    "id": 1565,
+    "english": "You speak Korean very well.",
+    "korean": "한국어를 정말 잘하시네요."
+  },
+  {
+    "id": 1699,
+    "english": "I did not catch the last part.",
+    "korean": "마지막 부분을 못 들었어요."
+  },
+  {
+    "id": 1700,
+    "english": "What does that mean exactly?",
+    "korean": "그게 정확히 무슨 의미예요?"
+  },
+  {
+    "id": 1706,
+    "english": "Can you explain in a different way?",
+    "korean": "다른 방식으로 설명해 줄 수 있어요?"
+  },
+  {
+    "id": 1707,
+    "english": "Could you show me how?",
+    "korean": "보여줄 수 있어요?"
+  },
+  {
+    "id": 2046,
+    "english": "I have a problem I need help with.",
+    "korean": "도움이 필요한 문제가 생겼어요."
+  },
+  {
+    "id": 2049,
+    "english": "Can you help me sort this out?",
+    "korean": "이거 해결하는 거 도와줄 수 있어요?"
+  },
+  {
+    "id": 2051,
+    "english": "Let me explain what happened.",
+    "korean": "어떻게 된 건지 설명할게요."
+  },
+  {
+    "id": 2153,
+    "english": "I use Papago for translation.",
+    "korean": "번역할 때 파파고를 써요."
+  },
+  {
+    "id": 2156,
+    "english": "Can you help me set up Kakao Pay?",
+    "korean": "카카오페이 설정하는 거 도와줄 수 있어요?"
+  },
+  {
+    "id": 2162,
+    "english": "Can you help me fix this app issue?",
+    "korean": "앱 문제 해결하는 거 도와줄 수 있어요?"
+  },
+  {
+    "id": 2195,
+    "english": "I do not repeat the same mistake twice.",
+    "korean": "같은 실수를 두 번 하지 않아요."
+  },
+  {
+    "id": 2226,
+    "english": "I feel more connected when I speak Korean.",
+    "korean": "한국어로 말할 때 더 가깝게 느껴져요."
+  },
+  {
+    "id": 2242,
+    "english": "Please help yourself.",
+    "korean": "편하게 드세요."
+  },
+  {
+    "id": 2252,
+    "english": "Please come again anytime.",
+    "korean": "언제든지 또 오세요."
+  },
+  {
+    "id": 2492,
+    "english": "What do you mean by that?",
+    "korean": "그게 무슨 뜻이에요?"
+  },
+  {
+    "id": 2526,
+    "english": "I need help with official paperwork.",
+    "korean": "공식 서류 처리에 도움이 필요해요."
+  },
+  {
+    "id": 2528,
+    "english": "I need a certified translation.",
+    "korean": "공인 번역이 필요해요."
+  },
+  {
+    "id": 2529,
+    "english": "Who can help me with this form?",
+    "korean": "이 양식 작성하는 것을 누가 도와줄 수 있어요?"
+  },
+  {
+    "id": 2632,
+    "english": "I ask my Korean coworkers to teach me.",
+    "korean": "한국 동료들에게 가르쳐 달라고 해요."
+  },
+  {
+    "id": 2641,
+    "english": "I enjoy the slower pace of life in Gyeongju.",
+    "korean": "경주의 여유로운 생활 속도가 좋아요."
+  },
+  {
+    "id": 3747,
+    "english": "Please help me with this.",
+    "korean": "이거 좀 도와주세요."
+  },
+  {
+    "id": 3751,
+    "english": "I still do not understand.",
+    "korean": "아직도 모르겠어요."
+  },
+  {
+    "id": 3794,
+    "english": "Please explain one more time.",
+    "korean": "한 번 더 설명해 주세요."
+  },
+  {
+    "id": 3960,
+    "english": "Can you explain this to me?",
+    "korean": "이거 설명해 줄 수 있어요?"
+  },
+  {
+    "id": 3961,
+    "english": "What does this mean?",
+    "korean": "이게 무슨 뜻이에요?"
+  },
+  {
+    "id": 4077,
+    "english": "Please say it again.",
+    "korean": "다시 말해 주세요."
+  },
+  {
+    "id": 4078,
+    "english": "Slower please.",
+    "korean": "천천히요."
+  },
+  {
+    "id": 4091,
+    "english": "Can you teach me that technique?",
+    "korean": "그 기술 가르쳐 줄 수 있어요?"
+  },
+  {
+    "id": 4103,
+    "english": "You explain things very clearly.",
+    "korean": "설명을 정말 잘 해주세요."
+  },
+  {
+    "id": 4106,
+    "english": "Can you help me carry this?",
+    "korean": "이거 옮기는 것 좀 도와줄 수 있어요?"
+  },
+  {
+    "id": 4144,
+    "english": "Maybe you can teach me one day.",
+    "korean": "언젠가 가르쳐 줄 수 있어요."
+  },
+  {
+    "id": 4325,
+    "english": "I need help with something.",
+    "korean": "뭔가 도움이 필요해요."
+  },
+  {
+    "id": 4505,
+    "english": "Even the new people teach me things.",
+    "korean": "새로 온 사람들도 저한테 가르쳐줘요."
+  },
+  {
+    "id": 4628,
+    "english": "Write it down.",
+    "korean": "적어놔요."
+  },
+  {
+    "id": 4649,
+    "english": "I will explain when they arrive.",
+    "korean": "오면 설명해 줄게요."
+  },
+  {
+    "id": 4843,
+    "english": "What does annyeong mean?",
+    "korean": "안녕이 무슨 뜻이에요?"
+  },
+  {
+    "id": 4853,
+    "english": "You will help me practice right?",
+    "korean": "연습하는 거 도와줄 거죠?"
+  },
+  {
+    "id": 4943,
+    "english": "Explain the basic rules.",
+    "korean": "기본 규칙을 설명해줘요."
+  },
+  {
+    "id": 4982,
+    "english": "They do not expect a foreigner to speak Korean.",
+    "korean": "외국인이 한국어를 할 거라고 생각 못 해요."
+  },
+  {
+    "id": 5392,
+    "english": "I hope I help you as much as you help me.",
+    "korean": "저도 당신한테 그만큼 도움이 됐으면 해요."
+  },
+  {
+    "id": 5818,
+    "english": "I will explain it again.",
+    "korean": "다시 설명할게요."
+  },
+  {
+    "id": 6370,
+    "english": "Could you speak a little slower?",
+    "korean": "조금만 천천히 말해 주실래요?"
+  },
+  {
+    "id": 6371,
+    "english": "I didn't understand that part.",
+    "korean": "그 부분을 이해하지 못했어요."
+  },
+  {
+    "id": 6372,
+    "english": "Can you write it down for me?",
+    "korean": "적어 주실 수 있어요?"
+  },
+  {
+    "id": 6373,
+    "english": "Could you show me once?",
+    "korean": "한번 보여 주실래요?"
+  },
+  {
+    "id": 6565,
+    "english": "Could you say that again?",
+    "korean": "다시 말씀해 주시겠어요?"
+  },
+  {
+    "id": 6566,
+    "english": "I don't speak Korean well.",
+    "korean": "한국어를 잘 못해요."
+  },
+  {
+    "id": 6567,
+    "english": "Can you show me on the map?",
+    "korean": "지도에서 보여 주실 수 있어요?"
+  },
+  {
+    "id": 6568,
+    "english": "How do you say this in Korean?",
+    "korean": "이걸 한국어로 뭐라고 해요?"
+  },
+  {
+    "id": 6569,
+    "english": "Can you help me for a minute?",
+    "korean": "잠깐 도와주실 수 있어요?"
+  },
+  {
+    "id": 6570,
+    "english": "I'm lost.",
+    "korean": "길을 잃었어요."
+  },
+  {
+    "id": 6571,
+    "english": "I need an interpreter.",
+    "korean": "통역사가 필요해요."
+  },
+  {
+    "id": 6572,
+    "english": "Is there anyone who speaks Nepali?",
+    "korean": "네팔어 하는 사람 있어요?"
+  },
+  {
+    "id": 6573,
+    "english": "May I use a translation app?",
+    "korean": "번역 앱을 써도 될까요?"
+  },
+  {
+    "id": 6574,
+    "english": "Please show me how.",
+    "korean": "어떻게 하는지 보여 주세요."
+  },
+  {
+    "id": 6575,
+    "english": "I don't know how to use this.",
+    "korean": "이거 어떻게 쓰는지 몰라요."
+  },
+  {
+    "id": 6576,
+    "english": "Could you explain it more simply?",
+    "korean": "더 쉽게 설명해 주시겠어요?"
+  },
+  {
+    "id": 6577,
+    "english": "Please speak a little louder.",
+    "korean": "조금 더 크게 말해 주세요."
+  },
+  {
+    "id": 6578,
+    "english": "Can you send it as a text message?",
+    "korean": "문자로 보내 주실 수 있어요?"
+  },
+  {
+    "id": 6579,
+    "english": "May I ask you something?",
+    "korean": "하나 여쭤봐도 될까요?"
+  },
+  {
+    "id": 6580,
+    "english": "Who should I ask?",
+    "korean": "누구한테 물어봐야 해요?"
+  }
+]

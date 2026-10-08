@@ -1,0 +1,1452 @@
+[
+  {
+    "id": 42,
+    "english": "Let's stop here.",
+    "korean": "그만하죠."
+  },
+  {
+    "id": 52,
+    "english": "I want to stay longer.",
+    "korean": "좀더 있고 싶어요."
+  },
+  {
+    "id": 57,
+    "english": "I need to hurry.",
+    "korean": "빨리 해야 돼요."
+  },
+  {
+    "id": 72,
+    "english": "Let's try again next time.",
+    "korean": "다음에 다시 해보죠."
+  },
+  {
+    "id": 100,
+    "english": "Let's go together.",
+    "korean": "같이 가요."
+  },
+  {
+    "id": 108,
+    "english": "I'll be waiting for you.",
+    "korean": "기다릴게요."
+  },
+  {
+    "id": 198,
+    "english": "Let's take a break.",
+    "korean": "휴식 시간을 가져요."
+  },
+  {
+    "id": 210,
+    "english": "I'll look into it.",
+    "korean": "한번 알아보겠습니다."
+  },
+  {
+    "id": 233,
+    "english": "I want to have a pet.",
+    "korean": "애완동물을 키우고 싶어요."
+  },
+  {
+    "id": 265,
+    "english": "I'll talk to you later.",
+    "korean": "나중에 다시 얘기해요."
+  },
+  {
+    "id": 291,
+    "english": "Let's get out of here.",
+    "korean": "여기서 나가요."
+  },
+  {
+    "id": 304,
+    "english": "I'll try these.",
+    "korean": "이것들을 시도해 볼게요."
+  },
+  {
+    "id": 344,
+    "english": "I'll be right back.",
+    "korean": "금방 올게요."
+  },
+  {
+    "id": 440,
+    "english": "Let's get started.",
+    "korean": "시작해요."
+  },
+  {
+    "id": 443,
+    "english": "I wish I could.",
+    "korean": "그랬으면 좋겠어요."
+  },
+  {
+    "id": 448,
+    "english": "Let's check it out.",
+    "korean": "확인해봐요."
+  },
+  {
+    "id": 470,
+    "english": "I have to go now.",
+    "korean": "지금 가야만 해요."
+  },
+  {
+    "id": 488,
+    "english": "I'll be there soon.",
+    "korean": "곧 도착할게요."
+  },
+  {
+    "id": 489,
+    "english": "Let's meet tomorrow.",
+    "korean": "내일 만나요."
+  },
+  {
+    "id": 490,
+    "english": "I will try my best.",
+    "korean": "최선을 다 할게요."
+  },
+  {
+    "id": 504,
+    "english": "Let's keep in touch.",
+    "korean": "계속 연락해요."
+  },
+  {
+    "id": 513,
+    "english": "I want to know the information.",
+    "korean": "정보를 알고 싶어요."
+  },
+  {
+    "id": 524,
+    "english": "I'll get back to you.",
+    "korean": "다시 연락할게요."
+  },
+  {
+    "id": 525,
+    "english": "I want to try paragliding.",
+    "korean": "러글라이딩 해보고 싶어요."
+  },
+  {
+    "id": 556,
+    "english": "I want to stay longer.",
+    "korean": "좀 더 머물고 싶어요."
+  },
+  {
+    "id": 557,
+    "english": "I wish you all the best.",
+    "korean": "행운을 빌어요."
+  },
+  {
+    "id": 565,
+    "english": "Let's celebrate this moment.",
+    "korean": "이 순간을 축하해요."
+  },
+  {
+    "id": 577,
+    "english": "I'll check it for.",
+    "korean": "제가 확인해 볼게요."
+  },
+  {
+    "id": 581,
+    "english": "I'll go ahead first.",
+    "korean": "먼저 갈게요."
+  },
+  {
+    "id": 605,
+    "english": "I want to stay a bit longer.",
+    "korean": "조금 더 머물 거예요."
+  },
+  {
+    "id": 608,
+    "english": "Let's tidy up before we go.",
+    "korean": "가기 전에 정리해요."
+  },
+  {
+    "id": 617,
+    "english": "Let's try again next time.",
+    "korean": "다음에 다시 해보죠."
+  },
+  {
+    "id": 630,
+    "english": "We should stop here for today.",
+    "korean": "오늘은 여기까지 해야겠어요."
+  },
+  {
+    "id": 643,
+    "english": "I wish I were you.",
+    "korean": "제가 당신이었으면 좋겠어요."
+  },
+  {
+    "id": 660,
+    "english": "I will be late today.",
+    "korean": "오늘 늦을 것 같아요."
+  },
+  {
+    "id": 694,
+    "english": "I will handle it.",
+    "korean": "제가 처리할게요."
+  },
+  {
+    "id": 703,
+    "english": "I need to discuss something with you.",
+    "korean": "드릴 말씀이 있어요."
+  },
+  {
+    "id": 763,
+    "english": "I will take this one.",
+    "korean": "이걸로 할게요."
+  },
+  {
+    "id": 822,
+    "english": "I would like to order.",
+    "korean": "주문할게요."
+  },
+  {
+    "id": 862,
+    "english": "I need to rest.",
+    "korean": "쉬어야 해요."
+  },
+  {
+    "id": 878,
+    "english": "I need to check my balance.",
+    "korean": "잔액 확인하고 싶어요."
+  },
+  {
+    "id": 964,
+    "english": "I want to try makgeolli.",
+    "korean": "막걸리를 마셔보고 싶어요."
+  },
+  {
+    "id": 1019,
+    "english": "I want to send this package.",
+    "korean": "이 소포를 보내고 싶어요."
+  },
+  {
+    "id": 1022,
+    "english": "I want to send this by express.",
+    "korean": "빠른 우편으로 보내고 싶어요."
+  },
+  {
+    "id": 1087,
+    "english": "I need to talk to someone.",
+    "korean": "누군가와 이야기해야 해요."
+  },
+  {
+    "id": 1098,
+    "english": "I want to cry.",
+    "korean": "울고 싶어요."
+  },
+  {
+    "id": 1124,
+    "english": "I will do my best.",
+    "korean": "최선을 다하겠습니다."
+  },
+  {
+    "id": 1128,
+    "english": "I will be more careful next time.",
+    "korean": "다음에는 더 조심할게요."
+  },
+  {
+    "id": 1130,
+    "english": "I will keep that in mind.",
+    "korean": "명심하겠습니다."
+  },
+  {
+    "id": 1135,
+    "english": "Let me know if you need anything.",
+    "korean": "필요한 게 있으면 말해 주세요."
+  },
+  {
+    "id": 1136,
+    "english": "I will take care of it right away.",
+    "korean": "바로 처리하겠습니다."
+  },
+  {
+    "id": 1162,
+    "english": "I want to go to a PC bang.",
+    "korean": "피시방에 가고 싶어요."
+  },
+  {
+    "id": 1175,
+    "english": "Let's play sports together.",
+    "korean": "같이 운동해요."
+  },
+  {
+    "id": 1215,
+    "english": "I will take care of the rest.",
+    "korean": "나머지는 제가 할게요."
+  },
+  {
+    "id": 1216,
+    "english": "Let me double check that.",
+    "korean": "다시 한번 확인해 볼게요."
+  },
+  {
+    "id": 1224,
+    "english": "I need to leave early for a medical appointment.",
+    "korean": "병원 예약이 있어서 일찍 나가야 해요."
+  },
+  {
+    "id": 1231,
+    "english": "I need to report an issue.",
+    "korean": "문제를 보고해야 해요."
+  },
+  {
+    "id": 1261,
+    "english": "I will leave a review.",
+    "korean": "리뷰를 남길게요."
+  },
+  {
+    "id": 1284,
+    "english": "I will fix this right away.",
+    "korean": "바로 수정할게요."
+  },
+  {
+    "id": 1287,
+    "english": "I should have told you sooner.",
+    "korean": "더 일찍 말했어야 했어요."
+  },
+  {
+    "id": 1289,
+    "english": "Let me make it up to you.",
+    "korean": "제가 보상해 드릴게요."
+  },
+  {
+    "id": 1290,
+    "english": "Let's put this behind us.",
+    "korean": "이 일은 잊어버려요."
+  },
+  {
+    "id": 1301,
+    "english": "Let's discuss this more.",
+    "korean": "더 이야기해 봐요."
+  },
+  {
+    "id": 1303,
+    "english": "I need to use the restroom.",
+    "korean": "화장실에 가야 해요."
+  },
+  {
+    "id": 1319,
+    "english": "I need to make a copy of this.",
+    "korean": "이거 복사해야 해요."
+  },
+  {
+    "id": 1345,
+    "english": "I need to restock the supplies.",
+    "korean": "소모품을 보충해야 해요."
+  },
+  {
+    "id": 1364,
+    "english": "I want to use my annual leave.",
+    "korean": "연차를 쓰고 싶어요."
+  },
+  {
+    "id": 1382,
+    "english": "I need to wear ear protection here.",
+    "korean": "여기서 귀마개를 해야 해요."
+  },
+  {
+    "id": 1393,
+    "english": "I want to use mobile banking.",
+    "korean": "모바일 뱅킹을 이용하고 싶어요."
+  },
+  {
+    "id": 1396,
+    "english": "I need to unfreeze my account.",
+    "korean": "계좌 동결을 해제해야 해요."
+  },
+  {
+    "id": 1423,
+    "english": "I want to try odeng.",
+    "korean": "오뎅 먹어보고 싶어요."
+  },
+  {
+    "id": 1424,
+    "english": "I would like to try bingsu.",
+    "korean": "빙수를 먹어보고 싶어요."
+  },
+  {
+    "id": 1456,
+    "english": "I should use formal speech with him.",
+    "korean": "그분께 존댓말을 써야 해요."
+  },
+  {
+    "id": 1511,
+    "english": "Let's connect on social media.",
+    "korean": "SNS에서 연결해요."
+  },
+  {
+    "id": 1525,
+    "english": "I will be there at noon.",
+    "korean": "12시에 거기 있을게요."
+  },
+  {
+    "id": 1526,
+    "english": "Let's meet at 3 in the afternoon.",
+    "korean": "오후 3시에 만나요."
+  },
+  {
+    "id": 1561,
+    "english": "I will have to think about it.",
+    "korean": "생각해 봐야겠어요."
+  },
+  {
+    "id": 1625,
+    "english": "Let's explore the old town.",
+    "korean": "구시가지를 구경해요."
+  },
+  {
+    "id": 1627,
+    "english": "Let's go to an art gallery.",
+    "korean": "미술관에 가요."
+  },
+  {
+    "id": 1634,
+    "english": "Let's try paragliding.",
+    "korean": "패러글라이딩 해봐요."
+  },
+  {
+    "id": 1681,
+    "english": "I will figure it out.",
+    "korean": "어떻게든 될 거예요."
+  },
+  {
+    "id": 1686,
+    "english": "Let us meet again soon.",
+    "korean": "곧 또 만나요."
+  },
+  {
+    "id": 1694,
+    "english": "We should do this again sometime.",
+    "korean": "또 이러죠."
+  },
+  {
+    "id": 1702,
+    "english": "Let me make sure I understand correctly.",
+    "korean": "제가 제대로 이해한 건지 확인할게요."
+  },
+  {
+    "id": 1724,
+    "english": "I will make the most of my time here.",
+    "korean": "여기서의 시간을 최대한 활용할 거예요."
+  },
+  {
+    "id": 1731,
+    "english": "I will succeed no matter what.",
+    "korean": "반드시 성공할 거예요."
+  },
+  {
+    "id": 1773,
+    "english": "I will definitely come back here.",
+    "korean": "꼭 다시 올게요."
+  },
+  {
+    "id": 1807,
+    "english": "I should wear a mask outside.",
+    "korean": "마스크를 쓰고 나가야겠어요."
+  },
+  {
+    "id": 1867,
+    "english": "I will get back to you by end of day.",
+    "korean": "오늘 안으로 답변 드릴게요."
+  },
+  {
+    "id": 1924,
+    "english": "I will stay here during the holiday.",
+    "korean": "명절에 여기 있을 거예요."
+  },
+  {
+    "id": 1953,
+    "english": "I want to send this by air mail.",
+    "korean": "항공 우편으로 보내고 싶어요."
+  },
+  {
+    "id": 1955,
+    "english": "I need to declare the contents.",
+    "korean": "내용물을 신고해야 해요."
+  },
+  {
+    "id": 1987,
+    "english": "I will use Google Maps.",
+    "korean": "구글 맵을 사용할게요."
+  },
+  {
+    "id": 2001,
+    "english": "I will never forget your help.",
+    "korean": "도움을 잊지 않을 거예요."
+  },
+  {
+    "id": 2053,
+    "english": "I will try to fix this as soon as possible.",
+    "korean": "최대한 빨리 고치려고 할게요."
+  },
+  {
+    "id": 2068,
+    "english": "I should have asked earlier.",
+    "korean": "더 일찍 물어봤어야 했는데요."
+  },
+  {
+    "id": 2072,
+    "english": "Let me put it another way.",
+    "korean": "다르게 말씀드리면요."
+  },
+  {
+    "id": 2089,
+    "english": "I want to try galbi.",
+    "korean": "갈비를 먹어보고 싶어요."
+  },
+  {
+    "id": 2091,
+    "english": "I would like jjajangmyeon.",
+    "korean": "짜장면 주세요."
+  },
+  {
+    "id": 2093,
+    "english": "I want to try haemul pajeon.",
+    "korean": "해물파전을 먹어보고 싶어요."
+  },
+  {
+    "id": 2095,
+    "english": "I want to try cold naengmyeon.",
+    "korean": "냉면을 먹어보고 싶어요."
+  },
+  {
+    "id": 2135,
+    "english": "I need to get vaccinated.",
+    "korean": "예방 접종을 맞아야 해요."
+  },
+  {
+    "id": 2141,
+    "english": "I need to see a specialist.",
+    "korean": "전문의를 봐야 할 것 같아요."
+  },
+  {
+    "id": 2170,
+    "english": "Let us celebrate this together.",
+    "korean": "같이 축하해요."
+  },
+  {
+    "id": 2171,
+    "english": "We should have a party.",
+    "korean": "파티를 해야겠어요."
+  },
+  {
+    "id": 2184,
+    "english": "I want to make a difference.",
+    "korean": "변화를 만들어 내고 싶어요."
+  },
+  {
+    "id": 2185,
+    "english": "I want to be remembered as a good person.",
+    "korean": "좋은 사람으로 기억되고 싶어요."
+  },
+  {
+    "id": 2192,
+    "english": "I should have listened to the advice.",
+    "korean": "조언을 들었어야 했어요."
+  },
+  {
+    "id": 2196,
+    "english": "I will ask before doing it next time.",
+    "korean": "다음에는 하기 전에 먼저 물어볼게요."
+  },
+  {
+    "id": 2198,
+    "english": "I should have double-checked.",
+    "korean": "다시 확인했어야 했어요."
+  },
+  {
+    "id": 2216,
+    "english": "I will be honest with you.",
+    "korean": "솔직하게 말할게요."
+  },
+  {
+    "id": 2224,
+    "english": "I want to communicate better.",
+    "korean": "더 잘 소통하고 싶어요."
+  },
+  {
+    "id": 2231,
+    "english": "I need to layer up today.",
+    "korean": "오늘 옷을 겹쳐 입어야겠어요."
+  },
+  {
+    "id": 2250,
+    "english": "Let me know what you decide.",
+    "korean": "결정되면 알려 주세요."
+  },
+  {
+    "id": 2276,
+    "english": "I am planning to go.",
+    "korean": "갈 계획이에요."
+  },
+  {
+    "id": 2282,
+    "english": "I want to but I cannot.",
+    "korean": "하고 싶은데 못 해요."
+  },
+  {
+    "id": 2373,
+    "english": "I would like to try the chef's recommendation.",
+    "korean": "셰프 추천 요리로 할게요."
+  },
+  {
+    "id": 2421,
+    "english": "I need to rest for a few days.",
+    "korean": "며칠 쉬어야 할 것 같아요."
+  },
+  {
+    "id": 2485,
+    "english": "I will not let hardship break me.",
+    "korean": "어려움에 무너지지 않을 거예요."
+  },
+  {
+    "id": 2499,
+    "english": "Let me process that for a moment.",
+    "korean": "잠깐 생각해 볼게요."
+  },
+  {
+    "id": 2502,
+    "english": "We will have to agree to disagree.",
+    "korean": "서로 의견 차이가 있는 것 같아요."
+  },
+  {
+    "id": 2505,
+    "english": "I will keep that in mind going forward.",
+    "korean": "앞으로 명심할게요."
+  },
+  {
+    "id": 2509,
+    "english": "I will take your advice.",
+    "korean": "조언을 따를게요."
+  },
+  {
+    "id": 2544,
+    "english": "I would like to pre-order this.",
+    "korean": "이거 사전 주문하고 싶어요."
+  },
+  {
+    "id": 2546,
+    "english": "I need to replace this worn part.",
+    "korean": "닳은 부품을 교체해야 해요."
+  },
+  {
+    "id": 2554,
+    "english": "I need to sharpen this tool.",
+    "korean": "이 공구를 갈아야 해요."
+  },
+  {
+    "id": 2559,
+    "english": "I need to log this in the system.",
+    "korean": "이것을 시스템에 기록해야 해요."
+  },
+  {
+    "id": 2606,
+    "english": "I need to take an antacid.",
+    "korean": "제산제가 필요해요."
+  },
+  {
+    "id": 2789,
+    "english": "I need to tidy up.",
+    "korean": "정리해야 해요."
+  },
+  {
+    "id": 2843,
+    "english": "Let me rephrase that.",
+    "korean": "다시 말씀드릴게요."
+  },
+  {
+    "id": 2907,
+    "english": "I will send you the link.",
+    "korean": "링크 보내줄게요."
+  },
+  {
+    "id": 2912,
+    "english": "I will get back to you later.",
+    "korean": "나중에 답장할게요."
+  },
+  {
+    "id": 2921,
+    "english": "I will add you to the group chat.",
+    "korean": "단체 채팅방에 추가할게요."
+  },
+  {
+    "id": 2932,
+    "english": "I need to shave.",
+    "korean": "면도해야 해요."
+  },
+  {
+    "id": 2995,
+    "english": "Let us plan a reunion.",
+    "korean": "재회를 계획해 봐요."
+  },
+  {
+    "id": 3019,
+    "english": "I must be dreaming.",
+    "korean": "꿈인가봐요."
+  },
+  {
+    "id": 3054,
+    "english": "I should not be telling you this but.",
+    "korean": "이걸 말하면 안 되는데요."
+  },
+  {
+    "id": 3063,
+    "english": "Let us change the subject.",
+    "korean": "주제를 바꿔요."
+  },
+  {
+    "id": 3066,
+    "english": "Let us make a plan.",
+    "korean": "계획을 세워봐요."
+  },
+  {
+    "id": 3067,
+    "english": "I need to get organized.",
+    "korean": "정리정돈이 필요해요."
+  },
+  {
+    "id": 3071,
+    "english": "I need to write this down.",
+    "korean": "이거 적어야겠어요."
+  },
+  {
+    "id": 3078,
+    "english": "I need to be more disciplined.",
+    "korean": "더 자제력을 가져야 해요."
+  },
+  {
+    "id": 3096,
+    "english": "I should probably get going.",
+    "korean": "이제 가봐야 할 것 같아요."
+  },
+  {
+    "id": 3099,
+    "english": "Let me know how things turn out.",
+    "korean": "어떻게 됐는지 알려줘요."
+  },
+  {
+    "id": 3101,
+    "english": "We should do this more often.",
+    "korean": "이런 시간 자주 가져요."
+  },
+  {
+    "id": 3103,
+    "english": "I will definitely take you up on that.",
+    "korean": "꼭 그렇게 할게요."
+  },
+  {
+    "id": 3205,
+    "english": "I want to be more eco-friendly.",
+    "korean": "더 친환경적으로 살고 싶어요."
+  },
+  {
+    "id": 3249,
+    "english": "I need to loosen my belt.",
+    "korean": "허리띠를 느슨하게 해야겠어요."
+  },
+  {
+    "id": 3312,
+    "english": "Let me collect my thoughts.",
+    "korean": "생각 정리할게요."
+  },
+  {
+    "id": 3456,
+    "english": "I should switch to decaf.",
+    "korean": "디카페인으로 바꿔야겠어요."
+  },
+  {
+    "id": 3491,
+    "english": "I will see them again in six months.",
+    "korean": "6개월 후에 다시 만날 거예요."
+  },
+  {
+    "id": 3558,
+    "english": "I will teach you sometime.",
+    "korean": "언제 가르쳐 드릴게요."
+  },
+  {
+    "id": 3579,
+    "english": "I need to soak my feet tonight.",
+    "korean": "오늘 밤에 발을 담가야겠어요."
+  },
+  {
+    "id": 3625,
+    "english": "I will get you back for that.",
+    "korean": "복수할 거예요."
+  },
+  {
+    "id": 3656,
+    "english": "I want to become a skilled welder.",
+    "korean": "숙련된 용접사가 되고 싶어요."
+  },
+  {
+    "id": 3773,
+    "english": "Let us try again.",
+    "korean": "다시 해봐요."
+  },
+  {
+    "id": 3782,
+    "english": "Let us go somewhere quieter.",
+    "korean": "더 조용한 곳으로 가요."
+  },
+  {
+    "id": 3796,
+    "english": "I will be more careful.",
+    "korean": "더 조심할게요."
+  },
+  {
+    "id": 3843,
+    "english": "I will get the first aid kit.",
+    "korean": "구급상자 가져올게요."
+  },
+  {
+    "id": 3847,
+    "english": "Let us be more careful.",
+    "korean": "더 조심하자고요."
+  },
+  {
+    "id": 3877,
+    "english": "I want to try that tomorrow.",
+    "korean": "내일 저도 그걸 먹어봐야겠어요."
+  },
+  {
+    "id": 3883,
+    "english": "Let us not be late going back.",
+    "korean": "늦지 않게 돌아가요."
+  },
+  {
+    "id": 3884,
+    "english": "I need to use the restroom first.",
+    "korean": "먼저 화장실 다녀올게요."
+  },
+  {
+    "id": 3885,
+    "english": "I will meet you back at the worksite.",
+    "korean": "작업 현장에서 다시 만나요."
+  },
+  {
+    "id": 3910,
+    "english": "I need to do some errands.",
+    "korean": "볼일이 좀 있어요."
+  },
+  {
+    "id": 3912,
+    "english": "I want to explore a new area.",
+    "korean": "새로운 곳을 구경하고 싶어요."
+  },
+  {
+    "id": 3914,
+    "english": "Let us go check it out together.",
+    "korean": "같이 가봐요."
+  },
+  {
+    "id": 3922,
+    "english": "I will think about it.",
+    "korean": "생각해 볼게요."
+  },
+  {
+    "id": 3943,
+    "english": "I want to help the next new person too.",
+    "korean": "저도 다음에 오는 새 분을 도와주고 싶어요."
+  },
+  {
+    "id": 3992,
+    "english": "I should wear earplugs more often.",
+    "korean": "귀마개를 더 자주 해야겠어요."
+  },
+  {
+    "id": 3995,
+    "english": "Let me step outside for a minute.",
+    "korean": "잠깐 밖에 나갔다 올게요."
+  },
+  {
+    "id": 4045,
+    "english": "Let me check my balance.",
+    "korean": "잔액 확인할게요."
+  },
+  {
+    "id": 4070,
+    "english": "Let us go.",
+    "korean": "가요."
+  },
+  {
+    "id": 4084,
+    "english": "Let us do well tomorrow too.",
+    "korean": "내일도 잘 해봐요."
+  },
+  {
+    "id": 4098,
+    "english": "I will not give up.",
+    "korean": "포기하지 않을게요."
+  },
+  {
+    "id": 4108,
+    "english": "Let us lift this together.",
+    "korean": "같이 들어요."
+  },
+  {
+    "id": 4200,
+    "english": "Let us make today count.",
+    "korean": "오늘을 의미있게 만들어요."
+  },
+  {
+    "id": 4219,
+    "english": "I will always remember my time here.",
+    "korean": "여기서의 시간을 항상 기억할 거예요."
+  },
+  {
+    "id": 4238,
+    "english": "We will see.",
+    "korean": "두고 봐요."
+  },
+  {
+    "id": 4250,
+    "english": "Let me get ready first.",
+    "korean": "먼저 준비할게요."
+  },
+  {
+    "id": 4254,
+    "english": "I will go first.",
+    "korean": "제가 먼저 할게요."
+  },
+  {
+    "id": 4257,
+    "english": "I will follow you.",
+    "korean": "따라갈게요."
+  },
+  {
+    "id": 4331,
+    "english": "Let me finish this first.",
+    "korean": "이것부터 먼저 끝낼게요."
+  },
+  {
+    "id": 4339,
+    "english": "I need to step out.",
+    "korean": "잠깐 나가야 해요."
+  },
+  {
+    "id": 4340,
+    "english": "I will be back soon.",
+    "korean": "곧 돌아올게요."
+  },
+  {
+    "id": 4357,
+    "english": "I will finish and then go.",
+    "korean": "끝내고 갈게요."
+  },
+  {
+    "id": 4392,
+    "english": "Let us just go to the canteen.",
+    "korean": "그냥 구내식당 가요."
+  },
+  {
+    "id": 4467,
+    "english": "Let us have a good day.",
+    "korean": "좋은 하루 보내요."
+  },
+  {
+    "id": 4468,
+    "english": "One day at a time.",
+    "korean": "하루하루 해요."
+  },
+  {
+    "id": 4469,
+    "english": "Let us give it our best.",
+    "korean": "최선을 다해봐요."
+  },
+  {
+    "id": 4475,
+    "english": "Let us go.",
+    "korean": "가봐요."
+  },
+  {
+    "id": 4511,
+    "english": "Let us keep working like this.",
+    "korean": "이렇게 계속 일해요."
+  },
+  {
+    "id": 4550,
+    "english": "I will see you soon.",
+    "korean": "곧 봐요."
+  },
+  {
+    "id": 4599,
+    "english": "I will carry it with me always.",
+    "korean": "항상 간직할 거예요."
+  },
+  {
+    "id": 4612,
+    "english": "Let me know if you need help.",
+    "korean": "도움이 필요하면 알려줘요."
+  },
+  {
+    "id": 4617,
+    "english": "I will keep it between us.",
+    "korean": "우리끼리만 알고 있을게요."
+  },
+  {
+    "id": 4630,
+    "english": "Let us think about it.",
+    "korean": "생각해봐요."
+  },
+  {
+    "id": 4632,
+    "english": "Let us ask someone.",
+    "korean": "누군가한테 물어봐요."
+  },
+  {
+    "id": 4642,
+    "english": "I will not be late again.",
+    "korean": "다시는 안 늦을게요."
+  },
+  {
+    "id": 4650,
+    "english": "Let us not waste time.",
+    "korean": "시간 낭비하지 말아요."
+  },
+  {
+    "id": 4653,
+    "english": "I want to try something different today.",
+    "korean": "오늘 다른 걸 해보고 싶어요."
+  },
+  {
+    "id": 4680,
+    "english": "I should have seen that.",
+    "korean": "제가 봤어야 했는데요."
+  },
+  {
+    "id": 4685,
+    "english": "I will return the favor.",
+    "korean": "다음에 제가 도와드릴게요."
+  },
+  {
+    "id": 4692,
+    "english": "I need to sit down.",
+    "korean": "앉아야겠어요."
+  },
+  {
+    "id": 4704,
+    "english": "I want to try more.",
+    "korean": "더 먹어보고 싶어요."
+  },
+  {
+    "id": 4705,
+    "english": "I will bring more tomorrow.",
+    "korean": "내일 더 가져올게요."
+  },
+  {
+    "id": 4713,
+    "english": "I want to make sure before I continue.",
+    "korean": "계속하기 전에 확인하고 싶어요."
+  },
+  {
+    "id": 4715,
+    "english": "I will fix it right now.",
+    "korean": "바로 고칠게요."
+  },
+  {
+    "id": 4716,
+    "english": "I will remember that.",
+    "korean": "기억할게요."
+  },
+  {
+    "id": 4725,
+    "english": "I will not let you down.",
+    "korean": "실망시키지 않을게요."
+  },
+  {
+    "id": 4741,
+    "english": "Let us go then.",
+    "korean": "그럼 가요."
+  },
+  {
+    "id": 4759,
+    "english": "Let us push through.",
+    "korean": "버텨봐요."
+  },
+  {
+    "id": 4833,
+    "english": "We should appreciate them more.",
+    "korean": "더 감사해야겠어요."
+  },
+  {
+    "id": 4869,
+    "english": "One day it will be enough.",
+    "korean": "언젠가 충분해질 거예요."
+  },
+  {
+    "id": 4906,
+    "english": "I will show you one.",
+    "korean": "하나 보여줄게요."
+  },
+  {
+    "id": 4936,
+    "english": "Let us welcome them well.",
+    "korean": "잘 맞이해줘요."
+  },
+  {
+    "id": 4941,
+    "english": "Let us show them around.",
+    "korean": "안내해줘요."
+  },
+  {
+    "id": 4947,
+    "english": "I wish someone had done that for me.",
+    "korean": "누군가 저한테 그렇게 해줬으면 했어요."
+  },
+  {
+    "id": 4954,
+    "english": "We will help you along the way.",
+    "korean": "가는 길에 도와드릴게요."
+  },
+  {
+    "id": 4959,
+    "english": "Let us not panic.",
+    "korean": "당황하지 말아요."
+  },
+  {
+    "id": 4969,
+    "english": "Let us keep our heads up.",
+    "korean": "고개를 들어요."
+  },
+  {
+    "id": 5033,
+    "english": "I will bring a thicker one tomorrow.",
+    "korean": "내일은 더 두꺼운 걸 가져올게요."
+  },
+  {
+    "id": 5122,
+    "english": "We should go together sometime.",
+    "korean": "언제 같이 가요."
+  },
+  {
+    "id": 5134,
+    "english": "I will let everyone know.",
+    "korean": "모두한테 알릴게요."
+  },
+  {
+    "id": 5157,
+    "english": "Let us keep proving it.",
+    "korean": "계속 증명해봐요."
+  },
+  {
+    "id": 5200,
+    "english": "Let me know if you change your mind.",
+    "korean": "마음 바뀌면 알려줘요."
+  },
+  {
+    "id": 5217,
+    "english": "Let me take a look.",
+    "korean": "제가 한번 볼게요."
+  },
+  {
+    "id": 5257,
+    "english": "Let us get moving.",
+    "korean": "움직여요."
+  },
+  {
+    "id": 5266,
+    "english": "Let me double check.",
+    "korean": "다시 확인해볼게요."
+  },
+  {
+    "id": 5309,
+    "english": "Let us talk about it.",
+    "korean": "얘기해봐요."
+  },
+  {
+    "id": 5332,
+    "english": "I will watch it tonight.",
+    "korean": "오늘 밤에 볼게요."
+  },
+  {
+    "id": 5357,
+    "english": "I will set a reminder.",
+    "korean": "알림 설정해 놓을게요."
+  },
+  {
+    "id": 5375,
+    "english": "Let us try.",
+    "korean": "해봐요."
+  },
+  {
+    "id": 5418,
+    "english": "Let us do this.",
+    "korean": "합시다."
+  },
+  {
+    "id": 5424,
+    "english": "I will have the same as you.",
+    "korean": "저도 같은 걸로 할게요."
+  },
+  {
+    "id": 5431,
+    "english": "I should enjoy it more.",
+    "korean": "더 즐겨야겠어요."
+  },
+  {
+    "id": 5439,
+    "english": "We should celebrate small wins.",
+    "korean": "작은 성공도 축하해야 해요."
+  },
+  {
+    "id": 5461,
+    "english": "Let us do it again tomorrow.",
+    "korean": "내일 또 해요."
+  },
+  {
+    "id": 5502,
+    "english": "Let us always be like this.",
+    "korean": "항상 이렇게 지내요."
+  },
+  {
+    "id": 5553,
+    "english": "I will I promise.",
+    "korean": "그럴게요 약속해요."
+  },
+  {
+    "id": 5562,
+    "english": "Let us keep it going all day.",
+    "korean": "하루 종일 이어가요."
+  },
+  {
+    "id": 5579,
+    "english": "I will bring it right back.",
+    "korean": "바로 가져다 줄게요."
+  },
+  {
+    "id": 5609,
+    "english": "Let me help you fix it.",
+    "korean": "고치는 것 도와드릴게요."
+  },
+  {
+    "id": 5627,
+    "english": "I will be fine thank you for asking.",
+    "korean": "괜찮을 거예요 물어봐줘서 감사해요."
+  },
+  {
+    "id": 5667,
+    "english": "Let me try some.",
+    "korean": "조금 먹어볼게요."
+  },
+  {
+    "id": 5687,
+    "english": "I plan to.",
+    "korean": "그럴 계획이에요."
+  },
+  {
+    "id": 5691,
+    "english": "I have to go now.",
+    "korean": "이제 가야 해요."
+  },
+  {
+    "id": 5695,
+    "english": "I will be here.",
+    "korean": "저는 여기 있을게요."
+  },
+  {
+    "id": 5720,
+    "english": "I will be here.",
+    "korean": "저 여기 있을게요."
+  },
+  {
+    "id": 5763,
+    "english": "I will tell everyone you did great.",
+    "korean": "당신이 잘 했다고 모두에게 말할게요."
+  },
+  {
+    "id": 5808,
+    "english": "I will be there.",
+    "korean": "갈게요."
+  },
+  {
+    "id": 5809,
+    "english": "I will go now.",
+    "korean": "지금 갈게요."
+  },
+  {
+    "id": 5810,
+    "english": "I will try.",
+    "korean": "노력할게요."
+  },
+  {
+    "id": 5849,
+    "english": "Let me do that for you.",
+    "korean": "제가 할게요."
+  },
+  {
+    "id": 5907,
+    "english": "I need to go back for it.",
+    "korean": "가지러 다시 가야 해요."
+  },
+  {
+    "id": 6003,
+    "english": "I will show you sometime.",
+    "korean": "언제 보여줄게요."
+  },
+  {
+    "id": 6013,
+    "english": "I will remember all of that.",
+    "korean": "다 기억할게요."
+  },
+  {
+    "id": 6014,
+    "english": "Let me get that for you.",
+    "korean": "제가 가져다 드릴게요."
+  },
+  {
+    "id": 6037,
+    "english": "I will look for you.",
+    "korean": "찾을게요."
+  },
+  {
+    "id": 6058,
+    "english": "I should start doing that.",
+    "korean": "저도 시작해야겠어요."
+  },
+  {
+    "id": 6120,
+    "english": "Let us wrap up.",
+    "korean": "마무리해요."
+  },
+  {
+    "id": 6139,
+    "english": "If we're going anyway, let's go together.",
+    "korean": "이왕이면 같이 가요."
+  },
+  {
+    "id": 6244,
+    "english": "I'm going to hang out with my friends this weekend.",
+    "korean": "이번 주말에 친구들이랑 뭉칠 거예요."
+  },
+  {
+    "id": 6480,
+    "english": "I want to improve my Korean.",
+    "korean": "한국어 실력을 늘리고 싶어요."
+  },
+  {
+    "id": 6481,
+    "english": "Let's meet this weekend.",
+    "korean": "이번 주말에 만나요."
+  },
+  {
+    "id": 6482,
+    "english": "I plan to save more money.",
+    "korean": "돈을 더 모으려고 해요."
+  },
+  {
+    "id": 6483,
+    "english": "I'm going to buy a gift.",
+    "korean": "선물을 사려고 해요."
+  },
+  {
+    "id": 6484,
+    "english": "Let's take a walk.",
+    "korean": "산책해요."
+  },
+  {
+    "id": 6485,
+    "english": "I want to rest at home today.",
+    "korean": "오늘은 집에서 쉬고 싶어요."
+  },
+  {
+    "id": 7159,
+    "english": "I want to go to Seoul.",
+    "korean": "서울에 가고 싶어요."
+  },
+  {
+    "id": 7160,
+    "english": "Let's have dinner together.",
+    "korean": "같이 저녁 먹어요."
+  },
+  {
+    "id": 7161,
+    "english": "How about this weekend?",
+    "korean": "이번 주말 어때요?"
+  },
+  {
+    "id": 7162,
+    "english": "Why don't we meet tomorrow?",
+    "korean": "내일 만나는 게 어때요?"
+  },
+  {
+    "id": 7163,
+    "english": "I plan to study Korean.",
+    "korean": "한국어 공부할 계획이에요."
+  },
+  {
+    "id": 7164,
+    "english": "I want to learn more.",
+    "korean": "더 배우고 싶어요."
+  },
+  {
+    "id": 7165,
+    "english": "I want to save money.",
+    "korean": "돈을 모으고 싶어요."
+  },
+  {
+    "id": 7166,
+    "english": "I want to travel around Korea.",
+    "korean": "한국 여행을 하고 싶어요."
+  },
+  {
+    "id": 7167,
+    "english": "I want to try Korean food.",
+    "korean": "한국 음식을 먹어 보고 싶어요."
+  },
+  {
+    "id": 7168,
+    "english": "What are your plans for the weekend?",
+    "korean": "주말에 뭐 할 계획이에요?"
+  },
+  {
+    "id": 7169,
+    "english": "I have no plans.",
+    "korean": "계획이 없어요."
+  },
+  {
+    "id": 7170,
+    "english": "I'm going to rest at home.",
+    "korean": "집에서 쉴 거예요."
+  },
+  {
+    "id": 7171,
+    "english": "Shall we go?",
+    "korean": "갈까요?"
+  },
+  {
+    "id": 7172,
+    "english": "Shall we start?",
+    "korean": "시작할까요?"
+  },
+  {
+    "id": 7173,
+    "english": "Do you want to join us?",
+    "korean": "같이 갈래요?"
+  },
+  {
+    "id": 7174,
+    "english": "Count me in.",
+    "korean": "저도 끼워 주세요."
+  },
+  {
+    "id": 7175,
+    "english": "I'll sit this one out.",
+    "korean": "저는 빠질게요."
+  },
+  {
+    "id": 7176,
+    "english": "I'm thinking of changing jobs.",
+    "korean": "직장을 옮길까 생각 중이에요."
+  },
+  {
+    "id": 7177,
+    "english": "I'd like to start a business someday.",
+    "korean": "언젠가 사업을 하고 싶어요."
+  },
+  {
+    "id": 7178,
+    "english": "I hope to bring my family to Korea someday.",
+    "korean": "언젠가 가족을 한국에 데려오고 싶어요."
+  },
+  {
+    "id": 7179,
+    "english": "I plan to return to Nepal.",
+    "korean": "네팔로 돌아갈 계획이에요."
+  }
+]

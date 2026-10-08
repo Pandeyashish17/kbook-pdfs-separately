@@ -1,0 +1,257 @@
+[
+  {
+    "id": 7857,
+    "english": "I have three years of welding experience.",
+    "korean": "용접 경력이 3년 있어요."
+  },
+  {
+    "id": 7858,
+    "english": "I can do arc welding.",
+    "korean": "아크 용접을 할 수 있어요."
+  },
+  {
+    "id": 7859,
+    "english": "I can do TIG welding.",
+    "korean": "티그 용접을 할 수 있어요."
+  },
+  {
+    "id": 7860,
+    "english": "I can do MIG welding.",
+    "korean": "미그 용접을 할 수 있어요."
+  },
+  {
+    "id": 7861,
+    "english": "I can do CO2 welding.",
+    "korean": "CO2 용접을 할 수 있어요."
+  },
+  {
+    "id": 7862,
+    "english": "I can do stick welding.",
+    "korean": "피복아크 용접을 할 수 있어요."
+  },
+  {
+    "id": 7863,
+    "english": "Where is the welding machine?",
+    "korean": "용접기가 어디 있어요?"
+  },
+  {
+    "id": 7864,
+    "english": "The welding machine is not working.",
+    "korean": "용접기가 작동하지 않아요."
+  },
+  {
+    "id": 7865,
+    "english": "Please put on the welding mask.",
+    "korean": "용접 마스크를 쓰세요."
+  },
+  {
+    "id": 7866,
+    "english": "Please wear welding gloves.",
+    "korean": "용접 장갑을 끼세요."
+  },
+  {
+    "id": 7867,
+    "english": "Don't look at the arc.",
+    "korean": "아크 빛을 쳐다보지 마세요."
+  },
+  {
+    "id": 7868,
+    "english": "Sparks are flying.",
+    "korean": "불꽃이 튀어요."
+  },
+  {
+    "id": 7869,
+    "english": "Watch out for sparks.",
+    "korean": "불똥 조심하세요."
+  },
+  {
+    "id": 7870,
+    "english": "Please remove flammable materials.",
+    "korean": "가연물을 치워 주세요."
+  },
+  {
+    "id": 7871,
+    "english": "Is there a fire watch person?",
+    "korean": "화재 감시자가 있어요?"
+  },
+  {
+    "id": 7872,
+    "english": "Please keep a fire extinguisher nearby.",
+    "korean": "소화기를 가까이에 두세요."
+  },
+  {
+    "id": 7873,
+    "english": "Please check the gas cylinder.",
+    "korean": "가스통을 확인하세요."
+  },
+  {
+    "id": 7874,
+    "english": "Is the gas empty?",
+    "korean": "가스가 떨어졌어요?"
+  },
+  {
+    "id": 7875,
+    "english": "Please change the gas cylinder.",
+    "korean": "가스통을 교체해 주세요."
+  },
+  {
+    "id": 7876,
+    "english": "Please check the welding rod.",
+    "korean": "용접봉을 확인하세요."
+  },
+  {
+    "id": 7877,
+    "english": "I need more welding rods.",
+    "korean": "용접봉이 더 필요해요."
+  },
+  {
+    "id": 7878,
+    "english": "Which welding rod should I use?",
+    "korean": "어떤 용접봉을 써야 해요?"
+  },
+  {
+    "id": 7879,
+    "english": "What is the welding current?",
+    "korean": "용접 전류가 얼마예요?"
+  },
+  {
+    "id": 7880,
+    "english": "Set the current to 120.",
+    "korean": "전류를 120으로 맞추세요."
+  },
+  {
+    "id": 7881,
+    "english": "Please grind the weld.",
+    "korean": "용접 부위를 갈아 주세요."
+  },
+  {
+    "id": 7882,
+    "english": "Please remove the slag.",
+    "korean": "슬래그를 제거하세요."
+  },
+  {
+    "id": 7883,
+    "english": "Please chip off the slag.",
+    "korean": "슬래그를 쳐 내세요."
+  },
+  {
+    "id": 7884,
+    "english": "There is a crack in the weld.",
+    "korean": "용접부에 균열이 있어요."
+  },
+  {
+    "id": 7885,
+    "english": "There is porosity in the weld.",
+    "korean": "용접부에 기공이 있어요."
+  },
+  {
+    "id": 7886,
+    "english": "The weld is not strong enough.",
+    "korean": "용접이 충분히 튼튼하지 않아요."
+  },
+  {
+    "id": 7887,
+    "english": "Please weld it again.",
+    "korean": "다시 용접해 주세요."
+  },
+  {
+    "id": 7888,
+    "english": "Tack weld it first.",
+    "korean": "먼저 가용접하세요."
+  },
+  {
+    "id": 7889,
+    "english": "Do the main weld.",
+    "korean": "본용접을 하세요."
+  },
+  {
+    "id": 7890,
+    "english": "Weld it in the flat position.",
+    "korean": "아래보기 자세로 용접하세요."
+  },
+  {
+    "id": 7891,
+    "english": "I can do vertical welding.",
+    "korean": "수직 용접을 할 수 있어요."
+  },
+  {
+    "id": 7892,
+    "english": "I can do overhead welding.",
+    "korean": "위보기 용접을 할 수 있어요."
+  },
+  {
+    "id": 7893,
+    "english": "Please inspect the weld.",
+    "korean": "용접부를 검사해 주세요."
+  },
+  {
+    "id": 7894,
+    "english": "The inspector is coming.",
+    "korean": "검사원이 오고 있어요."
+  },
+  {
+    "id": 7895,
+    "english": "The weld passed the inspection.",
+    "korean": "용접이 검사에 합격했어요."
+  },
+  {
+    "id": 7896,
+    "english": "Is this stainless steel?",
+    "korean": "이거 스테인리스예요?"
+  },
+  {
+    "id": 7897,
+    "english": "Is this carbon steel?",
+    "korean": "이거 탄소강이에요?"
+  },
+  {
+    "id": 7898,
+    "english": "How thick is the plate?",
+    "korean": "판 두께가 얼마예요?"
+  },
+  {
+    "id": 7899,
+    "english": "It's ten millimeters thick.",
+    "korean": "두께가 10밀리미터예요."
+  },
+  {
+    "id": 7900,
+    "english": "Please cut the pipe.",
+    "korean": "파이프를 자르세요."
+  },
+  {
+    "id": 7901,
+    "english": "Please prepare the bevel.",
+    "korean": "개선 가공을 하세요."
+  },
+  {
+    "id": 7902,
+    "english": "Please use the grinder.",
+    "korean": "그라인더를 쓰세요."
+  },
+  {
+    "id": 7903,
+    "english": "Be careful with the grinder.",
+    "korean": "그라인더 조심하세요."
+  },
+  {
+    "id": 7904,
+    "english": "Please use the gas cutter.",
+    "korean": "가스 절단기를 쓰세요."
+  },
+  {
+    "id": 7905,
+    "english": "Do I need a welding certificate?",
+    "korean": "용접 자격증이 필요해요?"
+  },
+  {
+    "id": 7906,
+    "english": "I have a welding certificate.",
+    "korean": "용접 자격증이 있어요."
+  },
+  {
+    "id": 7907,
+    "english": "I'd like to get a welding certificate in Korea.",
+    "korean": "한국에서 용접 자격증을 따고 싶어요."
+  }
+]

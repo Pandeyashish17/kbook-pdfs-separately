@@ -1,0 +1,3427 @@
+[
+  {
+    "id": 14,
+    "english": "I don't like it.",
+    "korean": "싫어요."
+  },
+  {
+    "id": 77,
+    "english": "I have no more questions.",
+    "korean": "더 이상 질문이 없습니다."
+  },
+  {
+    "id": 168,
+    "english": "I don't like being alone.",
+    "korean": "저는 혼자 있는 것을 싫어해요."
+  },
+  {
+    "id": 216,
+    "english": "I don't like that color.",
+    "korean": "그 색상은 별로예요."
+  },
+  {
+    "id": 228,
+    "english": "There's nothing I can do.",
+    "korean": "제가 할 수 있는게 없어요."
+  },
+  {
+    "id": 231,
+    "english": "You'll get used to it.",
+    "korean": "익숙해질 거예요."
+  },
+  {
+    "id": 232,
+    "english": "I can see you clearly.",
+    "korean": "당신이 잘 보여요."
+  },
+  {
+    "id": 246,
+    "english": "I've changed my mind.",
+    "korean": "생각을 바꿨어요."
+  },
+  {
+    "id": 284,
+    "english": "I couldn't find them.",
+    "korean": "저는 그들을 찾을 수 없었어요."
+  },
+  {
+    "id": 293,
+    "english": "I'm reading a book.",
+    "korean": "저는 책을 읽고 있어요."
+  },
+  {
+    "id": 296,
+    "english": "I'm not in the mood.",
+    "korean": "그럴 기분이 아니에요."
+  },
+  {
+    "id": 303,
+    "english": "I have a question for you.",
+    "korean": "뭐 좀 물어볼게요."
+  },
+  {
+    "id": 358,
+    "english": "I'm sure it will be fine.",
+    "korean": "분명 괜찮을 겁니다."
+  },
+  {
+    "id": 380,
+    "english": "I can do it alone.",
+    "korean": "혼자 할 수 있어요."
+  },
+  {
+    "id": 406,
+    "english": "You don't have to come if you're busy.",
+    "korean": "바쁘면 안 가도 돼요."
+  },
+  {
+    "id": 410,
+    "english": "I've been there twice.",
+    "korean": "저는 그곳에 두 번 다녀왔어요."
+  },
+  {
+    "id": 413,
+    "english": "I have many things to do.",
+    "korean": "할 일이 많아요."
+  },
+  {
+    "id": 442,
+    "english": "I have no choice.",
+    "korean": "선택의 여지가 없죠."
+  },
+  {
+    "id": 447,
+    "english": "I'm counting on you.",
+    "korean": "전 당신을 믿고 있어요."
+  },
+  {
+    "id": 455,
+    "english": "There's no way to fix it.",
+    "korean": "해결할 방법이 없어요."
+  },
+  {
+    "id": 473,
+    "english": "I drank too much yesterday.",
+    "korean": "어제 술을 너무 많이 마셨어요."
+  },
+  {
+    "id": 506,
+    "english": "I'm a bit tired.",
+    "korean": "조금 피곤하네요."
+  },
+  {
+    "id": 512,
+    "english": "I'm doing well, everything is fine.",
+    "korean": "잘 지내고 있어요."
+  },
+  {
+    "id": 532,
+    "english": "I'm thinking about moving.",
+    "korean": "이사할까 고민 중이에요."
+  },
+  {
+    "id": 539,
+    "english": "I'm craving something sweet.",
+    "korean": "단 게 먹고 싶어요."
+  },
+  {
+    "id": 551,
+    "english": "My first time trying.",
+    "korean": "이거 처음 해 봐요."
+  },
+  {
+    "id": 558,
+    "english": "I'm not familiar with that.",
+    "korean": "그건 잘 몰라요."
+  },
+  {
+    "id": 559,
+    "english": "I don't feel like going out.",
+    "korean": "나가고 싶은 기분이 아니에요."
+  },
+  {
+    "id": 562,
+    "english": "I have something to tell you.",
+    "korean": "할 말이 있어요."
+  },
+  {
+    "id": 571,
+    "english": "I have a question about this.",
+    "korean": "이것에 대해 질문이 있어요."
+  },
+  {
+    "id": 574,
+    "english": "I'm interested in that.",
+    "korean": "그거에 관심이 있어요."
+  },
+  {
+    "id": 580,
+    "english": "I have a lot on my mind.",
+    "korean": "생각이 많아요."
+  },
+  {
+    "id": 582,
+    "english": "I forgot to bring my ID.",
+    "korean": "신분증을 안 가져왔어요."
+  },
+  {
+    "id": 586,
+    "english": "I have something to prepare.",
+    "korean": "준비할 게 있어요."
+  },
+  {
+    "id": 619,
+    "english": "I have no more questions.",
+    "korean": "더 이상 질문이 없습니다."
+  },
+  {
+    "id": 645,
+    "english": "I've been there twice.",
+    "korean": "저는 그곳에 두 번 다녀왔어요."
+  },
+  {
+    "id": 647,
+    "english": "I have no choice.",
+    "korean": "선택의 여지가 없죠."
+  },
+  {
+    "id": 683,
+    "english": "I am on a break.",
+    "korean": "지금 쉬는 시간이에요."
+  },
+  {
+    "id": 720,
+    "english": "I'm in a hurry.",
+    "korean": "급해요."
+  },
+  {
+    "id": 734,
+    "english": "The light bulb needs to be changed.",
+    "korean": "전구를 교체해야 해요."
+  },
+  {
+    "id": 773,
+    "english": "The size doesn't fit.",
+    "korean": "사이즈가 안 맞아요."
+  },
+  {
+    "id": 782,
+    "english": "I am just browsing.",
+    "korean": "그냥 구경하는 거예요."
+  },
+  {
+    "id": 833,
+    "english": "I have a runny nose.",
+    "korean": "콧물이 나요."
+  },
+  {
+    "id": 842,
+    "english": "I cut my finger.",
+    "korean": "손가락을 베었어요."
+  },
+  {
+    "id": 855,
+    "english": "I have eye strain.",
+    "korean": "눈이 피로해요."
+  },
+  {
+    "id": 876,
+    "english": "I forgot my PIN number.",
+    "korean": "비밀번호를 잊어버렸어요."
+  },
+  {
+    "id": 933,
+    "english": "The roads are icy.",
+    "korean": "길이 얼었어요."
+  },
+  {
+    "id": 974,
+    "english": "The pace of life here is fast.",
+    "korean": "여기는 생활 속도가 빨라요."
+  },
+  {
+    "id": 977,
+    "english": "There has been an accident.",
+    "korean": "사고가 났어요."
+  },
+  {
+    "id": 983,
+    "english": "I don't know where I am.",
+    "korean": "제가 어디 있는지 모르겠어요."
+  },
+  {
+    "id": 1005,
+    "english": "I am looking for this place.",
+    "korean": "이 장소를 찾고 있어요."
+  },
+  {
+    "id": 1073,
+    "english": "My birthday is in March.",
+    "korean": "제 생일은 3월이에요."
+  },
+  {
+    "id": 1074,
+    "english": "I have been here for 3 months.",
+    "korean": "온 지 3개월 됐어요."
+  },
+  {
+    "id": 1077,
+    "english": "I have 2 days off per week.",
+    "korean": "일주일에 이틀 쉬어요."
+  },
+  {
+    "id": 1100,
+    "english": "Everything will be okay.",
+    "korean": "다 잘 될 거예요."
+  },
+  {
+    "id": 1123,
+    "english": "I'm counting on you.",
+    "korean": "잘 부탁드려요."
+  },
+  {
+    "id": 1132,
+    "english": "That makes perfect sense.",
+    "korean": "완전히 이해가 돼요."
+  },
+  {
+    "id": 1134,
+    "english": "I am available anytime.",
+    "korean": "언제든지 연락 주세요."
+  },
+  {
+    "id": 1140,
+    "english": "I am the youngest here.",
+    "korean": "제가 여기서 제일 어려요."
+  },
+  {
+    "id": 1199,
+    "english": "I have been working for 2 years.",
+    "korean": "2년째 일하고 있어요."
+  },
+  {
+    "id": 1244,
+    "english": "Time flies so fast.",
+    "korean": "시간이 정말 빨리 가요."
+  },
+  {
+    "id": 1251,
+    "english": "Looking forward to working with you.",
+    "korean": "함께 일하게 되어 기대돼요."
+  },
+  {
+    "id": 1255,
+    "english": "Minimum order is too high.",
+    "korean": "최소 주문 금액이 너무 높아요."
+  },
+  {
+    "id": 1259,
+    "english": "Something is missing from my order.",
+    "korean": "주문한 게 빠진 것 같아요."
+  },
+  {
+    "id": 1282,
+    "english": "I am very sorry about that.",
+    "korean": "그 점 정말 죄송해요."
+  },
+  {
+    "id": 1288,
+    "english": "I take full responsibility.",
+    "korean": "제 책임이에요."
+  },
+  {
+    "id": 1296,
+    "english": "I'm not so sure about that.",
+    "korean": "그건 잘 모르겠어요."
+  },
+  {
+    "id": 1302,
+    "english": "That depends on the situation.",
+    "korean": "상황에 따라 다르죠."
+  },
+  {
+    "id": 1309,
+    "english": "The air is dry in here.",
+    "korean": "여기 공기가 건조해요."
+  },
+  {
+    "id": 1313,
+    "english": "The light is too bright.",
+    "korean": "불빛이 너무 밝아요."
+  },
+  {
+    "id": 1315,
+    "english": "My chair is uncomfortable.",
+    "korean": "의자가 불편해요."
+  },
+  {
+    "id": 1320,
+    "english": "The copier is out of paper.",
+    "korean": "복사기에 종이가 없어요."
+  },
+  {
+    "id": 1334,
+    "english": "I'm rooting for you.",
+    "korean": "응원할게요."
+  },
+  {
+    "id": 1341,
+    "english": "Every little bit helps.",
+    "korean": "조금씩 도움이 돼요."
+  },
+  {
+    "id": 1352,
+    "english": "This part is missing.",
+    "korean": "이 부품이 빠졌어요."
+  },
+  {
+    "id": 1358,
+    "english": "The noise level is too high.",
+    "korean": "소음이 너무 심해요."
+  },
+  {
+    "id": 1365,
+    "english": "Today is a public holiday.",
+    "korean": "오늘은 공휴일이에요."
+  },
+  {
+    "id": 1426,
+    "english": "The portions here are very big.",
+    "korean": "여기 양이 정말 많아요."
+  },
+  {
+    "id": 1434,
+    "english": "I can handle the heat.",
+    "korean": "맵게 잘 먹어요."
+  },
+  {
+    "id": 1462,
+    "english": "I understand the age system now.",
+    "korean": "이제 나이 계산법을 이해했어요."
+  },
+  {
+    "id": 1470,
+    "english": "I have a toothache.",
+    "korean": "이가 아파요."
+  },
+  {
+    "id": 1477,
+    "english": "I have been having headaches often.",
+    "korean": "요즘 두통이 자주 있어요."
+  },
+  {
+    "id": 1481,
+    "english": "I am on medication.",
+    "korean": "약을 복용 중이에요."
+  },
+  {
+    "id": 1522,
+    "english": "I read manhwa in my free time.",
+    "korean": "자유 시간에 만화를 읽어요."
+  },
+  {
+    "id": 1530,
+    "english": "It has been a long day.",
+    "korean": "긴 하루였어요."
+  },
+  {
+    "id": 1535,
+    "english": "Time flies when you are busy.",
+    "korean": "바쁘면 시간이 빨리 가요."
+  },
+  {
+    "id": 1536,
+    "english": "I have been here for one year now.",
+    "korean": "온 지 1년이 됐어요."
+  },
+  {
+    "id": 1558,
+    "english": "I see what you mean.",
+    "korean": "무슨 말씀인지 알아요."
+  },
+  {
+    "id": 1562,
+    "english": "I am on the fence.",
+    "korean": "결정을 못 하겠어요."
+  },
+  {
+    "id": 1575,
+    "english": "You make everything easier.",
+    "korean": "덕분에 모든 게 쉬워져요."
+  },
+  {
+    "id": 1603,
+    "english": "The line is busy.",
+    "korean": "통화 중이에요."
+  },
+  {
+    "id": 1607,
+    "english": "I sent you the details.",
+    "korean": "세부 사항 보냈어요."
+  },
+  {
+    "id": 1614,
+    "english": "I am available to talk now.",
+    "korean": "지금 통화 괜찮아요."
+  },
+  {
+    "id": 1675,
+    "english": "You read my mind.",
+    "korean": "제 마음을 읽으셨네요."
+  },
+  {
+    "id": 1683,
+    "english": "Step by step we get there.",
+    "korean": "차근차근해요."
+  },
+  {
+    "id": 1684,
+    "english": "I have come a long way.",
+    "korean": "많이 성장했어요."
+  },
+  {
+    "id": 1689,
+    "english": "Safe travels to you.",
+    "korean": "안전히 다녀오세요."
+  },
+  {
+    "id": 1695,
+    "english": "I look forward to seeing you again.",
+    "korean": "다시 볼 날을 기대해요."
+  },
+  {
+    "id": 1719,
+    "english": "I can handle anything.",
+    "korean": "어떤 것도 이겨낼 수 있어요."
+  },
+  {
+    "id": 1722,
+    "english": "Every day is a new start.",
+    "korean": "매일이 새로운 시작이에요."
+  },
+  {
+    "id": 1726,
+    "english": "This experience will make me stronger.",
+    "korean": "이 경험이 저를 더 강하게 만들 거예요."
+  },
+  {
+    "id": 1729,
+    "english": "I am on the right track.",
+    "korean": "제대로 된 방향으로 가고 있어요."
+  },
+  {
+    "id": 1737,
+    "english": "That sounds really fun.",
+    "korean": "진짜 재미있겠다."
+  },
+  {
+    "id": 1742,
+    "english": "I am always rooting for you.",
+    "korean": "항상 응원할게요."
+  },
+  {
+    "id": 1779,
+    "english": "I run five kilometers a day.",
+    "korean": "하루에 5킬로미터 뛰어요."
+  },
+  {
+    "id": 1780,
+    "english": "I lift weights three times a week.",
+    "korean": "일주일에 세 번 웨이트를 해요."
+  },
+  {
+    "id": 1782,
+    "english": "I can bench press eighty kilograms.",
+    "korean": "벤치프레스 80킬로 돼요."
+  },
+  {
+    "id": 1862,
+    "english": "Groceries are affordable here.",
+    "korean": "여기서 장보는 비용이 괜찮아요."
+  },
+  {
+    "id": 1877,
+    "english": "The system is not responding.",
+    "korean": "시스템이 응답하지 않아요."
+  },
+  {
+    "id": 1911,
+    "english": "I would really appreciate your help.",
+    "korean": "도움 주시면 정말 감사하겠어요."
+  },
+  {
+    "id": 1917,
+    "english": "I heard people make songpyeon.",
+    "korean": "송편을 만든다고 들었어요."
+  },
+  {
+    "id": 1940,
+    "english": "Not too short please.",
+    "korean": "너무 짧지 않게 해 주세요."
+  },
+  {
+    "id": 1959,
+    "english": "This package is fragile.",
+    "korean": "이 소포는 깨지기 쉬워요."
+  },
+  {
+    "id": 1963,
+    "english": "The infrastructure here is excellent.",
+    "korean": "여기 인프라가 정말 훌륭해요."
+  },
+  {
+    "id": 1965,
+    "english": "Public transportation is very convenient.",
+    "korean": "대중교통이 정말 편리해요."
+  },
+  {
+    "id": 1972,
+    "english": "I admire the efficiency here.",
+    "korean": "여기서의 효율성이 대단하다고 생각해요."
+  },
+  {
+    "id": 1993,
+    "english": "I would not know what to do without you.",
+    "korean": "당신 없었으면 어떻게 했을지 몰라요."
+  },
+  {
+    "id": 1995,
+    "english": "Your help means a lot to me.",
+    "korean": "도움이 저한테 정말 큰 의미예요."
+  },
+  {
+    "id": 1998,
+    "english": "I cannot thank you enough.",
+    "korean": "뭐라고 감사해야 할지 모르겠어요."
+  },
+  {
+    "id": 1999,
+    "english": "This means everything to me.",
+    "korean": "이게 저한테 전부예요."
+  },
+  {
+    "id": 2048,
+    "english": "I am not sure what to do.",
+    "korean": "어떻게 해야 할지 모르겠어요."
+  },
+  {
+    "id": 2055,
+    "english": "I am doing everything I can.",
+    "korean": "최선을 다하고 있어요."
+  },
+  {
+    "id": 2056,
+    "english": "It will not happen again I promise.",
+    "korean": "다시는 그런 일 없을 거예요 약속해요."
+  },
+  {
+    "id": 2069,
+    "english": "I am not complaining but.",
+    "korean": "불평하려는 게 아닌데요."
+  },
+  {
+    "id": 2078,
+    "english": "Everyone needs to evacuate now.",
+    "korean": "모두 지금 대피해야 해요."
+  },
+  {
+    "id": 2080,
+    "english": "I smell something burning.",
+    "korean": "뭔가 타는 냄새가 나요."
+  },
+  {
+    "id": 2094,
+    "english": "One serving of dakgalbi please.",
+    "korean": "닭갈비 1인분 주세요."
+  },
+  {
+    "id": 2134,
+    "english": "My pulse seems fast today.",
+    "korean": "오늘 맥박이 빠른 것 같아요."
+  },
+  {
+    "id": 2165,
+    "english": "Wishing you a speedy recovery.",
+    "korean": "빨리 나으시길 바랍니다."
+  },
+  {
+    "id": 2173,
+    "english": "This calls for a celebration.",
+    "korean": "이건 축하해야겠어요."
+  },
+  {
+    "id": 2189,
+    "english": "Life is short so I try to enjoy every moment.",
+    "korean": "인생이 짧으니까 매 순간을 즐기려고 해요."
+  },
+  {
+    "id": 2208,
+    "english": "The color does not suit me.",
+    "korean": "이 색이 저한테 안 어울려요."
+  },
+  {
+    "id": 2218,
+    "english": "I understand what you are not saying.",
+    "korean": "말씀하지 않는 것도 이해해요."
+  },
+  {
+    "id": 2235,
+    "english": "The roads might be slippery.",
+    "korean": "길이 미끄러울 수도 있어요."
+  },
+  {
+    "id": 2237,
+    "english": "The sun is very strong today.",
+    "korean": "오늘 햇볕이 정말 강해요."
+  },
+  {
+    "id": 2239,
+    "english": "The humidity makes it feel hotter.",
+    "korean": "습도 때문에 더 더워요."
+  },
+  {
+    "id": 2249,
+    "english": "I am at your disposal.",
+    "korean": "언제든지 말씀하세요."
+  },
+  {
+    "id": 2253,
+    "english": "It has been a real pleasure.",
+    "korean": "정말 즐거운 시간이었어요."
+  },
+  {
+    "id": 2281,
+    "english": "I keep forgetting to do it.",
+    "korean": "자꾸 깜빡해요."
+  },
+  {
+    "id": 2316,
+    "english": "The parts are not aligned properly.",
+    "korean": "부품이 제대로 정렬되지 않았어요."
+  },
+  {
+    "id": 2401,
+    "english": "Someone made an unauthorized transaction.",
+    "korean": "누군가 무단으로 거래를 했어요."
+  },
+  {
+    "id": 2408,
+    "english": "I have been coughing for a week.",
+    "korean": "일주일째 기침이 나요."
+  },
+  {
+    "id": 2413,
+    "english": "I have been feeling nauseous all day.",
+    "korean": "하루 종일 메스꺼워요."
+  },
+  {
+    "id": 2417,
+    "english": "The swelling has not gone down.",
+    "korean": "붓기가 빠지지 않아요."
+  },
+  {
+    "id": 2419,
+    "english": "I have been sneezing all day.",
+    "korean": "하루 종일 재채기가 나요."
+  },
+  {
+    "id": 2426,
+    "english": "The medication is not working.",
+    "korean": "약이 효과가 없는 것 같아요."
+  },
+  {
+    "id": 2432,
+    "english": "I use both hands when giving something.",
+    "korean": "무언가 드릴 때 양손으로 드려요."
+  },
+  {
+    "id": 2452,
+    "english": "Seokguram Grotto is a UNESCO site.",
+    "korean": "석굴암은 유네스코 세계 문화유산이에요."
+  },
+  {
+    "id": 2478,
+    "english": "Some days are harder than others.",
+    "korean": "어떤 날은 다른 날보다 더 힘들어요."
+  },
+  {
+    "id": 2479,
+    "english": "I remind myself why I came here.",
+    "korean": "왜 여기 왔는지 스스로 되새겨요."
+  },
+  {
+    "id": 2482,
+    "english": "I am becoming a stronger person.",
+    "korean": "더 강한 사람이 되고 있어요."
+  },
+  {
+    "id": 2483,
+    "english": "I celebrate small victories too.",
+    "korean": "작은 승리도 축하해요."
+  },
+  {
+    "id": 2488,
+    "english": "I am exactly where I need to be.",
+    "korean": "지금 제가 있어야 할 곳에 있어요."
+  },
+  {
+    "id": 2489,
+    "english": "I trust the process.",
+    "korean": "과정을 믿어요."
+  },
+  {
+    "id": 2495,
+    "english": "That rings a bell.",
+    "korean": "들어본 것 같아요."
+  },
+  {
+    "id": 2496,
+    "english": "I am not following you.",
+    "korean": "무슨 말씀인지 잘 모르겠어요."
+  },
+  {
+    "id": 2500,
+    "english": "I partially agree with that.",
+    "korean": "부분적으로 동의해요."
+  },
+  {
+    "id": 2504,
+    "english": "You make a valid point.",
+    "korean": "타당한 지적이에요."
+  },
+  {
+    "id": 2506,
+    "english": "That changes things a bit.",
+    "korean": "그게 좀 달라지게 하네요."
+  },
+  {
+    "id": 2531,
+    "english": "I am looking for waterproof boots.",
+    "korean": "방수 부츠를 찾고 있어요."
+  },
+  {
+    "id": 2567,
+    "english": "The corridor lights are always on.",
+    "korean": "복도 불이 항상 켜져 있어요."
+  },
+  {
+    "id": 2573,
+    "english": "The ceiling fan is not working.",
+    "korean": "천장 선풍기가 작동이 안 돼요."
+  },
+  {
+    "id": 2607,
+    "english": "I have been having nose bleeds.",
+    "korean": "코피가 자주 나요."
+  },
+  {
+    "id": 2612,
+    "english": "My lower back is really painful.",
+    "korean": "허리 아래쪽이 정말 아파요."
+  },
+  {
+    "id": 2650,
+    "english": "My hometown is Haraiya in Rupandehi.",
+    "korean": "제 고향은 루판데히의 하라이야예요."
+  },
+  {
+    "id": 2651,
+    "english": "Rupandehi is near Lumbini the birthplace of Buddha.",
+    "korean": "루판데히는 부처님 탄생지 룸비니 근처예요."
+  },
+  {
+    "id": 2667,
+    "english": "Meditation helps me stay calm.",
+    "korean": "명상이 평온함을 유지하는 데 도움이 돼요."
+  },
+  {
+    "id": 2673,
+    "english": "Gratitude changes your perspective.",
+    "korean": "감사함이 관점을 바꿔줘요."
+  },
+  {
+    "id": 2675,
+    "english": "I do not compare myself to others.",
+    "korean": "다른 사람과 비교하지 않아요."
+  },
+  {
+    "id": 2683,
+    "english": "That makes total sense now.",
+    "korean": "이제 완전히 이해돼요."
+  },
+  {
+    "id": 2692,
+    "english": "The early bird catches the worm.",
+    "korean": "일찍 일어나는 새가 벌레를 잡아요."
+  },
+  {
+    "id": 2695,
+    "english": "Every little bit counts.",
+    "korean": "조금이라도 도움이 돼요."
+  },
+  {
+    "id": 2705,
+    "english": "My mind is blank.",
+    "korean": "멘탈이 나갔어요."
+  },
+  {
+    "id": 2725,
+    "english": "I'm not in the mood.",
+    "korean": "기분이 별로예요."
+  },
+  {
+    "id": 2727,
+    "english": "I'm hooked on this.",
+    "korean": "완전 빠졌어요."
+  },
+  {
+    "id": 2728,
+    "english": "I'm obsessed with this.",
+    "korean": "완전 빠져있어요."
+  },
+  {
+    "id": 2749,
+    "english": "Every dog has its day.",
+    "korean": "쥐구멍에도 볕들 날 있어요."
+  },
+  {
+    "id": 2752,
+    "english": "A penny saved is a penny earned.",
+    "korean": "티끌 모아 태산이에요."
+  },
+  {
+    "id": 2753,
+    "english": "Even a monkey falls from a tree.",
+    "korean": "원숭이도 나무에서 떨어져요."
+  },
+  {
+    "id": 2754,
+    "english": "Out of sight out of mind.",
+    "korean": "눈에서 멀어지면 마음에서도 멀어져요."
+  },
+  {
+    "id": 2756,
+    "english": "Rome was not built in a day.",
+    "korean": "로마는 하루아침에 이루어지지 않았어요."
+  },
+  {
+    "id": 2760,
+    "english": "Birds of a feather flock together.",
+    "korean": "유유상종이에요."
+  },
+  {
+    "id": 2762,
+    "english": "You reap what you sow.",
+    "korean": "뿌린 대로 거둬요."
+  },
+  {
+    "id": 2766,
+    "english": "The grass is always greener on the other side.",
+    "korean": "남의 떡이 더 커 보여요."
+  },
+  {
+    "id": 2768,
+    "english": "All that glitters is not gold.",
+    "korean": "반짝이는 것이 다 금은 아니에요."
+  },
+  {
+    "id": 2813,
+    "english": "She talks too much.",
+    "korean": "말이 너무 많아요."
+  },
+  {
+    "id": 2814,
+    "english": "Mind your own business.",
+    "korean": "남의 일에 신경 끄세요."
+  },
+  {
+    "id": 2817,
+    "english": "I give up on this.",
+    "korean": "이건 포기했어요."
+  },
+  {
+    "id": 2818,
+    "english": "I can not be bothered.",
+    "korean": "하기 싫어요."
+  },
+  {
+    "id": 2820,
+    "english": "I am going crazy with boredom.",
+    "korean": "심심해 죽겠어요."
+  },
+  {
+    "id": 2821,
+    "english": "I am dying of laughter.",
+    "korean": "웃겨 죽겠어요."
+  },
+  {
+    "id": 2841,
+    "english": "As I was saying.",
+    "korean": "제가 말하려던 건데요."
+  },
+  {
+    "id": 2846,
+    "english": "On the other hand.",
+    "korean": "반면에요."
+  },
+  {
+    "id": 2853,
+    "english": "Between you and me.",
+    "korean": "우리끼리 얘기인데요."
+  },
+  {
+    "id": 2855,
+    "english": "I heard through the grapevine.",
+    "korean": "소문으로 들었어요."
+  },
+  {
+    "id": 2857,
+    "english": "I have a feeling that.",
+    "korean": "느낌이 오는데요."
+  },
+  {
+    "id": 2861,
+    "english": "See what I mean.",
+    "korean": "무슨 말인지 알겠죠."
+  },
+  {
+    "id": 2862,
+    "english": "You know what I mean.",
+    "korean": "무슨 말인지 알죠."
+  },
+  {
+    "id": 2863,
+    "english": "If you ask me.",
+    "korean": "제 생각을 물어보신다면요."
+  },
+  {
+    "id": 2885,
+    "english": "Oh wow I did not expect that.",
+    "korean": "오 와 정말 예상 못 했어요."
+  },
+  {
+    "id": 2891,
+    "english": "I cannot imagine how you felt.",
+    "korean": "어떤 기분이었을지 상상도 못 하겠어요."
+  },
+  {
+    "id": 2892,
+    "english": "That sounds like a nightmare.",
+    "korean": "악몽 같은 상황이었겠어요."
+  },
+  {
+    "id": 2913,
+    "english": "My notifications are off.",
+    "korean": "알림을 꺼놨어요."
+  },
+  {
+    "id": 2914,
+    "english": "I have been offline all day.",
+    "korean": "하루 종일 온라인이 아니었어요."
+  },
+  {
+    "id": 2917,
+    "english": "The connection keeps cutting out.",
+    "korean": "연결이 계속 끊겨요."
+  },
+  {
+    "id": 2920,
+    "english": "Your audio is cutting out.",
+    "korean": "오디오가 끊기네요."
+  },
+  {
+    "id": 2927,
+    "english": "I hit the snooze button five times.",
+    "korean": "다섯 번이나 알람을 껐어요."
+  },
+  {
+    "id": 2935,
+    "english": "The mirror is all fogged up.",
+    "korean": "거울이 다 서려있어요."
+  },
+  {
+    "id": 2939,
+    "english": "I can not fall asleep tonight.",
+    "korean": "오늘 밤에 잠이 안 와요."
+  },
+  {
+    "id": 2940,
+    "english": "I keep tossing and turning.",
+    "korean": "자꾸 뒤척거려요."
+  },
+  {
+    "id": 2945,
+    "english": "I am craving something sweet.",
+    "korean": "단 게 당겨요."
+  },
+  {
+    "id": 2946,
+    "english": "I am craving something salty.",
+    "korean": "짠 게 당겨요."
+  },
+  {
+    "id": 2984,
+    "english": "We hit it off right away.",
+    "korean": "처음 만났을 때 바로 친해졌어요."
+  },
+  {
+    "id": 2986,
+    "english": "We always have each other's backs.",
+    "korean": "항상 서로 챙겨줘요."
+  },
+  {
+    "id": 2987,
+    "english": "I can tell them anything.",
+    "korean": "뭐든 말할 수 있어요."
+  },
+  {
+    "id": 2989,
+    "english": "I trust them completely.",
+    "korean": "완전히 믿어요."
+  },
+  {
+    "id": 2994,
+    "english": "We have not seen each other in months.",
+    "korean": "몇 달째 못 봤어요."
+  },
+  {
+    "id": 2998,
+    "english": "He always knows how to cheer me up.",
+    "korean": "그 친구는 항상 저를 기분 좋게 해줘요."
+  },
+  {
+    "id": 3006,
+    "english": "I am a regular customer here.",
+    "korean": "저는 단골이에요."
+  },
+  {
+    "id": 3018,
+    "english": "This cannot be happening.",
+    "korean": "이런 일이 있을 수 없어요."
+  },
+  {
+    "id": 3020,
+    "english": "Pinch me I must be dreaming.",
+    "korean": "꿈인지 깨워줘요."
+  },
+  {
+    "id": 3028,
+    "english": "Everything happened so fast.",
+    "korean": "모든 일이 너무 빨리 일어났어요."
+  },
+  {
+    "id": 3029,
+    "english": "I froze up completely.",
+    "korean": "완전히 얼어붙었어요."
+  },
+  {
+    "id": 3036,
+    "english": "You have nothing to lose.",
+    "korean": "잃을 게 없잖아요."
+  },
+  {
+    "id": 3038,
+    "english": "You will regret it if you do not try.",
+    "korean": "안 하면 나중에 후회할 거예요."
+  },
+  {
+    "id": 3044,
+    "english": "This too shall pass.",
+    "korean": "이것도 지나갈 거예요."
+  },
+  {
+    "id": 3052,
+    "english": "I heard there might be changes coming.",
+    "korean": "변화가 있을 것 같다는 소문이 있어요."
+  },
+  {
+    "id": 3057,
+    "english": "Everyone is talking about it.",
+    "korean": "다들 그 얘기를 하고 있어요."
+  },
+  {
+    "id": 3062,
+    "english": "Some people have too much free time.",
+    "korean": "어떤 사람들은 할 일이 없나봐요."
+  },
+  {
+    "id": 3070,
+    "english": "I keep forgetting things.",
+    "korean": "자꾸 잊어버려요."
+  },
+  {
+    "id": 3073,
+    "english": "I set a reminder for that.",
+    "korean": "알림을 설정해놨어요."
+  },
+  {
+    "id": 3075,
+    "english": "Something came up and I had to reschedule.",
+    "korean": "일이 생겨서 일정을 바꿔야 했어요."
+  },
+  {
+    "id": 3082,
+    "english": "I see the world differently now.",
+    "korean": "이제 세상을 다르게 봐요."
+  },
+  {
+    "id": 3084,
+    "english": "I have grown so much as a person.",
+    "korean": "사람으로서 정말 많이 성장했어요."
+  },
+  {
+    "id": 3085,
+    "english": "The first few months were the hardest.",
+    "korean": "처음 몇 달이 제일 힘들었어요."
+  },
+  {
+    "id": 3090,
+    "english": "I handle problems on my own now.",
+    "korean": "이제 혼자서 문제를 해결해요."
+  },
+  {
+    "id": 3093,
+    "english": "This experience is priceless.",
+    "korean": "이 경험은 돈으로 살 수 없어요."
+  },
+  {
+    "id": 3094,
+    "english": "I would not trade this for anything.",
+    "korean": "이 경험을 다른 어떤 것과도 바꾸지 않을 거예요."
+  },
+  {
+    "id": 3098,
+    "english": "I have an early morning tomorrow.",
+    "korean": "내일 일찍 일어나야 해요."
+  },
+  {
+    "id": 3102,
+    "english": "Next time is on me.",
+    "korean": "다음에는 제가 살게요."
+  },
+  {
+    "id": 3115,
+    "english": "I am totally simping for this.",
+    "korean": "이게 너무 좋아서 어떡해요."
+  },
+  {
+    "id": 3118,
+    "english": "I am living for this.",
+    "korean": "이거 너무 좋아요."
+  },
+  {
+    "id": 3119,
+    "english": "I am dead serious.",
+    "korean": "완전 진지해요."
+  },
+  {
+    "id": 3128,
+    "english": "I am moving on.",
+    "korean": "이제 넘어가려고 해요."
+  },
+  {
+    "id": 3129,
+    "english": "I am over it.",
+    "korean": "이제 괜찮아요."
+  },
+  {
+    "id": 3132,
+    "english": "I am going on a social media detox.",
+    "korean": "소셜 미디어를 잠시 끊으려고요."
+  },
+  {
+    "id": 3142,
+    "english": "I am not feeling it today.",
+    "korean": "오늘은 영 아니네요."
+  },
+  {
+    "id": 3143,
+    "english": "I am in a slump.",
+    "korean": "슬럼프에 빠졌어요."
+  },
+  {
+    "id": 3144,
+    "english": "I hit a wall.",
+    "korean": "한계에 부딪혔어요."
+  },
+  {
+    "id": 3153,
+    "english": "You always know what to say.",
+    "korean": "항상 뭐라고 해야 할지 알아요."
+  },
+  {
+    "id": 3154,
+    "english": "I could talk to you forever.",
+    "korean": "영원히 얘기할 수 있을 것 같아요."
+  },
+  {
+    "id": 3156,
+    "english": "Nobody gets me like you do.",
+    "korean": "저를 당신처럼 이해해주는 사람이 없어요."
+  },
+  {
+    "id": 3159,
+    "english": "Burn the candle at both ends.",
+    "korean": "너무 무리하고 있어요."
+  },
+  {
+    "id": 3167,
+    "english": "The more the merrier.",
+    "korean": "많을수록 좋아요."
+  },
+  {
+    "id": 3172,
+    "english": "A leopard cannot change its spots.",
+    "korean": "사람의 본성은 바꾸기 어려워요."
+  },
+  {
+    "id": 3184,
+    "english": "On the tip of my tongue.",
+    "korean": "입에서 맴돌아요."
+  },
+  {
+    "id": 3191,
+    "english": "I am trying to read more books.",
+    "korean": "책을 더 많이 읽으려고 해요."
+  },
+  {
+    "id": 3199,
+    "english": "I am trying to reduce plastic use.",
+    "korean": "플라스틱 사용을 줄이려고 해요."
+  },
+  {
+    "id": 3202,
+    "english": "I turn off the lights when leaving.",
+    "korean": "나갈 때 불을 꺼요."
+  },
+  {
+    "id": 3203,
+    "english": "I unplug electronics when not using them.",
+    "korean": "사용하지 않을 때 전자기기 플러그를 뽑아요."
+  },
+  {
+    "id": 3207,
+    "english": "Small habits make a big difference.",
+    "korean": "작은 습관들이 큰 차이를 만들어요."
+  },
+  {
+    "id": 3213,
+    "english": "I am getting to that.",
+    "korean": "지금 그 얘기 하려던 참이에요."
+  },
+  {
+    "id": 3217,
+    "english": "Anyway back to the point.",
+    "korean": "어쨌든 본론으로 돌아가서요."
+  },
+  {
+    "id": 3220,
+    "english": "Now that you mention it.",
+    "korean": "말씀하시니까 생각나는데요."
+  },
+  {
+    "id": 3223,
+    "english": "Believe it or not.",
+    "korean": "믿기 어렵겠지만요."
+  },
+  {
+    "id": 3227,
+    "english": "Off the top of my head.",
+    "korean": "바로 생각나는 건요."
+  },
+  {
+    "id": 3230,
+    "english": "At the end of the day.",
+    "korean": "결국에는요."
+  },
+  {
+    "id": 3237,
+    "english": "The texture is perfect.",
+    "korean": "식감이 완벽해요."
+  },
+  {
+    "id": 3238,
+    "english": "It just melts in your mouth.",
+    "korean": "입에서 살살 녹아요."
+  },
+  {
+    "id": 3239,
+    "english": "The aroma is incredible.",
+    "korean": "향이 정말 좋아요."
+  },
+  {
+    "id": 3250,
+    "english": "Exactly what I was thinking.",
+    "korean": "제가 생각하던 것과 똑같아요."
+  },
+  {
+    "id": 3258,
+    "english": "That sums it up perfectly.",
+    "korean": "완벽하게 요약됐어요."
+  },
+  {
+    "id": 3269,
+    "english": "I cannot turn my brain off.",
+    "korean": "머리를 끌 수가 없어요."
+  },
+  {
+    "id": 3273,
+    "english": "I deserve rest too.",
+    "korean": "저도 휴식이 필요해요."
+  },
+  {
+    "id": 3274,
+    "english": "Resting is also productive.",
+    "korean": "쉬는 것도 생산적인 활동이에요."
+  },
+  {
+    "id": 3283,
+    "english": "The pace of life here is much faster.",
+    "korean": "여기 생활 속도가 훨씬 빨라요."
+  },
+  {
+    "id": 3284,
+    "english": "Everything is so efficient here.",
+    "korean": "여기서는 모든 것이 정말 효율적이에요."
+  },
+  {
+    "id": 3285,
+    "english": "Things are more organized here.",
+    "korean": "여기가 더 잘 정돈되어 있어요."
+  },
+  {
+    "id": 3287,
+    "english": "Public facilities are excellent.",
+    "korean": "공공시설이 정말 훌륭해요."
+  },
+  {
+    "id": 3292,
+    "english": "The opportunities here are incredible.",
+    "korean": "여기 기회가 정말 대단해요."
+  },
+  {
+    "id": 3308,
+    "english": "I am losing my mind.",
+    "korean": "미치겠어요."
+  },
+  {
+    "id": 3309,
+    "english": "My brain cannot process this.",
+    "korean": "머리가 안 돌아가요."
+  },
+  {
+    "id": 3314,
+    "english": "I take that back.",
+    "korean": "그 말 취소할게요."
+  },
+  {
+    "id": 3319,
+    "english": "I am just messing with you.",
+    "korean": "장난치는 거예요."
+  },
+  {
+    "id": 3320,
+    "english": "You should have seen your face.",
+    "korean": "그때 표정 봤어야 했는데요."
+  },
+  {
+    "id": 3351,
+    "english": "I am counting down the hours.",
+    "korean": "몇 시간 남았는지 세고 있어요."
+  },
+  {
+    "id": 3356,
+    "english": "Time to treat myself.",
+    "korean": "이제 저를 좀 챙겨야겠어요."
+  },
+  {
+    "id": 3378,
+    "english": "The scaffolding is set up.",
+    "korean": "비계 설치가 됐어요."
+  },
+  {
+    "id": 3380,
+    "english": "The scaffolding needs to be reinforced.",
+    "korean": "비계를 보강해야 해요."
+  },
+  {
+    "id": 3392,
+    "english": "The oxygen and acetylene tanks are full.",
+    "korean": "산소와 아세틸렌 탱크가 가득 찼어요."
+  },
+  {
+    "id": 3395,
+    "english": "Evacuate the area immediately.",
+    "korean": "즉시 구역에서 대피하세요."
+  },
+  {
+    "id": 3400,
+    "english": "The surface needs to be sandblasted first.",
+    "korean": "먼저 표면을 샌드블라스팅 해야 해요."
+  },
+  {
+    "id": 3409,
+    "english": "The lifeboat davit is being fitted.",
+    "korean": "구명정 다빗을 장착하고 있어요."
+  },
+  {
+    "id": 3422,
+    "english": "The block is being lifted into position.",
+    "korean": "블록을 제자리에 들어올리고 있어요."
+  },
+  {
+    "id": 3423,
+    "english": "The block alignment is perfect.",
+    "korean": "블록 정렬이 완벽해요."
+  },
+  {
+    "id": 3433,
+    "english": "Non-destructive testing is required here.",
+    "korean": "여기서 비파괴 검사가 필요해요."
+  },
+  {
+    "id": 3437,
+    "english": "The tank is being pressure tested.",
+    "korean": "탱크 압력 테스트를 하고 있어요."
+  },
+  {
+    "id": 3485,
+    "english": "I am making do with what I have here.",
+    "korean": "여기서 있는 걸로 잘 지내고 있어요."
+  },
+  {
+    "id": 3493,
+    "english": "Time passes slowly when you miss someone.",
+    "korean": "그리운 사람이 있으면 시간이 느리게 가요."
+  },
+  {
+    "id": 3494,
+    "english": "But when you are busy it flies.",
+    "korean": "근데 바쁘면 시간이 빨리 가요."
+  },
+  {
+    "id": 3496,
+    "english": "Staying busy is my therapy.",
+    "korean": "바쁘게 지내는 게 저의 치료법이에요."
+  },
+  {
+    "id": 3500,
+    "english": "I ran five kilometers this morning.",
+    "korean": "오늘 아침에 5킬로를 뛰었어요."
+  },
+  {
+    "id": 3505,
+    "english": "I can see the results now.",
+    "korean": "이제 결과가 보여요."
+  },
+  {
+    "id": 3518,
+    "english": "Even small incidents must be documented.",
+    "korean": "작은 사고도 기록해야 해요."
+  },
+  {
+    "id": 3530,
+    "english": "The dust mask protects your lungs.",
+    "korean": "방진 마스크가 폐를 보호해줘요."
+  },
+  {
+    "id": 3534,
+    "english": "A standby person must be present.",
+    "korean": "대기자가 반드시 있어야 해요."
+  },
+  {
+    "id": 3541,
+    "english": "Isolate the energy source first.",
+    "korean": "먼저 에너지 원을 차단하세요."
+  },
+  {
+    "id": 3548,
+    "english": "I cannot believe someone did that.",
+    "korean": "어떻게 그럴 수 있어요."
+  },
+  {
+    "id": 3551,
+    "english": "The breakroom needs to be tidied up.",
+    "korean": "휴게실 정리가 필요해요."
+  },
+  {
+    "id": 3564,
+    "english": "The fermentation process takes time.",
+    "korean": "발효 과정에 시간이 걸려요."
+  },
+  {
+    "id": 3580,
+    "english": "My back is killing me today.",
+    "korean": "오늘 허리가 너무 아파요."
+  },
+  {
+    "id": 3582,
+    "english": "But it keeps me fit.",
+    "korean": "근데 몸을 단련시켜줘요."
+  },
+  {
+    "id": 3587,
+    "english": "My hands built something that will last decades.",
+    "korean": "제 손으로 만든 게 수십 년 동안 남을 거예요."
+  },
+  {
+    "id": 3596,
+    "english": "The double bottom is being constructed.",
+    "korean": "이중 선저가 건조되고 있어요."
+  },
+  {
+    "id": 3600,
+    "english": "The transverse frame is being fitted.",
+    "korean": "횡늑골이 장착되고 있어요."
+  },
+  {
+    "id": 3602,
+    "english": "The deck plating is being laid.",
+    "korean": "갑판 도금이 시공되고 있어요."
+  },
+  {
+    "id": 3613,
+    "english": "HVAC systems are being tested.",
+    "korean": "냉난방 시스템을 테스트하고 있어요."
+  },
+  {
+    "id": 3614,
+    "english": "The firefighting system is operational.",
+    "korean": "소화 시스템이 작동 중이에요."
+  },
+  {
+    "id": 3615,
+    "english": "The lifeboat is being lowered for testing.",
+    "korean": "구명정을 테스트를 위해 내리고 있어요."
+  },
+  {
+    "id": 3616,
+    "english": "The radar mast is up.",
+    "korean": "레이더 마스트가 세워졌어요."
+  },
+  {
+    "id": 3627,
+    "english": "I cannot stay mad at you.",
+    "korean": "당신한테 화가 안 나요."
+  },
+  {
+    "id": 3628,
+    "english": "You always make me laugh.",
+    "korean": "항상 웃게 만드네요."
+  },
+  {
+    "id": 3635,
+    "english": "I am looking forward to it.",
+    "korean": "기대돼요."
+  },
+  {
+    "id": 3642,
+    "english": "My personal time is sacred.",
+    "korean": "개인 시간은 소중해요."
+  },
+  {
+    "id": 3643,
+    "english": "I recharge on my days off.",
+    "korean": "쉬는 날에 재충전해요."
+  },
+  {
+    "id": 3657,
+    "english": "I am working toward a certification.",
+    "korean": "자격증을 향해 공부하고 있어요."
+  },
+  {
+    "id": 3667,
+    "english": "I absorb everything like a sponge.",
+    "korean": "스펀지처럼 모든 것을 흡수해요."
+  },
+  {
+    "id": 3688,
+    "english": "Some days I manage more some days less.",
+    "korean": "어떤 날은 더 하고 어떤 날은 덜 해요."
+  },
+  {
+    "id": 3691,
+    "english": "I am in this for the long run.",
+    "korean": "장기적으로 임하고 있어요."
+  },
+  {
+    "id": 3695,
+    "english": "He always watches my back.",
+    "korean": "그 친구가 항상 저를 챙겨줘요."
+  },
+  {
+    "id": 3698,
+    "english": "Gestures and expressions go a long way.",
+    "korean": "제스처와 표정이 많이 도움이 돼요."
+  },
+  {
+    "id": 3699,
+    "english": "A smile is universal.",
+    "korean": "미소는 만국 공통어예요."
+  },
+  {
+    "id": 3702,
+    "english": "I make them laugh with my attempts.",
+    "korean": "제 도전이 그분들을 웃게 해요."
+  },
+  {
+    "id": 3703,
+    "english": "Laughing together breaks barriers.",
+    "korean": "함께 웃으면 장벽이 사라져요."
+  },
+  {
+    "id": 3709,
+    "english": "Working internationally taught me so much about humanity.",
+    "korean": "국제적으로 일하면서 인간에 대해 많이 배웠어요."
+  },
+  {
+    "id": 3715,
+    "english": "This area has a strong industrial atmosphere.",
+    "korean": "이 지역은 강한 산업적 분위기가 있어요."
+  },
+  {
+    "id": 3716,
+    "english": "The industrial complex is massive.",
+    "korean": "산업 단지가 정말 넓어요."
+  },
+  {
+    "id": 3719,
+    "english": "It feels like being part of something big.",
+    "korean": "큰 일의 일부가 된 것 같은 느낌이에요."
+  },
+  {
+    "id": 3727,
+    "english": "This experience is my foundation.",
+    "korean": "이 경험이 제 기반이에요."
+  },
+  {
+    "id": 3729,
+    "english": "Everything just fell into place today.",
+    "korean": "오늘은 모든 게 잘 맞아떨어졌어요."
+  },
+  {
+    "id": 3732,
+    "english": "I am ending the day on a high note.",
+    "korean": "기분 좋게 하루를 마무리하고 있어요."
+  },
+  {
+    "id": 3740,
+    "english": "I try to greet everyone with a smile.",
+    "korean": "모두에게 웃으며 인사하려고 해요."
+  },
+  {
+    "id": 3742,
+    "english": "I choose to be the positive energy.",
+    "korean": "저는 긍정적인 에너지가 되기로 했어요."
+  },
+  {
+    "id": 3748,
+    "english": "I do not know how to do this.",
+    "korean": "이거 어떻게 하는지 모르겠어요."
+  },
+  {
+    "id": 3781,
+    "english": "I cannot hear well here.",
+    "korean": "여기서 잘 안 들려요."
+  },
+  {
+    "id": 3791,
+    "english": "I have a question.",
+    "korean": "질문이 있어요."
+  },
+  {
+    "id": 3793,
+    "english": "I am not sure about this.",
+    "korean": "이것에 대해 잘 모르겠어요."
+  },
+  {
+    "id": 3802,
+    "english": "I can handle more.",
+    "korean": "더 할 수 있어요."
+  },
+  {
+    "id": 3803,
+    "english": "I am free now if you need me.",
+    "korean": "지금 시간이 있으니 필요하면 불러주세요."
+  },
+  {
+    "id": 3821,
+    "english": "Everyone helped each other today.",
+    "korean": "오늘 모두 서로 도왔어요."
+  },
+  {
+    "id": 3827,
+    "english": "We help each other every day.",
+    "korean": "매일 서로 도와요."
+  },
+  {
+    "id": 3845,
+    "english": "Everything is okay now.",
+    "korean": "이제 다 괜찮아요."
+  },
+  {
+    "id": 3892,
+    "english": "My place is close by.",
+    "korean": "집이 가까워요."
+  },
+  {
+    "id": 3900,
+    "english": "I mostly use Baemin.",
+    "korean": "주로 배민 써요."
+  },
+  {
+    "id": 3904,
+    "english": "Everything is so convenient here.",
+    "korean": "여기는 모든 게 정말 편리해요."
+  },
+  {
+    "id": 3920,
+    "english": "I do not mind the journey.",
+    "korean": "가는 길이 상관없어요."
+  },
+  {
+    "id": 3926,
+    "english": "I have been here for eight months.",
+    "korean": "여기 온 지 8개월 됐어요."
+  },
+  {
+    "id": 3929,
+    "english": "I remember my first day clearly.",
+    "korean": "첫날이 기억나요."
+  },
+  {
+    "id": 3931,
+    "english": "Everything was so new and confusing.",
+    "korean": "모든 게 너무 낯설고 어려웠어요."
+  },
+  {
+    "id": 3932,
+    "english": "Now I know everything.",
+    "korean": "이제 다 알아요."
+  },
+  {
+    "id": 3935,
+    "english": "But I pushed through it.",
+    "korean": "근데 버텨냈어요."
+  },
+  {
+    "id": 3936,
+    "english": "Now I look back and laugh.",
+    "korean": "이제 돌이켜 보면 웃겨요."
+  },
+  {
+    "id": 3937,
+    "english": "Everyone goes through that phase.",
+    "korean": "누구나 그런 시기를 겪어요."
+  },
+  {
+    "id": 3942,
+    "english": "New people need more help.",
+    "korean": "새로 온 분들은 도움이 더 필요해요."
+  },
+  {
+    "id": 3981,
+    "english": "My equipment is old.",
+    "korean": "제 장비가 낡았어요."
+  },
+  {
+    "id": 3982,
+    "english": "This tool keeps breaking.",
+    "korean": "이 도구가 계속 고장나요."
+  },
+  {
+    "id": 3983,
+    "english": "The light here is not bright enough.",
+    "korean": "여기 불빛이 충분히 밝지 않아요."
+  },
+  {
+    "id": 3985,
+    "english": "My chair is really uncomfortable.",
+    "korean": "의자가 정말 불편해요."
+  },
+  {
+    "id": 3986,
+    "english": "I have been standing for five hours.",
+    "korean": "5시간째 서있었어요."
+  },
+  {
+    "id": 3989,
+    "english": "The noise level is very high today.",
+    "korean": "오늘 소음이 정말 심하네요."
+  },
+  {
+    "id": 3990,
+    "english": "I can barely hear myself think.",
+    "korean": "생각도 잘 안 될 정도예요."
+  },
+  {
+    "id": 3993,
+    "english": "The smell of the paint is strong.",
+    "korean": "페인트 냄새가 강하네요."
+  },
+  {
+    "id": 4004,
+    "english": "Everyone makes mistakes at first.",
+    "korean": "처음엔 누구나 실수해요."
+  },
+  {
+    "id": 4006,
+    "english": "It gets easier with time.",
+    "korean": "시간이 지나면 쉬워져요."
+  },
+  {
+    "id": 4009,
+    "english": "I am always here to help.",
+    "korean": "항상 도와드릴게요."
+  },
+  {
+    "id": 4018,
+    "english": "The people here are kind to me.",
+    "korean": "여기 사람들이 저한테 친절해요."
+  },
+  {
+    "id": 4021,
+    "english": "Everything is very convenient.",
+    "korean": "모든 게 정말 편리해요."
+  },
+  {
+    "id": 4028,
+    "english": "I am slowly getting used to everything.",
+    "korean": "모든 것에 천천히 적응하고 있어요."
+  },
+  {
+    "id": 4029,
+    "english": "Every day something new happens.",
+    "korean": "매일 새로운 일이 생겨요."
+  },
+  {
+    "id": 4033,
+    "english": "I would come back again if I could.",
+    "korean": "할 수 있다면 다시 오고 싶어요."
+  },
+  {
+    "id": 4049,
+    "english": "Payday cannot come fast enough.",
+    "korean": "월급날이 빨리 왔으면 좋겠어요."
+  },
+  {
+    "id": 4060,
+    "english": "The sun is out now.",
+    "korean": "이제 해가 났어요."
+  },
+  {
+    "id": 4067,
+    "english": "The roads will be icy tomorrow.",
+    "korean": "내일 길이 얼겠네요."
+  },
+  {
+    "id": 4104,
+    "english": "I understood right away.",
+    "korean": "바로 이해했어요."
+  },
+  {
+    "id": 4105,
+    "english": "Now I can do it by myself.",
+    "korean": "이제 혼자서 할 수 있어요."
+  },
+  {
+    "id": 4110,
+    "english": "One two three lift.",
+    "korean": "하나 둘 셋 들어요."
+  },
+  {
+    "id": 4114,
+    "english": "A little to the left.",
+    "korean": "왼쪽으로 조금요."
+  },
+  {
+    "id": 4115,
+    "english": "A little to the right.",
+    "korean": "오른쪽으로 조금요."
+  },
+  {
+    "id": 4121,
+    "english": "You can let go now.",
+    "korean": "이제 놔도 돼요."
+  },
+  {
+    "id": 4123,
+    "english": "But we did it together.",
+    "korean": "근데 같이 해냈어요."
+  },
+  {
+    "id": 4147,
+    "english": "I have been sneezing all morning.",
+    "korean": "오전 내내 재채기를 했어요."
+  },
+  {
+    "id": 4151,
+    "english": "You should rest tonight.",
+    "korean": "오늘 밤에 쉬어야 해요."
+  },
+  {
+    "id": 4169,
+    "english": "She worries about me a lot.",
+    "korean": "엄마가 저를 많이 걱정하세요."
+  },
+  {
+    "id": 4175,
+    "english": "Everything I do is for them.",
+    "korean": "제가 하는 모든 일이 가족을 위한 거예요."
+  },
+  {
+    "id": 4197,
+    "english": "Not everyone can do what we do.",
+    "korean": "모두가 우리가 하는 일을 할 수 있는 건 아니에요."
+  },
+  {
+    "id": 4201,
+    "english": "End the day with no regrets.",
+    "korean": "후회 없이 하루를 마무리해요."
+  },
+  {
+    "id": 4205,
+    "english": "Everything moves fast here.",
+    "korean": "여기서는 모든 게 빠르게 움직여요."
+  },
+  {
+    "id": 4213,
+    "english": "I have become more disciplined here.",
+    "korean": "여기서 더 자제력이 생겼어요."
+  },
+  {
+    "id": 4220,
+    "english": "This chapter of my life is precious.",
+    "korean": "제 인생의 이 챕터가 소중해요."
+  },
+  {
+    "id": 4241,
+    "english": "If you say so.",
+    "korean": "그렇다면요."
+  },
+  {
+    "id": 4244,
+    "english": "I could not find my badge.",
+    "korean": "출입증을 못 찾았어요."
+  },
+  {
+    "id": 4246,
+    "english": "I forgot to check in.",
+    "korean": "체크인을 깜빡했어요."
+  },
+  {
+    "id": 4260,
+    "english": "Hand me the tool.",
+    "korean": "도구 좀 건네줘요."
+  },
+  {
+    "id": 4267,
+    "english": "Stack it over there.",
+    "korean": "저기에 쌓아요."
+  },
+  {
+    "id": 4270,
+    "english": "Fix it a little.",
+    "korean": "조금 고쳐요."
+  },
+  {
+    "id": 4277,
+    "english": "A little more off this side.",
+    "korean": "이쪽을 조금 더 잘라요."
+  },
+  {
+    "id": 4287,
+    "english": "It needs to be redone.",
+    "korean": "다시 해야 해요."
+  },
+  {
+    "id": 4301,
+    "english": "Hand me the wrench.",
+    "korean": "렌치 좀 줘요."
+  },
+  {
+    "id": 4307,
+    "english": "This blade is dull.",
+    "korean": "이 날이 무뎌졌어요."
+  },
+  {
+    "id": 4320,
+    "english": "A little tired but okay.",
+    "korean": "좀 피곤하지만 괜찮아요."
+  },
+  {
+    "id": 4321,
+    "english": "Busy but that is fine.",
+    "korean": "바쁘지만 괜찮아요."
+  },
+  {
+    "id": 4330,
+    "english": "No I will help you.",
+    "korean": "아니요 도와줄게요."
+  },
+  {
+    "id": 4337,
+    "english": "It will not take long.",
+    "korean": "오래 걸리지 않아요."
+  },
+  {
+    "id": 4345,
+    "english": "You know what to do.",
+    "korean": "뭘 해야 하는지 알잖아요."
+  },
+  {
+    "id": 4346,
+    "english": "Handle it your way.",
+    "korean": "당신 방식대로 해요."
+  },
+  {
+    "id": 4347,
+    "english": "I leave it to you.",
+    "korean": "맡길게요."
+  },
+  {
+    "id": 4365,
+    "english": "Tomorrow will be easier.",
+    "korean": "내일은 더 쉬울 거예요."
+  },
+  {
+    "id": 4386,
+    "english": "I do not care you choose.",
+    "korean": "상관없어요 골라요."
+  },
+  {
+    "id": 4389,
+    "english": "Something warm and filling.",
+    "korean": "따뜻하고 든든한 걸로요."
+  },
+  {
+    "id": 4435,
+    "english": "Everyone learns at their own speed.",
+    "korean": "누구나 자기만의 속도로 배워요."
+  },
+  {
+    "id": 4440,
+    "english": "The ground is wet.",
+    "korean": "땅이 젖어있어요."
+  },
+  {
+    "id": 4462,
+    "english": "I kept waking up.",
+    "korean": "자꾸 깼어요."
+  },
+  {
+    "id": 4463,
+    "english": "I am not a morning person.",
+    "korean": "저는 아침형 인간이 아니에요."
+  },
+  {
+    "id": 4472,
+    "english": "We can do this.",
+    "korean": "우리 할 수 있어요."
+  },
+  {
+    "id": 4494,
+    "english": "At least we only have five days left.",
+    "korean": "그래도 5일밖에 안 남았잖아요."
+  },
+  {
+    "id": 4499,
+    "english": "No one is lazy here.",
+    "korean": "여기서 아무도 게으르지 않아요."
+  },
+  {
+    "id": 4506,
+    "english": "Everyone has something to offer.",
+    "korean": "모두 줄 수 있는 게 있어요."
+  },
+  {
+    "id": 4508,
+    "english": "No one looks down on anyone.",
+    "korean": "아무도 다른 사람을 무시하지 않아요."
+  },
+  {
+    "id": 4514,
+    "english": "Together we can do anything.",
+    "korean": "같이면 뭐든 할 수 있어요."
+  },
+  {
+    "id": 4558,
+    "english": "I am on it.",
+    "korean": "하고 있어요."
+  },
+  {
+    "id": 4580,
+    "english": "The people here are very welcoming.",
+    "korean": "여기 사람들이 정말 따뜻하게 맞아줘요."
+  },
+  {
+    "id": 4585,
+    "english": "I am more independent now.",
+    "korean": "이제 더 독립적이에요."
+  },
+  {
+    "id": 4586,
+    "english": "I can solve problems on my own.",
+    "korean": "혼자서 문제를 해결할 수 있어요."
+  },
+  {
+    "id": 4590,
+    "english": "Every problem taught me something.",
+    "korean": "모든 문제가 저한테 뭔가를 가르쳐줬어요."
+  },
+  {
+    "id": 4594,
+    "english": "I know I can handle anything.",
+    "korean": "뭐든 감당할 수 있다는 걸 알아요."
+  },
+  {
+    "id": 4595,
+    "english": "The old me would have given up.",
+    "korean": "예전 저라면 포기했을 거예요."
+  },
+  {
+    "id": 4596,
+    "english": "But I did not give up.",
+    "korean": "근데 포기하지 않았어요."
+  },
+  {
+    "id": 4601,
+    "english": "If I can do it anyone can.",
+    "korean": "제가 할 수 있으면 누구나 할 수 있어요."
+  },
+  {
+    "id": 4619,
+    "english": "I am always here to listen.",
+    "korean": "항상 들어줄게요."
+  },
+  {
+    "id": 4633,
+    "english": "I know who to ask.",
+    "korean": "누구한테 물어볼지 알아요."
+  },
+  {
+    "id": 4645,
+    "english": "One person is missing.",
+    "korean": "한 명이 빠졌어요."
+  },
+  {
+    "id": 4648,
+    "english": "Okay let us start without them.",
+    "korean": "그럼 없이 시작해요."
+  },
+  {
+    "id": 4654,
+    "english": "Okay switch with me then.",
+    "korean": "그럼 저랑 바꿔요."
+  },
+  {
+    "id": 4673,
+    "english": "It will not take long.",
+    "korean": "오래 안 걸려요."
+  },
+  {
+    "id": 4690,
+    "english": "My feet are so tired.",
+    "korean": "발이 너무 피곤해요."
+  },
+  {
+    "id": 4711,
+    "english": "I have a small question.",
+    "korean": "작은 질문이 있어요."
+  },
+  {
+    "id": 4730,
+    "english": "It happens we all have those days.",
+    "korean": "그럴 수 있어요 우리 모두 그런 날이 있잖아요."
+  },
+  {
+    "id": 4731,
+    "english": "Tomorrow is a new day.",
+    "korean": "내일은 새로운 날이에요."
+  },
+  {
+    "id": 4735,
+    "english": "I have no plans.",
+    "korean": "계획이 없어요."
+  },
+  {
+    "id": 4737,
+    "english": "Sure where do you want to go.",
+    "korean": "그럼요 어디 가고 싶어요."
+  },
+  {
+    "id": 4744,
+    "english": "We can split it.",
+    "korean": "반반 내요."
+  },
+  {
+    "id": 4755,
+    "english": "We have enough time.",
+    "korean": "시간이 충분해요."
+  },
+  {
+    "id": 4769,
+    "english": "Yes that is the one.",
+    "korean": "네 그거예요."
+  },
+  {
+    "id": 4770,
+    "english": "Now we are talking.",
+    "korean": "이제 됐어요."
+  },
+  {
+    "id": 4771,
+    "english": "Knew you could do it.",
+    "korean": "할 수 있을 줄 알았어요."
+  },
+  {
+    "id": 4782,
+    "english": "About two years for a big one.",
+    "korean": "큰 거는 약 2년요."
+  },
+  {
+    "id": 4792,
+    "english": "Our hands built that.",
+    "korean": "우리 손으로 만든 거예요."
+  },
+  {
+    "id": 4794,
+    "english": "Not everyone can say that.",
+    "korean": "모두가 그런 말을 할 수 있는 건 아니에요."
+  },
+  {
+    "id": 4797,
+    "english": "Life takes you to unexpected places.",
+    "korean": "인생이 예상치 못한 곳으로 데려가네요."
+  },
+  {
+    "id": 4810,
+    "english": "They tell everyone about it.",
+    "korean": "주변 사람들한테 다 얘기해요."
+  },
+  {
+    "id": 4815,
+    "english": "With new skills and experience.",
+    "korean": "새로운 기술과 경험을 갖고요."
+  },
+  {
+    "id": 4818,
+    "english": "That day will come.",
+    "korean": "그날이 올 거예요."
+  },
+  {
+    "id": 4823,
+    "english": "Yes they are well thank you.",
+    "korean": "네 잘 계세요 감사해요."
+  },
+  {
+    "id": 4825,
+    "english": "Every day if I can.",
+    "korean": "할 수 있으면 매일요."
+  },
+  {
+    "id": 4827,
+    "english": "I tell her everything is fine.",
+    "korean": "다 괜찮다고 해요."
+  },
+  {
+    "id": 4828,
+    "english": "She only relaxes when she hears my voice.",
+    "korean": "제 목소리를 들어야 안심하세요."
+  },
+  {
+    "id": 4832,
+    "english": "Some people are not so lucky.",
+    "korean": "그렇지 못한 사람들도 있잖아요."
+  },
+  {
+    "id": 4835,
+    "english": "We talk for about an hour.",
+    "korean": "한 시간 정도 얘기해요."
+  },
+  {
+    "id": 4844,
+    "english": "It means hello or goodbye casually.",
+    "korean": "비공식적으로 안녕이나 잘 가라는 뜻이에요."
+  },
+  {
+    "id": 4847,
+    "english": "I mix them up sometimes.",
+    "korean": "가끔 헷갈려요."
+  },
+  {
+    "id": 4850,
+    "english": "And a casual sorry.",
+    "korean": "그럼 가벼운 미안은요."
+  },
+  {
+    "id": 4854,
+    "english": "Every day a little more.",
+    "korean": "매일 조금씩이요."
+  },
+  {
+    "id": 4870,
+    "english": "I have a number in mind.",
+    "korean": "목표 금액이 있어요."
+  },
+  {
+    "id": 4872,
+    "english": "Small rewards keep you going.",
+    "korean": "작은 보상이 계속하게 해줘요."
+  },
+  {
+    "id": 4874,
+    "english": "Something to look forward to.",
+    "korean": "기대할 무언가가 있는 거죠."
+  },
+  {
+    "id": 4876,
+    "english": "I have everything I need.",
+    "korean": "필요한 건 다 있어요."
+  },
+  {
+    "id": 4883,
+    "english": "I put things back where they belong.",
+    "korean": "물건을 제자리에 돌려놓아요."
+  },
+  {
+    "id": 4884,
+    "english": "Everything has a place.",
+    "korean": "모든 것에 자리가 있어요."
+  },
+  {
+    "id": 4885,
+    "english": "I do not have many things.",
+    "korean": "물건이 많지 않아요."
+  },
+  {
+    "id": 4888,
+    "english": "Less clutter less stress.",
+    "korean": "물건이 적을수록 스트레스가 적어요."
+  },
+  {
+    "id": 4898,
+    "english": "Dehydration makes you tired.",
+    "korean": "탈수가 피곤하게 해요."
+  },
+  {
+    "id": 4902,
+    "english": "I stretch every morning.",
+    "korean": "매일 아침 스트레칭해요."
+  },
+  {
+    "id": 4932,
+    "english": "Ha I never thought of it that way.",
+    "korean": "하 그렇게 생각 못 했네요."
+  },
+  {
+    "id": 4933,
+    "english": "See everything has a benefit.",
+    "korean": "봐요 모든 것에 장점이 있어요."
+  },
+  {
+    "id": 4937,
+    "english": "I remember my first day.",
+    "korean": "제 첫날이 기억나요."
+  },
+  {
+    "id": 4940,
+    "english": "I do not want them to feel that way.",
+    "korean": "그 분이 그렇게 느끼지 않았으면 해요."
+  },
+  {
+    "id": 4942,
+    "english": "Introduce them to everyone.",
+    "korean": "모두에게 소개해줘요."
+  },
+  {
+    "id": 4956,
+    "english": "It will sort itself out.",
+    "korean": "알아서 해결될 거예요."
+  },
+  {
+    "id": 4957,
+    "english": "One problem at a time.",
+    "korean": "한 번에 하나씩 해요."
+  },
+  {
+    "id": 4967,
+    "english": "And that is enough.",
+    "korean": "그것으로 충분해요."
+  },
+  {
+    "id": 4968,
+    "english": "No one can ask for more than that.",
+    "korean": "그 이상 바랄 수 없잖아요."
+  },
+  {
+    "id": 4972,
+    "english": "Gomawo it means thank you casually.",
+    "korean": "고마워요 비공식적으로 감사하다는 뜻이에요."
+  },
+  {
+    "id": 4975,
+    "english": "Gomawo for teaching me.",
+    "korean": "가르쳐줘서 고마워요."
+  },
+  {
+    "id": 4981,
+    "english": "People are always surprised.",
+    "korean": "사람들이 항상 놀라요."
+  },
+  {
+    "id": 4989,
+    "english": "They always help when I struggle.",
+    "korean": "제가 힘들 때 항상 도와줘요."
+  },
+  {
+    "id": 5005,
+    "english": "I look forward to seeing you all.",
+    "korean": "모두 보게 될 게 기대돼요."
+  },
+  {
+    "id": 5016,
+    "english": "I can feel it.",
+    "korean": "그런 느낌이 와요."
+  },
+  {
+    "id": 5020,
+    "english": "That does not happen often.",
+    "korean": "자주 있는 일이 아니에요."
+  },
+  {
+    "id": 5022,
+    "english": "The sun is shining today.",
+    "korean": "오늘 해가 빛나고 있어요."
+  },
+  {
+    "id": 5024,
+    "english": "Makes you want to be outside.",
+    "korean": "밖에 있고 싶게 만들어요."
+  },
+  {
+    "id": 5037,
+    "english": "At least it warms up later in the day.",
+    "korean": "그나마 낮에 더 따뜻해지잖아요."
+  },
+  {
+    "id": 5039,
+    "english": "My hands are freezing.",
+    "korean": "손이 너무 차가워요."
+  },
+  {
+    "id": 5043,
+    "english": "Back in one minute.",
+    "korean": "1분 안에 돌아올게요."
+  },
+  {
+    "id": 5045,
+    "english": "Small things make a big difference.",
+    "korean": "작은 것이 큰 차이를 만들어요."
+  },
+  {
+    "id": 5083,
+    "english": "You and me both.",
+    "korean": "저도 그래요."
+  },
+  {
+    "id": 5085,
+    "english": "It says do not enter.",
+    "korean": "출입 금지라고 써있어요."
+  },
+  {
+    "id": 5086,
+    "english": "Oh I should not go there.",
+    "korean": "아 거기 가면 안 되겠네요."
+  },
+  {
+    "id": 5087,
+    "english": "Right it is off limits.",
+    "korean": "맞아요 출입 금지예요."
+  },
+  {
+    "id": 5091,
+    "english": "Got it I will stay out.",
+    "korean": "알겠어요 안 들어갈게요."
+  },
+  {
+    "id": 5094,
+    "english": "It lifts very heavy things.",
+    "korean": "아주 무거운 것들을 들어요."
+  },
+  {
+    "id": 5096,
+    "english": "Many hundreds of tons.",
+    "korean": "수백 톤이에요."
+  },
+  {
+    "id": 5098,
+    "english": "Every day I see new things here.",
+    "korean": "여기서 매일 새로운 것을 봐요."
+  },
+  {
+    "id": 5108,
+    "english": "In front of you.",
+    "korean": "앞에요."
+  },
+  {
+    "id": 5113,
+    "english": "Back up a little.",
+    "korean": "조금 뒤로요."
+  },
+  {
+    "id": 5129,
+    "english": "Very reasonable for what you get.",
+    "korean": "받는 것에 비해 정말 저렴해요."
+  },
+  {
+    "id": 5137,
+    "english": "Then this is perfect timing.",
+    "korean": "그럼 딱 좋은 때네요."
+  },
+  {
+    "id": 5140,
+    "english": "Something to look forward to.",
+    "korean": "기대할 게 생겼네요."
+  },
+  {
+    "id": 5142,
+    "english": "The result speaks for itself.",
+    "korean": "결과가 말해줘요."
+  },
+  {
+    "id": 5145,
+    "english": "We do things the right way.",
+    "korean": "제대로 해요."
+  },
+  {
+    "id": 5146,
+    "english": "Even if it takes longer.",
+    "korean": "시간이 더 걸려도요."
+  },
+  {
+    "id": 5150,
+    "english": "We earn it every day.",
+    "korean": "매일 얻어나가고 있어요."
+  },
+  {
+    "id": 5155,
+    "english": "But they take you far.",
+    "korean": "근데 멀리 데려다 줘요."
+  },
+  {
+    "id": 5159,
+    "english": "More on some days than others.",
+    "korean": "어떤 날은 더 그리워요."
+  },
+  {
+    "id": 5166,
+    "english": "Both feelings at once.",
+    "korean": "두 감정이 동시에 드는 거요."
+  },
+  {
+    "id": 5168,
+    "english": "It gets easier with time.",
+    "korean": "시간이 지나면 나아져요."
+  },
+  {
+    "id": 5174,
+    "english": "Two homes is double the love.",
+    "korean": "두 집이라는 건 사랑이 두 배라는 거예요."
+  },
+  {
+    "id": 5184,
+    "english": "Your smile is contagious today.",
+    "korean": "오늘 당신 웃음이 전염되네요."
+  },
+  {
+    "id": 5188,
+    "english": "Ha you will not get rid of me.",
+    "korean": "하 저 안 없어져요."
+  },
+  {
+    "id": 5207,
+    "english": "You say that now.",
+    "korean": "지금은 그렇게 말해요."
+  },
+  {
+    "id": 5212,
+    "english": "Six months is not that long.",
+    "korean": "6개월이 그렇게 길지 않네요."
+  },
+  {
+    "id": 5230,
+    "english": "And sometimes by breaking things.",
+    "korean": "그리고 때로는 망가뜨리면서요."
+  },
+  {
+    "id": 5245,
+    "english": "You deserve a proper break.",
+    "korean": "제대로 된 쉬는 시간을 받을 자격이 있어요."
+  },
+  {
+    "id": 5259,
+    "english": "That works for me.",
+    "korean": "저도 좋아요."
+  },
+  {
+    "id": 5262,
+    "english": "Okay let us pick up from here.",
+    "korean": "좋아요 여기서 이어해요."
+  },
+  {
+    "id": 5267,
+    "english": "Yes this is the next step.",
+    "korean": "네 이게 다음 단계예요."
+  },
+  {
+    "id": 5269,
+    "english": "You take that side I take this side.",
+    "korean": "저쪽은 당신이 이쪽은 제가 해요."
+  },
+  {
+    "id": 5270,
+    "english": "A little louder please.",
+    "korean": "조금 더 크게요."
+  },
+  {
+    "id": 5280,
+    "english": "I cannot wait that long.",
+    "korean": "그때까지 기다릴 수 없어요."
+  },
+  {
+    "id": 5283,
+    "english": "Here have some of mine.",
+    "korean": "여기 제 것 드세요."
+  },
+  {
+    "id": 5289,
+    "english": "Too many choices sometimes.",
+    "korean": "가끔 선택지가 너무 많아요."
+  },
+  {
+    "id": 5310,
+    "english": "We agree to disagree.",
+    "korean": "서로 다른 의견이네요."
+  },
+  {
+    "id": 5317,
+    "english": "It does not go unnoticed.",
+    "korean": "눈에 보여요."
+  },
+  {
+    "id": 5322,
+    "english": "I try to give them when I can.",
+    "korean": "할 수 있을 때 주려고 해요."
+  },
+  {
+    "id": 5327,
+    "english": "Describe it to me.",
+    "korean": "설명해줘요."
+  },
+  {
+    "id": 5336,
+    "english": "Okay okay I will not say anything.",
+    "korean": "알았어요 아무 말 안 할게요."
+  },
+  {
+    "id": 5340,
+    "english": "Then we move to the next section.",
+    "korean": "그러면 다음 구역으로 가요."
+  },
+  {
+    "id": 5344,
+    "english": "Yes no time to waste.",
+    "korean": "네 시간 낭비할 여유가 없어요."
+  },
+  {
+    "id": 5345,
+    "english": "Got it I am focused.",
+    "korean": "알겠어요 집중할게요."
+  },
+  {
+    "id": 5350,
+    "english": "My legs are dead.",
+    "korean": "다리가 죽겠어요."
+  },
+  {
+    "id": 5367,
+    "english": "Mine was not waterproof enough.",
+    "korean": "제 건 방수가 충분하지 않았어요."
+  },
+  {
+    "id": 5384,
+    "english": "Told you we could.",
+    "korean": "할 수 있다고 했잖아요."
+  },
+  {
+    "id": 5391,
+    "english": "That means a lot to me.",
+    "korean": "저한테 큰 의미예요."
+  },
+  {
+    "id": 5393,
+    "english": "You do believe me.",
+    "korean": "그렇게 믿어줘요."
+  },
+  {
+    "id": 5398,
+    "english": "Yes but now I am back here.",
+    "korean": "네 근데 이제 다시 왔네요."
+  },
+  {
+    "id": 5399,
+    "english": "At least it is only five days.",
+    "korean": "그래도 5일밖에 안 돼요."
+  },
+  {
+    "id": 5401,
+    "english": "Something to look forward to.",
+    "korean": "기대할 게 있어요."
+  },
+  {
+    "id": 5409,
+    "english": "The energy changes completely.",
+    "korean": "에너지가 완전히 바뀌어요."
+  },
+  {
+    "id": 5435,
+    "english": "At least we are full now.",
+    "korean": "그래도 이제 배부르잖아요."
+  },
+  {
+    "id": 5437,
+    "english": "Back to it everyone.",
+    "korean": "모두 다시 시작해요."
+  },
+  {
+    "id": 5451,
+    "english": "Everyone struggles with this at first.",
+    "korean": "처음엔 누구나 이게 힘들어요."
+  },
+  {
+    "id": 5452,
+    "english": "It gets easier I promise.",
+    "korean": "쉬워질 거예요 약속해요."
+  },
+  {
+    "id": 5468,
+    "english": "Looking forward to it.",
+    "korean": "기대할게요."
+  },
+  {
+    "id": 5473,
+    "english": "No question is too small.",
+    "korean": "작은 질문 같은 건 없어요."
+  },
+  {
+    "id": 5478,
+    "english": "I mean it you are picking it up fast.",
+    "korean": "진심이에요 빨리 배우고 있어요."
+  },
+  {
+    "id": 5500,
+    "english": "Not everyone is like that.",
+    "korean": "다 그런 건 아니잖아요."
+  },
+  {
+    "id": 5501,
+    "english": "I know I am lucky.",
+    "korean": "알아요 제가 운이 좋죠."
+  },
+  {
+    "id": 5509,
+    "english": "How to do this step faster.",
+    "korean": "이 단계를 더 빨리 하는 방법이요."
+  },
+  {
+    "id": 5512,
+    "english": "See it is faster this way.",
+    "korean": "봐요 이렇게 하면 더 빠르죠."
+  },
+  {
+    "id": 5515,
+    "english": "He knows so many tricks.",
+    "korean": "그분은 노하우가 정말 많아요."
+  },
+  {
+    "id": 5531,
+    "english": "See that is why.",
+    "korean": "봐요 그래서 그래요."
+  },
+  {
+    "id": 5534,
+    "english": "I promise I will.",
+    "korean": "약속할게요."
+  },
+  {
+    "id": 5541,
+    "english": "About four more hours.",
+    "korean": "4시간 정도 더요."
+  },
+  {
+    "id": 5548,
+    "english": "Out of the way please.",
+    "korean": "비켜줘요."
+  },
+  {
+    "id": 5560,
+    "english": "I am trying to.",
+    "korean": "그러려고 해요."
+  },
+  {
+    "id": 5561,
+    "english": "I can feel the positive energy.",
+    "korean": "긍정적인 에너지가 느껴져요."
+  },
+  {
+    "id": 5568,
+    "english": "My mind would not stop.",
+    "korean": "머리가 멈추질 않았어요."
+  },
+  {
+    "id": 5595,
+    "english": "Honestly yes I do.",
+    "korean": "솔직히 네 좋아요."
+  },
+  {
+    "id": 5598,
+    "english": "Seeing something real at the end.",
+    "korean": "끝에 실제로 뭔가 보이는 게요."
+  },
+  {
+    "id": 5601,
+    "english": "You can touch what you made.",
+    "korean": "만든 걸 직접 만질 수 있잖아요."
+  },
+  {
+    "id": 5608,
+    "english": "Yes it will just take more time.",
+    "korean": "네 시간이 더 걸리겠지만요."
+  },
+  {
+    "id": 5611,
+    "english": "Mistakes happen to everyone.",
+    "korean": "누구나 실수해요."
+  },
+  {
+    "id": 5613,
+    "english": "And you are fixing it so it is fine.",
+    "korean": "고치고 있으니까 괜찮아요."
+  },
+  {
+    "id": 5616,
+    "english": "Does anything look off to you.",
+    "korean": "이상한 게 있어요."
+  },
+  {
+    "id": 5629,
+    "english": "That means a lot.",
+    "korean": "큰 힘이 돼요."
+  },
+  {
+    "id": 5633,
+    "english": "We hit our target today.",
+    "korean": "오늘 목표를 달성했어요."
+  },
+  {
+    "id": 5634,
+    "english": "That never gets old.",
+    "korean": "항상 기분 좋아요."
+  },
+  {
+    "id": 5646,
+    "english": "Some places are not like this.",
+    "korean": "어떤 곳들은 이렇지 않아요."
+  },
+  {
+    "id": 5659,
+    "english": "Once we get through this it gets easier.",
+    "korean": "이걸 지나면 쉬워져요."
+  },
+  {
+    "id": 5661,
+    "english": "I can feel us getting closer.",
+    "korean": "가까워지는 느낌이 들어요."
+  },
+  {
+    "id": 5679,
+    "english": "And now look at you.",
+    "korean": "지금을 봐요."
+  },
+  {
+    "id": 5689,
+    "english": "Attitude is everything in life.",
+    "korean": "태도가 인생에서 전부예요."
+  },
+  {
+    "id": 5693,
+    "english": "Time flies when you are having fun.",
+    "korean": "재미있으면 시간이 빠르게 가요."
+  },
+  {
+    "id": 5723,
+    "english": "You too take care.",
+    "korean": "당신도요 잘 지내요."
+  },
+  {
+    "id": 5725,
+    "english": "Anytime that is what we do.",
+    "korean": "언제든지요 그게 우리잖아요."
+  },
+  {
+    "id": 5731,
+    "english": "Nothing much changes here.",
+    "korean": "여기는 크게 바뀌는 게 없어요."
+  },
+  {
+    "id": 5732,
+    "english": "I kind of like that.",
+    "korean": "그게 좀 좋아요."
+  },
+  {
+    "id": 5734,
+    "english": "You know what to expect.",
+    "korean": "뭘 기대해야 하는지 알잖아요."
+  },
+  {
+    "id": 5744,
+    "english": "We can sit at that bench.",
+    "korean": "저 벤치에 앉을 수 있어요."
+  },
+  {
+    "id": 5746,
+    "english": "It feels like a little adventure.",
+    "korean": "작은 모험 같아요."
+  },
+  {
+    "id": 5766,
+    "english": "But let people know when you do well.",
+    "korean": "잘 했을 때 사람들이 알게 해요."
+  },
+  {
+    "id": 5795,
+    "english": "One hour at a time.",
+    "korean": "한 시간씩이요."
+  },
+  {
+    "id": 5798,
+    "english": "That helps me a lot.",
+    "korean": "그게 저한테 많이 도움이 돼요."
+  },
+  {
+    "id": 5800,
+    "english": "Present moment is all we have.",
+    "korean": "현재 순간이 우리가 가진 전부예요."
+  },
+  {
+    "id": 5802,
+    "english": "I heard it from someone wise.",
+    "korean": "현명한 사람에게 들었어요."
+  },
+  {
+    "id": 5817,
+    "english": "Exactly always be honest about that.",
+    "korean": "맞아요 항상 솔직하게 말해요."
+  },
+  {
+    "id": 5822,
+    "english": "I know it is fragile.",
+    "korean": "알아요 깨지기 쉬워요."
+  },
+  {
+    "id": 5823,
+    "english": "Handle it like it is precious.",
+    "korean": "소중한 것처럼 다뤄요."
+  },
+  {
+    "id": 5824,
+    "english": "Got it I will be gentle.",
+    "korean": "알겠어요 조심할게요."
+  },
+  {
+    "id": 5826,
+    "english": "There we go perfect.",
+    "korean": "그래요 완벽해요."
+  },
+  {
+    "id": 5833,
+    "english": "Other teams notice us.",
+    "korean": "다른 팀들도 우리를 봐요."
+  },
+  {
+    "id": 5839,
+    "english": "Me too it is rare to find this.",
+    "korean": "저도요 이런 팀은 드물어요."
+  },
+  {
+    "id": 5851,
+    "english": "At least let me help.",
+    "korean": "그래도 도와드릴게요."
+  },
+  {
+    "id": 5852,
+    "english": "Together it is faster.",
+    "korean": "같이 하면 더 빠르잖아요."
+  },
+  {
+    "id": 5870,
+    "english": "Or I just needed it more today.",
+    "korean": "아니면 오늘 더 필요했던 건가봐요."
+  },
+  {
+    "id": 5888,
+    "english": "Time really moves fast.",
+    "korean": "시간이 정말 빠르게 가요."
+  },
+  {
+    "id": 5890,
+    "english": "I have been here six months now.",
+    "korean": "여기 온 지 6개월 됐어요."
+  },
+  {
+    "id": 5892,
+    "english": "You have grown so much.",
+    "korean": "정말 많이 성장했어요."
+  },
+  {
+    "id": 5901,
+    "english": "I try to live that way.",
+    "korean": "그렇게 살려고 해요."
+  },
+  {
+    "id": 5920,
+    "english": "Cars were not moving at all.",
+    "korean": "차가 전혀 움직이지 않았어요."
+  },
+  {
+    "id": 5924,
+    "english": "He let me through manually.",
+    "korean": "수동으로 통과시켜줬어요."
+  },
+  {
+    "id": 5928,
+    "english": "They will sort it out for you.",
+    "korean": "거기서 처리해줄 거예요."
+  },
+  {
+    "id": 5930,
+    "english": "Should not take long.",
+    "korean": "오래 걸리지 않을 거예요."
+  },
+  {
+    "id": 5935,
+    "english": "It has your name on it.",
+    "korean": "이름이 써있어요."
+  },
+  {
+    "id": 5948,
+    "english": "Not everyone lives that way.",
+    "korean": "다 그렇게 사는 건 아니잖아요."
+  },
+  {
+    "id": 5953,
+    "english": "Not too hot not too cold.",
+    "korean": "너무 덥지도 춥지도 않아요."
+  },
+  {
+    "id": 5955,
+    "english": "If only every day was like this.",
+    "korean": "매일 이러면 좋겠어요."
+  },
+  {
+    "id": 5960,
+    "english": "One thing at a time.",
+    "korean": "하나씩이요."
+  },
+  {
+    "id": 5964,
+    "english": "It will come back to you.",
+    "korean": "다시 기억날 거예요."
+  },
+  {
+    "id": 5974,
+    "english": "About two years now.",
+    "korean": "2년 정도 됐어요."
+  },
+  {
+    "id": 5993,
+    "english": "I know it calms them down.",
+    "korean": "알아요 그게 안심이 되나봐요."
+  },
+  {
+    "id": 5996,
+    "english": "Japchae for the first time.",
+    "korean": "처음으로 잡채를 먹었어요."
+  },
+  {
+    "id": 6000,
+    "english": "And the sweet soy flavor.",
+    "korean": "그리고 달콤한 간장 맛이요."
+  },
+  {
+    "id": 6007,
+    "english": "The afternoon slump hits everyone.",
+    "korean": "오후 나른함이 모두에게 찾아오잖아요."
+  },
+  {
+    "id": 6012,
+    "english": "Chewing gum keeps me awake.",
+    "korean": "껌을 씹으면 깨있을 수 있어요."
+  },
+  {
+    "id": 6016,
+    "english": "At least let me help carry it.",
+    "korean": "그래도 같이 들어요."
+  },
+  {
+    "id": 6027,
+    "english": "Now keep the momentum.",
+    "korean": "이제 그 흐름을 유지해요."
+  },
+  {
+    "id": 6033,
+    "english": "Not today I need to rest.",
+    "korean": "오늘은 아니요 쉬어야 해요."
+  },
+  {
+    "id": 6043,
+    "english": "It really is we help each other.",
+    "korean": "정말요 서로 도와줘요."
+  },
+  {
+    "id": 6048,
+    "english": "That sounds perfect actually.",
+    "korean": "사실 완벽하게 들려요."
+  },
+  {
+    "id": 6049,
+    "english": "Sometimes doing nothing is everything.",
+    "korean": "가끔 아무것도 안 하는 게 최고예요."
+  },
+  {
+    "id": 6054,
+    "english": "Ha I knew it.",
+    "korean": "하 그럴 줄 알았어요."
+  },
+  {
+    "id": 6061,
+    "english": "My back will thank me.",
+    "korean": "허리가 감사할 거예요."
+  },
+  {
+    "id": 6064,
+    "english": "Small habits add up fast.",
+    "korean": "작은 습관들이 빨리 쌓여요."
+  },
+  {
+    "id": 6066,
+    "english": "Not much happening today.",
+    "korean": "오늘 별로 없네요."
+  },
+  {
+    "id": 6074,
+    "english": "My desk is always cleaner on slow days.",
+    "korean": "느린 날에는 항상 책상이 깨끗해요."
+  },
+  {
+    "id": 6077,
+    "english": "No really you helped me a lot.",
+    "korean": "아니요 정말 많이 도와줬어요."
+  },
+  {
+    "id": 6088,
+    "english": "And the people here too.",
+    "korean": "그리고 여기 사람들도요."
+  },
+  {
+    "id": 6090,
+    "english": "I would not change it.",
+    "korean": "바꾸고 싶지 않아요."
+  },
+  {
+    "id": 6093,
+    "english": "Ha I know I needed to.",
+    "korean": "하 알아요 해야 했어요."
+  },
+  {
+    "id": 6102,
+    "english": "I can feel the difference.",
+    "korean": "차이를 느낄 수 있어요."
+  },
+  {
+    "id": 6103,
+    "english": "My hands are more confident.",
+    "korean": "손이 더 자신감 있어졌어요."
+  },
+  {
+    "id": 6106,
+    "english": "I cannot wait for that.",
+    "korean": "그때가 기다려져요."
+  },
+  {
+    "id": 6107,
+    "english": "It will come faster than you think.",
+    "korean": "생각보다 빨리 올 거예요."
+  },
+  {
+    "id": 6110,
+    "english": "I can see it from the outside.",
+    "korean": "밖에서 봐도 보여요."
+  },
+  {
+    "id": 6113,
+    "english": "Little things nothing big.",
+    "korean": "작은 것들이요 큰 건 아니에요."
+  },
+  {
+    "id": 6127,
+    "english": "Now you always remember.",
+    "korean": "이제 항상 기억하잖아요."
+  },
+  {
+    "id": 6130,
+    "english": "And then start something there.",
+    "korean": "그다음엔 거기서 뭔가 시작하고 싶어요."
+  },
+  {
+    "id": 6131,
+    "english": "Like a small business.",
+    "korean": "작은 사업 같은 거요."
+  },
+  {
+    "id": 6133,
+    "english": "The experience here will help.",
+    "korean": "여기서의 경험이 도움이 될 거예요."
+  },
+  {
+    "id": 6155,
+    "english": "Either way, we have to do it.",
+    "korean": "어차피 해야 해요."
+  },
+  {
+    "id": 6190,
+    "english": "That guy is none other than me.",
+    "korean": "그놈이 바로 나야."
+  },
+  {
+    "id": 6229,
+    "english": "There is no one.",
+    "korean": "아무도 없어요."
+  },
+  {
+    "id": 6231,
+    "english": "No matter how hard I try, it doesn't work.",
+    "korean": "아무리 열심히 해도 안 돼요."
+  },
+  {
+    "id": 6232,
+    "english": "Anyone can come in.",
+    "korean": "아무나 들어올 수 있어요."
+  },
+  {
+    "id": 6236,
+    "english": "There is nothing.",
+    "korean": "아무것도 없어요."
+  },
+  {
+    "id": 7010,
+    "english": "I'll do my best.",
+    "korean": "최선을 다할게요."
+  },
+  {
+    "id": 7011,
+    "english": "It's up to you.",
+    "korean": "마음대로 하세요."
+  },
+  {
+    "id": 7012,
+    "english": "It depends.",
+    "korean": "상황에 따라 달라요."
+  },
+  {
+    "id": 7013,
+    "english": "It doesn't matter.",
+    "korean": "상관없어요."
+  },
+  {
+    "id": 7014,
+    "english": "It's not a big deal.",
+    "korean": "별일 아니에요."
+  },
+  {
+    "id": 7015,
+    "english": "That's a good idea.",
+    "korean": "좋은 생각이에요."
+  },
+  {
+    "id": 7016,
+    "english": "I have no time.",
+    "korean": "시간이 없어요."
+  },
+  {
+    "id": 7017,
+    "english": "I'll be right back.",
+    "korean": "금방 올게요."
+  },
+  {
+    "id": 7018,
+    "english": "Let me think.",
+    "korean": "생각 좀 해 볼게요."
+  },
+  {
+    "id": 7019,
+    "english": "I'm used to it.",
+    "korean": "익숙해요."
+  },
+  {
+    "id": 7020,
+    "english": "I'm getting used to it.",
+    "korean": "점점 익숙해지고 있어요."
+  },
+  {
+    "id": 7021,
+    "english": "It's my first time.",
+    "korean": "처음이에요."
+  },
+  {
+    "id": 7022,
+    "english": "I've never tried it.",
+    "korean": "한 번도 해 본 적이 없어요."
+  },
+  {
+    "id": 7023,
+    "english": "I've been there before.",
+    "korean": "거기 가 본 적이 있어요."
+  },
+  {
+    "id": 7024,
+    "english": "I'll give it a try.",
+    "korean": "해 볼게요."
+  },
+  {
+    "id": 7025,
+    "english": "I'm not good at it.",
+    "korean": "잘 못해요."
+  },
+  {
+    "id": 7026,
+    "english": "I'm good at it.",
+    "korean": "잘해요."
+  },
+  {
+    "id": 7027,
+    "english": "I'm doing fine.",
+    "korean": "잘 지내요."
+  },
+  {
+    "id": 7028,
+    "english": "Not bad.",
+    "korean": "나쁘지 않아요."
+  },
+  {
+    "id": 7029,
+    "english": "Same as usual.",
+    "korean": "늘 똑같아요."
+  }
+]

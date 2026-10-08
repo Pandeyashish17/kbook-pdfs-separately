@@ -1,0 +1,577 @@
+[
+  {
+    "id": 69,
+    "english": "Can I take a photo here?",
+    "korean": "여기에서 사진 좀 찍어도 될까요?"
+  },
+  {
+    "id": 114,
+    "english": "What kind of music do you like?",
+    "korean": "어떤 음악을 좋아하세요?"
+  },
+  {
+    "id": 148,
+    "english": "I really like this song.",
+    "korean": "이 노래가 정말 좋아요."
+  },
+  {
+    "id": 149,
+    "english": "Do you like listening to music?",
+    "korean": "음악 듣는 걸 좋아하나요?"
+  },
+  {
+    "id": 307,
+    "english": "What is your favorite movie?",
+    "korean": "당신이 가장 좋아하는 영화는 무엇입니까?"
+  },
+  {
+    "id": 312,
+    "english": "Please smile for the camera.",
+    "korean": "카메라를 향해 웃어주세요."
+  },
+  {
+    "id": 444,
+    "english": "Swimming is interesting.",
+    "korean": "수영은 재미있습니다."
+  },
+  {
+    "id": 450,
+    "english": "What is your hobby?",
+    "korean": "취미가 뭐예요?"
+  },
+  {
+    "id": 537,
+    "english": "Can you recommend a movie?",
+    "korean": "영화 추천해 줄래요?"
+  },
+  {
+    "id": 588,
+    "english": "I'll send you a photo.",
+    "korean": "사진 보낼게요."
+  },
+  {
+    "id": 955,
+    "english": "Do you want to hang out?",
+    "korean": "같이 놀러 갈래요?"
+  },
+  {
+    "id": 956,
+    "english": "Let's go to noraebang.",
+    "korean": "노래방 가요."
+  },
+  {
+    "id": 1043,
+    "english": "I watch Korean dramas to learn.",
+    "korean": "한국 드라마를 보며 공부해요."
+  },
+  {
+    "id": 1044,
+    "english": "I listen to Korean music.",
+    "korean": "한국 음악을 들어요."
+  },
+  {
+    "id": 1061,
+    "english": "Do you have a swimming pool?",
+    "korean": "수영장 있어요?"
+  },
+  {
+    "id": 1068,
+    "english": "I want to try Taekwondo.",
+    "korean": "태권도를 해보고 싶어요."
+  },
+  {
+    "id": 1157,
+    "english": "I want to go hiking.",
+    "korean": "등산하고 싶어요."
+  },
+  {
+    "id": 1160,
+    "english": "Where can I watch a movie?",
+    "korean": "영화는 어디서 볼 수 있어요?"
+  },
+  {
+    "id": 1161,
+    "english": "What movies are showing now?",
+    "korean": "지금 어떤 영화 하고 있어요?"
+  },
+  {
+    "id": 1416,
+    "english": "The Gyeongju Cherry Blossom Festival is beautiful.",
+    "korean": "경주 벚꽃 축제가 아름다워요."
+  },
+  {
+    "id": 1512,
+    "english": "I use YouTube to learn Korean.",
+    "korean": "유튜브로 한국어를 공부해요."
+  },
+  {
+    "id": 1513,
+    "english": "I watch K-dramas on Netflix.",
+    "korean": "넷플릭스에서 K드라마를 봐요."
+  },
+  {
+    "id": 1514,
+    "english": "Have you seen that Korean drama?",
+    "korean": "그 한국 드라마 봤어요?"
+  },
+  {
+    "id": 1516,
+    "english": "I like K-pop music.",
+    "korean": "케이팝 음악을 좋아해요."
+  },
+  {
+    "id": 1518,
+    "english": "I learned this phrase from a drama.",
+    "korean": "드라마에서 이 표현을 배웠어요."
+  },
+  {
+    "id": 1519,
+    "english": "Can you recommend a good Korean drama?",
+    "korean": "좋은 한국 드라마 추천해 줄 수 있어요?"
+  },
+  {
+    "id": 1520,
+    "english": "I like Korean action movies.",
+    "korean": "한국 액션 영화를 좋아해요."
+  },
+  {
+    "id": 1615,
+    "english": "Let's go for a picnic.",
+    "korean": "소풍 가요."
+  },
+  {
+    "id": 1617,
+    "english": "Let's go fishing.",
+    "korean": "낚시하러 가요."
+  },
+  {
+    "id": 1618,
+    "english": "Let's go cycling.",
+    "korean": "자전거 타러 가요."
+  },
+  {
+    "id": 1619,
+    "english": "Let's go bowling.",
+    "korean": "볼링하러 가요."
+  },
+  {
+    "id": 1620,
+    "english": "I want to play badminton.",
+    "korean": "배드민턴 치고 싶어요."
+  },
+  {
+    "id": 1621,
+    "english": "Do you like soccer?",
+    "korean": "축구 좋아해요?"
+  },
+  {
+    "id": 1622,
+    "english": "Let's watch a football match.",
+    "korean": "축구 경기 보러 가요."
+  },
+  {
+    "id": 1632,
+    "english": "The view from the mountain is amazing.",
+    "korean": "산에서 보이는 경치가 대단해요."
+  },
+  {
+    "id": 1633,
+    "english": "I need hiking boots.",
+    "korean": "등산화가 필요해요."
+  },
+  {
+    "id": 1793,
+    "english": "Have you ever tried hapkido?",
+    "korean": "합기도 해본 적 있어요?"
+  },
+  {
+    "id": 1797,
+    "english": "I like swimming laps.",
+    "korean": "수영을 좋아해요."
+  },
+  {
+    "id": 1816,
+    "english": "The mountain views are stunning.",
+    "korean": "산의 풍경이 장관이에요."
+  },
+  {
+    "id": 1823,
+    "english": "I play guitar in my spare time.",
+    "korean": "여가 시간에 기타를 쳐요."
+  },
+  {
+    "id": 1824,
+    "english": "I enjoy hiking on weekends.",
+    "korean": "주말에 등산하는 걸 좋아해요."
+  },
+  {
+    "id": 1826,
+    "english": "I enjoy playing mobile games.",
+    "korean": "모바일 게임하는 걸 즐겨요."
+  },
+  {
+    "id": 1829,
+    "english": "My hobby is learning new languages.",
+    "korean": "새로운 언어를 배우는 게 취미예요."
+  },
+  {
+    "id": 1832,
+    "english": "What Korean hobbies would you recommend?",
+    "korean": "어떤 한국 취미를 추천해요?"
+  },
+  {
+    "id": 1945,
+    "english": "Can I see a photo of styles?",
+    "korean": "스타일 사진을 볼 수 있어요?"
+  },
+  {
+    "id": 2003,
+    "english": "Did you watch the game last night?",
+    "korean": "어젯밤 경기 봤어요?"
+  },
+  {
+    "id": 2006,
+    "english": "Do you follow Korean baseball?",
+    "korean": "한국 야구 관심 있어요?"
+  },
+  {
+    "id": 2008,
+    "english": "I started watching Korean baseball.",
+    "korean": "한국 야구를 보기 시작했어요."
+  },
+  {
+    "id": 2009,
+    "english": "Have you heard the new song by that artist?",
+    "korean": "그 가수 새 노래 들었어요?"
+  },
+  {
+    "id": 2010,
+    "english": "I listen to that song every day.",
+    "korean": "그 노래를 매일 들어요."
+  },
+  {
+    "id": 2011,
+    "english": "That drama is really popular now.",
+    "korean": "그 드라마가 요즘 정말 인기 있어요."
+  },
+  {
+    "id": 2012,
+    "english": "I am on episode ten already.",
+    "korean": "벌써 10화까지 봤어요."
+  },
+  {
+    "id": 2014,
+    "english": "Do you prefer movies or dramas?",
+    "korean": "영화가 좋아요 드라마가 좋아요?"
+  },
+  {
+    "id": 2453,
+    "english": "The view from Namsan Mountain is amazing.",
+    "korean": "남산에서 보이는 경치가 대단해요."
+  },
+  {
+    "id": 2462,
+    "english": "The Himalayan mountains are in Nepal.",
+    "korean": "히말라야 산맥이 네팔에 있어요."
+  },
+  {
+    "id": 2469,
+    "english": "Dashain is the biggest festival in Nepal.",
+    "korean": "다샤인이 네팔에서 가장 큰 명절이에요."
+  },
+  {
+    "id": 2627,
+    "english": "I sang at karaoke for the first time.",
+    "korean": "처음으로 노래방에서 노래를 불렀어요."
+  },
+  {
+    "id": 2639,
+    "english": "I want to do a hanbok photo shoot in Gyeongju.",
+    "korean": "경주에서 한복 포토샵을 하고 싶어요."
+  },
+  {
+    "id": 2869,
+    "english": "What kind of movies do you enjoy?",
+    "korean": "어떤 영화를 즐겨 봐요?"
+  },
+  {
+    "id": 2883,
+    "english": "What song is stuck in your head right now?",
+    "korean": "지금 머릿속에 맴도는 노래가 뭐예요?"
+  },
+  {
+    "id": 2916,
+    "english": "My camera is not working well.",
+    "korean": "카메라가 잘 작동하지 않아요."
+  },
+  {
+    "id": 2966,
+    "english": "I binge-watched a series all day.",
+    "korean": "하루 종일 드라마를 정주행했어요."
+  },
+  {
+    "id": 2967,
+    "english": "I finished the whole series in two days.",
+    "korean": "이틀 만에 드라마를 다 봤어요."
+  },
+  {
+    "id": 2969,
+    "english": "I cried at the last episode.",
+    "korean": "마지막 화에서 울었어요."
+  },
+  {
+    "id": 2970,
+    "english": "I need another drama to watch now.",
+    "korean": "이제 볼 드라마가 또 필요해요."
+  },
+  {
+    "id": 2972,
+    "english": "I started a new hobby.",
+    "korean": "새 취미를 시작했어요."
+  },
+  {
+    "id": 2973,
+    "english": "I tried painting for the first time.",
+    "korean": "처음으로 그림을 그려봤어요."
+  },
+  {
+    "id": 2978,
+    "english": "I need more hobbies like that.",
+    "korean": "그런 취미가 더 필요해요."
+  },
+  {
+    "id": 3059,
+    "english": "I try to stay out of drama.",
+    "korean": "분란에 끼지 않으려고 해요."
+  },
+  {
+    "id": 3117,
+    "english": "This song is a banger.",
+    "korean": "이 노래 완전 좋아요."
+  },
+  {
+    "id": 3241,
+    "english": "I want to take a photo first.",
+    "korean": "사진 먼저 찍을게요."
+  },
+  {
+    "id": 3324,
+    "english": "Have you seen the latest movie?",
+    "korean": "최근 영화 봤어요?"
+  },
+  {
+    "id": 3531,
+    "english": "Please use respiratory protection when painting.",
+    "korean": "도장 작업 시 호흡 보호구를 착용해 주세요."
+  },
+  {
+    "id": 3677,
+    "english": "I listen to Korean music to practice.",
+    "korean": "연습 삼아 한국 음악을 들어요."
+  },
+  {
+    "id": 3678,
+    "english": "I tried singing along to a Korean song.",
+    "korean": "한국 노래를 따라 불러봤어요."
+  },
+  {
+    "id": 3680,
+    "english": "I watched a Korean movie tonight.",
+    "korean": "오늘 밤에 한국 영화를 봤어요."
+  },
+  {
+    "id": 4140,
+    "english": "I watched a YouTube video to learn.",
+    "korean": "유튜브 영상을 보고 배웠어요."
+  },
+  {
+    "id": 4170,
+    "english": "I send photos so she can see I am okay.",
+    "korean": "괜찮다는 걸 보여주려고 사진을 보내요."
+  },
+  {
+    "id": 4415,
+    "english": "I watched a movie last night.",
+    "korean": "어젯밤에 영화를 봤어요."
+  },
+  {
+    "id": 4483,
+    "english": "I went hiking.",
+    "korean": "등산했어요."
+  },
+  {
+    "id": 4487,
+    "english": "I watched movies all day.",
+    "korean": "하루 종일 영화를 봤어요."
+  },
+  {
+    "id": 4802,
+    "english": "We have very high mountains.",
+    "korean": "정말 높은 산이 있어요."
+  },
+  {
+    "id": 4921,
+    "english": "The K-dramas I watch now.",
+    "korean": "요즘 보는 K드라마요."
+  },
+  {
+    "id": 4922,
+    "english": "The mountains and nature.",
+    "korean": "산과 자연이요."
+  },
+  {
+    "id": 5324,
+    "english": "I started a new Korean drama.",
+    "korean": "새 한국 드라마를 시작했어요."
+  },
+  {
+    "id": 5330,
+    "english": "Is it on Netflix?",
+    "korean": "넷플릭스에 있어요?"
+  },
+  {
+    "id": 5945,
+    "english": "I agree no drama please.",
+    "korean": "동의해요 드라마 없이요."
+  },
+  {
+    "id": 6050,
+    "english": "I watched one episode of a drama.",
+    "korean": "드라마 한 편 봤어요."
+  },
+  {
+    "id": 6496,
+    "english": "I like watching Korean dramas.",
+    "korean": "한국 드라마 보는 걸 좋아해요."
+  },
+  {
+    "id": 6497,
+    "english": "I play football on weekends.",
+    "korean": "주말에 축구를 해요."
+  },
+  {
+    "id": 6498,
+    "english": "I listen to music while working out.",
+    "korean": "운동할 때 음악을 들어요."
+  },
+  {
+    "id": 6499,
+    "english": "Do you want to go hiking?",
+    "korean": "등산 갈래요?"
+  },
+  {
+    "id": 6500,
+    "english": "I read webtoons on my phone.",
+    "korean": "휴대폰으로 웹툰을 봐요."
+  },
+  {
+    "id": 7267,
+    "english": "What do you like to do on your days off?",
+    "korean": "쉬는 날에 뭐 하는 걸 좋아해요?"
+  },
+  {
+    "id": 7268,
+    "english": "Do you play soccer?",
+    "korean": "축구 해요?"
+  },
+  {
+    "id": 7269,
+    "english": "Let's play badminton.",
+    "korean": "배드민턴 쳐요."
+  },
+  {
+    "id": 7270,
+    "english": "I like watching movies.",
+    "korean": "영화 보는 걸 좋아해요."
+  },
+  {
+    "id": 7271,
+    "english": "Let's go to the cinema.",
+    "korean": "영화관에 가요."
+  },
+  {
+    "id": 7272,
+    "english": "Two tickets for this movie, please.",
+    "korean": "이 영화 표 두 장 주세요."
+  },
+  {
+    "id": 7273,
+    "english": "I like K-pop.",
+    "korean": "케이팝을 좋아해요."
+  },
+  {
+    "id": 7274,
+    "english": "I like Korean dramas.",
+    "korean": "한국 드라마를 좋아해요."
+  },
+  {
+    "id": 7275,
+    "english": "Do you want to go to karaoke?",
+    "korean": "노래방 갈래요?"
+  },
+  {
+    "id": 7276,
+    "english": "Let's go to a PC room.",
+    "korean": "PC방에 가요."
+  },
+  {
+    "id": 7277,
+    "english": "Let's go hiking.",
+    "korean": "등산 가요."
+  },
+  {
+    "id": 7278,
+    "english": "Let's go for a run.",
+    "korean": "달리기하러 가요."
+  },
+  {
+    "id": 7279,
+    "english": "I like cycling.",
+    "korean": "자전거 타는 걸 좋아해요."
+  },
+  {
+    "id": 7280,
+    "english": "I like cooking.",
+    "korean": "요리하는 걸 좋아해요."
+  },
+  {
+    "id": 7281,
+    "english": "I like playing the guitar.",
+    "korean": "기타 치는 걸 좋아해요."
+  },
+  {
+    "id": 7282,
+    "english": "I like listening to music.",
+    "korean": "음악 듣는 걸 좋아해요."
+  },
+  {
+    "id": 7283,
+    "english": "I like reading books.",
+    "korean": "책 읽는 걸 좋아해요."
+  },
+  {
+    "id": 7284,
+    "english": "I like taking pictures.",
+    "korean": "사진 찍는 걸 좋아해요."
+  },
+  {
+    "id": 7285,
+    "english": "I play cricket.",
+    "korean": "저는 크리켓을 해요."
+  },
+  {
+    "id": 7286,
+    "english": "Who is your favorite singer?",
+    "korean": "제일 좋아하는 가수가 누구예요?"
+  },
+  {
+    "id": 7287,
+    "english": "Which team do you support?",
+    "korean": "어느 팀을 응원해요?"
+  },
+  {
+    "id": 7288,
+    "english": "Do you want to play games?",
+    "korean": "게임할래요?"
+  }
+]

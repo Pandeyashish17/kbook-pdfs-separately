@@ -1,0 +1,1267 @@
+[
+  {
+    "id": 7,
+    "english": "Where is the bathroom?",
+    "korean": "화장실이 어디예요?"
+  },
+  {
+    "id": 47,
+    "english": "Where are you going?",
+    "korean": "어디 가세요?"
+  },
+  {
+    "id": 53,
+    "english": "When do you arrive home?",
+    "korean": "집에 언제 도착해요?"
+  },
+  {
+    "id": 63,
+    "english": "How do I get there?",
+    "korean": "어떻게 가야 하나요?"
+  },
+  {
+    "id": 74,
+    "english": "How long does it take?",
+    "korean": "시간이 얼마나 걸리나요?"
+  },
+  {
+    "id": 75,
+    "english": "Is this the right direction?",
+    "korean": "이 방향 맞나요?"
+  },
+  {
+    "id": 85,
+    "english": "How far is it from here?",
+    "korean": "여기서 얼마나 멀어요?"
+  },
+  {
+    "id": 99,
+    "english": "Where are you from?",
+    "korean": "어디에서 오셨어요?"
+  },
+  {
+    "id": 150,
+    "english": "Traffic is jammed.",
+    "korean": "출근하는 길이 막혔어요."
+  },
+  {
+    "id": 209,
+    "english": "Is there a seat near here?",
+    "korean": "여기 근처에 앉을 자리 있나요?"
+  },
+  {
+    "id": 272,
+    "english": "Let's take a taxi.",
+    "korean": "택시 탑시다."
+  },
+  {
+    "id": 316,
+    "english": "Where is the soap?",
+    "korean": "비누 어딨어요?"
+  },
+  {
+    "id": 326,
+    "english": "Where are the stairs?",
+    "korean": "계단은 어디 있어요?"
+  },
+  {
+    "id": 327,
+    "english": "Show me your ticket.",
+    "korean": "표를 보여주세요."
+  },
+  {
+    "id": 340,
+    "english": "My flight is delayed.",
+    "korean": "비행기가 연착되어."
+  },
+  {
+    "id": 415,
+    "english": "Does this bus go to Times Square?",
+    "korean": "이 버스는 타임스퀘어로 가나요?"
+  },
+  {
+    "id": 469,
+    "english": "Where are we?",
+    "korean": "우리가 어디에 있나요?"
+  },
+  {
+    "id": 521,
+    "english": "Where is the nearest station?",
+    "korean": "가장 가까운 여기 어디예요?"
+  },
+  {
+    "id": 538,
+    "english": "Let's walk a little more.",
+    "korean": "조금 더 걸어요."
+  },
+  {
+    "id": 552,
+    "english": "I want to take a walk.",
+    "korean": "산책할래요."
+  },
+  {
+    "id": 576,
+    "english": "I'll call you when I arrive.",
+    "korean": "도착하면 전화할게요."
+  },
+  {
+    "id": 601,
+    "english": "I'll meet you at the station.",
+    "korean": "역에서 만날게요."
+  },
+  {
+    "id": 603,
+    "english": "I'll get off at the next stop.",
+    "korean": "다음 정류장에서 내려요."
+  },
+  {
+    "id": 604,
+    "english": "I want a seat near the window.",
+    "korean": "창 근처에 앉을게요."
+  },
+  {
+    "id": 611,
+    "english": "When do you arrive home?",
+    "korean": "집에 언제 도착해요?"
+  },
+  {
+    "id": 618,
+    "english": "How long does it take?",
+    "korean": "시간이 얼마나 걸리나요?"
+  },
+  {
+    "id": 653,
+    "english": "Shall we take a taxi?",
+    "korean": "택시 탈까요?"
+  },
+  {
+    "id": 657,
+    "english": "Where is my desk?",
+    "korean": "제 자리가 어디예요?"
+  },
+  {
+    "id": 668,
+    "english": "Where is the meeting room?",
+    "korean": "회의실이 어디예요?"
+  },
+  {
+    "id": 707,
+    "english": "Is this the right bus?",
+    "korean": "이 버스 맞나요?"
+  },
+  {
+    "id": 712,
+    "english": "Is there a subway nearby?",
+    "korean": "근처에 지하철이 있어요?"
+  },
+  {
+    "id": 715,
+    "english": "The train is delayed.",
+    "korean": "기차가 연착됐어요."
+  },
+  {
+    "id": 716,
+    "english": "How long until the next bus?",
+    "korean": "다음 버스 얼마나 기다려야 해요?"
+  },
+  {
+    "id": 718,
+    "english": "Please take me to this address.",
+    "korean": "이 주소로 가주세요."
+  },
+  {
+    "id": 721,
+    "english": "Can you drive faster please?",
+    "korean": "좀 빨리 가주실 수 있어요?"
+  },
+  {
+    "id": 722,
+    "english": "Where can I rent a bike?",
+    "korean": "자전거 어디서 빌릴 수 있어요?"
+  },
+  {
+    "id": 723,
+    "english": "Is there parking nearby?",
+    "korean": "근처에 주차장 있어요?"
+  },
+  {
+    "id": 724,
+    "english": "I got on the wrong bus.",
+    "korean": "버스를 잘못 탔어요."
+  },
+  {
+    "id": 725,
+    "english": "Does this train go to Seoul?",
+    "korean": "이 기차 서울 가나요?"
+  },
+  {
+    "id": 726,
+    "english": "How far is it to walk?",
+    "korean": "걸어서 얼마나 걸려요?"
+  },
+  {
+    "id": 727,
+    "english": "Is it within walking distance?",
+    "korean": "걸어갈 수 있는 거리예요?"
+  },
+  {
+    "id": 729,
+    "english": "Where is the dormitory?",
+    "korean": "기숙사가 어디예요?"
+  },
+  {
+    "id": 738,
+    "english": "Where is the laundry room?",
+    "korean": "세탁실이 어디예요?"
+  },
+  {
+    "id": 762,
+    "english": "Where is the fitting room?",
+    "korean": "탈의실이 어디예요?"
+  },
+  {
+    "id": 805,
+    "english": "How long does it take?",
+    "korean": "얼마나 걸려요?"
+  },
+  {
+    "id": 830,
+    "english": "Where is the nearest hospital?",
+    "korean": "가장 가까운 병원이 어디예요?"
+  },
+  {
+    "id": 857,
+    "english": "Where is the pharmacy?",
+    "korean": "약국이 어디예요?"
+  },
+  {
+    "id": 942,
+    "english": "It's a nice day for a walk.",
+    "korean": "산책하기 좋은 날씨예요."
+  },
+  {
+    "id": 947,
+    "english": "Where are you from originally?",
+    "korean": "원래 어디서 오셨어요?"
+  },
+  {
+    "id": 988,
+    "english": "Where is the emergency exit?",
+    "korean": "비상구가 어디예요?"
+  },
+  {
+    "id": 989,
+    "english": "I had a traffic accident.",
+    "korean": "교통사고가 났어요."
+  },
+  {
+    "id": 993,
+    "english": "Please take me to the hospital.",
+    "korean": "병원에 데려다 주세요."
+  },
+  {
+    "id": 994,
+    "english": "Go straight.",
+    "korean": "직진하세요."
+  },
+  {
+    "id": 995,
+    "english": "Turn left at the traffic light.",
+    "korean": "신호등에서 왼쪽으로 도세요."
+  },
+  {
+    "id": 996,
+    "english": "Turn right at the corner.",
+    "korean": "모퉁이에서 오른쪽으로 도세요."
+  },
+  {
+    "id": 999,
+    "english": "It's across the street.",
+    "korean": "길 건너편에 있어요."
+  },
+  {
+    "id": 1004,
+    "english": "Can you draw me a map?",
+    "korean": "지도를 그려 주실 수 있어요?"
+  },
+  {
+    "id": 1006,
+    "english": "I am looking for this address.",
+    "korean": "이 주소를 찾고 있어요."
+  },
+  {
+    "id": 1007,
+    "english": "Is there a landmark nearby?",
+    "korean": "근처에 랜드마크가 있어요?"
+  },
+  {
+    "id": 1008,
+    "english": "Where is the main gate?",
+    "korean": "정문이 어디예요?"
+  },
+  {
+    "id": 1009,
+    "english": "Take the elevator to floor 3.",
+    "korean": "엘리베이터 타고 3층으로 가세요."
+  },
+  {
+    "id": 1011,
+    "english": "Where is the bus terminal?",
+    "korean": "버스 터미널이 어디예요?"
+  },
+  {
+    "id": 1012,
+    "english": "Where is the train station?",
+    "korean": "기차역이 어디예요?"
+  },
+  {
+    "id": 1013,
+    "english": "How do I get to downtown?",
+    "korean": "시내는 어떻게 가요?"
+  },
+  {
+    "id": 1017,
+    "english": "Can you point me in the right direction?",
+    "korean": "방향 좀 알려 주실 수 있어요?"
+  },
+  {
+    "id": 1024,
+    "english": "My package has not arrived yet.",
+    "korean": "소포가 아직 안 왔어요."
+  },
+  {
+    "id": 1025,
+    "english": "Where is the package locker?",
+    "korean": "택배 보관함이 어디예요?"
+  },
+  {
+    "id": 1050,
+    "english": "Where is the gym?",
+    "korean": "헬스장이 어디예요?"
+  },
+  {
+    "id": 1054,
+    "english": "Where are the dumbbells?",
+    "korean": "덤벨이 어디 있어요?"
+  },
+  {
+    "id": 1078,
+    "english": "It takes 30 minutes to get to work.",
+    "korean": "출근하는 데 30분 걸려요."
+  },
+  {
+    "id": 1156,
+    "english": "Is there anything interesting to do nearby?",
+    "korean": "근처에 재미있는 곳이 있어요?"
+  },
+  {
+    "id": 1158,
+    "english": "Is there a good trail nearby?",
+    "korean": "근처에 좋은 등산로 있어요?"
+  },
+  {
+    "id": 1163,
+    "english": "Is there a bath house nearby?",
+    "korean": "근처에 찜질방 있어요?"
+  },
+  {
+    "id": 1174,
+    "english": "Let's go for a drive.",
+    "korean": "드라이브 가요."
+  },
+  {
+    "id": 1178,
+    "english": "Where is the microwave?",
+    "korean": "전자레인지가 어디예요?"
+  },
+  {
+    "id": 1267,
+    "english": "I need to register my address.",
+    "korean": "주소 등록을 해야 해요."
+  },
+  {
+    "id": 1318,
+    "english": "Where is the first aid kit?",
+    "korean": "구급상자가 어디 있어요?"
+  },
+  {
+    "id": 1406,
+    "english": "The Cheomseongdae observatory is nearby.",
+    "korean": "첨성대가 근처에 있어요."
+  },
+  {
+    "id": 1407,
+    "english": "Bomun Lake is a nice place to walk.",
+    "korean": "보문 호수는 산책하기 좋아요."
+  },
+  {
+    "id": 1409,
+    "english": "How do I get from Gyeongju to Busan?",
+    "korean": "경주에서 부산 어떻게 가요?"
+  },
+  {
+    "id": 1410,
+    "english": "How far is Daegu from here?",
+    "korean": "여기서 대구가 얼마나 멀어요?"
+  },
+  {
+    "id": 1411,
+    "english": "Is there a KTX station nearby?",
+    "korean": "근처에 KTX역이 있어요?"
+  },
+  {
+    "id": 1417,
+    "english": "I want to rent a bike and tour the area.",
+    "korean": "자전거 빌려서 주변을 돌아보고 싶어요."
+  },
+  {
+    "id": 1440,
+    "english": "Where are the hot foods?",
+    "korean": "뜨거운 음식은 어디에 있어요?"
+  },
+  {
+    "id": 1489,
+    "english": "Can I walk in without an appointment?",
+    "korean": "예약 없이 가도 돼요?"
+  },
+  {
+    "id": 1666,
+    "english": "Where is she from?",
+    "korean": "그 분 어디에서 왔어요?"
+  },
+  {
+    "id": 1670,
+    "english": "She helped me so much when I first arrived.",
+    "korean": "처음 왔을 때 많이 도와주셨어요."
+  },
+  {
+    "id": 1696,
+    "english": "Drive safe please.",
+    "korean": "운전 조심하세요."
+  },
+  {
+    "id": 1795,
+    "english": "Is there a football field nearby?",
+    "korean": "근처에 축구장이 있어요?"
+  },
+  {
+    "id": 1802,
+    "english": "My goal is to reach seventy kilograms.",
+    "korean": "목표 체중이 70킬로예요."
+  },
+  {
+    "id": 1814,
+    "english": "The river near here is very pretty.",
+    "korean": "근처 강이 정말 예뻐요."
+  },
+  {
+    "id": 1815,
+    "english": "Is there a park I can walk in?",
+    "korean": "산책할 수 있는 공원이 있어요?"
+  },
+  {
+    "id": 1865,
+    "english": "Can you walk me through the process?",
+    "korean": "과정을 단계별로 설명해 줄 수 있어요?"
+  },
+  {
+    "id": 1886,
+    "english": "I feel proud of how far I have come.",
+    "korean": "지금까지 온 것이 자랑스러워요."
+  },
+  {
+    "id": 1926,
+    "english": "What is the best place to visit near here?",
+    "korean": "근처에서 가장 좋은 여행지가 어디예요?"
+  },
+  {
+    "id": 1934,
+    "english": "Is there a good barbershop nearby?",
+    "korean": "근처에 좋은 이발소 있어요?"
+  },
+  {
+    "id": 1951,
+    "english": "How long will it take to arrive?",
+    "korean": "도착까지 얼마나 걸려요?"
+  },
+  {
+    "id": 1967,
+    "english": "I feel safe walking alone at night.",
+    "korean": "밤에 혼자 걸어도 안전한 것 같아요."
+  },
+  {
+    "id": 1978,
+    "english": "Is this place far from the bus stop?",
+    "korean": "이 장소가 버스 정류장에서 멀어요?"
+  },
+  {
+    "id": 1979,
+    "english": "How many minutes by taxi?",
+    "korean": "택시로 몇 분 걸려요?"
+  },
+  {
+    "id": 1980,
+    "english": "Is there a subway station near here?",
+    "korean": "근처에 지하철역이 있어요?"
+  },
+  {
+    "id": 1981,
+    "english": "I need to get to the industrial complex.",
+    "korean": "산업 단지로 가야 해요."
+  },
+  {
+    "id": 1982,
+    "english": "Which exit should I use at the station?",
+    "korean": "역에서 몇 번 출구로 나가야 해요?"
+  },
+  {
+    "id": 1985,
+    "english": "Can I walk to the dormitory from here?",
+    "korean": "여기서 기숙사까지 걸어갈 수 있어요?"
+  },
+  {
+    "id": 1986,
+    "english": "Please show me on the map.",
+    "korean": "지도에서 보여 주세요."
+  },
+  {
+    "id": 2034,
+    "english": "Where is the nearest laundromat?",
+    "korean": "근처에 빨래방이 어디 있어요?"
+  },
+  {
+    "id": 2079,
+    "english": "Where is the fire extinguisher?",
+    "korean": "소화기가 어디 있어요?"
+  },
+  {
+    "id": 2117,
+    "english": "What is the bus number to the station?",
+    "korean": "역 가는 버스 번호가 뭐예요?"
+  },
+  {
+    "id": 2118,
+    "english": "Does this bus run on weekends too?",
+    "korean": "이 버스 주말에도 다니나요?"
+  },
+  {
+    "id": 2119,
+    "english": "What time is the last bus?",
+    "korean": "막차가 몇 시예요?"
+  },
+  {
+    "id": 2120,
+    "english": "What time is the first bus in the morning?",
+    "korean": "첫차가 몇 시예요?"
+  },
+  {
+    "id": 2121,
+    "english": "I need to take the intercity bus.",
+    "korean": "시외버스를 타야 해요."
+  },
+  {
+    "id": 2122,
+    "english": "Where is the express bus terminal?",
+    "korean": "고속버스 터미널이 어디예요?"
+  },
+  {
+    "id": 2123,
+    "english": "How do I get to Busan from here?",
+    "korean": "여기서 부산 어떻게 가요?"
+  },
+  {
+    "id": 2124,
+    "english": "Is the KTX faster than the bus?",
+    "korean": "KTX가 버스보다 빨라요?"
+  },
+  {
+    "id": 2126,
+    "english": "I want to book a train ticket.",
+    "korean": "기차표를 예매하고 싶어요."
+  },
+  {
+    "id": 2154,
+    "english": "What is the best bus app in Korea?",
+    "korean": "한국에서 버스 앱 뭐가 좋아요?"
+  },
+  {
+    "id": 2155,
+    "english": "I found this place on Naver Map.",
+    "korean": "네이버 지도에서 이 장소를 찾았어요."
+  },
+  {
+    "id": 2225,
+    "english": "Language is a bridge between cultures.",
+    "korean": "언어는 문화 간의 다리예요."
+  },
+  {
+    "id": 2255,
+    "english": "I use a Korean address format now.",
+    "korean": "한국 주소 형식을 사용해요."
+  },
+  {
+    "id": 2270,
+    "english": "I have just arrived.",
+    "korean": "방금 도착했어요."
+  },
+  {
+    "id": 2347,
+    "english": "Does this train stop at Gyeongju?",
+    "korean": "이 기차가 경주에 서나요?"
+  },
+  {
+    "id": 2349,
+    "english": "Is the bus stop far from here?",
+    "korean": "버스 정류장이 여기서 멀어요?"
+  },
+  {
+    "id": 2350,
+    "english": "Can I get a monthly bus pass?",
+    "korean": "월정기권을 살 수 있어요?"
+  },
+  {
+    "id": 2351,
+    "english": "I missed the last train.",
+    "korean": "막차를 놓쳤어요."
+  },
+  {
+    "id": 2352,
+    "english": "How do I get to the industrial complex?",
+    "korean": "산업 단지에 어떻게 가요?"
+  },
+  {
+    "id": 2353,
+    "english": "Is there a shuttle bus from the dormitory?",
+    "korean": "기숙사에서 셔틀버스가 있어요?"
+  },
+  {
+    "id": 2354,
+    "english": "What time does the shuttle depart?",
+    "korean": "셔틀버스가 몇 시에 출발해요?"
+  },
+  {
+    "id": 2355,
+    "english": "Can I take a bicycle on the bus?",
+    "korean": "버스에 자전거를 가져갈 수 있어요?"
+  },
+  {
+    "id": 2356,
+    "english": "The taxi driver took the wrong route.",
+    "korean": "택시 기사가 다른 길로 갔어요."
+  },
+  {
+    "id": 2357,
+    "english": "How do I hail a taxi here?",
+    "korean": "여기서 택시를 어떻게 잡아요?"
+  },
+  {
+    "id": 2358,
+    "english": "Can I book a taxi in advance?",
+    "korean": "택시를 미리 예약할 수 있어요?"
+  },
+  {
+    "id": 2359,
+    "english": "The bus was very crowded this morning.",
+    "korean": "오늘 아침 버스가 정말 붐볐어요."
+  },
+  {
+    "id": 2360,
+    "english": "I prefer to walk when the weather is nice.",
+    "korean": "날씨가 좋으면 걸어 다니는 걸 좋아해요."
+  },
+  {
+    "id": 2362,
+    "english": "Is there a bicycle rental near here?",
+    "korean": "근처에 자전거 대여소가 있어요?"
+  },
+  {
+    "id": 2363,
+    "english": "The road is under construction.",
+    "korean": "도로 공사 중이에요."
+  },
+  {
+    "id": 2364,
+    "english": "I need to find an alternate route.",
+    "korean": "다른 경로를 찾아야 해요."
+  },
+  {
+    "id": 2365,
+    "english": "Traffic is really bad right now.",
+    "korean": "지금 교통이 정말 막혀요."
+  },
+  {
+    "id": 2391,
+    "english": "I need to update my address on file.",
+    "korean": "등록된 주소를 변경해야 해요."
+  },
+  {
+    "id": 2424,
+    "english": "Is there a 24-hour clinic nearby?",
+    "korean": "근처에 24시간 병원이 있어요?"
+  },
+  {
+    "id": 2451,
+    "english": "I want to rent a bike and go to Bulguksa.",
+    "korean": "자전거 빌려서 불국사에 가고 싶어요."
+  },
+  {
+    "id": 2454,
+    "english": "Gyeongju is easy to explore by bicycle.",
+    "korean": "경주는 자전거로 돌아다니기 좋아요."
+  },
+  {
+    "id": 2514,
+    "english": "Do you know a good barber nearby?",
+    "korean": "근처에 좋은 이발소 알아요?"
+  },
+  {
+    "id": 2519,
+    "english": "Is there a notary service nearby?",
+    "korean": "근처에 공증 서비스가 있어요?"
+  },
+  {
+    "id": 2534,
+    "english": "Where is the sports equipment section?",
+    "korean": "스포츠 용품 코너가 어디예요?"
+  },
+  {
+    "id": 2538,
+    "english": "Where are the household items?",
+    "korean": "생활용품은 어디 있어요?"
+  },
+  {
+    "id": 2551,
+    "english": "Can someone cover my station?",
+    "korean": "제 자리를 대신 봐줄 수 있는 사람 있어요?"
+  },
+  {
+    "id": 2575,
+    "english": "How do I get to Pohang from here?",
+    "korean": "여기서 포항에 어떻게 가요?"
+  },
+  {
+    "id": 2576,
+    "english": "Which platform does the train leave from?",
+    "korean": "기차가 몇 번 승강장에서 출발해요?"
+  },
+  {
+    "id": 2577,
+    "english": "My train was cancelled.",
+    "korean": "기차가 취소됐어요."
+  },
+  {
+    "id": 2578,
+    "english": "Is there a replacement bus service?",
+    "korean": "대체 버스 서비스가 있어요?"
+  },
+  {
+    "id": 2582,
+    "english": "Where is the lost and found?",
+    "korean": "분실물 센터가 어디예요?"
+  },
+  {
+    "id": 2583,
+    "english": "The bus driver was very kind.",
+    "korean": "버스 기사님이 정말 친절했어요."
+  },
+  {
+    "id": 2584,
+    "english": "I always stand in line for the bus.",
+    "korean": "항상 버스 줄을 서서 타요."
+  },
+  {
+    "id": 2585,
+    "english": "The bus was ten minutes late.",
+    "korean": "버스가 10분 늦게 왔어요."
+  },
+  {
+    "id": 2586,
+    "english": "I need to get off at the next stop.",
+    "korean": "다음 정류장에서 내려야 해요."
+  },
+  {
+    "id": 2587,
+    "english": "Can you tell me when we reach Gyeongju?",
+    "korean": "경주에 도착하면 알려줄 수 있어요?"
+  },
+  {
+    "id": 2588,
+    "english": "I take the bus every morning at seven.",
+    "korean": "매일 아침 7시에 버스를 타요."
+  },
+  {
+    "id": 2589,
+    "english": "Rush hour traffic is terrible here.",
+    "korean": "여기 출퇴근 시간 교통이 정말 심해요."
+  },
+  {
+    "id": 2658,
+    "english": "There is a Nepali community center nearby.",
+    "korean": "근처에 네팔인 커뮤니티 센터가 있어요."
+  },
+  {
+    "id": 2663,
+    "english": "I am building a bridge between our two cultures.",
+    "korean": "저는 두 문화 사이의 다리를 만들고 있어요."
+  },
+  {
+    "id": 2839,
+    "english": "To get to the point.",
+    "korean": "본론으로 들어가면요."
+  },
+  {
+    "id": 3086,
+    "english": "I did not know anyone when I first arrived.",
+    "korean": "처음 왔을 때 아는 사람이 아무도 없었어요."
+  },
+  {
+    "id": 3095,
+    "english": "I am proud of how far I have come.",
+    "korean": "지금까지 얼마나 왔는지 자랑스러워요."
+  },
+  {
+    "id": 3106,
+    "english": "Feel free to reach out anytime.",
+    "korean": "언제든지 연락하세요."
+  },
+  {
+    "id": 3164,
+    "english": "Get straight to the point.",
+    "korean": "핵심만 말해요."
+  },
+  {
+    "id": 3194,
+    "english": "I started walking ten thousand steps daily.",
+    "korean": "매일 만 보 걷기를 시작했어요."
+  },
+  {
+    "id": 3290,
+    "english": "I feel safe walking anywhere.",
+    "korean": "어디서나 걸어 다녀도 안전해요."
+  },
+  {
+    "id": 3396,
+    "english": "There is a gas leak nearby.",
+    "korean": "근처에 가스가 새고 있어요."
+  },
+  {
+    "id": 3477,
+    "english": "I am just going straight home.",
+    "korean": "그냥 바로 집에 갈 거예요."
+  },
+  {
+    "id": 3502,
+    "english": "I can barely walk down the stairs.",
+    "korean": "계단을 거의 못 내려가겠어요."
+  },
+  {
+    "id": 3513,
+    "english": "The muster station is at gate three.",
+    "korean": "집결 장소는 3번 게이트예요."
+  },
+  {
+    "id": 3538,
+    "english": "Have a fire extinguisher nearby during hot work.",
+    "korean": "화기 작업 중에는 소화기를 가까이 두세요."
+  },
+  {
+    "id": 3572,
+    "english": "Do you want to share a taxi?",
+    "korean": "택시 같이 탈래요?"
+  },
+  {
+    "id": 3573,
+    "english": "The bus is packed at this hour.",
+    "korean": "이 시간에 버스가 정말 붐벼요."
+  },
+  {
+    "id": 3574,
+    "english": "I prefer to walk when the weather is nice.",
+    "korean": "날씨가 좋으면 걷는 게 좋아요."
+  },
+  {
+    "id": 3633,
+    "english": "Let us meet at six near the station.",
+    "korean": "역 근처에서 여섯 시에 만나요."
+  },
+  {
+    "id": 3835,
+    "english": "Walk slowly here.",
+    "korean": "천천히 걸으세요."
+  },
+  {
+    "id": 3862,
+    "english": "The bus was very crowded this morning.",
+    "korean": "오늘 아침에 버스가 정말 붐볐어요."
+  },
+  {
+    "id": 3890,
+    "english": "I take the bus home.",
+    "korean": "버스 타고 집에 가요."
+  },
+  {
+    "id": 3891,
+    "english": "I live about thirty minutes away.",
+    "korean": "집이 30분 정도 걸려요."
+  },
+  {
+    "id": 3917,
+    "english": "It is near the city center.",
+    "korean": "시내 근처에 있어요."
+  },
+  {
+    "id": 3918,
+    "english": "It takes about forty minutes by bus.",
+    "korean": "버스로 40분 정도 걸려요."
+  },
+  {
+    "id": 3928,
+    "english": "It feels like I just arrived.",
+    "korean": "방금 온 것 같은데요."
+  },
+  {
+    "id": 3979,
+    "english": "My station is always the hottest.",
+    "korean": "제 자리가 항상 제일 더워요."
+  },
+  {
+    "id": 3988,
+    "english": "Is there anywhere to sit nearby?",
+    "korean": "근처에 앉을 수 있는 곳이 있어요?"
+  },
+  {
+    "id": 4020,
+    "english": "Buses and trains are very good here.",
+    "korean": "버스와 기차가 정말 좋아요."
+  },
+  {
+    "id": 4034,
+    "english": "Where is the toilet here?",
+    "korean": "여기 화장실이 어디예요?"
+  },
+  {
+    "id": 4243,
+    "english": "The traffic was bad today.",
+    "korean": "오늘 차가 많이 막혔어요."
+  },
+  {
+    "id": 4268,
+    "english": "Line it up straight.",
+    "korean": "똑바로 맞춰요."
+  },
+  {
+    "id": 4284,
+    "english": "Where is the problem?",
+    "korean": "문제가 어디에 있어요?"
+  },
+  {
+    "id": 4299,
+    "english": "Where is the hammer?",
+    "korean": "망치가 어디 있어요?"
+  },
+  {
+    "id": 4306,
+    "english": "Where is the spare battery?",
+    "korean": "여분 배터리가 어디 있어요?"
+  },
+  {
+    "id": 4414,
+    "english": "I went for a walk.",
+    "korean": "산책을 했어요."
+  },
+  {
+    "id": 4445,
+    "english": "I could barely see the road.",
+    "korean": "길이 거의 보이지 않았어요."
+  },
+  {
+    "id": 4640,
+    "english": "The bus was slow today.",
+    "korean": "오늘 버스가 느렸어요."
+  },
+  {
+    "id": 4739,
+    "english": "I know a good place nearby.",
+    "korean": "근처에 좋은 데 알아요."
+  },
+  {
+    "id": 4777,
+    "english": "Straight to the point.",
+    "korean": "바로 핵심으로 가요."
+  },
+  {
+    "id": 4871,
+    "english": "When I reach it I will celebrate?",
+    "korean": "달성하면 축하할 거예요?"
+  },
+  {
+    "id": 5069,
+    "english": "There is a massage place nearby.",
+    "korean": "근처에 마사지 가게가 있어요."
+  },
+  {
+    "id": 5111,
+    "english": "Straight ahead.",
+    "korean": "앞으로 쭉이요."
+  },
+  {
+    "id": 5403,
+    "english": "Once you get to Wednesday it gets easier.",
+    "korean": "수요일만 넘으면 더 쉬워요."
+  },
+  {
+    "id": 5806,
+    "english": "Where is it?",
+    "korean": "어디서 해요?"
+  },
+  {
+    "id": 5891,
+    "english": "Feels like yesterday you arrived.",
+    "korean": "어제 온 것 같은데요."
+  },
+  {
+    "id": 5904,
+    "english": "I almost missed the bus.",
+    "korean": "버스를 거의 놓칠 뻔했어요."
+  },
+  {
+    "id": 5912,
+    "english": "The bus was packed this morning.",
+    "korean": "오늘 아침 버스가 꽉 찼어요."
+  },
+  {
+    "id": 5914,
+    "english": "I had to walk back ten minutes.",
+    "korean": "10분을 걸어서 돌아왔어요."
+  },
+  {
+    "id": 5916,
+    "english": "The road was busy today.",
+    "korean": "오늘 길이 붐볐어요."
+  },
+  {
+    "id": 5918,
+    "english": "Everyone was stuck in traffic.",
+    "korean": "모두 차가 막혔어요."
+  },
+  {
+    "id": 5919,
+    "english": "I am glad I took the bus.",
+    "korean": "버스 타서 다행이에요."
+  },
+  {
+    "id": 5983,
+    "english": "Second floor near the bathroom.",
+    "korean": "2층 화장실 근처요."
+  },
+  {
+    "id": 6008,
+    "english": "Walk around a little it helps.",
+    "korean": "조금 걸으면 도움이 돼요."
+  },
+  {
+    "id": 6020,
+    "english": "Walk slowly this way.",
+    "korean": "이쪽으로 천천히 걸어요."
+  },
+  {
+    "id": 6041,
+    "english": "Yes a few of us work nearby.",
+    "korean": "네 우리 중 몇 명이 근처에서 일해요."
+  },
+  {
+    "id": 6121,
+    "english": "Clean your station.",
+    "korean": "자리를 청소해요."
+  },
+  {
+    "id": 6407,
+    "english": "How do I get to the station?",
+    "korean": "역에 어떻게 가요?"
+  },
+  {
+    "id": 6408,
+    "english": "Please stop here.",
+    "korean": "여기서 세워 주세요."
+  },
+  {
+    "id": 6409,
+    "english": "Where do I get off?",
+    "korean": "어디서 내려야 해요?"
+  },
+  {
+    "id": 6410,
+    "english": "I'll take a taxi.",
+    "korean": "택시를 탈게요."
+  },
+  {
+    "id": 6411,
+    "english": "I'm on my way.",
+    "korean": "가는 중이에요."
+  },
+  {
+    "id": 6412,
+    "english": "I missed the bus.",
+    "korean": "버스를 놓쳤어요."
+  },
+  {
+    "id": 6413,
+    "english": "Go straight and turn left.",
+    "korean": "쭉 가서 왼쪽으로 가세요."
+  },
+  {
+    "id": 6414,
+    "english": "How much is the fare?",
+    "korean": "요금이 얼마예요?"
+  },
+  {
+    "id": 6703,
+    "english": "Where is the subway station?",
+    "korean": "지하철역이 어디예요?"
+  },
+  {
+    "id": 6704,
+    "english": "Which line should I take?",
+    "korean": "몇 호선을 타야 해요?"
+  },
+  {
+    "id": 6705,
+    "english": "Where do I transfer?",
+    "korean": "어디서 갈아타야 해요?"
+  },
+  {
+    "id": 6706,
+    "english": "How many stops is it?",
+    "korean": "몇 정거장이에요?"
+  },
+  {
+    "id": 6707,
+    "english": "Which exit should I use?",
+    "korean": "몇 번 출구로 나가야 해요?"
+  },
+  {
+    "id": 6708,
+    "english": "Is this the express train?",
+    "korean": "이거 급행이에요?"
+  },
+  {
+    "id": 6709,
+    "english": "Please top up my T-money card.",
+    "korean": "티머니 카드 충전해 주세요."
+  },
+  {
+    "id": 6710,
+    "english": "I want to charge my transportation card.",
+    "korean": "교통카드를 충전하고 싶어요."
+  },
+  {
+    "id": 6711,
+    "english": "Where can I buy a ticket?",
+    "korean": "표는 어디서 살 수 있어요?"
+  },
+  {
+    "id": 6712,
+    "english": "One ticket to Busan, please.",
+    "korean": "부산 가는 표 한 장 주세요."
+  },
+  {
+    "id": 6713,
+    "english": "Where is the bus stop?",
+    "korean": "버스 정류장이 어디예요?"
+  },
+  {
+    "id": 6714,
+    "english": "Which bus goes to the station?",
+    "korean": "어떤 버스가 역에 가요?"
+  },
+  {
+    "id": 6715,
+    "english": "Please tell me when we arrive.",
+    "korean": "도착하면 알려 주세요."
+  },
+  {
+    "id": 6716,
+    "english": "Please turn left.",
+    "korean": "좌회전해 주세요."
+  },
+  {
+    "id": 6717,
+    "english": "Please turn right.",
+    "korean": "우회전해 주세요."
+  },
+  {
+    "id": 6718,
+    "english": "It's on the left.",
+    "korean": "왼쪽에 있어요."
+  },
+  {
+    "id": 6719,
+    "english": "It's on the right.",
+    "korean": "오른쪽에 있어요."
+  },
+  {
+    "id": 6720,
+    "english": "It's next to the bank.",
+    "korean": "은행 옆에 있어요."
+  },
+  {
+    "id": 6721,
+    "english": "It's in front of the station.",
+    "korean": "역 앞에 있어요."
+  },
+  {
+    "id": 6722,
+    "english": "Please cross at the crosswalk.",
+    "korean": "횡단보도로 건너세요."
+  },
+  {
+    "id": 6723,
+    "english": "Please use the meter.",
+    "korean": "미터기로 가 주세요."
+  },
+  {
+    "id": 6724,
+    "english": "I left something on the bus.",
+    "korean": "버스에 물건을 두고 내렸어요."
+  },
+  {
+    "id": 6725,
+    "english": "I missed my stop.",
+    "korean": "내릴 곳을 지나쳤어요."
+  },
+  {
+    "id": 6726,
+    "english": "Which platform is it?",
+    "korean": "몇 번 승강장이에요?"
+  },
+  {
+    "id": 6727,
+    "english": "Is there a direct bus?",
+    "korean": "직행 버스 있어요?"
+  },
+  {
+    "id": 6728,
+    "english": "A round-trip ticket, please.",
+    "korean": "왕복표 주세요."
+  },
+  {
+    "id": 6729,
+    "english": "A one-way ticket, please.",
+    "korean": "편도표 주세요."
+  },
+  {
+    "id": 6730,
+    "english": "Where is the police station?",
+    "korean": "경찰서가 어디예요?"
+  },
+  {
+    "id": 6731,
+    "english": "Where is the hospital?",
+    "korean": "병원이 어디예요?"
+  },
+  {
+    "id": 6732,
+    "english": "Where is the post office?",
+    "korean": "우체국이 어디 있어요?"
+  }
+]

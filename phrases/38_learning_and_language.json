@@ -1,0 +1,662 @@
+[
+  {
+    "id": 158,
+    "english": "How long have you studied English?",
+    "korean": "영어를 얼마나 오래 공부했어요?"
+  },
+  {
+    "id": 254,
+    "english": "I learned a lot.",
+    "korean": "정말 많이 배웠습니다."
+  },
+  {
+    "id": 390,
+    "english": "Are you listening to me?",
+    "korean": "내 말 듣고 있는 거예요?"
+  },
+  {
+    "id": 502,
+    "english": "I'm still learning.",
+    "korean": "아직 배우는 중이에요."
+  },
+  {
+    "id": 595,
+    "english": "Let's practice together.",
+    "korean": "같이 연습해요."
+  },
+  {
+    "id": 631,
+    "english": "How long have you been studying English?",
+    "korean": "영어를 얼마나 오래 공부했어요?"
+  },
+  {
+    "id": 915,
+    "english": "How do you pronounce this?",
+    "korean": "이거 어떻게 발음해요?"
+  },
+  {
+    "id": 924,
+    "english": "I can read Hangul a little.",
+    "korean": "한글을 조금 읽을 수 있어요."
+  },
+  {
+    "id": 1342,
+    "english": "Practice makes perfect.",
+    "korean": "연습이 완벽을 만들어요."
+  },
+  {
+    "id": 1344,
+    "english": "You learn something new every day.",
+    "korean": "매일 새로운 걸 배우네요."
+  },
+  {
+    "id": 1463,
+    "english": "I am learning the social rules here.",
+    "korean": "여기서 사회적 규칙을 배우고 있어요."
+  },
+  {
+    "id": 1480,
+    "english": "I need a urine test.",
+    "korean": "소변 검사가 필요해요."
+  },
+  {
+    "id": 1539,
+    "english": "I am studying for TOPIK.",
+    "korean": "토픽 시험을 준비하고 있어요."
+  },
+  {
+    "id": 1540,
+    "english": "What level is TOPIK?",
+    "korean": "토픽이 몇 급이에요?"
+  },
+  {
+    "id": 1542,
+    "english": "I am studying vocabulary every day.",
+    "korean": "매일 어휘를 공부해요."
+  },
+  {
+    "id": 1548,
+    "english": "I want to improve my listening skills.",
+    "korean": "듣기 실력을 키우고 싶어요."
+  },
+  {
+    "id": 1551,
+    "english": "Hangul was easy to learn.",
+    "korean": "한글은 배우기 쉬웠어요."
+  },
+  {
+    "id": 1572,
+    "english": "I learned a lot from you.",
+    "korean": "많이 배웠어요."
+  },
+  {
+    "id": 1725,
+    "english": "I am learning so much every day.",
+    "korean": "매일 정말 많은 것을 배우고 있어요."
+  },
+  {
+    "id": 1896,
+    "english": "I am learning to be patient.",
+    "korean": "인내심을 기르고 있어요."
+  },
+  {
+    "id": 2167,
+    "english": "Happy graduation.",
+    "korean": "졸업 축하해요."
+  },
+  {
+    "id": 2193,
+    "english": "I learned my lesson from this.",
+    "korean": "이것으로 교훈을 얻었어요."
+  },
+  {
+    "id": 2433,
+    "english": "I have learned to say annyeonghaseyo.",
+    "korean": "안녕하세요라고 말하는 법을 배웠어요."
+  },
+  {
+    "id": 2490,
+    "english": "I am writing my own story.",
+    "korean": "제 스스로의 이야기를 써가고 있어요."
+  },
+  {
+    "id": 2527,
+    "english": "Can this be translated into English?",
+    "korean": "이걸 영어로 번역해 줄 수 있어요?"
+  },
+  {
+    "id": 2620,
+    "english": "I learned that ppalli ppalli means hurry.",
+    "korean": "빨리빨리가 서두르라는 뜻이라는 걸 배웠어요."
+  },
+  {
+    "id": 2665,
+    "english": "Writing helps me process my feelings.",
+    "korean": "글 쓰는 것이 감정 정리에 도움이 돼요."
+  },
+  {
+    "id": 2771,
+    "english": "Practice what you preach.",
+    "korean": "자기가 하는 말은 자기가 먼저 실천해야 해요."
+  },
+  {
+    "id": 2979,
+    "english": "I want to learn how to play chess.",
+    "korean": "체스를 배우고 싶어요."
+  },
+  {
+    "id": 2980,
+    "english": "I started learning calligraphy.",
+    "korean": "캘리그라피를 배우기 시작했어요."
+  },
+  {
+    "id": 3022,
+    "english": "I am at a loss for words.",
+    "korean": "말문이 막혀요."
+  },
+  {
+    "id": 3089,
+    "english": "I have learned to be independent.",
+    "korean": "독립심이 생겼어요."
+  },
+  {
+    "id": 3244,
+    "english": "I have no words for how good this is.",
+    "korean": "얼마나 맛있는지 말로 표현이 안 돼요."
+  },
+  {
+    "id": 3252,
+    "english": "You took the words right out of my mouth.",
+    "korean": "제 말을 대신 해줬어요."
+  },
+  {
+    "id": 3259,
+    "english": "Truer words were never spoken.",
+    "korean": "더 진실한 말이 없어요."
+  },
+  {
+    "id": 3265,
+    "english": "Now you are speaking my language.",
+    "korean": "이제 제 언어로 말하네요."
+  },
+  {
+    "id": 3298,
+    "english": "I will carry these lessons forever.",
+    "korean": "이 교훈들을 평생 간직할 거예요."
+  },
+  {
+    "id": 3434,
+    "english": "The ultrasonic test passed.",
+    "korean": "초음파 검사가 통과됐어요."
+  },
+  {
+    "id": 3435,
+    "english": "The radiographic test results are good.",
+    "korean": "방사선 검사 결과가 좋아요."
+  },
+  {
+    "id": 3436,
+    "english": "The hydrostatic test is today.",
+    "korean": "오늘 수압 시험이 있어요."
+  },
+  {
+    "id": 3438,
+    "english": "The test failed and needs repair.",
+    "korean": "검사에 실패해서 수리가 필요해요."
+  },
+  {
+    "id": 3557,
+    "english": "I would love to learn how to make this.",
+    "korean": "이거 만드는 법을 배우고 싶어요."
+  },
+  {
+    "id": 3654,
+    "english": "I plan to learn as much as I can here.",
+    "korean": "여기서 최대한 많이 배울 계획이에요."
+  },
+  {
+    "id": 3655,
+    "english": "Every skill I learn adds to my value.",
+    "korean": "배우는 모든 기술이 저의 가치를 높여요."
+  },
+  {
+    "id": 3662,
+    "english": "I passed the practical exam.",
+    "korean": "실기 시험에 합격했어요."
+  },
+  {
+    "id": 3663,
+    "english": "I need to study for the theory part.",
+    "korean": "이론 부분을 더 공부해야 해요."
+  },
+  {
+    "id": 3666,
+    "english": "Learning from experienced workers is invaluable.",
+    "korean": "경험 많은 분들에게 배우는 건 정말 소중해요."
+  },
+  {
+    "id": 3685,
+    "english": "I review new words every night.",
+    "korean": "매일 밤 새 단어를 복습해요."
+  },
+  {
+    "id": 3686,
+    "english": "I set vocabulary goals for myself.",
+    "korean": "스스로 단어 목표를 세워요."
+  },
+  {
+    "id": 3687,
+    "english": "Twenty new words per day is my target.",
+    "korean": "하루에 새 단어 20개가 목표예요."
+  },
+  {
+    "id": 3697,
+    "english": "We communicate even with the language barrier.",
+    "korean": "언어 장벽이 있어도 소통해요."
+  },
+  {
+    "id": 3708,
+    "english": "Kindness knows no language.",
+    "korean": "친절에는 언어가 필요 없어요."
+  },
+  {
+    "id": 3722,
+    "english": "The skills I learn here are world class.",
+    "korean": "여기서 배우는 기술은 세계 수준이에요."
+  },
+  {
+    "id": 3735,
+    "english": "A kind word goes a long way.",
+    "korean": "친절한 말 한마디가 큰 힘이 돼요."
+  },
+  {
+    "id": 3799,
+    "english": "You are a good teacher.",
+    "korean": "좋은 스승이세요."
+  },
+  {
+    "id": 4030,
+    "english": "I learn something new every day.",
+    "korean": "매일 새로운 것을 배워요."
+  },
+  {
+    "id": 4092,
+    "english": "How long did it take you to learn that?",
+    "korean": "그거 배우는 데 얼마나 걸렸어요?"
+  },
+  {
+    "id": 4093,
+    "english": "I practiced every day.",
+    "korean": "매일 연습했어요."
+  },
+  {
+    "id": 4094,
+    "english": "Practice makes you better.",
+    "korean": "연습하면 더 나아져요."
+  },
+  {
+    "id": 4095,
+    "english": "I am still learning this skill.",
+    "korean": "이 기술을 아직 배우고 있어요."
+  },
+  {
+    "id": 4096,
+    "english": "I need more practice.",
+    "korean": "연습이 더 필요해요."
+  },
+  {
+    "id": 4173,
+    "english": "I told him to study hard first.",
+    "korean": "먼저 열심히 공부하라고 했어요."
+  },
+  {
+    "id": 4217,
+    "english": "These are lessons I will carry always.",
+    "korean": "이건 항상 간직할 교훈이에요."
+  },
+  {
+    "id": 4221,
+    "english": "I am writing my best story here.",
+    "korean": "여기서 제 최고의 이야기를 쓰고 있어요."
+  },
+  {
+    "id": 4434,
+    "english": "It just takes practice.",
+    "korean": "그냥 연습이 필요해요."
+  },
+  {
+    "id": 4504,
+    "english": "I learn from everyone here.",
+    "korean": "여기서 모두에게 배워요."
+  },
+  {
+    "id": 4588,
+    "english": "I learned to stay calm.",
+    "korean": "침착함을 배웠어요."
+  },
+  {
+    "id": 4779,
+    "english": "Actions over words.",
+    "korean": "말보다 행동이요."
+  },
+  {
+    "id": 4927,
+    "english": "The language being easy.",
+    "korean": "말이 편한 것이요."
+  },
+  {
+    "id": 4928,
+    "english": "Not having to think before speaking.",
+    "korean": "말하기 전에 생각 안 해도 되는 것이요."
+  },
+  {
+    "id": 4929,
+    "english": "Here I think before every sentence.",
+    "korean": "여기서는 모든 문장 전에 생각해요."
+  },
+  {
+    "id": 4970,
+    "english": "I learned a new word today.",
+    "korean": "오늘 새 단어를 배웠어요."
+  },
+  {
+    "id": 4971,
+    "english": "What word?",
+    "korean": "무슨 단어요?"
+  },
+  {
+    "id": 4977,
+    "english": "That is how you learn.",
+    "korean": "그게 배우는 방법이에요."
+  },
+  {
+    "id": 4984,
+    "english": "It makes me want to learn more.",
+    "korean": "더 배우고 싶어져요."
+  },
+  {
+    "id": 4987,
+    "english": "Real life practice is everything.",
+    "korean": "실생활 연습이 전부예요."
+  },
+  {
+    "id": 5209,
+    "english": "With practice it will be easy for you too.",
+    "korean": "연습하면 당신도 쉬울 거예요."
+  },
+  {
+    "id": 5211,
+    "english": "About six months of daily practice.",
+    "korean": "매일 연습 6개월 정도요."
+  },
+  {
+    "id": 5215,
+    "english": "Yes if you practice every day.",
+    "korean": "네 매일 연습하면요."
+  },
+  {
+    "id": 5226,
+    "english": "Learned from experience.",
+    "korean": "경험에서 배웠어요."
+  },
+  {
+    "id": 5227,
+    "english": "That is the best teacher.",
+    "korean": "그게 최고의 선생님이에요."
+  },
+  {
+    "id": 5229,
+    "english": "We learn by doing.",
+    "korean": "하면서 배워요."
+  },
+  {
+    "id": 5321,
+    "english": "We all need a kind word sometimes.",
+    "korean": "우리 모두 가끔 친절한 말이 필요해요."
+  },
+  {
+    "id": 5480,
+    "english": "Of course that is important.",
+    "korean": "물론이죠 그게 중요해요."
+  },
+  {
+    "id": 5507,
+    "english": "I learned something new today.",
+    "korean": "오늘 새로운 걸 배웠어요."
+  },
+  {
+    "id": 5508,
+    "english": "What did you learn?",
+    "korean": "뭘 배웠어요?"
+  },
+  {
+    "id": 5516,
+    "english": "We should learn from the experienced ones.",
+    "korean": "경험 많은 분들한테 배워야 해요."
+  },
+  {
+    "id": 5517,
+    "english": "I always try to watch and learn.",
+    "korean": "항상 보고 배우려고 해요."
+  },
+  {
+    "id": 5520,
+    "english": "Never stop learning.",
+    "korean": "항상 배우는 자세를요."
+  },
+  {
+    "id": 5532,
+    "english": "Lesson learned.",
+    "korean": "교훈 얻었어요."
+  },
+  {
+    "id": 5628,
+    "english": "Of course I am looking out for you.",
+    "korean": "물론이죠 챙기고 있어요."
+  },
+  {
+    "id": 5683,
+    "english": "Even the language a little.",
+    "korean": "언어도 조금이요."
+  },
+  {
+    "id": 5685,
+    "english": "Practice made the difference.",
+    "korean": "연습이 차이를 만들었어요."
+  },
+  {
+    "id": 5749,
+    "english": "Where did you learn that?",
+    "korean": "그거 어디서 배웠어요?"
+  },
+  {
+    "id": 5750,
+    "english": "I practiced a lot.",
+    "korean": "많이 연습했어요."
+  },
+  {
+    "id": 5752,
+    "english": "I want to learn from you.",
+    "korean": "당신한테 배우고 싶어요."
+  },
+  {
+    "id": 5801,
+    "english": "Wise words.",
+    "korean": "현명한 말이에요."
+  },
+  {
+    "id": 5813,
+    "english": "I am listening.",
+    "korean": "듣고 있어요."
+  },
+  {
+    "id": 6001,
+    "english": "I want to learn to make it.",
+    "korean": "만드는 법을 배우고 싶어요."
+  },
+  {
+    "id": 6063,
+    "english": "I have been meaning to be healthier.",
+    "korean": "건강하게 지내야겠다고 생각했어요."
+  },
+  {
+    "id": 6135,
+    "english": "Learn earn and return.",
+    "korean": "배우고 벌고 돌아가는 거요."
+  },
+  {
+    "id": 6212,
+    "english": "I studied like crazy.",
+    "korean": "죽어라 공부했어요."
+  },
+  {
+    "id": 6216,
+    "english": "I studied like crazy, so I'm exhausted.",
+    "korean": "죽어라 공부해서 피곤해 죽겠다."
+  },
+  {
+    "id": 6473,
+    "english": "Please correct my mistakes.",
+    "korean": "틀린 부분을 고쳐 주세요."
+  },
+  {
+    "id": 6474,
+    "english": "I'm preparing for the TOPIK exam.",
+    "korean": "TOPIK 시험을 준비하고 있어요."
+  },
+  {
+    "id": 6475,
+    "english": "My pronunciation is not good yet.",
+    "korean": "제 발음이 아직 좋지 않아요."
+  },
+  {
+    "id": 6476,
+    "english": "I memorize ten words a day.",
+    "korean": "하루에 단어 열 개를 외워요."
+  },
+  {
+    "id": 6477,
+    "english": "Can we practice speaking?",
+    "korean": "말하기 연습을 해도 돼요?"
+  },
+  {
+    "id": 6478,
+    "english": "I have an exam tomorrow.",
+    "korean": "내일 시험이 있어요."
+  },
+  {
+    "id": 6479,
+    "english": "I have an assignment due Friday.",
+    "korean": "금요일까지 과제를 내야 해요."
+  },
+  {
+    "id": 7344,
+    "english": "I'm studying Korean.",
+    "korean": "한국어를 공부하고 있어요."
+  },
+  {
+    "id": 7345,
+    "english": "I study Korean every day.",
+    "korean": "매일 한국어를 공부해요."
+  },
+  {
+    "id": 7346,
+    "english": "Please correct my Korean.",
+    "korean": "제 한국어를 고쳐 주세요."
+  },
+  {
+    "id": 7347,
+    "english": "Is this sentence correct?",
+    "korean": "이 문장이 맞아요?"
+  },
+  {
+    "id": 7348,
+    "english": "What does this mean?",
+    "korean": "이건 무슨 뜻이에요?"
+  },
+  {
+    "id": 7349,
+    "english": "Please pronounce it slowly.",
+    "korean": "천천히 발음해 주세요."
+  },
+  {
+    "id": 7350,
+    "english": "Please teach me Korean.",
+    "korean": "한국어를 가르쳐 주세요."
+  },
+  {
+    "id": 7351,
+    "english": "I want to learn Hangul.",
+    "korean": "한글을 배우고 싶어요."
+  },
+  {
+    "id": 7352,
+    "english": "I can read Hangul.",
+    "korean": "한글을 읽을 수 있어요."
+  },
+  {
+    "id": 7353,
+    "english": "I can't read Korean yet.",
+    "korean": "아직 한국어를 못 읽어요."
+  },
+  {
+    "id": 7354,
+    "english": "I'm preparing for the EPS-TOPIK.",
+    "korean": "EPS-TOPIK을 준비하고 있어요."
+  },
+  {
+    "id": 7355,
+    "english": "When is the EPS-TOPIK exam?",
+    "korean": "EPS-TOPIK 시험은 언제예요?"
+  },
+  {
+    "id": 7356,
+    "english": "I passed the Korean test.",
+    "korean": "한국어 시험에 합격했어요."
+  },
+  {
+    "id": 7357,
+    "english": "My Korean is improving.",
+    "korean": "한국어가 늘고 있어요."
+  },
+  {
+    "id": 7358,
+    "english": "Korean grammar is hard.",
+    "korean": "한국어 문법이 어려워요."
+  },
+  {
+    "id": 7359,
+    "english": "Korean is difficult but fun.",
+    "korean": "한국어는 어렵지만 재미있어요."
+  },
+  {
+    "id": 7360,
+    "english": "Let's talk in Korean.",
+    "korean": "한국어로 얘기해요."
+  },
+  {
+    "id": 7361,
+    "english": "I need a dictionary.",
+    "korean": "사전이 필요해요."
+  },
+  {
+    "id": 7362,
+    "english": "What is the difference between these two words?",
+    "korean": "이 두 단어는 뭐가 달라요?"
+  },
+  {
+    "id": 7363,
+    "english": "I learn new words every day.",
+    "korean": "매일 새 단어를 외워요."
+  },
+  {
+    "id": 7364,
+    "english": "I forgot the word.",
+    "korean": "단어를 잊어버렸어요."
+  },
+  {
+    "id": 7365,
+    "english": "Can you give me an example?",
+    "korean": "예를 들어 주실 수 있어요?"
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "id": 7908,
+    "english": "Safety comes first.",
+    "korean": "안전이 최우선이에요."
+  },
+  {
+    "id": 7909,
+    "english": "Safety is the most important thing.",
+    "korean": "안전이 제일 중요해요."
+  },
+  {
+    "id": 7910,
+    "english": "Please wear your safety gear.",
+    "korean": "안전 장비를 착용하세요."
+  },
+  {
+    "id": 7911,
+    "english": "Where is the safety equipment?",
+    "korean": "안전 장비가 어디 있어요?"
+  },
+  {
+    "id": 7912,
+    "english": "Is this safe?",
+    "korean": "이거 안전해요?"
+  },
+  {
+    "id": 7913,
+    "english": "It's dangerous here.",
+    "korean": "여기는 위험해요."
+  },
+  {
+    "id": 7914,
+    "english": "Keep out.",
+    "korean": "출입 금지예요."
+  },
+  {
+    "id": 7915,
+    "english": "Authorized personnel only.",
+    "korean": "관계자 외 출입 금지예요."
+  },
+  {
+    "id": 7916,
+    "english": "Do not enter.",
+    "korean": "들어가지 마세요."
+  },
+  {
+    "id": 7917,
+    "english": "Danger, high voltage.",
+    "korean": "위험, 고압 전기예요."
+  },
+  {
+    "id": 7918,
+    "english": "Be careful of the electricity.",
+    "korean": "전기 조심하세요."
+  },
+  {
+    "id": 7919,
+    "english": "Watch your head.",
+    "korean": "머리 조심하세요."
+  },
+  {
+    "id": 7920,
+    "english": "Watch your hands.",
+    "korean": "손 조심하세요."
+  },
+  {
+    "id": 7921,
+    "english": "Watch your step.",
+    "korean": "발밑 조심하세요."
+  },
+  {
+    "id": 7922,
+    "english": "The floor is slippery.",
+    "korean": "바닥이 미끄러워요."
+  },
+  {
+    "id": 7923,
+    "english": "Don't work alone.",
+    "korean": "혼자 작업하지 마세요."
+  },
+  {
+    "id": 7924,
+    "english": "Work in pairs.",
+    "korean": "둘이서 작업하세요."
+  },
+  {
+    "id": 7925,
+    "english": "Stop work immediately.",
+    "korean": "즉시 작업을 중단하세요."
+  },
+  {
+    "id": 7926,
+    "english": "I have a safety concern.",
+    "korean": "안전 문제가 있어요."
+  },
+  {
+    "id": 7927,
+    "english": "I think this job is not safe.",
+    "korean": "이 작업은 안전하지 않은 것 같아요."
+  },
+  {
+    "id": 7928,
+    "english": "Please report any accident.",
+    "korean": "사고는 꼭 보고해 주세요."
+  },
+  {
+    "id": 7929,
+    "english": "There was an accident at work.",
+    "korean": "작업 중에 사고가 났어요."
+  },
+  {
+    "id": 7930,
+    "english": "Please call the safety manager.",
+    "korean": "안전 관리자를 불러 주세요."
+  },
+  {
+    "id": 7931,
+    "english": "Who is the safety manager?",
+    "korean": "안전 관리자가 누구예요?"
+  },
+  {
+    "id": 7932,
+    "english": "Is there safety training?",
+    "korean": "안전 교육이 있어요?"
+  },
+  {
+    "id": 7933,
+    "english": "I attended the safety training.",
+    "korean": "안전 교육을 받았어요."
+  },
+  {
+    "id": 7934,
+    "english": "Please sign the safety training sheet.",
+    "korean": "안전 교육 확인서에 서명해 주세요."
+  },
+  {
+    "id": 7935,
+    "english": "Is there an eyewash station?",
+    "korean": "눈 세척 시설이 있어요?"
+  },
+  {
+    "id": 7936,
+    "english": "Something got in my eye.",
+    "korean": "눈에 뭐가 들어갔어요."
+  },
+  {
+    "id": 7937,
+    "english": "I burned my hand.",
+    "korean": "손을 데었어요."
+  },
+  {
+    "id": 7938,
+    "english": "I got an electric shock.",
+    "korean": "감전됐어요."
+  },
+  {
+    "id": 7939,
+    "english": "I fell from a height.",
+    "korean": "높은 곳에서 떨어졌어요."
+  },
+  {
+    "id": 7940,
+    "english": "My hand got caught in the machine.",
+    "korean": "기계에 손이 끼었어요."
+  },
+  {
+    "id": 7941,
+    "english": "Press the emergency stop button.",
+    "korean": "비상 정지 버튼을 누르세요."
+  },
+  {
+    "id": 7942,
+    "english": "Where is the emergency stop button?",
+    "korean": "비상 정지 버튼이 어디예요?"
+  },
+  {
+    "id": 7943,
+    "english": "Cut the power before repairs.",
+    "korean": "수리 전에 전원을 차단하세요."
+  },
+  {
+    "id": 7944,
+    "english": "Don't wear loose clothes.",
+    "korean": "헐렁한 옷을 입지 마세요."
+  },
+  {
+    "id": 7945,
+    "english": "Tie your hair back.",
+    "korean": "머리를 묶으세요."
+  },
+  {
+    "id": 7946,
+    "english": "Don't wear rings.",
+    "korean": "반지를 끼지 마세요."
+  },
+  {
+    "id": 7947,
+    "english": "Don't use your phone while working.",
+    "korean": "작업 중에 휴대폰을 쓰지 마세요."
+  },
+  {
+    "id": 7948,
+    "english": "Don't smoke near flammable materials.",
+    "korean": "인화성 물질 근처에서 담배 피우지 마세요."
+  },
+  {
+    "id": 7949,
+    "english": "Chemicals are dangerous.",
+    "korean": "화학 물질은 위험해요."
+  },
+  {
+    "id": 7950,
+    "english": "Please check the safety data sheet.",
+    "korean": "물질안전보건자료를 확인하세요."
+  },
+  {
+    "id": 7951,
+    "english": "Please wear a dust mask.",
+    "korean": "방진 마스크를 쓰세요."
+  },
+  {
+    "id": 7952,
+    "english": "It's hot, so take a break.",
+    "korean": "더우니까 쉬세요."
+  },
+  {
+    "id": 7953,
+    "english": "Drink water when it's hot.",
+    "korean": "더울 때는 물을 마셔요."
+  },
+  {
+    "id": 7954,
+    "english": "Check the equipment before use.",
+    "korean": "사용 전에 장비를 점검하세요."
+  },
+  {
+    "id": 7955,
+    "english": "Keep the aisle clear.",
+    "korean": "통로를 비워 두세요."
+  },
+  {
+    "id": 7956,
+    "english": "Report any hazard.",
+    "korean": "위험 요소는 보고해 주세요."
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "id": 7467,
+    "english": "I'd like to see a doctor.",
+    "korean": "진료를 받고 싶어요."
+  },
+  {
+    "id": 7468,
+    "english": "I'd like to make an appointment.",
+    "korean": "예약하고 싶어요."
+  },
+  {
+    "id": 7469,
+    "english": "Do I need an appointment?",
+    "korean": "예약해야 해요?"
+  },
+  {
+    "id": 7470,
+    "english": "This is my first visit.",
+    "korean": "처음 왔어요."
+  },
+  {
+    "id": 7471,
+    "english": "Please fill out this registration form.",
+    "korean": "이 접수 서류를 작성해 주세요."
+  },
+  {
+    "id": 7472,
+    "english": "Here is my health insurance card.",
+    "korean": "건강보험증 여기 있어요."
+  },
+  {
+    "id": 7473,
+    "english": "I don't have insurance.",
+    "korean": "보험이 없어요."
+  },
+  {
+    "id": 7474,
+    "english": "How much is the consultation fee?",
+    "korean": "진료비가 얼마예요?"
+  },
+  {
+    "id": 7475,
+    "english": "Which department should I go to?",
+    "korean": "어느 과로 가야 해요?"
+  },
+  {
+    "id": 7476,
+    "english": "I'd like to see an internist.",
+    "korean": "내과 진료를 받고 싶어요."
+  },
+  {
+    "id": 7477,
+    "english": "I need to see an orthopedic doctor.",
+    "korean": "정형외과에 가야 해요."
+  },
+  {
+    "id": 7478,
+    "english": "I need to see a dentist.",
+    "korean": "치과에 가야 해요."
+  },
+  {
+    "id": 7479,
+    "english": "I need to see an ear, nose, and throat doctor.",
+    "korean": "이비인후과에 가야 해요."
+  },
+  {
+    "id": 7480,
+    "english": "I need to see a skin doctor.",
+    "korean": "피부과에 가야 해요."
+  },
+  {
+    "id": 7481,
+    "english": "I need to see an eye doctor.",
+    "korean": "안과에 가야 해요."
+  },
+  {
+    "id": 7482,
+    "english": "Where is the emergency room?",
+    "korean": "응급실이 어디예요?"
+  },
+  {
+    "id": 7483,
+    "english": "How long is the wait?",
+    "korean": "얼마나 기다려야 해요?"
+  },
+  {
+    "id": 7484,
+    "english": "Since when have you been sick?",
+    "korean": "언제부터 아팠어요?"
+  },
+  {
+    "id": 7485,
+    "english": "I've been sick since yesterday.",
+    "korean": "어제부터 아팠어요."
+  },
+  {
+    "id": 7486,
+    "english": "It hurts when I move.",
+    "korean": "움직이면 아파요."
+  },
+  {
+    "id": 7487,
+    "english": "It hurts when I swallow.",
+    "korean": "삼킬 때 아파요."
+  },
+  {
+    "id": 7488,
+    "english": "I need to have an X-ray.",
+    "korean": "엑스레이를 찍어야 해요."
+  },
+  {
+    "id": 7489,
+    "english": "Do I need surgery?",
+    "korean": "수술이 필요해요?"
+  },
+  {
+    "id": 7490,
+    "english": "I need a blood test.",
+    "korean": "피검사를 받아야 해요."
+  },
+  {
+    "id": 7491,
+    "english": "When will the results come out?",
+    "korean": "결과는 언제 나와요?"
+  },
+  {
+    "id": 7492,
+    "english": "Please give me a prescription.",
+    "korean": "처방전 주세요."
+  },
+  {
+    "id": 7493,
+    "english": "Where can I fill this prescription?",
+    "korean": "이 처방전으로 약을 어디서 받아요?"
+  },
+  {
+    "id": 7494,
+    "english": "Please issue a medical certificate.",
+    "korean": "진단서 발급해 주세요."
+  },
+  {
+    "id": 7495,
+    "english": "Do I need to be hospitalized?",
+    "korean": "입원해야 해요?"
+  },
+  {
+    "id": 7496,
+    "english": "I need an injection.",
+    "korean": "주사를 맞아야 해요."
+  },
+  {
+    "id": 7497,
+    "english": "I'm afraid of needles.",
+    "korean": "주사가 무서워요."
+  },
+  {
+    "id": 7498,
+    "english": "Take this medicine after meals.",
+    "korean": "이 약은 식후에 드세요."
+  },
+  {
+    "id": 7499,
+    "english": "Do you have painkillers?",
+    "korean": "진통제 있어요?"
+  },
+  {
+    "id": 7500,
+    "english": "Do you have something for indigestion?",
+    "korean": "소화제 있어요?"
+  },
+  {
+    "id": 7501,
+    "english": "Do you have eye drops?",
+    "korean": "안약 있어요?"
+  },
+  {
+    "id": 7502,
+    "english": "Do you have a thermometer?",
+    "korean": "체온계 있어요?"
+  },
+  {
+    "id": 7503,
+    "english": "I have a dental problem.",
+    "korean": "치아에 문제가 있어요."
+  },
+  {
+    "id": 7504,
+    "english": "My tooth is chipped.",
+    "korean": "이가 깨졌어요."
+  },
+  {
+    "id": 7505,
+    "english": "I'd like a dental cleaning.",
+    "korean": "스케일링을 받고 싶어요."
+  },
+  {
+    "id": 7506,
+    "english": "I'm allergic to penicillin.",
+    "korean": "페니실린 알레르기가 있어요."
+  },
+  {
+    "id": 7507,
+    "english": "I'm taking this medicine.",
+    "korean": "이 약을 먹고 있어요."
+  },
+  {
+    "id": 7508,
+    "english": "Is it serious?",
+    "korean": "심각해요?"
+  },
+  {
+    "id": 7509,
+    "english": "Will I get better soon?",
+    "korean": "곧 나을까요?"
+  },
+  {
+    "id": 7510,
+    "english": "Do I need to come again?",
+    "korean": "다시 와야 해요?"
+  },
+  {
+    "id": 7511,
+    "english": "Where is the payment desk?",
+    "korean": "수납 창구가 어디예요?"
+  },
+  {
+    "id": 7512,
+    "english": "Please give me a receipt for insurance.",
+    "korean": "보험 청구용 영수증을 주세요."
+  },
+  {
+    "id": 7513,
+    "english": "Is this covered by insurance?",
+    "korean": "이건 보험이 돼요?"
+  },
+  {
+    "id": 7514,
+    "english": "I was injured at work.",
+    "korean": "일하다 다쳤어요."
+  },
+  {
+    "id": 7515,
+    "english": "I'd like to handle this through industrial accident insurance.",
+    "korean": "산재 보험으로 처리하고 싶어요."
+  }
+]

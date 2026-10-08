@@ -1,0 +1,232 @@
+[
+  {
+    "id": 7586,
+    "english": "I'm looking for a room.",
+    "korean": "방을 찾고 있어요."
+  },
+  {
+    "id": 7587,
+    "english": "Do you have rooms for monthly rent?",
+    "korean": "월세 방 있어요?"
+  },
+  {
+    "id": 7588,
+    "english": "How much is the rent?",
+    "korean": "월세가 얼마예요?"
+  },
+  {
+    "id": 7589,
+    "english": "How much is the deposit?",
+    "korean": "보증금이 얼마예요?"
+  },
+  {
+    "id": 7590,
+    "english": "Are utilities included?",
+    "korean": "관리비 포함이에요?"
+  },
+  {
+    "id": 7591,
+    "english": "How much is the maintenance fee?",
+    "korean": "관리비가 얼마예요?"
+  },
+  {
+    "id": 7592,
+    "english": "Is the internet included?",
+    "korean": "인터넷 포함이에요?"
+  },
+  {
+    "id": 7593,
+    "english": "Is it furnished?",
+    "korean": "가구가 있어요?"
+  },
+  {
+    "id": 7594,
+    "english": "Does it have a washing machine?",
+    "korean": "세탁기 있어요?"
+  },
+  {
+    "id": 7595,
+    "english": "Does it have heating?",
+    "korean": "난방 돼요?"
+  },
+  {
+    "id": 7596,
+    "english": "Does it have air conditioning?",
+    "korean": "에어컨 있어요?"
+  },
+  {
+    "id": 7597,
+    "english": "Can I see the room?",
+    "korean": "방을 볼 수 있어요?"
+  },
+  {
+    "id": 7598,
+    "english": "How big is the room?",
+    "korean": "방이 얼마나 커요?"
+  },
+  {
+    "id": 7599,
+    "english": "Which floor is it on?",
+    "korean": "몇 층이에요?"
+  },
+  {
+    "id": 7600,
+    "english": "Is there an elevator?",
+    "korean": "엘리베이터 있어요?"
+  },
+  {
+    "id": 7601,
+    "english": "How far is the nearest station?",
+    "korean": "가장 가까운 역까지 얼마나 걸려요?"
+  },
+  {
+    "id": 7602,
+    "english": "Is it safe at night?",
+    "korean": "밤에 안전해요?"
+  },
+  {
+    "id": 7603,
+    "english": "Is it a quiet neighborhood?",
+    "korean": "조용한 동네예요?"
+  },
+  {
+    "id": 7604,
+    "english": "Can two people live here?",
+    "korean": "두 명이 살 수 있어요?"
+  },
+  {
+    "id": 7605,
+    "english": "How long is the contract period?",
+    "korean": "계약 기간이 얼마예요?"
+  },
+  {
+    "id": 7606,
+    "english": "Please explain the contract.",
+    "korean": "계약서를 설명해 주세요."
+  },
+  {
+    "id": 7607,
+    "english": "I'd like to sign the contract.",
+    "korean": "계약하고 싶어요."
+  },
+  {
+    "id": 7608,
+    "english": "When can I move in?",
+    "korean": "언제 입주할 수 있어요?"
+  },
+  {
+    "id": 7609,
+    "english": "I'd like to move out next month.",
+    "korean": "다음 달에 이사 나가고 싶어요."
+  },
+  {
+    "id": 7610,
+    "english": "When do I get my deposit back?",
+    "korean": "보증금은 언제 돌려받아요?"
+  },
+  {
+    "id": 7611,
+    "english": "When is the rent due?",
+    "korean": "월세는 언제까지 내요?"
+  },
+  {
+    "id": 7612,
+    "english": "I'll pay the rent by bank transfer.",
+    "korean": "월세는 계좌 이체로 낼게요."
+  },
+  {
+    "id": 7613,
+    "english": "The faucet is leaking.",
+    "korean": "수도꼭지에서 물이 새요."
+  },
+  {
+    "id": 7614,
+    "english": "The ceiling is leaking.",
+    "korean": "천장에서 물이 새요."
+  },
+  {
+    "id": 7615,
+    "english": "The boiler is broken.",
+    "korean": "보일러가 고장 났어요."
+  },
+  {
+    "id": 7616,
+    "english": "The door lock is broken.",
+    "korean": "도어락이 고장 났어요."
+  },
+  {
+    "id": 7617,
+    "english": "There is mold on the wall.",
+    "korean": "벽에 곰팡이가 폈어요."
+  },
+  {
+    "id": 7618,
+    "english": "There are cockroaches.",
+    "korean": "바퀴벌레가 있어요."
+  },
+  {
+    "id": 7619,
+    "english": "The neighbor is too noisy.",
+    "korean": "이웃이 너무 시끄러워요."
+  },
+  {
+    "id": 7620,
+    "english": "Please repair it.",
+    "korean": "수리해 주세요."
+  },
+  {
+    "id": 7621,
+    "english": "When can you fix it?",
+    "korean": "언제 고쳐 주실 수 있어요?"
+  },
+  {
+    "id": 7622,
+    "english": "Where is the dormitory?",
+    "korean": "기숙사가 어디예요?"
+  },
+  {
+    "id": 7623,
+    "english": "What is my room number?",
+    "korean": "제 방 번호가 몇 호예요?"
+  },
+  {
+    "id": 7624,
+    "english": "Who is my roommate?",
+    "korean": "룸메이트가 누구예요?"
+  },
+  {
+    "id": 7625,
+    "english": "What are the dormitory rules?",
+    "korean": "기숙사 규칙이 뭐예요?"
+  },
+  {
+    "id": 7626,
+    "english": "What time is the curfew?",
+    "korean": "통금 시간이 몇 시예요?"
+  },
+  {
+    "id": 7627,
+    "english": "Can I have a guest over?",
+    "korean": "손님 불러도 돼요?"
+  },
+  {
+    "id": 7628,
+    "english": "Where is the shared kitchen?",
+    "korean": "공용 주방이 어디예요?"
+  },
+  {
+    "id": 7629,
+    "english": "Where is the laundry room?",
+    "korean": "세탁실이 어디예요?"
+  },
+  {
+    "id": 7630,
+    "english": "Please give me the key.",
+    "korean": "열쇠 주세요."
+  },
+  {
+    "id": 7631,
+    "english": "I lost my key card.",
+    "korean": "카드 키를 잃어버렸어요."
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": 134,
+    "english": "You are a good person.",
+    "korean": "당신은 좋은 사람이에요."
+  },
+  {
+    "id": 204,
+    "english": "You are so funny.",
+    "korean": "당신은 정말 재밌어요."
+  },
+  {
+    "id": 207,
+    "english": "You are so talented.",
+    "korean": "당신은 정말 소질 있으세요."
+  },
+  {
+    "id": 255,
+    "english": "You're going too fast.",
+    "korean": "당신 너무 빨리 가고 있어요."
+  },
+  {
+    "id": 282,
+    "english": "You're so smart.",
+    "korean": "정말 똑똑하시네요."
+  },
+  {
+    "id": 360,
+    "english": "You are so kind.",
+    "korean": "당신은 정말 친절하시네요."
+  },
+  {
+    "id": 1232,
+    "english": "You look great today.",
+    "korean": "오늘 멋있어 보여요."
+  },
+  {
+    "id": 1337,
+    "english": "You did great.",
+    "korean": "정말 잘했어요."
+  },
+  {
+    "id": 1567,
+    "english": "You are very skilled.",
+    "korean": "정말 능숙하시네요."
+  },
+  {
+    "id": 1571,
+    "english": "You have a great attitude.",
+    "korean": "태도가 정말 훌륭해요."
+  },
+  {
+    "id": 1573,
+    "english": "You are always so helpful.",
+    "korean": "항상 도움이 되네요."
+  },
+  {
+    "id": 1992,
+    "english": "You have been so helpful to me.",
+    "korean": "정말 많이 도와주셨어요."
+  },
+  {
+    "id": 3149,
+    "english": "You are such a good listener.",
+    "korean": "정말 잘 들어주네요."
+  },
+  {
+    "id": 3997,
+    "english": "You are doing great.",
+    "korean": "잘 하고 있어요."
+  },
+  {
+    "id": 4003,
+    "english": "You are a fast learner.",
+    "korean": "정말 빨리 배우네요."
+  },
+  {
+    "id": 5315,
+    "english": "You did really well today.",
+    "korean": "오늘 정말 잘 했어요."
+  },
+  {
+    "id": 5583,
+    "english": "You are always so helpful.",
+    "korean": "항상 친절하게 도와줘요."
+  },
+  {
+    "id": 5765,
+    "english": "Your modesty is nice.",
+    "korean": "겸손하네요."
+  },
+  {
+    "id": 6146,
+    "english": "You look pretty.",
+    "korean": "예뻐 보이는데요."
+  },
+  {
+    "id": 6150,
+    "english": "You look absolutely dazzling today.",
+    "korean": "오늘 정말 눈부셔요."
+  },
+  {
+    "id": 6180,
+    "english": "Wow, you're really amazing.",
+    "korean": "아 진짜 굉장히 대단하시네요."
+  },
+  {
+    "id": 6181,
+    "english": "That person is really amazing.",
+    "korean": "저 사람은 정말 대단해요."
+  },
+  {
+    "id": 6182,
+    "english": "You are like an angel.",
+    "korean": "정말 천사 같으세요."
+  },
+  {
+    "id": 6183,
+    "english": "You are beautiful.",
+    "korean": "정말 예쁘세요."
+  },
+  {
+    "id": 6184,
+    "english": "You are the best.",
+    "korean": "정말 짱이세요."
+  },
+  {
+    "id": 6185,
+    "english": "You're really skilled.",
+    "korean": "진짜 금손이세요."
+  },
+  {
+    "id": 6196,
+    "english": "Oh, that's cute.",
+    "korean": "귀엽네."
+  },
+  {
+    "id": 6211,
+    "english": "You're doing really well.",
+    "korean": "야무지게 잘하네."
+  },
+  {
+    "id": 6296,
+    "english": "You have good sense.",
+    "korean": "센스가 있으시네요."
+  },
+  {
+    "id": 6511,
+    "english": "You speak Korean well.",
+    "korean": "한국어 잘하시네요."
+  },
+  {
+    "id": 6512,
+    "english": "You work really hard.",
+    "korean": "정말 열심히 하시네요."
+  },
+  {
+    "id": 6513,
+    "english": "That looks good on you.",
+    "korean": "잘 어울려요."
+  },
+  {
+    "id": 6514,
+    "english": "Your handwriting is neat.",
+    "korean": "글씨가 예뻐요."
+  },
+  {
+    "id": 7218,
+    "english": "You look nice today.",
+    "korean": "오늘 멋져 보여요."
+  },
+  {
+    "id": 7219,
+    "english": "You are very kind.",
+    "korean": "정말 친절하세요."
+  },
+  {
+    "id": 7220,
+    "english": "Your Korean is great.",
+    "korean": "한국어 실력이 대단해요."
+  },
+  {
+    "id": 7221,
+    "english": "You are very smart.",
+    "korean": "정말 똑똑해요."
+  },
+  {
+    "id": 7222,
+    "english": "You are such a big help.",
+    "korean": "정말 도움이 돼요."
+  },
+  {
+    "id": 7223,
+    "english": "You cook well.",
+    "korean": "요리를 잘하시네요."
+  },
+  {
+    "id": 7224,
+    "english": "You work hard.",
+    "korean": "열심히 일하시네요."
+  },
+  {
+    "id": 7225,
+    "english": "You are very diligent.",
+    "korean": "정말 성실하세요."
+  },
+  {
+    "id": 7226,
+    "english": "I'm impressed.",
+    "korean": "감명받았어요."
+  },
+  {
+    "id": 7227,
+    "english": "That color suits you.",
+    "korean": "그 색이 잘 어울려요."
+  },
+  {
+    "id": 7228,
+    "english": "Your house is lovely.",
+    "korean": "집이 정말 좋아요."
+  },
+  {
+    "id": 7229,
+    "english": "Your children are adorable.",
+    "korean": "아이들이 정말 귀여워요."
+  },
+  {
+    "id": 7230,
+    "english": "You have a nice smile.",
+    "korean": "웃는 모습이 예뻐요."
+  },
+  {
+    "id": 7231,
+    "english": "You are a great teacher.",
+    "korean": "훌륭한 선생님이세요."
+  },
+  {
+    "id": 7232,
+    "english": "Thank you for always being kind.",
+    "korean": "늘 친절하게 해 주셔서 감사해요."
+  }
+]

@@ -1,0 +1,567 @@
+[
+  {
+    "id": 183,
+    "english": "I lost my passport.",
+    "korean": "여권을 잃어버렸어요."
+  },
+  {
+    "id": 573,
+    "english": "I need to visit the bank later.",
+    "korean": "은행에 가야 해요."
+  },
+  {
+    "id": 633,
+    "english": "I lost my passport.",
+    "korean": "여권을 잃어버렸어요."
+  },
+  {
+    "id": 677,
+    "english": "Please sign here.",
+    "korean": "여기 서명해 주세요."
+  },
+  {
+    "id": 678,
+    "english": "Where do I submit this?",
+    "korean": "이거 어디에 제출해요?"
+  },
+  {
+    "id": 778,
+    "english": "Can I get a tax refund?",
+    "korean": "세금 환급 받을 수 있나요?"
+  },
+  {
+    "id": 849,
+    "english": "I have health insurance.",
+    "korean": "건강 보험이 있어요."
+  },
+  {
+    "id": 861,
+    "english": "Can I get a medical certificate?",
+    "korean": "진단서 받을 수 있어요?"
+  },
+  {
+    "id": 866,
+    "english": "I want to open a bank account.",
+    "korean": "통장을 만들고 싶어요."
+  },
+  {
+    "id": 867,
+    "english": "Where is the nearest ATM?",
+    "korean": "가장 가까운 ATM이 어디예요?"
+  },
+  {
+    "id": 868,
+    "english": "I want to withdraw money.",
+    "korean": "돈을 인출하고 싶어요."
+  },
+  {
+    "id": 869,
+    "english": "I want to deposit money.",
+    "korean": "입금하고 싶어요."
+  },
+  {
+    "id": 874,
+    "english": "How do I send money overseas?",
+    "korean": "해외 송금은 어떻게 해요?"
+  },
+  {
+    "id": 975,
+    "english": "Call the police.",
+    "korean": "경찰을 불러 주세요."
+  },
+  {
+    "id": 985,
+    "english": "I need to contact my embassy.",
+    "korean": "대사관에 연락해야 해요."
+  },
+  {
+    "id": 991,
+    "english": "I need a police report.",
+    "korean": "경찰 신고서가 필요해요."
+  },
+  {
+    "id": 1018,
+    "english": "Where is the post office?",
+    "korean": "우체국이 어디예요?"
+  },
+  {
+    "id": 1027,
+    "english": "I need to sign for this.",
+    "korean": "서명해야 하나요."
+  },
+  {
+    "id": 1075,
+    "english": "My contract is for 3 years.",
+    "korean": "계약 기간이 3년이에요."
+  },
+  {
+    "id": 1183,
+    "english": "Do you print documents here?",
+    "korean": "여기서 서류 출력할 수 있어요?"
+  },
+  {
+    "id": 1185,
+    "english": "Do you have an ATM here?",
+    "korean": "여기 ATM 있어요?"
+  },
+  {
+    "id": 1203,
+    "english": "I send money home every month.",
+    "korean": "매달 고국에 돈을 보내요."
+  },
+  {
+    "id": 1220,
+    "english": "Please fill out this form.",
+    "korean": "이 양식을 작성해 주세요."
+  },
+  {
+    "id": 1268,
+    "english": "I need an alien registration card.",
+    "korean": "외국인 등록증이 필요해요."
+  },
+  {
+    "id": 1269,
+    "english": "Where is the immigration office?",
+    "korean": "출입국 관리 사무소가 어디예요?"
+  },
+  {
+    "id": 1270,
+    "english": "My visa expires next month.",
+    "korean": "비자가 다음달에 만료돼요."
+  },
+  {
+    "id": 1271,
+    "english": "I need to extend my visa.",
+    "korean": "비자를 연장해야 해요."
+  },
+  {
+    "id": 1272,
+    "english": "I am here on a work visa.",
+    "korean": "취업 비자로 왔어요."
+  },
+  {
+    "id": 1273,
+    "english": "I am an EPS worker.",
+    "korean": "EPS로 왔어요."
+  },
+  {
+    "id": 1276,
+    "english": "I need a health checkup for my visa.",
+    "korean": "비자를 위해 건강 검진이 필요해요."
+  },
+  {
+    "id": 1281,
+    "english": "This document is in Korean only.",
+    "korean": "이 서류가 한국어로만 되어있어요."
+  },
+  {
+    "id": 1321,
+    "english": "I need to scan this document.",
+    "korean": "이 서류를 스캔해야 해요."
+  },
+  {
+    "id": 1389,
+    "english": "I need to apply for a bank account.",
+    "korean": "통장 개설 신청을 해야 해요."
+  },
+  {
+    "id": 1390,
+    "english": "What documents do I need?",
+    "korean": "어떤 서류가 필요해요?"
+  },
+  {
+    "id": 1398,
+    "english": "Is there a transfer limit?",
+    "korean": "이체 한도가 있어요?"
+  },
+  {
+    "id": 1399,
+    "english": "The ATM ate my card.",
+    "korean": "ATM이 카드를 삼켰어요."
+  },
+  {
+    "id": 1401,
+    "english": "What is the bank working hours?",
+    "korean": "은행 영업시간이 어떻게 돼요?"
+  },
+  {
+    "id": 1459,
+    "english": "It is just a way of showing interest.",
+    "korean": "관심 표현의 방법이에요."
+  },
+  {
+    "id": 1493,
+    "english": "Is there a deposit required?",
+    "korean": "보증금이 필요해요?"
+  },
+  {
+    "id": 1532,
+    "english": "Only two more months left on my contract.",
+    "korean": "계약이 두 달 남았어요."
+  },
+  {
+    "id": 1537,
+    "english": "My contract ends in December.",
+    "korean": "계약이 12월에 끝나요."
+  },
+  {
+    "id": 1538,
+    "english": "I want to get a Korean language certificate.",
+    "korean": "한국어 능력 시험을 보고 싶어요."
+  },
+  {
+    "id": 1854,
+    "english": "What is the interest rate?",
+    "korean": "이자율이 어떻게 돼요?"
+  },
+  {
+    "id": 1855,
+    "english": "I send money home every two weeks.",
+    "korean": "2주마다 집에 돈을 보내요."
+  },
+  {
+    "id": 1856,
+    "english": "How much does it cost to send money overseas?",
+    "korean": "해외 송금 수수료가 얼마예요?"
+  },
+  {
+    "id": 1880,
+    "english": "I forgot to save the document.",
+    "korean": "서류를 저장하는 것을 깜박했어요."
+  },
+  {
+    "id": 1961,
+    "english": "I need a customs form.",
+    "korean": "세관 신고서가 필요해요."
+  },
+  {
+    "id": 2143,
+    "english": "Is this covered by health insurance?",
+    "korean": "이게 건강 보험으로 되나요?"
+  },
+  {
+    "id": 2202,
+    "english": "I need a new power bank.",
+    "korean": "새 보조 배터리가 필요해요."
+  },
+  {
+    "id": 2318,
+    "english": "Can we extend the shift today?",
+    "korean": "오늘 교대 시간을 연장할 수 있어요?"
+  },
+  {
+    "id": 2387,
+    "english": "What is the daily ATM withdrawal limit?",
+    "korean": "ATM 하루 인출 한도가 얼마예요?"
+  },
+  {
+    "id": 2388,
+    "english": "How do I set up direct deposit?",
+    "korean": "자동 입금은 어떻게 설정해요?"
+  },
+  {
+    "id": 2392,
+    "english": "Can I get a certificate of balance?",
+    "korean": "잔액 증명서를 받을 수 있어요?"
+  },
+  {
+    "id": 2395,
+    "english": "What is the best way to send money to Nepal?",
+    "korean": "네팔로 돈을 보내는 가장 좋은 방법이 뭐예요?"
+  },
+  {
+    "id": 2396,
+    "english": "I use Western Union to send money home.",
+    "korean": "웨스턴 유니온으로 집에 돈을 보내요."
+  },
+  {
+    "id": 2406,
+    "english": "I need my bank account number.",
+    "korean": "계좌번호가 필요해요."
+  },
+  {
+    "id": 2422,
+    "english": "Can I get a medical leave certificate?",
+    "korean": "병가 진단서를 받을 수 있어요?"
+  },
+  {
+    "id": 2464,
+    "english": "The official language of Nepal is Nepali.",
+    "korean": "네팔의 공식 언어는 네팔어예요."
+  },
+  {
+    "id": 2520,
+    "english": "I need to get this document notarized.",
+    "korean": "이 서류를 공증받아야 해요."
+  },
+  {
+    "id": 2521,
+    "english": "Where can I get a passport photo taken?",
+    "korean": "여권 사진 어디서 찍을 수 있어요?"
+  },
+  {
+    "id": 2522,
+    "english": "I need to renew my passport.",
+    "korean": "여권을 갱신해야 해요."
+  },
+  {
+    "id": 2523,
+    "english": "My passport is expiring soon.",
+    "korean": "여권이 곧 만료돼요."
+  },
+  {
+    "id": 2524,
+    "english": "I need to contact the Nepali consulate.",
+    "korean": "네팔 영사관에 연락해야 해요."
+  },
+  {
+    "id": 2525,
+    "english": "Where is the nearest embassy?",
+    "korean": "가장 가까운 대사관이 어디예요?"
+  },
+  {
+    "id": 3188,
+    "english": "I need to renew my gym membership.",
+    "korean": "헬스장 회원권을 갱신해야 해요."
+  },
+  {
+    "id": 3430,
+    "english": "Submit a deviation report.",
+    "korean": "일탈 보고서를 제출하세요."
+  },
+  {
+    "id": 3445,
+    "english": "The certification documents are ready.",
+    "korean": "인증 서류가 준비됐어요."
+  },
+  {
+    "id": 3532,
+    "english": "Confined space entry requires a permit.",
+    "korean": "밀폐 공간 진입 시 허가가 필요해요."
+  },
+  {
+    "id": 3536,
+    "english": "The hot work permit has been issued.",
+    "korean": "화기 작업 허가서가 발급됐어요."
+  },
+  {
+    "id": 4044,
+    "english": "I need to stop at the ATM.",
+    "korean": "ATM에 들러야 해요."
+  },
+  {
+    "id": 4532,
+    "english": "I will send money home this weekend.",
+    "korean": "이번 주말에 집에 돈을 보낼 거예요."
+  },
+  {
+    "id": 4577,
+    "english": "Do you plan to come back after your contract?",
+    "korean": "계약 후에 다시 올 계획이에요?"
+  },
+  {
+    "id": 4858,
+    "english": "First thing I did was send money home.",
+    "korean": "제일 먼저 집에 돈 보냈어요."
+  },
+  {
+    "id": 4994,
+    "english": "Sign out before leaving.",
+    "korean": "나가기 전에 체크아웃해요."
+  },
+  {
+    "id": 5084,
+    "english": "What does that sign say?",
+    "korean": "저 표지판이 뭐라고 쓰여있어요?"
+  },
+  {
+    "id": 5124,
+    "english": "The one with the blue sign.",
+    "korean": "파란 간판 있는 데요."
+  },
+  {
+    "id": 6122,
+    "english": "Sign the log before leaving.",
+    "korean": "나가기 전에 기록에 서명해요."
+  },
+  {
+    "id": 6123,
+    "english": "Did you sign out?",
+    "korean": "퇴근 체크했어요?"
+  },
+  {
+    "id": 6469,
+    "english": "I want to open a bank account.",
+    "korean": "은행 계좌를 만들고 싶어요."
+  },
+  {
+    "id": 6470,
+    "english": "Where do I submit this form?",
+    "korean": "이 서류를 어디에 제출해요?"
+  },
+  {
+    "id": 6471,
+    "english": "I want to send money to Nepal.",
+    "korean": "네팔로 송금하고 싶어요."
+  },
+  {
+    "id": 6472,
+    "english": "Please sign here.",
+    "korean": "여기에 서명해 주세요."
+  },
+  {
+    "id": 7128,
+    "english": "I need my bankbook.",
+    "korean": "통장이 필요해요."
+  },
+  {
+    "id": 7129,
+    "english": "I lost my bank card.",
+    "korean": "체크카드를 잃어버렸어요."
+  },
+  {
+    "id": 7130,
+    "english": "Please block my card.",
+    "korean": "카드를 정지해 주세요."
+  },
+  {
+    "id": 7131,
+    "english": "I'd like to get my card reissued.",
+    "korean": "카드를 재발급받고 싶어요."
+  },
+  {
+    "id": 7132,
+    "english": "I forgot my PIN.",
+    "korean": "비밀번호를 잊어버렸어요."
+  },
+  {
+    "id": 7133,
+    "english": "Please change my PIN.",
+    "korean": "비밀번호를 바꿔 주세요."
+  },
+  {
+    "id": 7134,
+    "english": "What is my balance?",
+    "korean": "잔액이 얼마예요?"
+  },
+  {
+    "id": 7135,
+    "english": "Please transfer money to this account.",
+    "korean": "이 계좌로 송금해 주세요."
+  },
+  {
+    "id": 7136,
+    "english": "What is the remittance fee?",
+    "korean": "송금 수수료가 얼마예요?"
+  },
+  {
+    "id": 7137,
+    "english": "What is today's exchange rate?",
+    "korean": "오늘 환율이 얼마예요?"
+  },
+  {
+    "id": 7138,
+    "english": "I want to exchange money.",
+    "korean": "환전하고 싶어요."
+  },
+  {
+    "id": 7139,
+    "english": "Where can I send money to Nepal?",
+    "korean": "네팔로 어디서 송금할 수 있어요?"
+  },
+  {
+    "id": 7140,
+    "english": "Please take a number ticket.",
+    "korean": "번호표를 뽑으세요."
+  },
+  {
+    "id": 7141,
+    "english": "I need a certificate of employment.",
+    "korean": "재직증명서가 필요해요."
+  },
+  {
+    "id": 7142,
+    "english": "I need a copy of my passport.",
+    "korean": "여권 사본이 필요해요."
+  },
+  {
+    "id": 7143,
+    "english": "Please bring your passport and alien registration card.",
+    "korean": "여권과 외국인등록증을 가져오세요."
+  },
+  {
+    "id": 7144,
+    "english": "I need to make an appointment at the immigration office.",
+    "korean": "출입국사무소 방문 예약을 해야 해요."
+  },
+  {
+    "id": 7145,
+    "english": "How long does it take to process?",
+    "korean": "처리하는 데 얼마나 걸려요?"
+  },
+  {
+    "id": 7146,
+    "english": "What is the fee?",
+    "korean": "수수료가 얼마예요?"
+  },
+  {
+    "id": 7147,
+    "english": "Where do I pay the fee?",
+    "korean": "수수료는 어디서 내요?"
+  },
+  {
+    "id": 7148,
+    "english": "When will it be ready?",
+    "korean": "언제 나와요?"
+  },
+  {
+    "id": 7149,
+    "english": "Can I pick it up later?",
+    "korean": "나중에 찾으러 와도 돼요?"
+  },
+  {
+    "id": 7150,
+    "english": "I'd like to change my workplace.",
+    "korean": "사업장을 변경하고 싶어요."
+  },
+  {
+    "id": 7151,
+    "english": "I'm here to extend my stay.",
+    "korean": "체류 기간을 연장하러 왔어요."
+  },
+  {
+    "id": 7152,
+    "english": "My alien registration card is about to expire.",
+    "korean": "외국인등록증이 곧 만료돼요."
+  },
+  {
+    "id": 7153,
+    "english": "Is this form correct?",
+    "korean": "이 서식이 맞아요?"
+  },
+  {
+    "id": 7154,
+    "english": "Please correct this.",
+    "korean": "이걸 수정해 주세요."
+  },
+  {
+    "id": 7155,
+    "english": "Can I sign instead of using a seal?",
+    "korean": "도장 대신 서명해도 돼요?"
+  },
+  {
+    "id": 7156,
+    "english": "May I have a copy?",
+    "korean": "사본을 주세요."
+  },
+  {
+    "id": 7157,
+    "english": "You can call the Immigration Contact Center at 1345.",
+    "korean": "출입국 외국인 종합안내센터 1345에 전화하세요."
+  },
+  {
+    "id": 7158,
+    "english": "I want to apply for my pension refund.",
+    "korean": "국민연금 환급을 신청하고 싶어요."
+  }
+]

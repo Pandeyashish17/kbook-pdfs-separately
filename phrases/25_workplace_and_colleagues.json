@@ -1,0 +1,1387 @@
+[
+  {
+    "id": 147,
+    "english": "I need to prepare for tomorrow's meeting.",
+    "korean": "내일 회의 준비를 해야 돼요."
+  },
+  {
+    "id": 167,
+    "english": "I will work hard.",
+    "korean": "나는 열심히 할 거예요."
+  },
+  {
+    "id": 256,
+    "english": "We can work it out.",
+    "korean": "잘 해결할 수 있어요."
+  },
+  {
+    "id": 321,
+    "english": "What is the deadline?",
+    "korean": "마감일이 어떻게 되나요?"
+  },
+  {
+    "id": 322,
+    "english": "What is your job?",
+    "korean": "당신의 직업은 무엇입니까?"
+  },
+  {
+    "id": 456,
+    "english": "Are you busy at work?",
+    "korean": "직장에서 바쁘세요?"
+  },
+  {
+    "id": 468,
+    "english": "I'm going to work.",
+    "korean": "저는 일하러 갈게요."
+  },
+  {
+    "id": 568,
+    "english": "I'm meeting someone later.",
+    "korean": "나중에 누군가를 만나요."
+  },
+  {
+    "id": 627,
+    "english": "I need to prepare for the meeting tomorrow.",
+    "korean": "내일 회의 준비를 해야 돼요."
+  },
+  {
+    "id": 661,
+    "english": "I have a meeting.",
+    "korean": "회의가 있어요."
+  },
+  {
+    "id": 662,
+    "english": "The meeting is at 10 AM.",
+    "korean": "회의가 오전 10시예요."
+  },
+  {
+    "id": 669,
+    "english": "I finished the work.",
+    "korean": "일 다 끝냈어요."
+  },
+  {
+    "id": 670,
+    "english": "I have a lot of work today.",
+    "korean": "오늘 할 일이 많아요."
+  },
+  {
+    "id": 673,
+    "english": "Who is my supervisor?",
+    "korean": "제 상사가 누구예요?"
+  },
+  {
+    "id": 674,
+    "english": "I need to take a day off.",
+    "korean": "하루 쉬어야 할 것 같아요."
+  },
+  {
+    "id": 685,
+    "english": "The deadline is tomorrow.",
+    "korean": "마감이 내일이에요."
+  },
+  {
+    "id": 688,
+    "english": "I need to work overtime.",
+    "korean": "야근해야 할 것 같아요."
+  },
+  {
+    "id": 693,
+    "english": "We need to meet the deadline.",
+    "korean": "마감일을 지켜야 해요."
+  },
+  {
+    "id": 962,
+    "english": "Do you have plans after work?",
+    "korean": "퇴근 후에 약속 있어요?"
+  },
+  {
+    "id": 1034,
+    "english": "I go to work at 8.",
+    "korean": "8시에 출근해요."
+  },
+  {
+    "id": 1076,
+    "english": "I work 5 days a week.",
+    "korean": "일주일에 5일 일해요."
+  },
+  {
+    "id": 1081,
+    "english": "I finish work at 6 PM.",
+    "korean": "오후 6시에 퇴근해요."
+  },
+  {
+    "id": 1155,
+    "english": "What should I do on my day off?",
+    "korean": "쉬는 날에 뭐 할까요?"
+  },
+  {
+    "id": 1200,
+    "english": "I like my job.",
+    "korean": "제 일이 좋아요."
+  },
+  {
+    "id": 1274,
+    "english": "I work at a manufacturing company.",
+    "korean": "제조 공장에서 일해요."
+  },
+  {
+    "id": 1275,
+    "english": "My employer is Korean.",
+    "korean": "고용주가 한국인이에요."
+  },
+  {
+    "id": 1292,
+    "english": "We can work this out.",
+    "korean": "해결할 수 있어요."
+  },
+  {
+    "id": 1310,
+    "english": "It's cold in the office.",
+    "korean": "사무실이 추워요."
+  },
+  {
+    "id": 1314,
+    "english": "I need more space to work.",
+    "korean": "작업 공간이 더 필요해요."
+  },
+  {
+    "id": 1360,
+    "english": "Attendance is mandatory.",
+    "korean": "출석은 필수예요."
+  },
+  {
+    "id": 1366,
+    "english": "We don't work on national holidays.",
+    "korean": "국경일에는 쉬어요."
+  },
+  {
+    "id": 1370,
+    "english": "Which line am I working on today?",
+    "korean": "오늘 몇 번 라인에서 일해요?"
+  },
+  {
+    "id": 1371,
+    "english": "What is my task for today?",
+    "korean": "오늘 제 담당 업무가 뭐예요?"
+  },
+  {
+    "id": 1381,
+    "english": "Is there a training session?",
+    "korean": "교육 세션이 있어요?"
+  },
+  {
+    "id": 1384,
+    "english": "My shift ends in one hour.",
+    "korean": "한 시간 후에 교대예요."
+  },
+  {
+    "id": 1385,
+    "english": "Night shift is tiring.",
+    "korean": "야간 교대근무가 피곤해요."
+  },
+  {
+    "id": 1388,
+    "english": "What happened during the last shift?",
+    "korean": "이전 교대에서 무슨 일 있었어요?"
+  },
+  {
+    "id": 1454,
+    "english": "He is my senior at work.",
+    "korean": "그는 직장 선배예요."
+  },
+  {
+    "id": 1455,
+    "english": "She is my junior at work.",
+    "korean": "그녀는 직장 후배예요."
+  },
+  {
+    "id": 1468,
+    "english": "I admire Korean work ethic.",
+    "korean": "한국의 직업 윤리가 대단해요."
+  },
+  {
+    "id": 1543,
+    "english": "I practice speaking with my coworkers.",
+    "korean": "동료들이랑 말하기 연습을 해요."
+  },
+  {
+    "id": 1566,
+    "english": "Your work is excellent.",
+    "korean": "일을 정말 잘하시네요."
+  },
+  {
+    "id": 1577,
+    "english": "You are a great colleague.",
+    "korean": "정말 좋은 동료예요."
+  },
+  {
+    "id": 1578,
+    "english": "I am lucky to work with you.",
+    "korean": "함께 일하게 되어서 운이 좋아요."
+  },
+  {
+    "id": 1601,
+    "english": "May I speak to the manager?",
+    "korean": "매니저와 통화할 수 있을까요?"
+  },
+  {
+    "id": 1613,
+    "english": "I was in a meeting earlier.",
+    "korean": "아까 회의 중이었어요."
+  },
+  {
+    "id": 1628,
+    "english": "I want to see a Korean performance.",
+    "korean": "한국 공연을 보고 싶어요."
+  },
+  {
+    "id": 1665,
+    "english": "What does he do for work?",
+    "korean": "그 분 무슨 일 해요?"
+  },
+  {
+    "id": 1668,
+    "english": "She is my coworker.",
+    "korean": "그 분 제 동료예요."
+  },
+  {
+    "id": 1669,
+    "english": "He is my team leader.",
+    "korean": "그 분 팀장님이에요."
+  },
+  {
+    "id": 1671,
+    "english": "He taught me how things work here.",
+    "korean": "여기 돌아가는 방식을 가르쳐 주셨어요."
+  },
+  {
+    "id": 1692,
+    "english": "It was a pleasure meeting you.",
+    "korean": "만나서 반가웠어요."
+  },
+  {
+    "id": 1728,
+    "english": "Hard work always pays off.",
+    "korean": "노력은 항상 결실을 맺어요."
+  },
+  {
+    "id": 1864,
+    "english": "I need clarification on this task.",
+    "korean": "이 업무에 대해 명확한 설명이 필요해요."
+  },
+  {
+    "id": 1868,
+    "english": "I am working on it right now.",
+    "korean": "지금 하고 있어요."
+  },
+  {
+    "id": 1869,
+    "english": "I finished the task you assigned.",
+    "korean": "맡겨주신 업무를 끝냈어요."
+  },
+  {
+    "id": 1870,
+    "english": "Should I start the next task?",
+    "korean": "다음 업무를 시작해도 될까요?"
+  },
+  {
+    "id": 1876,
+    "english": "Please check my work before submitting.",
+    "korean": "제출 전에 제 작업을 확인해 주세요."
+  },
+  {
+    "id": 1883,
+    "english": "I need to attend a mandatory training.",
+    "korean": "필수 교육에 참석해야 해요."
+  },
+  {
+    "id": 1971,
+    "english": "People work very hard here.",
+    "korean": "여기 사람들이 정말 열심히 일해요."
+  },
+  {
+    "id": 2004,
+    "english": "Which team do you support?",
+    "korean": "어느 팀을 응원해요?"
+  },
+  {
+    "id": 2029,
+    "english": "Can I stay here and work?",
+    "korean": "여기서 작업해도 될까요?"
+  },
+  {
+    "id": 2074,
+    "english": "There has been a workplace accident.",
+    "korean": "직장에서 사고가 났어요."
+  },
+  {
+    "id": 2181,
+    "english": "I believe hard work creates luck.",
+    "korean": "열심히 하면 운이 따라온다고 생각해요."
+  },
+  {
+    "id": 2187,
+    "english": "I find meaning in my work.",
+    "korean": "일에서 의미를 찾아요."
+  },
+  {
+    "id": 2211,
+    "english": "I prefer dark colors for work.",
+    "korean": "직장에서는 어두운 색을 선호해요."
+  },
+  {
+    "id": 2254,
+    "english": "I look forward to our next meeting.",
+    "korean": "다음 만남을 기대하고 있어요."
+  },
+  {
+    "id": 2319,
+    "english": "I finished my part of the job.",
+    "korean": "제 담당 작업을 끝냈어요."
+  },
+  {
+    "id": 2326,
+    "english": "Who is the shift supervisor today?",
+    "korean": "오늘 교대 감독관이 누구예요?"
+  },
+  {
+    "id": 2467,
+    "english": "Many Nepali people work abroad.",
+    "korean": "많은 네팔 사람들이 해외에서 일해요."
+  },
+  {
+    "id": 2471,
+    "english": "I am very happy to work in Korea.",
+    "korean": "한국에서 일하게 되어 정말 기뻐요."
+  },
+  {
+    "id": 2516,
+    "english": "Can I use the office telephone?",
+    "korean": "사무실 전화를 써도 될까요?"
+  },
+  {
+    "id": 2621,
+    "english": "Koreans have a strong work culture.",
+    "korean": "한국 사람들은 강한 근무 문화를 가지고 있어요."
+  },
+  {
+    "id": 2623,
+    "english": "Company dinners are very common.",
+    "korean": "회식이 매우 흔해요."
+  },
+  {
+    "id": 2660,
+    "english": "My coworkers loved the dal bhat I made.",
+    "korean": "동료들이 제가 만든 달밧을 좋아했어요."
+  },
+  {
+    "id": 2773,
+    "english": "Misery loves company.",
+    "korean": "동병상련이에요."
+  },
+  {
+    "id": 2983,
+    "english": "We met through work.",
+    "korean": "직장에서 만났어요."
+  },
+  {
+    "id": 3055,
+    "english": "Do you know who got the promotion?",
+    "korean": "누가 승진했는지 알아요?"
+  },
+  {
+    "id": 3060,
+    "english": "Work drama is exhausting.",
+    "korean": "직장 인간관계 피곤해요."
+  },
+  {
+    "id": 3064,
+    "english": "I would rather not talk about work right now.",
+    "korean": "지금은 일 얘기 하기 싫어요."
+  },
+  {
+    "id": 3079,
+    "english": "I work better under pressure.",
+    "korean": "압박을 받으면 더 잘 돼요."
+  },
+  {
+    "id": 3080,
+    "english": "I do my best work at night.",
+    "korean": "밤에 일이 더 잘 돼요."
+  },
+  {
+    "id": 3267,
+    "english": "I need to disconnect from work tonight.",
+    "korean": "오늘 밤엔 일에서 완전히 벗어나야 해요."
+  },
+  {
+    "id": 3271,
+    "english": "I need clear boundaries between work and life.",
+    "korean": "일과 삶의 경계가 필요해요."
+  },
+  {
+    "id": 3326,
+    "english": "Have you met the new colleague?",
+    "korean": "새 동료 만났어요?"
+  },
+  {
+    "id": 3367,
+    "english": "We are working on an LNG carrier.",
+    "korean": "LNG 운반선 작업을 하고 있어요."
+  },
+  {
+    "id": 3429,
+    "english": "The engineering team needs to review this.",
+    "korean": "엔지니어링 팀이 이걸 검토해야 해요."
+  },
+  {
+    "id": 3450,
+    "english": "I kept thinking about work.",
+    "korean": "계속 일 생각이 났어요."
+  },
+  {
+    "id": 3476,
+    "english": "What are you up to after work today?",
+    "korean": "오늘 퇴근 후에 뭐 해요?"
+  },
+  {
+    "id": 3516,
+    "english": "The first aid kit is at the supervisor's office.",
+    "korean": "구급상자는 감독관 사무실에 있어요."
+  },
+  {
+    "id": 3523,
+    "english": "Always check your PPE before starting work.",
+    "korean": "작업 시작 전에 항상 개인보호장비를 확인하세요."
+  },
+  {
+    "id": 3539,
+    "english": "The work area must be clear of flammables.",
+    "korean": "작업 구역에서 인화성 물질을 제거해야 해요."
+  },
+  {
+    "id": 3581,
+    "english": "The physical work is really taking a toll.",
+    "korean": "육체 노동이 정말 힘들어요."
+  },
+  {
+    "id": 3584,
+    "english": "The work is hard but rewarding.",
+    "korean": "일이 힘들지만 보람 있어요."
+  },
+  {
+    "id": 3589,
+    "english": "I feel real satisfaction in this work.",
+    "korean": "이 일에서 진정한 만족감을 느껴요."
+  },
+  {
+    "id": 3595,
+    "english": "We are working on the main deck today.",
+    "korean": "오늘 주갑판 작업을 해요."
+  },
+  {
+    "id": 3629,
+    "english": "We should hang out outside of work.",
+    "korean": "직장 밖에서도 같이 놀아요."
+  },
+  {
+    "id": 3636,
+    "english": "It will be fun to see everyone outside of work.",
+    "korean": "직장 밖에서 다 같이 만나면 재밌겠어요."
+  },
+  {
+    "id": 3637,
+    "english": "You seem different outside of work.",
+    "korean": "직장 밖에서는 달라 보여요."
+  },
+  {
+    "id": 3638,
+    "english": "I am much more relaxed outside work.",
+    "korean": "직장 밖에서는 훨씬 편안해요."
+  },
+  {
+    "id": 3639,
+    "english": "Work stress stays at work for me.",
+    "korean": "저는 일 스트레스를 직장에 두고 와요."
+  },
+  {
+    "id": 3664,
+    "english": "My Korean colleague helps me understand the theory.",
+    "korean": "한국 동료가 이론을 이해하도록 도와줘요."
+  },
+  {
+    "id": 3669,
+    "english": "Communication at work is as important as technical skill.",
+    "korean": "직장에서의 소통이 기술 능력만큼 중요해요."
+  },
+  {
+    "id": 3672,
+    "english": "People at work say my Korean is better.",
+    "korean": "직장 사람들이 한국어가 늘었다고 해요."
+  },
+  {
+    "id": 3673,
+    "english": "Compliments at work mean so much.",
+    "korean": "직장에서 칭찬을 받으면 정말 기뻐요."
+  },
+  {
+    "id": 3679,
+    "english": "My pronunciation needs a lot of work.",
+    "korean": "발음을 많이 연습해야 해요."
+  },
+  {
+    "id": 3694,
+    "english": "We look out for each other at work.",
+    "korean": "직장에서 서로 챙겨줘요."
+  },
+  {
+    "id": 3700,
+    "english": "I learned basic Korean from my coworkers.",
+    "korean": "동료들에게 기본 한국어를 배웠어요."
+  },
+  {
+    "id": 3705,
+    "english": "I feel like part of the team.",
+    "korean": "팀의 일원이 된 것 같아요."
+  },
+  {
+    "id": 3711,
+    "english": "Nationality does not matter when you work together.",
+    "korean": "같이 일할 때는 국적이 중요하지 않아요."
+  },
+  {
+    "id": 3712,
+    "english": "Hard work is the same language everywhere.",
+    "korean": "열심히 일하는 건 어디서나 같은 언어예요."
+  },
+  {
+    "id": 3714,
+    "english": "Many workers come from abroad to work here.",
+    "korean": "많은 근로자들이 해외에서 이곳으로 와요."
+  },
+  {
+    "id": 3721,
+    "english": "I am proud to work in this industry.",
+    "korean": "이 산업에서 일하는 것이 자랑스러워요."
+  },
+  {
+    "id": 3730,
+    "english": "I felt in the zone at work.",
+    "korean": "일에 완전히 집중하는 상태였어요."
+  },
+  {
+    "id": 3734,
+    "english": "My supervisor complimented my work.",
+    "korean": "상사가 제 작업을 칭찬해 줬어요."
+  },
+  {
+    "id": 3739,
+    "english": "A positive workplace makes everything better.",
+    "korean": "긍정적인 직장 분위기가 모든 것을 좋게 만들어요."
+  },
+  {
+    "id": 3744,
+    "english": "What is my job today?",
+    "korean": "오늘 제 업무가 뭐예요?"
+  },
+  {
+    "id": 3784,
+    "english": "I will find you after work.",
+    "korean": "퇴근 후에 찾아갈게요."
+  },
+  {
+    "id": 3790,
+    "english": "Please check my work.",
+    "korean": "제 작업 확인해 주세요."
+  },
+  {
+    "id": 3800,
+    "english": "I want to work harder.",
+    "korean": "더 열심히 하고 싶어요."
+  },
+  {
+    "id": 3801,
+    "english": "Please give me more work.",
+    "korean": "일을 더 주세요."
+  },
+  {
+    "id": 3819,
+    "english": "I helped my team today.",
+    "korean": "오늘 팀을 도왔어요."
+  },
+  {
+    "id": 3820,
+    "english": "My team works well together.",
+    "korean": "우리 팀은 호흡이 잘 맞아요."
+  },
+  {
+    "id": 3822,
+    "english": "We finished the job together.",
+    "korean": "함께 일을 끝냈어요."
+  },
+  {
+    "id": 3823,
+    "english": "It is good to work as a team.",
+    "korean": "팀으로 일하는 게 좋아요."
+  },
+  {
+    "id": 3824,
+    "english": "I like my work team.",
+    "korean": "저는 우리 팀이 좋아요."
+  },
+  {
+    "id": 3825,
+    "english": "My coworkers are kind.",
+    "korean": "동료들이 친절해요."
+  },
+  {
+    "id": 3826,
+    "english": "I trust my teammates.",
+    "korean": "팀원들을 믿어요."
+  },
+  {
+    "id": 3941,
+    "english": "We take care of our team.",
+    "korean": "우리 팀을 챙겨요."
+  },
+  {
+    "id": 3949,
+    "english": "I feel respected at work.",
+    "korean": "직장에서 존중받는 것 같아요."
+  },
+  {
+    "id": 3966,
+    "english": "When is the deadline?",
+    "korean": "마감이 언제예요?"
+  },
+  {
+    "id": 3972,
+    "english": "Is this my job or someone else's?",
+    "korean": "이게 제 일이에요 다른 사람 일이에요?"
+  },
+  {
+    "id": 4010,
+    "english": "We are a team remember.",
+    "korean": "우리는 팀이잖아요 기억하세요."
+  },
+  {
+    "id": 4062,
+    "english": "Too hot to work outside today.",
+    "korean": "오늘 밖에서 일하기 너무 더워요."
+  },
+  {
+    "id": 4068,
+    "english": "Be careful on the way to work.",
+    "korean": "출근길에 조심하세요."
+  },
+  {
+    "id": 4083,
+    "english": "Good work today.",
+    "korean": "오늘 수고했어요."
+  },
+  {
+    "id": 4089,
+    "english": "You are very careful with your work.",
+    "korean": "작업을 정말 꼼꼼하게 해요."
+  },
+  {
+    "id": 4090,
+    "english": "I want to work like you.",
+    "korean": "당신처럼 일하고 싶어요."
+  },
+  {
+    "id": 4142,
+    "english": "My coworkers were impressed.",
+    "korean": "동료들이 놀라워했어요."
+  },
+  {
+    "id": 4158,
+    "english": "I will cover your work if needed.",
+    "korean": "필요하면 제가 일 봐줄게요."
+  },
+  {
+    "id": 4185,
+    "english": "One task at a time.",
+    "korean": "한 번에 하나씩요."
+  },
+  {
+    "id": 4193,
+    "english": "Our work affects real lives.",
+    "korean": "우리 일이 실제 삶에 영향을 줘요."
+  },
+  {
+    "id": 4194,
+    "english": "That is why we take pride in our work.",
+    "korean": "그래서 우리는 일에 자부심을 가져요."
+  },
+  {
+    "id": 4196,
+    "english": "This is skilled and important work.",
+    "korean": "이건 숙련되고 중요한 일이에요."
+  },
+  {
+    "id": 4199,
+    "english": "Hard work done with heart is always good work.",
+    "korean": "마음을 담아 열심히 하면 항상 좋은 일이에요."
+  },
+  {
+    "id": 4206,
+    "english": "I respect Korean work culture.",
+    "korean": "한국의 일하는 문화를 존중해요."
+  },
+  {
+    "id": 4215,
+    "english": "I work more efficiently than before.",
+    "korean": "전보다 더 효율적으로 일해요."
+  },
+  {
+    "id": 4289,
+    "english": "The boss needs to see this.",
+    "korean": "상사가 이걸 봐야 해요."
+  },
+  {
+    "id": 4323,
+    "english": "Almost done with my work.",
+    "korean": "일이 거의 다 끝났어요."
+  },
+  {
+    "id": 4450,
+    "english": "Too hot to work outside.",
+    "korean": "밖에서 일하기 너무 더워요."
+  },
+  {
+    "id": 4452,
+    "english": "Do not work too hard in this heat.",
+    "korean": "이 더위에 너무 무리하지 마요."
+  },
+  {
+    "id": 4496,
+    "english": "We work well together.",
+    "korean": "우리 팀워크가 좋아요."
+  },
+  {
+    "id": 4497,
+    "english": "I like our team.",
+    "korean": "우리 팀이 좋아요."
+  },
+  {
+    "id": 4502,
+    "english": "That is what a good team does.",
+    "korean": "좋은 팀이 그런 거잖아요."
+  },
+  {
+    "id": 4503,
+    "english": "I feel lucky to be on this team.",
+    "korean": "이 팀에 있어서 운이 좋아요."
+  },
+  {
+    "id": 4510,
+    "english": "I want to stay on this team.",
+    "korean": "이 팀에 계속 있고 싶어요."
+  },
+  {
+    "id": 4512,
+    "english": "We make a good team.",
+    "korean": "우리 좋은 팀이에요."
+  },
+  {
+    "id": 4543,
+    "english": "I missed you at work.",
+    "korean": "직장에서 보고 싶었어요."
+  },
+  {
+    "id": 4671,
+    "english": "Let us always work together.",
+    "korean": "항상 같이 일해요."
+  },
+  {
+    "id": 4672,
+    "english": "Same team tomorrow please.",
+    "korean": "내일도 같은 팀으로요."
+  },
+  {
+    "id": 4687,
+    "english": "That is what teammates do.",
+    "korean": "그게 팀원이 하는 거잖아요."
+  },
+  {
+    "id": 4689,
+    "english": "Break time finally.",
+    "korean": "드디어 쉬는 시간이에요."
+  },
+  {
+    "id": 4707,
+    "english": "Break time is too short.",
+    "korean": "쉬는 시간이 너무 짧아요."
+  },
+  {
+    "id": 4709,
+    "english": "I finished the task you gave me.",
+    "korean": "주신 일을 다 끝냈어요."
+  },
+  {
+    "id": 4718,
+    "english": "Please tell me if my work is not good enough.",
+    "korean": "제 일이 충분하지 않으면 말씀해 주세요."
+  },
+  {
+    "id": 4721,
+    "english": "You are a good leader.",
+    "korean": "좋은 리더이세요."
+  },
+  {
+    "id": 4724,
+    "english": "I will work harder.",
+    "korean": "더 열심히 할게요."
+  },
+  {
+    "id": 4778,
+    "english": "Less talk more work.",
+    "korean": "말보다 일해요."
+  },
+  {
+    "id": 4785,
+    "english": "Everyone does a different job.",
+    "korean": "모두 다른 일을 해요."
+  },
+  {
+    "id": 4786,
+    "english": "All jobs are important.",
+    "korean": "모든 일이 중요해요."
+  },
+  {
+    "id": 4795,
+    "english": "We do special work.",
+    "korean": "우리는 특별한 일을 해요."
+  },
+  {
+    "id": 5050,
+    "english": "That is what a team does.",
+    "korean": "그게 팀이 하는 거잖아요."
+  },
+  {
+    "id": 5052,
+    "english": "We share the hard work.",
+    "korean": "힘든 일을 나눠요."
+  },
+  {
+    "id": 5055,
+    "english": "This team has a good spirit.",
+    "korean": "이 팀은 분위기가 좋아요."
+  },
+  {
+    "id": 5056,
+    "english": "I like how we work together.",
+    "korean": "같이 일하는 방식이 좋아요."
+  },
+  {
+    "id": 5059,
+    "english": "The job getting done.",
+    "korean": "일을 끝내는 거요."
+  },
+  {
+    "id": 5064,
+    "english": "I am glad to be on this team.",
+    "korean": "이 팀에 있어서 기뻐요."
+  },
+  {
+    "id": 5072,
+    "english": "Let us go after work.",
+    "korean": "퇴근 후에 가요."
+  },
+  {
+    "id": 5075,
+    "english": "Hard work needs good rest.",
+    "korean": "열심히 일하면 잘 쉬어야 해요."
+  },
+  {
+    "id": 5102,
+    "english": "I like that about this job.",
+    "korean": "일의 그 부분이 좋아요."
+  },
+  {
+    "id": 5143,
+    "english": "When you work hard it shows?",
+    "korean": "열심히 하면 다 보여요?"
+  },
+  {
+    "id": 5144,
+    "english": "No shortcuts in our team.",
+    "korean": "우리 팀에서는 지름길이 없어요."
+  },
+  {
+    "id": 5148,
+    "english": "People trust our work.",
+    "korean": "사람들이 우리 일을 믿어요."
+  },
+  {
+    "id": 5153,
+    "english": "Hard work and honesty.",
+    "korean": "성실함과 정직함이요."
+  },
+  {
+    "id": 5185,
+    "english": "You make the workplace better.",
+    "korean": "당신이 직장을 더 좋게 만들어요."
+  },
+  {
+    "id": 5191,
+    "english": "This team would not be the same without you.",
+    "korean": "당신 없으면 이 팀이 달라질 거예요."
+  },
+  {
+    "id": 5193,
+    "english": "We found something special in this team.",
+    "korean": "이 팀에서 특별한 걸 찾은 것 같아요."
+  },
+  {
+    "id": 5195,
+    "english": "Not everyone gets that at work.",
+    "korean": "직장에서 그런 걸 느끼는 사람이 많지 않아요."
+  },
+  {
+    "id": 5219,
+    "english": "Actually that might work.",
+    "korean": "실제로 그게 효과가 있을 수도 있어요."
+  },
+  {
+    "id": 5291,
+    "english": "Any plans for after work.",
+    "korean": "퇴근 후 계획 있어요."
+  },
+  {
+    "id": 5312,
+    "english": "That is what makes a good team.",
+    "korean": "그게 좋은 팀을 만들어요."
+  },
+  {
+    "id": 5316,
+    "english": "I noticed your hard work.",
+    "korean": "열심히 하는 거 봤어요."
+  },
+  {
+    "id": 5318,
+    "english": "People see when you work hard.",
+    "korean": "열심히 하면 사람들이 알아요."
+  },
+  {
+    "id": 5394,
+    "english": "Best colleagues I have had.",
+    "korean": "제가 가진 최고의 동료예요."
+  },
+  {
+    "id": 5434,
+    "english": "Back to work soon.",
+    "korean": "곧 다시 일하러 가요."
+  },
+  {
+    "id": 5442,
+    "english": "We work so well together.",
+    "korean": "우리 정말 잘 어울려요."
+  },
+  {
+    "id": 5443,
+    "english": "I hope we always stay on the same team.",
+    "korean": "항상 같은 팀이었으면 좋겠어요."
+  },
+  {
+    "id": 5460,
+    "english": "Hard work tiredness.",
+    "korean": "열심히 일한 피곤함이요."
+  },
+  {
+    "id": 5504,
+    "english": "Just work and be kind.",
+    "korean": "그냥 일하고 친절하게요."
+  },
+  {
+    "id": 5543,
+    "english": "Time moves fast when you work.",
+    "korean": "일하면 시간이 빠르게 가요."
+  },
+  {
+    "id": 5570,
+    "english": "Work stuff mostly.",
+    "korean": "주로 일 생각이요."
+  },
+  {
+    "id": 5571,
+    "english": "Try to leave work at work.",
+    "korean": "일 생각은 직장에 두고 와요."
+  },
+  {
+    "id": 5591,
+    "english": "That is when we do our best work.",
+    "korean": "그때 우리가 가장 잘 해요."
+  },
+  {
+    "id": 5594,
+    "english": "Do you like this kind of work?",
+    "korean": "이런 일이 좋아요?"
+  },
+  {
+    "id": 5603,
+    "english": "Not every job gives you that.",
+    "korean": "모든 직업이 그런 건 아니잖아요."
+  },
+  {
+    "id": 5623,
+    "english": "That is why we are a team.",
+    "korean": "그래서 팀인 거잖아요."
+  },
+  {
+    "id": 5643,
+    "english": "This company treats us well.",
+    "korean": "회사가 우리를 잘 대해줘요."
+  },
+  {
+    "id": 5716,
+    "english": "Just good honest work.",
+    "korean": "그냥 좋은 정직한 일이요."
+  },
+  {
+    "id": 5717,
+    "english": "Simple work simple life.",
+    "korean": "단순한 일 단순한 삶이요."
+  },
+  {
+    "id": 5727,
+    "english": "I was on a different shift.",
+    "korean": "다른 교대였어요."
+  },
+  {
+    "id": 5755,
+    "english": "Hard work and talent together.",
+    "korean": "노력과 재능이 함께요."
+  },
+  {
+    "id": 5760,
+    "english": "We should show the supervisor.",
+    "korean": "감독관에게 보여줘야 해요."
+  },
+  {
+    "id": 5762,
+    "english": "Good work deserves recognition.",
+    "korean": "좋은 일에는 인정이 따라와야 해요."
+  },
+  {
+    "id": 5779,
+    "english": "I have seen your work it is good.",
+    "korean": "당신 일을 봤는데 좋아요."
+  },
+  {
+    "id": 5790,
+    "english": "True they work hard all day.",
+    "korean": "맞아요 하루 종일 일하잖아요."
+  },
+  {
+    "id": 5811,
+    "english": "Meeting is starting.",
+    "korean": "회의 시작해요."
+  },
+  {
+    "id": 5814,
+    "english": "I do not fully understand this task.",
+    "korean": "이 업무를 완전히 이해하지 못하겠어요."
+  },
+  {
+    "id": 5831,
+    "english": "Our team is the best.",
+    "korean": "우리 팀이 최고예요."
+  },
+  {
+    "id": 5835,
+    "english": "Because we work hard together.",
+    "korean": "같이 열심히 일하니까요."
+  },
+  {
+    "id": 5838,
+    "english": "I want to stay on this team forever.",
+    "korean": "영원히 이 팀에 있고 싶어요."
+  },
+  {
+    "id": 5895,
+    "english": "That is what good work does.",
+    "korean": "좋은 일이 그렇게 해줘요."
+  },
+  {
+    "id": 5927,
+    "english": "Go to the main office.",
+    "korean": "본관으로 가요."
+  },
+  {
+    "id": 5931,
+    "english": "I need to put on my uniform.",
+    "korean": "유니폼을 입어야 해요."
+  },
+  {
+    "id": 6024,
+    "english": "That my work is improving.",
+    "korean": "제 일이 발전하고 있다고요."
+  },
+  {
+    "id": 6030,
+    "english": "How long is your shift today?",
+    "korean": "오늘 교대가 얼마나 돼요?"
+  },
+  {
+    "id": 6032,
+    "english": "Are you staying for overtime?",
+    "korean": "야근 해요?"
+  },
+  {
+    "id": 6068,
+    "english": "I will catch up on small tasks.",
+    "korean": "작은 일들을 처리할게요."
+  },
+  {
+    "id": 6137,
+    "english": "I believe it will work.",
+    "korean": "효과가 있을 거라고 믿어요."
+  },
+  {
+    "id": 6204,
+    "english": "Work is so tough today.",
+    "korean": "오늘 일이 너무 빡세요."
+  },
+  {
+    "id": 6213,
+    "english": "I worked like crazy.",
+    "korean": "죽어라 일했어요."
+  },
+  {
+    "id": 6215,
+    "english": "I worked extremely hard to make money.",
+    "korean": "돈 벌려고 죽어라 일했어요."
+  },
+  {
+    "id": 6447,
+    "english": "I'll finish this by today.",
+    "korean": "오늘까지 끝낼게요."
+  },
+  {
+    "id": 6448,
+    "english": "Please check this for me.",
+    "korean": "이거 확인해 주세요."
+  },
+  {
+    "id": 6449,
+    "english": "I have a question about the work.",
+    "korean": "일에 대해 질문이 있어요."
+  },
+  {
+    "id": 6450,
+    "english": "I'm sorry, I made a mistake.",
+    "korean": "죄송해요, 제가 실수했어요."
+  },
+  {
+    "id": 6451,
+    "english": "Where should I put this?",
+    "korean": "이거 어디에 놓을까요?"
+  },
+  {
+    "id": 6452,
+    "english": "Is there overtime today?",
+    "korean": "오늘 잔업 있어요?"
+  },
+  {
+    "id": 6453,
+    "english": "Lunch break is at twelve.",
+    "korean": "점심시간은 열두 시예요."
+  },
+  {
+    "id": 6454,
+    "english": "Please tell me if there's a problem.",
+    "korean": "문제가 있으면 말해 주세요."
+  },
+  {
+    "id": 6455,
+    "english": "I'll report to the manager.",
+    "korean": "팀장님께 보고할게요."
+  },
+  {
+    "id": 6456,
+    "english": "Thank you for teaching me the work.",
+    "korean": "일을 가르쳐 주셔서 감사합니다."
+  },
+  {
+    "id": 7030,
+    "english": "I'm new here.",
+    "korean": "저는 새로 왔어요."
+  },
+  {
+    "id": 7031,
+    "english": "Please take care of me.",
+    "korean": "잘 부탁드립니다."
+  },
+  {
+    "id": 7032,
+    "english": "What time does work start?",
+    "korean": "일은 몇 시에 시작해요?"
+  },
+  {
+    "id": 7033,
+    "english": "What time do we finish?",
+    "korean": "몇 시에 끝나요?"
+  },
+  {
+    "id": 7034,
+    "english": "Do I have to work this weekend?",
+    "korean": "이번 주말에 일해야 해요?"
+  },
+  {
+    "id": 7035,
+    "english": "When is the lunch break?",
+    "korean": "점심시간은 언제예요?"
+  },
+  {
+    "id": 7036,
+    "english": "When is the break time?",
+    "korean": "쉬는 시간은 언제예요?"
+  },
+  {
+    "id": 7037,
+    "english": "Who is the team leader?",
+    "korean": "팀장님이 누구세요?"
+  },
+  {
+    "id": 7038,
+    "english": "I didn't understand the instructions.",
+    "korean": "지시를 이해하지 못했어요."
+  },
+  {
+    "id": 7039,
+    "english": "Could you show me how to do this?",
+    "korean": "이거 어떻게 하는지 보여 주시겠어요?"
+  },
+  {
+    "id": 7040,
+    "english": "I'll do it right away.",
+    "korean": "바로 할게요."
+  },
+  {
+    "id": 7041,
+    "english": "Is this correct?",
+    "korean": "이거 맞아요?"
+  },
+  {
+    "id": 7042,
+    "english": "Did I do it right?",
+    "korean": "제대로 했어요?"
+  },
+  {
+    "id": 7043,
+    "english": "I made a mistake.",
+    "korean": "실수했어요."
+  },
+  {
+    "id": 7044,
+    "english": "I'm sorry, I'll fix it.",
+    "korean": "죄송합니다, 고치겠습니다."
+  },
+  {
+    "id": 7045,
+    "english": "I finished the task.",
+    "korean": "작업을 끝냈어요."
+  },
+  {
+    "id": 7046,
+    "english": "What should I do next?",
+    "korean": "다음에는 뭘 해야 해요?"
+  },
+  {
+    "id": 7047,
+    "english": "Is there anything else I should do?",
+    "korean": "제가 더 할 일이 있어요?"
+  },
+  {
+    "id": 7048,
+    "english": "May I leave early today?",
+    "korean": "오늘 일찍 가도 돼요?"
+  },
+  {
+    "id": 7049,
+    "english": "I need a day off.",
+    "korean": "하루 쉬고 싶어요."
+  },
+  {
+    "id": 7050,
+    "english": "I'd like to take leave.",
+    "korean": "휴가를 쓰고 싶어요."
+  },
+  {
+    "id": 7051,
+    "english": "I'm sick, so I can't come to work.",
+    "korean": "아파서 출근할 수 없어요."
+  },
+  {
+    "id": 7052,
+    "english": "I'll be late today.",
+    "korean": "오늘 좀 늦을 것 같아요."
+  },
+  {
+    "id": 7053,
+    "english": "The boss is looking for you.",
+    "korean": "사장님이 찾으세요."
+  },
+  {
+    "id": 7054,
+    "english": "Please check with the manager.",
+    "korean": "관리자에게 확인해 주세요."
+  },
+  {
+    "id": 7055,
+    "english": "Where do I clock in?",
+    "korean": "어디서 출근 체크해요?"
+  },
+  {
+    "id": 7056,
+    "english": "Where is the locker room?",
+    "korean": "탈의실이 어디예요?"
+  },
+  {
+    "id": 7057,
+    "english": "Where is the cafeteria?",
+    "korean": "구내식당이 어디예요?"
+  },
+  {
+    "id": 7058,
+    "english": "Thank you for your hard work today.",
+    "korean": "오늘도 수고하셨습니다."
+  },
+  {
+    "id": 7059,
+    "english": "Let's work together.",
+    "korean": "같이 일해요."
+  },
+  {
+    "id": 7060,
+    "english": "Do you need any help?",
+    "korean": "도와 드릴까요?"
+  },
+  {
+    "id": 7061,
+    "english": "I'll help you.",
+    "korean": "제가 도와 드릴게요."
+  },
+  {
+    "id": 7062,
+    "english": "Could you cover for me?",
+    "korean": "제 일 좀 대신해 주실 수 있어요?"
+  },
+  {
+    "id": 7063,
+    "english": "I'm in charge of this.",
+    "korean": "제가 이걸 맡고 있어요."
+  },
+  {
+    "id": 7064,
+    "english": "The meeting starts at ten.",
+    "korean": "회의는 10시에 시작해요."
+  },
+  {
+    "id": 7065,
+    "english": "Please report to the team leader.",
+    "korean": "팀장님께 보고해 주세요."
+  }
+]
