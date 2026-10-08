@@ -1,0 +1,537 @@
+[
+  {
+    "id": 8011,
+    "english": "Fuck. / Fucking. (very strong swear)",
+    "korean": "씨발"
+  },
+  {
+    "id": 8012,
+    "english": "Fuck. (slightly softer spelling, same meaning)",
+    "korean": "시발"
+  },
+  {
+    "id": 8013,
+    "english": "Damn it.",
+    "korean": "젠장"
+  },
+  {
+    "id": 8014,
+    "english": "Damn it. (older, a bit dramatic)",
+    "korean": "제기랄"
+  },
+  {
+    "id": 8015,
+    "english": "Damn it. (older, mild)",
+    "korean": "빌어먹을"
+  },
+  {
+    "id": 8016,
+    "english": "Damn it. (mild)",
+    "korean": "우라질"
+  },
+  {
+    "id": 8017,
+    "english": "Crap. / Ugh. (mild)",
+    "korean": "아 씨"
+  },
+  {
+    "id": 8018,
+    "english": "Ugh, damn. (mild)",
+    "korean": "에이 씨"
+  },
+  {
+    "id": 8019,
+    "english": "Fucking (very, extremely; an intensifier)",
+    "korean": "존나"
+  },
+  {
+    "id": 8020,
+    "english": "Seriously? / Come on. (mild)",
+    "korean": "아 진짜"
+  },
+  {
+    "id": 8021,
+    "english": "Are you kidding me?",
+    "korean": "장난해?"
+  },
+  {
+    "id": 8022,
+    "english": "Are you crazy?",
+    "korean": "미쳤어?"
+  },
+  {
+    "id": 8023,
+    "english": "You're driving me crazy. / Are you out of your mind?",
+    "korean": "정신 나갔어?"
+  },
+  {
+    "id": 8024,
+    "english": "Get a grip. / Snap out of it.",
+    "korean": "정신 차려."
+  },
+  {
+    "id": 8025,
+    "english": "So annoying!",
+    "korean": "짜증나!"
+  },
+  {
+    "id": 8026,
+    "english": "You're so annoying.",
+    "korean": "너무 짜증나."
+  },
+  {
+    "id": 8027,
+    "english": "I'm pissed off.",
+    "korean": "열받아."
+  },
+  {
+    "id": 8028,
+    "english": "I'm so pissed. (slang)",
+    "korean": "빡쳐."
+  },
+  {
+    "id": 8029,
+    "english": "I'm so embarrassed. (slang)",
+    "korean": "쪽팔려."
+  },
+  {
+    "id": 8030,
+    "english": "This is so sickening.",
+    "korean": "지겨워."
+  },
+  {
+    "id": 8031,
+    "english": "You're pathetic.",
+    "korean": "한심해."
+  },
+  {
+    "id": 8032,
+    "english": "I can't stand the sight of you.",
+    "korean": "꼴 보기 싫어."
+  },
+  {
+    "id": 8033,
+    "english": "You're a jerk. / I can't stand you.",
+    "korean": "재수 없어."
+  },
+  {
+    "id": 8034,
+    "english": "That's absurd.",
+    "korean": "어이없어."
+  },
+  {
+    "id": 8035,
+    "english": "I'm speechless.",
+    "korean": "기가 막혀."
+  },
+  {
+    "id": 8036,
+    "english": "I'm screwed. / We're doomed.",
+    "korean": "망했다."
+  },
+  {
+    "id": 8037,
+    "english": "I'm totally screwed. (vulgar)",
+    "korean": "좆됐다."
+  },
+  {
+    "id": 8038,
+    "english": "It fucking sucks. (vulgar)",
+    "korean": "좆같아."
+  },
+  {
+    "id": 8039,
+    "english": "It fucking sucks. (common misspelling of 좆같아)",
+    "korean": "좃같아."
+  },
+  {
+    "id": 8040,
+    "english": "Today really fucking sucks.",
+    "korean": "오늘 진짜 좆같아."
+  },
+  {
+    "id": 8041,
+    "english": "It sucks. / Shitty. (vulgar)",
+    "korean": "엿같아."
+  },
+  {
+    "id": 8042,
+    "english": "It sucks. (vulgar)",
+    "korean": "개같아."
+  },
+  {
+    "id": 8043,
+    "english": "Work sucks. (vulgar)",
+    "korean": "일이 개같아."
+  },
+  {
+    "id": 8044,
+    "english": "It's a mess. (slang)",
+    "korean": "개판이야."
+  },
+  {
+    "id": 8045,
+    "english": "Bullshit. / Nonsense.",
+    "korean": "개소리"
+  },
+  {
+    "id": 8046,
+    "english": "Don't talk nonsense.",
+    "korean": "개소리하지 마."
+  },
+  {
+    "id": 8047,
+    "english": "Bullshit. / Acting crazy.",
+    "korean": "지랄"
+  },
+  {
+    "id": 8048,
+    "english": "Don't bullshit me.",
+    "korean": "지랄하지 마."
+  },
+  {
+    "id": 8049,
+    "english": "Don't be ridiculous.",
+    "korean": "웃기지 마!"
+  },
+  {
+    "id": 8050,
+    "english": "Mind your own business.",
+    "korean": "신경 꺼!"
+  },
+  {
+    "id": 8051,
+    "english": "Worry about yourself first.",
+    "korean": "너나 잘해!"
+  },
+  {
+    "id": 8052,
+    "english": "Shut up. (rude)",
+    "korean": "닥쳐!"
+  },
+  {
+    "id": 8053,
+    "english": "Shut your mouth. (rude)",
+    "korean": "입 다물어!"
+  },
+  {
+    "id": 8054,
+    "english": "Please shut your mouth. (rude)",
+    "korean": "입 좀 다물어."
+  },
+  {
+    "id": 8055,
+    "english": "Shut your trap. (very rude)",
+    "korean": "아가리 닥쳐."
+  },
+  {
+    "id": 8056,
+    "english": "Get lost. / Fuck off.",
+    "korean": "꺼져!"
+  },
+  {
+    "id": 8057,
+    "english": "Get lost. / Fuck off. (stronger)",
+    "korean": "꺼져버려!"
+  },
+  {
+    "id": 8058,
+    "english": "Get out!",
+    "korean": "나가!"
+  },
+  {
+    "id": 8059,
+    "english": "Fuck off. (very vulgar)",
+    "korean": "좆까."
+  },
+  {
+    "id": 8060,
+    "english": "Fuck you. (literally \"eat taffy\")",
+    "korean": "엿 먹어!"
+  },
+  {
+    "id": 8061,
+    "english": "Do you want to die? (threat)",
+    "korean": "죽을래?"
+  },
+  {
+    "id": 8062,
+    "english": "Do you want to get beaten? (threat)",
+    "korean": "뒤질래?"
+  },
+  {
+    "id": 8063,
+    "english": "Drop dead. (very rude)",
+    "korean": "죽어."
+  },
+  {
+    "id": 8064,
+    "english": "Idiot. / Fool. (mild)",
+    "korean": "바보"
+  },
+  {
+    "id": 8065,
+    "english": "Stupid. / Dumb.",
+    "korean": "멍청이"
+  },
+  {
+    "id": 8066,
+    "english": "Moron.",
+    "korean": "얼간이"
+  },
+  {
+    "id": 8067,
+    "english": "Dummy. / Moron.",
+    "korean": "머저리"
+  },
+  {
+    "id": 8068,
+    "english": "Dumbass. (slang)",
+    "korean": "쪼다"
+  },
+  {
+    "id": 8069,
+    "english": "Dumbass. / Fool.",
+    "korean": "등신"
+  },
+  {
+    "id": 8070,
+    "english": "Idiot. (highly offensive; it is also an ableist slur)",
+    "korean": "병신"
+  },
+  {
+    "id": 8071,
+    "english": "Idiot. (highly offensive; common misspelling)",
+    "korean": "빙신"
+  },
+  {
+    "id": 8072,
+    "english": "Dumbass. / Idiot.",
+    "korean": "꼴통"
+  },
+  {
+    "id": 8073,
+    "english": "Weirdo. / Nutjob.",
+    "korean": "또라이"
+  },
+  {
+    "id": 8074,
+    "english": "Crazy bastard.",
+    "korean": "미친놈"
+  },
+  {
+    "id": 8075,
+    "english": "Crazy bitch. (very offensive)",
+    "korean": "미친년"
+  },
+  {
+    "id": 8076,
+    "english": "Crazy bastard.",
+    "korean": "미친 새끼"
+  },
+  {
+    "id": 8077,
+    "english": "You crazy bastard!",
+    "korean": "이 미친놈아!"
+  },
+  {
+    "id": 8078,
+    "english": "Bastard. (insult)",
+    "korean": "새끼"
+  },
+  {
+    "id": 8079,
+    "english": "Fucking bastard. / Son of a bitch.",
+    "korean": "개새끼"
+  },
+  {
+    "id": 8080,
+    "english": "That fucking bastard!",
+    "korean": "저 개새끼!"
+  },
+  {
+    "id": 8081,
+    "english": "Fucking bastard. (very offensive)",
+    "korean": "씨발 새끼"
+  },
+  {
+    "id": 8082,
+    "english": "You fucking bastard!",
+    "korean": "이 씨발 새끼야!"
+  },
+  {
+    "id": 8083,
+    "english": "Ill-bred person. / Bastard. (old-fashioned insult)",
+    "korean": "후레자식"
+  },
+  {
+    "id": 8084,
+    "english": "Bitch. / Damn woman. (very offensive)",
+    "korean": "년"
+  },
+  {
+    "id": 8085,
+    "english": "Guy. / Bastard. (rude when used as an insult)",
+    "korean": "놈"
+  },
+  {
+    "id": 8086,
+    "english": "Bastard. (rude, usually for a child or young person)",
+    "korean": "쌍놈"
+  },
+  {
+    "id": 8087,
+    "english": "Damn it. / Fuck. (old-fashioned vulgar)",
+    "korean": "썅"
+  },
+  {
+    "id": 8088,
+    "english": "Disease. / Damn. (vulgar, old-fashioned)",
+    "korean": "염병"
+  },
+  {
+    "id": 8089,
+    "english": "Loser. (slang)",
+    "korean": "찐따"
+  },
+  {
+    "id": 8090,
+    "english": "Sucker. / Pushover. (slang)",
+    "korean": "호구"
+  },
+  {
+    "id": 8091,
+    "english": "Piece of trash.",
+    "korean": "쓰레기"
+  },
+  {
+    "id": 8092,
+    "english": "What a piece of trash.",
+    "korean": "진짜 쓰레기네."
+  },
+  {
+    "id": 8093,
+    "english": "You have no manners. (rude)",
+    "korean": "싸가지 없어."
+  },
+  {
+    "id": 8094,
+    "english": "You were badly brought up. (rude)",
+    "korean": "버르장머리 없어."
+  },
+  {
+    "id": 8095,
+    "english": "You're so oblivious.",
+    "korean": "눈치 없어."
+  },
+  {
+    "id": 8096,
+    "english": "Show-off. / Acting full of yourself.",
+    "korean": "꼴값 떨지 마."
+  },
+  {
+    "id": 8097,
+    "english": "You're such an idiot.",
+    "korean": "너 진짜 꼴통이야."
+  },
+  {
+    "id": 8098,
+    "english": "Idiot!",
+    "korean": "병신아!"
+  },
+  {
+    "id": 8099,
+    "english": "Dumbass!",
+    "korean": "등신아!"
+  },
+  {
+    "id": 8100,
+    "english": "Cut it out. (rude)",
+    "korean": "그만 좀 해."
+  },
+  {
+    "id": 8101,
+    "english": "That's awesome! / You killed it! (positive slang)",
+    "korean": "찢었다!"
+  },
+  {
+    "id": 8102,
+    "english": "That's hilarious! (slang intensifier)",
+    "korean": "개웃겨!"
+  },
+  {
+    "id": 8103,
+    "english": "It's so good! (slang intensifier)",
+    "korean": "개좋아!"
+  },
+  {
+    "id": 8104,
+    "english": "Super delicious! (slang)",
+    "korean": "존맛!"
+  },
+  {
+    "id": 8105,
+    "english": "Please don't swear.",
+    "korean": "욕하지 마세요."
+  },
+  {
+    "id": 8106,
+    "english": "Don't swear at me.",
+    "korean": "저한테 욕하지 마세요."
+  },
+  {
+    "id": 8107,
+    "english": "Don't talk to me like that.",
+    "korean": "저한테 그렇게 말하지 마세요."
+  },
+  {
+    "id": 8108,
+    "english": "That's offensive.",
+    "korean": "기분 나빠요."
+  },
+  {
+    "id": 8109,
+    "english": "That language is not okay.",
+    "korean": "그런 말은 안 돼요."
+  },
+  {
+    "id": 8110,
+    "english": "Please stop bullying me.",
+    "korean": "괴롭히지 마세요."
+  },
+  {
+    "id": 8111,
+    "english": "Stop harassing me.",
+    "korean": "저를 괴롭히지 마세요."
+  },
+  {
+    "id": 8112,
+    "english": "I will report this.",
+    "korean": "신고할게요."
+  },
+  {
+    "id": 8113,
+    "english": "I want to talk to the manager about this.",
+    "korean": "이 일은 관리자와 얘기하고 싶어요."
+  },
+  {
+    "id": 8114,
+    "english": "What does that swear word mean?",
+    "korean": "그 욕은 무슨 뜻이에요?"
+  },
+  {
+    "id": 8115,
+    "english": "Is that a bad word?",
+    "korean": "그거 나쁜 말이에요?"
+  },
+  {
+    "id": 8116,
+    "english": "Is it okay to say this?",
+    "korean": "이 말 해도 돼요?"
+  },
+  {
+    "id": 8117,
+    "english": "I won't use that word.",
+    "korean": "저는 그 말은 안 쓸 거예요."
+  }
+]
